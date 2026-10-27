@@ -5,7 +5,7 @@
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>Heaven’s Pinnacle, Cloud Strider Stairway.</p>
+    <p>Đỉnh Thiên Đường, Cầu Thang Du Hành Trên Mây.</p>
   </mono>
   <event action="hide_ui" duration="10"></event>
   <bg img="入云阶" duration="10" pos="0,0"></bg>
@@ -13,9 +13,9 @@
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>Heaven’s Pinnacle towers over the sky, the mountain’s steps stretching over a thousand feet.</p>
+    <p>Đỉnh Thiên Đường sừng sững trên bầu trời, những bậc thang của ngọn núi trải dài hơn một nghìn thước.</p>
     <p></p>
-    <p>Looking up, you couldn’t see the end of the stone stairs, only misty clouds hanging up with a glance.</p>
+    <p>Nhìn lên, bạn không thể thấy cuối cầu thang đá, chỉ thấy những đám mây mù giăng mắc.</p>
   </mono>
   <event action="hide_ui" duration="5"></event>
   <bg img="天穹峰顶-外景" duration="5" scale="2" origin="80%,50%"></bg>
@@ -24,73 +24,73 @@
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>The mountain is a high mountain; on top of this mountain, is also a high person. </p>
+    <p>Ngọn núi là một ngọn núi cao; trên đỉnh ngọn núi này cũng có một người cao lớn.</p>
   </mono>
   <mono>
     <p></p>
     <p></p>
-    <p>After climbing several thousand stone steps, I saw a small pathetic view called 「Kumo」 at the top of its peak.</p>
+    <p>Sau khi leo lên vài nghìn bậc thang đá, tôi nhìn thấy một cảnh tượng nhỏ bé đáng thương gọi là 「Kumo」 trên đỉnh núi.</p>
   </mono>
   <event action="hide_ui" duration="6"></event>
   <bg img="拂云观-侧面" duration="10"></bg>
   <delay t="6"></delay>
   <mono pageend="true">
     <p></p>
-    <p>Regardless of name, shape, or furnishings, this Fog Mount Temple was an exact replica of the former Celestial Phoenix’s abode on Mount Taixuan.</p>
-    <p>The master of this temple,</p>
+    <p>Bất kể tên gọi, hình dạng hay đồ đạc, ngôi đền Núi Sương Mù này là bản sao chính xác của nơi ở cũ của Thiên Phượng trên núi Thái Huyền.</p>
+    <p>Chủ nhân của ngôi đền này,</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Was the Head of one of the Six Great Sects of Shenzhou [School of Taixuan];</p>
-    <p>Phoenix’s eldest disciple: [Willowfoil] Lin Zhaoyu.</p>
-    <p>…The Head is very quiet, plus the road was both long and arduous;</p>
+    <p>Là người đứng đầu một trong sáu đại tông phái của Thần Châu [Trường phái Thái Huyền];</p>
+    <p>Đệ tử lớn nhất của Phượng Hoàng: [Liễu Lá] Lin Zhaoyu.</p>
+    <p>...Đầu núi rất yên tĩnh, hơn nữa con đường vừa dài vừa gian khổ;</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
     <p></p>
     <p></p>
-    <p>If the disciples of the School of Taixuan don’t have anything to do, they will never ascend the Cloud Strider Stairway. </p>
-    <p>Therefore, this day should’ve been an average day, a quiet and ordinary day.</p>
+    <p>Nếu các đệ tử của Trường phái Thái Huyền không có việc gì làm, họ sẽ không bao giờ lên được Cầu thang Vân Đi.</p>
+    <p>Do đó, ngày hôm nay đáng lẽ phải là một ngày bình thường, một ngày yên tĩnh và bình dị.</p>
     <p></p>
-    <p>Knock, knock, knock.</p>
+    <p>Cốc cốc cốc.</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <se id="01-70敲门声" looptimes="3"></se>
-  <text>[em delay=1] Knock, [/em][em delay=1] Knock, [/em][em delay=0.5] Knock.[/em]</text>
-  <text>Now there’s an uninvited guest, who knocked on Fog Mount Temple’s door with a smile. </text>
+  <text>[em delay=1] Gõ cửa, [/em][em delay=1] Gõ cửa, [/em][em delay=0.5] Gõ cửa.[/em]</text>
+  <text>Giờ đây có một vị khách không mời mà đến, gõ cửa chùa Sương Mù với nụ cười.</text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <event action="hide_ui" duration="1"></event>
   <motion chara="004" action="show" pos="center" img="苏湄-自信-标准-中景（带武器）" duration="1"></motion>
   <delay t="1"></delay>
-  <text>This person is wearing a bold and easy-to-move suit, carrying twin yin-yang swords, born with vermillion hair and a jade-like face, and looks very beautiful.</text>
+  <text>Người này mặc một bộ đồ mạnh mẽ và dễ di chuyển, mang theo song kiếm âm dương, sinh ra với mái tóc đỏ tươi và khuôn mặt như ngọc, trông rất đẹp.</text>
   <text>
-    <p>Although she rarely walked around in the Jianghu Society, she and her disciples acted at a low profile;[\s]</p>
-    <p>But the name of this person was almost as prominent as the Heads and Elders of the Six Great Sects.</p>
+    <p>Mặc dù bà hiếm khi đi lại trong xã hội giang hồ, bà và các đệ tử của bà hành động một cách kín đáo;[\s]</p>
+    <p>Nhưng tên của người này gần như nổi bật như các Trưởng lão và các Tể môn phái của Sáu môn phái lớn.</p>
   </text>
-  <notification>伝記解放：「蘇湄」</notification>
+  <notification>伝記解放： 「蘇湄」 </notification>
   <event action="achievement" aid="809d736ce396e092"></event>
   <text>
-    <p>She is Phoenix’s second disciple, the current master of [Ushuang’s Hall],[\s]</p>
+    <p>Cô ấy là đệ tử thứ hai của Phượng Hoàng, chủ nhân hiện tại của [Điện Ushuang],[\s]</p>
     <p>[Ushuang Exarch] ——Su Mei.</p>
   </text>
   <motion chara="004" action="hide"></motion>
   <bg img="拂云观-侧面" scale="1.5" origin="0%,50%" duration="3"></bg>
   <se id="01-70敲门声"></se>
-  <text>Knock.</text>
+  <text>Gõ cửa.</text>
   <bg img="拂云观-侧面" duration="1" origin="0%,50%"></bg>
-  <text>Her knuckles tapped on the wooden door lightly, the sound loud and undisturbed, it was slightly crisp and nice.</text>
+  <text>Khớp ngón tay cô gõ nhẹ lên cánh cửa gỗ, âm thanh to và đều đều, hơi giòn và dễ chịu.</text>
   <motion chara="004" action="show" pos="right" img="苏湄-标准-标准-远景（带武器）"></motion>
-  <text>There wasn’t a response from the room, yet the red haired woman wasn’t angry, her face’s smile continued to be calm.</text>
+  <text>Không có phản hồi nào từ căn phòng, nhưng người phụ nữ tóc đỏ không hề tức giận, nụ cười trên khuôn mặt cô vẫn giữ vẻ bình tĩnh.</text>
   <se id="01-70敲门声2"></se>
-  <text>Knock, knock.</text>
+  <text>Cốc cốc.</text>
   <motion chara="004" action="hide" duration="0"></motion>
   <event action="hide_ui" duration="3"></event>
   <se id="01-71开门声"></se>
   <bg img="拂云观-侧面（开门）" duration="3"></bg>
   <delay t="3"></delay>
-  <text>Finally, the door opened.</text>
+  <text>Cuối cùng, cánh cửa mở ra.</text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <event action="hide_ui" duration="4"></event>
   <bg img="拂云观-亮" duration="1"></bg>
@@ -98,8 +98,8 @@
   <motion chara="003" action="show" pos="center" duration="3" img="林朝雨-不悦-标准-中景"></motion>
   <delay t="3"></delay>
   <text>
-    <p>As if she was unaware of the knocker’s long wait, </p>
-    <p>[Willowfoil] Lin Zhaoyu walked out of the house slowly, staring coldly at her former Second Junior Sister.</p>
+    <p>Như thể cô ấy không biết rằng người gõ cửa đã đợi rất lâu,</p>
+    <p>[Liễu Lá] Lin Zhaoyu chậm rãi bước ra khỏi nhà, lạnh lùng nhìn người em gái thứ hai trước đây của mình.</p>
   </text>
   <motion chara="003" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
@@ -107,110 +107,110 @@
   <bg img="拂云观-侧面（开门）" duration="1"></bg>
   <motion chara="003" action="show" pos="left" img="林朝雨-标准-标准-远景"></motion>
   <motion chara="004" action="show" pos="right" img="苏湄-甜笑-标准-远景（带武器）"></motion>
-  <notification>伝記解放：「林朝雨」</notification>
+  <notification>伝記解放: 「林朝雨」</notification>
   <event action="achievement" aid="fcf2a1388f09b18b"></event>
-  <dialog chara="004">[Senior Sister, how long has it been since you’ve seen me?]</dialog>
-  <text>Su Mei smiled enthusiastically, as if she was reuniting with a long lost best friend after many years. [\s]Although there are thousands of smiling faces in the world, this is the only one that Lin Zhaoyu doesn’t know how to deal with.</text>
+  <dialog chara="004">[Chị cả, đã bao lâu rồi chị chưa gặp em?]</dialog>
+  <text>Su Mei mỉm cười rạng rỡ, như thể cô đang đoàn tụ với người bạn thân lâu ngày không gặp sau nhiều năm. [\s]Mặc dù trên đời có hàng ngàn khuôn mặt tươi cười, nhưng đây là khuôn mặt duy nhất mà Lin Zhaoyu không biết phải đối phó như thế nào.</text>
   <motion chara="003" action="img_trans" img="林朝雨-认真-标准-远景"></motion>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-远景（带武器）"></motion>
-  <dialog chara="003">[...Twenty years.]</dialog>
-  <dialog chara="004">[Twenty years?]</dialog>
+  <dialog chara="003">[...Hai mươi năm.]</dialog>
+  <dialog chara="004">[Hai mươi năm?]</dialog>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-远景（带武器）"></motion>
-  <text>[Ushuang] Su Mei thought for a bit, before casually smiling:</text>
-  <dialog chara="004">[It’s been that long?]</dialog>
+  <text>[Ushuang] Su Mei suy nghĩ một lát rồi mỉm cười một cách tự nhiên:</text>
+  <dialog chara="004">[Đã lâu như vậy rồi sao?]</dialog>
   <text>
-    <p>Her voice’s sound floated into Lin Zhaoyu’s ears, like a thin needle stuck in her heart. </p>
-    <p>She couldn’t help but glance at the woman in front of her with contempt.</p>
+    <p>Âm thanh giọng nói của cô ấy lọt vào tai Lin Zhaoyu như một mũi kim nhỏ đâm vào tim cô.</p>
+    <p>Cô ấy không thể không liếc nhìn người phụ nữ trước mặt với vẻ khinh bỉ.</p>
   </text>
   <motion chara="003" action="hide"></motion>
   <motion chara="004" action="hide"></motion>
   <transition mode="dissolve" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <motion chara="004" action="show" pos="center" img="苏湄-标准-标准-近景"></motion>
-  <text>Over ten years had passed, yet Su Mei hadn't changed at all, and time seemed to have stopped for her.</text>
-  <text inline="true">Her hair was still red and vibrant,</text>
+  <text>Hơn mười năm đã trôi qua, nhưng Su Mei vẫn không hề thay đổi, thời gian dường như đã ngừng lại đối với cô ấy.</text>
+  <text inline="true">Tóc cô ấy vẫn đỏ rực rỡ,</text>
   <text>
     <p></p>
-    <p>Her beautiful face was shiny and smooth as fat, it could be broken by a blow.</p>
+    <p>Khuôn mặt xinh đẹp của cô ấy bóng loáng và mịn màng như mỡ, có thể bị vỡ chỉ bằng một cú đánh.</p>
   </text>
   <text>
-    <p>Her eyes… the eyes were still so big, so alluring… </p>
-    <p>Her lips are so red, so red… this vixen, how many sheets of rouge paper did she use?</p>
+    <p>Đôi mắt của cô ấy… đôi mắt vẫn to tròn, quyến rũ…</p>
+    <p>Môi cô ta đỏ quá, đỏ quá… con cáo cái này, cô ta đã dùng bao nhiêu tờ giấy đánh má hồng vậy?</p>
   </text>
-  <text>[em color=#FAFAD2 italic]… …Why was it her? Why wasn’t it me?[/em]</text>
+  <text>[em color=#FAFAD2 italic]… …Tại sao lại là cô ấy? Tại sao không phải là tôi?[/em]</text>
   <motion chara="004" action="hide"></motion>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="拂云观-侧面（开门）"></bg>
   <motion chara="003" action="show" pos="left" img="林朝雨-愤恨-标准-远景"></motion>
   <motion chara="004" action="show" pos="right" img="苏湄-标准-标准-远景（带武器）"></motion>
-  <text>Envy filled Lin Zhaoyu’s heart in an instant, it boiled extremely quickly, and it froze; it was hot like ice, it was cold like fire.</text>
-  <text>Su Mei seemed to see through her thoughts, and let out a sigh at this moment.</text>
+  <text>Sự ghen tị tràn ngập trong lòng Lin Zhaoyu ngay lập tức, nó sôi lên cực nhanh rồi lại đóng băng; nóng như băng, lạnh như lửa.</text>
+  <text>Su Mei dường như nhìn thấu suy nghĩ của cô ấy, và thở dài vào lúc này.</text>
   <motion chara="004" action="img_trans" img="苏湄-闭目-标准-远景（带武器）"></motion>
   <motion chara="003" action="img_trans" img="林朝雨-标准-标准-远景"></motion>
-  <dialog chara="004">[Aye, twenty years, I’ve aged too.]</dialog>
-  <dialog chara="003">[...Really.]</dialog>
-  <text>The Head of the School of Taixuan replied softly.</text>
+  <dialog chara="004">[Vâng, hai mươi năm rồi, tôi cũng đã già đi.]</dialog>
+  <dialog chara="003">[...Thật vậy.]</dialog>
+  <text>Trưởng khoa Taixuan đáp nhẹ nhàng.</text>
   <motion chara="003" action="img_trans" img="林朝雨-认真-标准-远景"></motion>
-  <dialog chara="003">[No need to reminisce, you and I don’t need to chat, just speak if you have something to say.]</dialog>
+  <dialog chara="003">[Không cần phải hồi tưởng, chúng ta không cần phải trò chuyện, cứ nói nếu bạn có điều gì muốn nói.]</dialog>
   <motion chara="004" action="img_trans" img="苏湄-瞥视-标准-远景（带武器）"></motion>
-  <dialog chara="004">[Mm, that’s fine too.]</dialog>
+  <dialog chara="004">[Ừm, thế cũng được.]</dialog>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-远景（带武器）"></motion>
-  <text>A trace of haze seemed to pass over Su Mei’s eyes, it was fleeting, causing Lin Zhaoyu to catch a glimpse of worry in her eyes.</text>
-  <dialog chara="004">[...The reason I came to visit my Senior Sister, is because Little Ma got a message.]</dialog>
+  <text>Một chút mờ ảo dường như thoáng qua mắt Tô Miêu, nó chỉ thoáng qua, khiến Lâm Triệu Vũ bắt gặp ánh mắt lo lắng của nàng.</text>
+  <dialog chara="004">[...Lý do tôi đến thăm chị cả là vì Tiểu Ma nhận được tin nhắn.]</dialog>
   <motion chara="003" action="img_trans" img="林朝雨-惊讶-标准-远景"></motion>
   <dialog chara="003">[Yanqing?]</dialog>
-  <text>Lin Zhaoyu’s face changed quickly, and sharply said:</text>
+  <text>Mặt Lin Zhaoyu nhanh chóng biến sắc, nói dứt khoát:</text>
   <motion chara="003" action="img_trans" img="林朝雨-愤怒-标准-远景"></motion>
-  <dialog chara="003">[Where is he?]</dialog>
+  <dialog chara="003">[Anh ấy ở đâu?]</dialog>
   <mono pageend="true">
     <p></p>
-    <p>The name Little Ma that came from Su Mei’s mouth, was the two people’s Junior Brother [Tireless Courser] Ma Yanqing. [\s]</p>
+    <p>Cái tên Tiểu Mã phát ra từ miệng Tô Miêu, chính là Tiểu đệ [Vận động viên không mệt mỏi] Mã Yanqing của hai người. [\s]</p>
     <p></p>
-    <p>This Taixuan Sixth Sword had an arrogant temperament, and he had never been restrained by the world;</p>
+    <p>Taixu Lục Kiếm này có tính khí kiêu ngạo, chưa bao giờ bị thế gian kiềm chế;</p>
     <p></p>
-    <p>This person had a close relationship with [Ushuang] Su Mei, and he was envied by everyone in the Jianghu Society. </p>
+    <p>Người này có mối quan hệ thân thiết với [Ushuang] Su Mei, và bị mọi người trong Giang Hồ ghen tị.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Yet he suddenly announced that he would marry a Senior Sister who was more than twenty years older than him, which shook the Jianghu;</p>
+    <p>Thế mà hắn đột nhiên tuyên bố sẽ cưới một sư tỷ hơn hắn hai mươi tuổi, điều này làm chấn động giang hồ;</p>
     <p></p>
-    <p>On the day of the wedding, he was drunk and nonsensical. He was ashamed of his name and abandoned it, which embarrassed all the guests.</p>
+    <p>Vào ngày cưới, anh ta say xỉn và nói năng lung tung. Anh ta xấu hổ về tên của mình và bỏ nó đi, điều này khiến tất cả khách mời đều bối rối.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Even after getting married, he rarely appeared in the School of Taixuan for a while. </p>
+    <p>Ngay cả sau khi kết hôn, anh ấy cũng hiếm khi xuất hiện ở Trường Thái Huyền trong một thời gian.</p>
     <p></p>
-    <p>For most of the year, he and his beloved horse [Erebus] wandered around. What he did that was good to hear was said to be [fighting for justice and chivalry], and the ugly, said to be [misbehavior]. </p>
+    <p>Hầu hết thời gian trong năm, ông và con ngựa yêu quý của mình [Erebus] lang thang khắp nơi. Những việc ông làm được cho là tốt đẹp thì được cho là [đấu tranh cho công lý và tinh thần hiệp sĩ], còn những việc xấu xí thì được cho là [hành vi sai trái]. </p>
   </mono>
   <mono>
     <p></p>
-    <p>Whether up to the rich and the powerful, or down to bandits… Ma Feima dared to beat anyone, and everyone who provoked him. This [Madman], is indeed the most famous character in the Central Plains. </p>
+    <p>Cho dù là người giàu có quyền lực hay bọn cướp… Ma Phima dám đánh bất cứ ai, và bất cứ ai khiêu khích hắn. [Tên điên] này quả thực là nhân vật nổi tiếng nhất ở Trung Nguyên.</p>
   </mono>
   <dialog chara="004">
-    <p>[Yanqing… Little Ma hates that name very much. </p>
-    <p>Yet Senior Sister hasn’t changed her words yet… Alas, Senior Sister is the most nostalgic among us.]</p>
+    <p>[Yanqing… Tiểu Ma rất ghét cái tên đó. </p>
+    <p>Nhưng Sư tỷ vẫn chưa thay đổi lời nói của mình… Than ôi, Sư tỷ là người hoài cổ nhất trong chúng ta.</p>
   </dialog>
   <motion chara="003" action="img_trans" img="林朝雨-愤恨-标准-远景"></motion>
   <text>
-    <p>[em color=#FAFAD2 italic]No…[/em]</p>
-    <p>Lin Zhaoyu said in her heart.</p>
-    <p>[em color=#FAFAD2 italic]What he hates is the past, which is specifically the past YOU created.[/em]</p>
+    <p>[em color=#FAFAD2 italic]Không…[/em]</p>
+    <p>Lin Zhaoyu nghĩ trong lòng.</p>
+    <p>[em color=#FAFAD2 italic]Điều anh ấy ghét là quá khứ, cụ thể là quá khứ mà CHÍNH BẠN đã tạo ra.[/em]</p>
   </text>
   <text>
-    <p>Her thoughts sank into her heart, and the sound was no more.</p>
-    <p>She also didn’t resort to words.</p>
+    <p>Suy nghĩ của cô chìm sâu vào tim, và âm thanh không còn nữa.</p>
+    <p>Cô ấy cũng không dùng lời nói.</p>
   </text>
   <motion chara="003" action="img_trans" img="林朝雨-不悦-标准-远景"></motion>
   <motion chara="004" action="img_trans" img="苏湄-闭目-标准-远景（带武器）"></motion>
-  <dialog chara="003">[Where is he?]</dialog>
+  <dialog chara="003">[Anh ấy ở đâu?]</dialog>
   <text>
-    <p>Lin Zhaoyu repeated.[\s]</p>
-    <p>Su Mei met her gaze quickly and looked away, then sighed:</p>
+    <p>Lin Zhaoyu lặp lại.[\s]</p>
+    <p>Su Mei nhanh chóng nhìn vào mắt cô ấy rồi quay đi, sau đó thở dài:</p>
   </text>
   <motion chara="004" action="img_trans" img="苏湄-瞥视-标准-远景（带武器）"></motion>
-  <dialog chara="004">[You know Little Ma’s temperament… he already rushed to the Northern Desert overnight.]</dialog>
-  <dialog chara="003">[Beyond the Great Wall? …What’s he going to do there?]</dialog>
-  <dialog chara="004">[To look for Fifth Junior Sister.]</dialog>
+  <dialog chara="004">[Bạn biết tính khí của Tiểu Ma mà… cậu ấy đã vội vã đến Sa mạc phía Bắc qua đêm rồi.]</dialog>
+  <dialog chara="003">[Bên kia Vạn Lý Trường Thành? …Anh ta sẽ làm gì ở đó?]</dialog>
+  <dialog chara="004">[Tìm kiếm Sơ thứ năm.]</dialog>
   <bgm looptimes="0"></bgm>
   <motion chara="003" action="img_trans" img="林朝雨-愤恨-标准-远景"></motion>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-远景（带武器）"></motion>
@@ -220,118 +220,118 @@
   <delay t="1"></delay>
   <motion chara="004" action="img_trans" img="苏湄-瞥视-标准-远景（带武器）"></motion>
   <text>
-    <p>Fiery anger suddenly melted the ice.</p>
-    <p>Lin Zhaoyu took a big step forward, and silently slipped a silver longsword into her left hand.</p>
+    <p>Cơn giận dữ bùng cháy đột ngột làm tan băng.</p>
+    <p>Lin Zhaoyu bước một bước dài về phía trước, lặng lẽ giấu một thanh trường kiếm bạc vào tay trái.</p>
   </text>
   <motion chara="003" action="img_trans" img="林朝雨-冷笑-持剑-远景"></motion>
   <dialog chara="003">
-    <p>[Su Mei… What the hell are you plotting now? </p>
-    <p>It’s been 20 years, do you think we’ll be fooled by you again?!]</p>
+    <p>[Su Mei… Cô đang âm mưu cái quái gì vậy?</p>
+    <p>Đã 20 năm rồi, anh nghĩ chúng tôi sẽ lại bị anh lừa nữa sao?!</p>
   </dialog>
   <motion chara="003" action="img_trans" img="林朝雨-愤恨-持剑-远景"></motion>
   <dialog chara="003">
-    <p>[Lingshuang’s secluded whereabouts, did you think Yanqing and I don’t know? </p>
-    <p>When she grabbed a Xuanyuan and wandered all over the Central Plains, causing trouble out in the limelight, during that time, who was it who got her out of Southern Hunan? </p>
+    <p>[Nơi ẩn náu của Lingshuang, lẽ nào ngươi nghĩ ta và Yanqing không biết?</p>
+    <p>Khi cô ta bắt được một viên Xuanyuan và đi lang thang khắp Trung Nguyên, gây rắc rối ở nơi công cộng, trong thời gian đó, ai là người đã đưa cô ta ra khỏi Nam Hồ Nam?</p>
   </dialog>
-  <dialog chara="003">Who was it who secretly protected her on her way to the Northern Desert and helped her settle?]</dialog>
+  <dialog chara="003">Ai là người đã bí mật bảo vệ cô ấy trên đường đến Sa mạc phía Bắc và giúp cô ấy định cư?</dialog>
   <dialog chara="003">
-    <p>[Yanqing’s temperament… heh, I know Yanqing's character, I also know Lingshuang’s temperament. </p>
-    <p>Even if the sky fell tomorrow, he won’t disturb Lingshuang with such trivial things or disturb her hermitage. </p>
+    <p>[Tính khí của Yanqing… hừ, ta biết tính cách của Yanqing, ta cũng biết tính khí của Lingshuang. </p>
+    <p>Dù ngày mai trời có sập, hắn cũng sẽ không quấy rầy Linh Hoàng bằng những chuyện tầm thường như vậy hay quấy rầy am thất của nàng.</p>
   </dialog>
-  <dialog chara="003">So what? Could you tell me what news is so important, that Yanqing couldn’t even spare the time to tell me?]</dialog>
+  <dialog chara="003">Vậy thì sao? Cậu có thể cho tôi biết tin tức gì quan trọng đến mức Yanqing thậm chí không có thời gian để nói với tôi không?</dialog>
   <dialog chara="004">「……」</dialog>
   <motion chara="003" action="img_trans" img="林朝雨-冷笑-持剑-远景"></motion>
-  <dialog chara="003">[...It’s still this means, Su Mei, it’s still this. Yanqing is willing to listen to your words,『Little Ma』...hmph. </dialog>
-  <dialog chara="003">What about you? You call him at will, pointing east to east, pointing west to west… Who do you take my husband for? Who do you take ME for?]</dialog>
+  <dialog chara="003">[...Vẫn là như vậy, Tô Miêu, vẫn là như vậy. Diêm Thanh sẵn lòng nghe lời ngươi, 『Tiểu Mã』...hừm. </dialog>
+  <dialog chara="003">Còn anh thì sao? Anh cứ gọi anh ta tùy ý, chỉ từ đông sang đông, chỉ từ tây sang tây… Anh coi chồng tôi là ai? Anh coi TÔI là ai?]</dialog>
   <motion chara="003" action="img_trans" img="林朝雨-愤怒-持剑-远景"></motion>
   <dialog chara="003">
-    <p>[Su Mei, I’m warning you today.</p>
-    <p>If you no longer treasure shared sect comradery in your heart,</p>
-    <p>Then I won’t hesitate to fight『Ushuang』!]</p>
+    <p>[Su Mei, hôm nay tôi cảnh báo cô.</p>
+    <p>Nếu bạn không còn trân trọng tình đồng môn trong giáo phái trong lòng mình nữa,</p>
+    <p>Vậy thì ta sẽ không ngần ngại chiến đấu với Ushuang!</p>
   </dialog>
   <dialog chara="004">「……」</dialog>
   <motion chara="003" action="img_trans" img="林朝雨-愤恨-持剑-远景"></motion>
   <text>
-    <p>All of the buried words that’ve been accumulating for years were reprimanded, yet she felt unhappy. </p>
-    <p>Lin Zhaoyu was satisfied with the silence from the other party, but she was also surprised about that silence.</p>
+    <p>Tất cả những lời lẽ bị chôn vùi đã tích tụ qua nhiều năm đều bị khiển trách, nhưng cô ấy vẫn cảm thấy không vui.</p>
+    <p>Lin Zhaoyu hài lòng với sự im lặng từ phía đối phương, nhưng cô cũng ngạc nhiên về sự im lặng đó.</p>
   </text>
   <text>
-    <p>The wind’s sound whistled, the piercing cold hovered on top of Heaven’s Pinnacle. </p>
-    <p>This kind of weather could either fan the flames of rage, or slowly let it smolder until only the ashes of disappointment remained. </p>
+    <p>Tiếng gió rít lên, cái lạnh thấu xương lơ lửng trên đỉnh Thiên Đường.</p>
+    <p>Kiểu thời tiết này có thể thổi bùng ngọn lửa giận dữ, hoặc để nó âm ỉ từ từ cho đến khi chỉ còn lại tro tàn của sự thất vọng.</p>
   </text>
-  <text>After she counted her seventeenth heartbeat, when her patience was about to come to an end, Su Mei spoke up.</text>
+  <text>Sau khi đếm nhịp tim thứ mười bảy, khi sự kiên nhẫn của cô sắp cạn kiệt, Tô Miêu lên tiếng.</text>
   <bgm id="千年之羽"></bgm>
   <motion chara="004" action="img_trans" img="苏湄-闭目-标准-远景（带武器）"></motion>
-  <dialog chara="004">[『Willowfoil』...]</dialog>
+  <dialog chara="004">[『Liễu gai』...]</dialog>
   <motion chara="003" action="img_trans" img="林朝雨-惊讶-持剑-远景"></motion>
-  <text>Su Mei didn’t look at her, rather her gaze fixedly fell upon the soft sword in her hand.</text>
+  <text>Su Mei không nhìn cô ấy, mà ánh mắt cô ấy dán chặt vào thanh kiếm mềm trong tay cô ấy.</text>
   <dialog chara="004">
-    <p>[It’s really nostalgic…</p>
-    <p>Thanks to it, Wanru could keep her life, and it gave Fifth Junior Sister a moment to stab with that sword.]</p>
+    <p>[Thật hoài niệm…</p>
+    <p>Nhờ đó mà Wanru mới giữ được mạng sống, và nhờ đó mà Sư tỷ thứ năm có cơ hội đâm bằng thanh kiếm đó.</p>
   </dialog>
   <motion chara="004" action="img_trans" img="苏湄-自信-标准-远景（带武器）"></motion>
-  <text>She lifted her head to meet Lin Zhaoyu’s gaze, her eyebrows raised into a smile:</text>
-  <dialog chara="004">[Very good, it’s still in your hands.]</dialog>
+  <text>Cô ngẩng đầu lên nhìn Lin Zhaoyu, lông mày nhướn lên thành nụ cười:</text>
+  <dialog chara="004">[Rất tốt, nó vẫn nằm trong tay bạn.]</dialog>
   <motion chara="003" action="img_trans" img="林朝雨-惊恐-持剑-远景"></motion>
-  <dialog chara="003">[You——]</dialog>
+  <dialog chara="003">[Bạn——]</dialog>
   <text>
     <p>At the mention of that day twenty years ago, Lin Zhaoyu subconsciously took a step back.[\s]</p>
-    <p>The cold air condensed to dew on her back, turning into cold sweat under her robes.</p>
+    <p>Không khí lạnh ngưng tụ thành sương trên lưng cô, biến thành mồ hôi lạnh dưới áo choàng của cô.</p>
   </text>
   <motion chara="003" action="img_trans" img="林朝雨-怅然-持剑-远景"></motion>
   <text>
-    <p>For many years, the scene of that time had been torturing her like bone decay.</p>
-    <p>She thought she had finally left her past behind, but the visit from her Second Sister today has reopened her old scar.</p>
-    <p>[We promised to never talk about the old days——]</p>
+    <p>Trong nhiều năm, cảnh tượng thời đó đã hành hạ cô như xương mục nát.</p>
+    <p>Cô ấy tưởng cuối cùng mình đã bỏ lại quá khứ phía sau, nhưng chuyến thăm của người chị thứ hai hôm nay đã khơi lại vết sẹo cũ của cô ấy.</p>
+    <p>[Chúng tôi đã hứa sẽ không bao giờ nói về những ngày xưa cũ nữa——]</p>
   </text>
-  <dialog chara="003">[Mm. I’m not talking about the old stuff, because the past is gone, and remembering it is useless.]</dialog>
+  <dialog chara="003">[Ừm. Tôi không nói về những chuyện cũ, vì quá khứ đã qua rồi, và nhớ lại cũng vô ích.]</dialog>
   <motion chara="004" action="img_trans" img="苏湄-闭目-标准-远景（带武器）"></motion>
-  <dialog chara="004">[So, I’m talking about something new.]</dialog>
+  <dialog chara="004">[Vậy, tôi đang nói về một điều gì đó mới.]</dialog>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-远景（带武器）"></motion>
-  <dialog chara="004">[...Oh!?]</dialog>
+  <dialog chara="004">[...Ồ!?]</dialog>
   <motion chara="003" action="img_trans" img="林朝雨-惊恐-持剑-远景"></motion>
-  <dialog chara="003">Lin Zhaoyu was taken aback, and instantly understood the profound meaning of her Junior Sister’s words.</dialog>
-  <text>[S-so… you’re saying, Master s-she’s?]</text>
+  <dialog chara="003">Lin Zhaoyu giật mình, lập tức hiểu được ý nghĩa sâu xa trong lời nói của sư tỷ.</dialog>
+  <text>[V-vậy… ý ngài là, thưa chủ nhân, cô ấy là?]</text>
   <dialog chara="003">[Mm.]</dialog>
-  <dialog chara="004">Su Mei looked up at the sky, as if she noticed something interesting in the air, and had an indiscernible smile. </dialog>
+  <dialog chara="004">Su Mei ngước nhìn lên bầu trời, như thể nhận thấy điều gì đó thú vị trên không trung, và nở một nụ cười khó nhận ra.</dialog>
   <event action="hide_ui" duration="1"></event>
   <motion chara="004" action="img_trans" img="苏湄-微笑-别过-远景（带武器）" duration="0.5"></motion>
   <delay t="1"></delay>
-  <text>[Our Xuanyuan Swords are about to be unsheathed again. But if my guess is right… mine will be earlier than yours.]</text>
-  <dialog chara="004">[This… you, impossible… </dialog>
-  <dialog chara="003">this…]</dialog>
-  <text>For the first time in 20 years, the School of Taixuan’s female head showed such a flustered expression. </text>
+  <text>[Kiếm Huyền Nguyên của chúng ta sắp được rút ra khỏi vỏ lần nữa. Nhưng nếu tôi đoán đúng… kiếm của tôi sẽ được rút ra sớm hơn kiếm của anh.]</text>
+  <dialog chara="004">[Điều này… bạn, không thể… </dialog>
+  <dialog chara="003">cái này…]</dialog>
+  <text>Lần đầu tiên sau 20 năm, nữ trưởng khoa Taixuan lại tỏ ra bối rối như vậy.</text>
   <motion chara="003" action="img_trans" img="林朝雨-怅然-持剑-远景"></motion>
-  <dialog chara="003">[...Master’s dead.]</dialog>
+  <dialog chara="003">[...Chủ nhân đã chết.]</dialog>
   <dialog chara="004">
-    <p>[Right, but does death exist to a Celestial? Trust me, Master has returned. </p>
-    <p>You, me, Little Ma… none of us seven should want to stay out of this matter.]</p>
+    <p>[Đúng vậy, nhưng cái chết có tồn tại đối với một Thiên thần không? Hãy tin tôi, Sư phụ đã trở lại.</p>
+    <p>Bạn, tôi, Mẹ nhỏ… không ai trong số bảy người chúng ta nên đứng ngoài chuyện này.</p>
   </dialog>
   <motion chara="003" action="img_trans" img="林朝雨-惊恐-持剑-远景"></motion>
-  <dialog chara="003">[...No…]</dialog>
-  <text>Lin Zhaoyu looked down in a daze, as if the other party was just saying extremely absurd gossip that wasn’t worth listening to.</text>
-  <dialog chara="003">[But… If…]</dialog>
-  <text>Her murmurs became weaker.</text>
+  <dialog chara="003">[...Không…]</dialog>
+  <text>Lin Zhaoyu nhìn xuống ngơ ngác, như thể đối phương vừa nói những lời bàn tán vô cùng vô lý không đáng để nghe.</text>
+  <dialog chara="003">[Nhưng… Nếu…]</dialog>
+  <text>Tiếng thì thầm của cô ấy yếu dần.</text>
   <text>
-    <p>When she lifted her head at Su Mei again, a smile hung on Lin Zhaoyu’s face. </p>
-    <p>It was an extremely angry smile, yet it was also an extremely weary smile.</p>
+    <p>Khi cô ấy ngẩng đầu nhìn Su Mei lần nữa, một nụ cười vẫn hiện trên khuôn mặt của Lin Zhaoyu.</p>
+    <p>Đó là một nụ cười vô cùng giận dữ, nhưng đồng thời cũng là một nụ cười vô cùng mệt mỏi.</p>
   </text>
   <motion chara="003" action="img_trans" img="林朝雨-怒笑-持剑-远景"></motion>
-  <dialog chara="003">[If Master is to settle out the score years ago, the first one to look for is you, Su Mei.]</dialog>
-  <text>School of Taixuan’s female head spoke softly. </text>
+  <dialog chara="003">[Nếu Sư phụ muốn thanh toán món nợ từ nhiều năm trước, người đầu tiên cần tìm là cô, Su Mei.]</dialog>
+  <text>Nữ trưởng trường Taixuan nói nhỏ.</text>
   <motion chara="004" action="img_trans" img="苏湄-痛苦-别过-远景（带武器）"></motion>
-  <dialog chara="004">[Wrong, wrong, Master doesn’t know who the mastermind is. According to inference, I’m still the second one~ But, the order isn’t important. I came to find you for this.] </dialog>
+  <dialog chara="004">[Sai rồi, sai rồi, Sư phụ không biết ai là kẻ chủ mưu. Theo suy luận, ta vẫn là người thứ hai~ Nhưng thứ tự không quan trọng. Ta đến tìm ngươi vì chuyện này.]</dialog>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-远景（带武器）"></motion>
   <motion chara="003" action="img_trans" img="林朝雨-心头一震-持剑-远景"></motion>
-  <text>She turned her look away from the clouds and gazed at Lin Zhaoyu.</text>
+  <text>Nàng quay mặt khỏi những đám mây và nhìn Lin Zhaoyu.</text>
   <text>
-    <p>Lin Zhaoyu was shocked.[\s]</p>
-    <p>This was what she was very familiar with, her Second Junior Sister’s look in her eyes.</p>
+    <p>Lin Zhaoyu đã bị sốc.[\s]</p>
+    <p>Đây là điều mà cô ấy rất quen thuộc, ánh mắt của người em gái thứ hai.</p>
   </text>
   <event action="hide_ui" duration="1"></event>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-远景（带武器）"></motion>
   <delay t="1"></delay>
-  <text>Su Mei was calmly looking at her, collected and composed. Her eyes showed neither fear, nor panic. </text>
-  <dialog chara="004">[Master has already killed one.]  </dialog>
+  <text>Su Mei bình tĩnh nhìn cô ấy, điềm tĩnh và tự chủ. Ánh mắt cô không biểu lộ sự sợ hãi hay hoảng loạn.</text>
+  <dialog chara="004">[Chủ nhân đã giết một người rồi.]</dialog>
   <transition mode="fade" in="5" stop="0.5" out="0" color="#000000"></transition>
 </scene>

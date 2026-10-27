@@ -6,17 +6,17 @@
   <delay t="2"></delay>
   <event action="show_ui"></event>
   <bgm id="佛心禅悟"></bgm>
-  <text>The man did not know it, but despite her young age, the girl already had quite the background.</text>
+  <text>Người đàn ông không biết điều đó, nhưng dù còn trẻ tuổi, cô gái đã có một quá khứ khá tốt.</text>
   <se id="01-17女孩沙漠行走loop" looptimes="0"></se>
   <event action="hide_ui" duration="4"></event>
   <se id="01-16镜头拉近转场"></se>
   <bg img="氛围-1-素裳过曝-3" duration="4" scale="2" origin="80%,65%"></bg>
   <delay t="4"></delay>
   <event action="show_ui"></event>
-  <text inline="true">The girl’s name was Li Sushang.</text>
+  <text inline="true">Tên cô gái là Li Sushang.</text>
   <text>
     <p></p>
-    <p>She was the young heiress of 「Issen Manor」 in Sichuan, the sole daughter of 「Ebonstyle」 Qin Suyi and the 7th Disciple of Empyrea Phoenix.</p>
+    <p>Cô ấy là tiểu thư thừa kế của 「Trang viên Issen」 ở Tứ Xuyên, con gái duy nhất của 「Phong cách Ebonstyle」 Qin Suyi và đệ tử thứ 7 của Phượng Hoàng Đế.</p>
   </text>
   <event action="hide_ui" duration="3"></event>
   <bg img="氛围-1-素裳渐近-1" duration="5" scale="2" origin="80%,65%"></bg>
@@ -24,102 +24,102 @@
   <delay t="3"></delay>
   <event action="show_ui"></event>
   <text>
-    <p>Empyrea Phoenix, Ebonstyle, Issen Manor.[\s]</p>
-    <p>In Shenzhou’s martial world, these were all famed and respectable names.</p>
+    <p>Phượng Hoàng Empyrea, Ebonstyle, Trang viên Issen.[\s]</p>
+    <p>Trong giới võ thuật Thần Châu, đây đều là những cái tên nổi tiếng và đáng kính.</p>
   </text>
-  <text>But here in the endless desert, these were meaningless words.</text>
+  <text>Nhưng ở sa mạc vô tận này, những lời này thật vô nghĩa.</text>
   <text>
-    <p>The desert was an honorless, lawless wilderness:[\s]</p>
-    <p>「The strong live, the weak die.」</p>
+    <p>Sa mạc là một vùng hoang vu vô danh, vô luật lệ:[\s]</p>
+    <p>「Kẻ mạnh sống, kẻ yếu chết.」</p>
   </text>
   <motion chara="002" action="img_trans" img="素裳-绝望张嘴-持剑-远景"></motion>
   <text>
-    <p>「Perhaps this is why,」 Sushang thought.</p>
-    <p>「This is why Mother sent me to train here despite Father’s protests.」</p>
+    <p>「Có lẽ đây là lý do,」 Sushang nghĩ.</p>
+    <p>「Đây là lý do mẹ gửi tôi đến đây huấn luyện bất chấp sự phản đối của cha.」</p>
   </text>
   <motion chara="002" action="hide" duration="1"></motion>
   <transition mode="shutter" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="忆剑山庄"></bg>
-  <text>Sushang began training when she was only a year old toddler;</text>
+  <text>Sushang bắt đầu luyện tập khi mới chỉ một tuổi;</text>
   <text>
-    <p>Her mother doted on her a lot,</p>
-    <p>but she was also extremely strict when it came to her sword training.</p>
+    <p>Mẹ cô ấy rất yêu thương cô ấy,</p>
+    <p>nhưng cô ấy cũng cực kỳ nghiêm khắc trong việc huấn luyện kiếm thuật.</p>
   </text>
-  <text>Sushang endured many hardships. She’d be awoken from the pain from her training at night.</text>
-  <text inline="true">She would cry to her father about this—— but that would only make her mother even harsher. </text>
-  <text>Not even the master of 「Issen Manor」, 「Young Marquis Of Sichuan」 Li Shen, could withstand a glance from her mother.</text>
+  <text>Sushang đã chịu đựng nhiều gian khổ. Cô ấy thường bị đánh thức bởi những cơn đau do luyện tập vào ban đêm.</text>
+  <text inline="true">Cô ấy sẽ khóc lóc với cha về chuyện này—— nhưng điều đó chỉ khiến mẹ cô ấy càng trở nên gay gắt hơn.</text>
+  <text>Ngay cả chủ nhân của 「Trang viên Issen」, 「Thiếu gia Tứ Xuyên」 Li Shen, cũng không thể chịu nổi một cái nhìn của mẹ cô.</text>
   <text>
-    <p>Since then, Sushang doubled her efforts in practicing swordmanship, and was thoroughly proficient in her family's twelve ways of Issin Mnemonics.</p>
-    <p>But when her mother took a look, she still shook her head.</p>
+    <p>Kể từ đó, Sushang đã nỗ lực gấp đôi trong việc luyện kiếm và hoàn toàn thành thạo mười hai phương pháp ghi nhớ Issin của gia tộc mình.</p>
+    <p>Nhưng khi mẹ cô ấy nhìn thấy, bà ấy vẫn lắc đầu.</p>
   </text>
   <text>
-    <p>Sushang couldn’t understand what the problem was. Was she not training hard enough?</p>
-    <p>Why wasn’t she meeting her mother’s expectations?</p>
+    <p>Sushang không hiểu vấn đề là gì. Phải chăng cô ấy đã không luyện tập đủ chăm chỉ?</p>
+    <p>Tại sao cô ấy không đáp ứng được kỳ vọng của mẹ?</p>
   </text>
-  <text>One day, Sushang eavesdropped on her parents’ conversation at night.</text>
+  <text>Một ngày nọ, Sushang nghe lén cuộc trò chuyện của bố mẹ cô ấy vào ban đêm.</text>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="忆剑山庄内"></bg>
-  <dialog chara="009">「In my opinion, the problem is your Li family’s martial arts.」</dialog>
-  <text>Her mother spoke coldly.</text>
+  <dialog chara="009">「Theo tôi, vấn đề nằm ở võ công của gia tộc họ Li.」</dialog>
+  <text>Mẹ cô ấy nói lạnh lùng.</text>
   <dialog chara="009">
-    <p>「Fleeting Swallow and 13 Stances of the Diving Swift are amazing skills in the middle of Sichuan, but how about Master’s “Edge of Taixuan”?</p>
-    <p>I shouldn’t have listened to your nonsense and changed Issin Mnemonics.」</p>
+    <p>「Chim én thoắt ẩn thoắt hiện và 13 thế tấn của chim én lao xuống là những kỹ năng tuyệt vời ở giữa Tứ Xuyên, nhưng còn "Cạnh Thái Huyền" của Sư phụ thì sao?</p>
+    <p>Lẽ ra tôi không nên nghe những lời vô nghĩa của anh và thay đổi phương pháp ghi nhớ Issin.</p>
   </dialog>
   <dialog chara="010">「……」</dialog>
-  <text>Her father whispered something, Sushang couldn’t hear him properly, but her mother gave him a cold sneer.</text>
-  <dialog chara="009">「Okay, so it’s my fault now? Then I’ve wasted ten years on you in vain.」</dialog>
-  <dialog chara="009">「I don’t care about you, and you don’t care about Sushang. Unlike you, she’s shown great potential in sword practice. Even if she’s not as good as Fifth Senior Sister, she’s still better than me.」</dialog>
-  <text>From Sushang’s hearing outside the window, her mother sounded cold and defeated.</text>
+  <text>Cha cô thì thầm điều gì đó, Sushang không nghe rõ, nhưng mẹ cô lạnh lùng cười khinh bỉ.</text>
+  <dialog chara="009">「Được rồi, vậy giờ là lỗi của tôi à? Vậy thì tôi đã phí hoài mười năm vì cậu rồi.」</dialog>
+  <dialog chara="009">「Tôi không quan tâm đến anh, và anh cũng không quan tâm đến Sushang. Không giống như anh, cô ấy đã thể hiện tiềm năng rất lớn trong kiếm thuật. Cho dù cô ấy không giỏi bằng Ngũ sư tỷ, cô ấy vẫn giỏi hơn tôi.」</dialog>
+  <text>Từ những gì Sushang nghe được bên ngoài cửa sổ, giọng mẹ cô nghe lạnh lùng và chán nản.</text>
   <dialog chara="009">
     <p>「My Blade Mantra has been damaged, yours can’t be cultivated, what can I say?[\s]</p>
-    <p>Tomorrow, I will head to the Northern Desert and ask the Fifth Senior Sister to take Sushang as her disciple.」</p>
+    <p>Ngày mai, ta sẽ đến sa mạc phía Bắc và nhờ Ngũ sư tỷ nhận Tô Chương làm đệ tử.</p>
   </dialog>
-  <dialog chara="009">「The Fifth Senior Sister owes me a personal favor. My face is low, but as long as I speak, she won’t refuse.」</dialog>
-  <text>Her father was taken aback, then he sternly objected. Sushang was inexplicably terrified when she heard it. She wanted to agree with her father, but she was also curious about what her mother said about 「Northern Desert」 and 「Fifth Sister」.</text>
-  <dialog chara="009">「——Edge of Taixuan.」</dialog>
-  <text>The three short words seemed to have magical powers. As soon as they were spoken, all the noise around them disappeared, and the room fell suddenly into silence.</text>
-  <dialog chara="009">「Ever since Master passed away, Lingshuang alone has mastered the Essence of Eminence in this world.」</dialog>
-  <dialog chara="009">「Since Sushang wants to learn swordsmanship, why not learn from the best swordsman?」</dialog>
+  <dialog chara="009">「Sư tỷ thứ năm nợ tôi một ân huệ riêng. Mặt tôi hơi buồn, nhưng chỉ cần tôi nói ra, sư tỷ sẽ không từ chối.」</dialog>
+  <text>Cha cô giật mình, rồi nghiêm khắc phản đối. Sushang không hiểu sao lại sợ hãi khi nghe vậy. Cô muốn đồng ý với cha, nhưng cũng tò mò về những gì mẹ nói về 「Sa mạc phương Bắc」 và 「Ngũ ca」.</text>
+  <dialog chara="009">「——Bờ Thái Huyền.」</dialog>
+  <text>Ba từ ngắn ngủi ấy dường như có sức mạnh kỳ diệu. Ngay khi chúng được nói ra, tất cả tiếng ồn xung quanh biến mất, và căn phòng đột nhiên chìm vào im lặng.</text>
+  <dialog chara="009">「Kể từ khi Sư phụ viên tịch, chỉ có Linh Hoàng mới nắm vững Tinh Hoa của Thế Giới này.」</dialog>
+  <dialog chara="009">「Vì Sushang muốn học kiếm thuật, sao không học từ kiếm sĩ giỏi nhất?」</dialog>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="氛围-1-素裳过曝-1"></bg>
   <text>
-    <p>Her mother did what she said.</p>
-    <p>On the day of Sushang’s fifth birthday, her parents gave her a generous parting gift.</p>
+    <p>Mẹ cô ấy đã làm đúng như lời bà ấy nói.</p>
+    <p>Vào ngày sinh nhật thứ năm của Sushang, cha mẹ cô đã tặng cô một món quà chia tay hào phóng.</p>
   </text>
   <text>
-    <p>Bidding goddbye to Issen Manor, Sichuan, and her "home", she went to the Northern Desert and learned the 「best swordsmanship」 for a whole decade.</p>
+    <p>Tạm biệt trang viên Issen, Tứ Xuyên và "ngôi nhà" của mình, nàng đến sa mạc phía Bắc và học 「kiếm thuật đỉnh cao」 trong suốt một thập kỷ.</p>
   </text>
-  <notification>Unlocked Biography: 「Li Sushang」</notification>
+  <notification>Tiểu sử được mở khóa: 「Li Sushang」</notification>
   <event action="achievement" aid="fdc3d5e2f6d96f8d"></event>
   <event action="hide_ui" duration="2"></event>
   <motion chara="002" action="show" img="素裳-标准-持剑-远景" duration="2" pos="center"></motion>
   <delay t="2"></delay>
   <event action="show_ui"></event>
   <text>
-    <p>Ten years had suddenly passed.</p>
-    <p>No longer did she yearn for her home, the only thing she still bore in her heart was her mother’s bidding.</p>
+    <p>Mười năm đã đột nhiên trôi qua.</p>
+    <p>Cô không còn khao khát trở về nhà nữa, điều duy nhất cô còn giữ trong lòng là lời dặn dò của mẹ.</p>
   </text>
   <text>
-    <p>Had her swordsmanship improved?</p>
-    <p>Had her martial arts techniques improved?</p>
-    <p>Did her current self finally meet her mother’s expectations?</p>
+    <p>Kỹ năng kiếm thuật của cô ấy đã được cải thiện chưa?</p>
+    <p>Kỹ thuật võ thuật của cô ấy đã được cải thiện chưa?</p>
+    <p>Liệu bản thân cô ấy hiện tại cuối cùng đã đáp ứng được kỳ vọng của mẹ cô ấy?</p>
   </text>
-  <text>…Sushang didn’t know, she still needed proof.</text>
+  <text>...Sushang không biết, cô ấy vẫn cần bằng chứng.</text>
   <motion chara="002" action="img_trans" img="素裳-专注-持剑-远景"></motion>
-  <text>And the way to prove it, was through a『Sword Trial』.</text>
+  <text>Và cách để chứng minh điều đó là thông qua một 『Thử thách kiếm』.</text>
   <event action="hide_ui" duration="1"></event>
   <motion chara="002" action="img_trans" img="素裳-浅笑-持剑-远景" duration="1"></motion>
   <delay t="1"></delay>
   <event action="show_ui"></event>
-  <text inline="true">Therefore, when seeing sword holding enemies approaching her in an encirclement,</text>
+  <text inline="true">Vì vậy, khi thấy kẻ thù cầm kiếm tiến đến bao vây mình,</text>
   <text>
     <p></p>
-    <p>Li Sushang’s mouth curled up into a meaningful arc.</p>
+    <p>Miệng của Li Sushang cong lên thành một đường cong đầy ý nghĩa.</p>
   </text>
-  <text inline="true">Needless to say, this smile said everything:</text>
+  <text inline="true">Không cần phải nói, nụ cười này đã nói lên tất cả:</text>
   <text>
     <p></p>
-    <p>the girl’s first 『Sword Trial』,  was today!</p>
+    <p>Hôm nay là 'Thử thách kiếm' đầu tiên của cô gái!</p>
   </text>
   <motion chara="002" action="hide" delay="2"></motion>
   <bgm looptimes="0"></bgm>

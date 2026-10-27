@@ -3,21 +3,21 @@
   <bg img="拂云观-侧面"></bg>
   <bgm id="秋恋古道（慢抒情）"></bgm>
   <delay t="3"></delay>
-  <dialog chara="012">「Phew...」</dialog>
+  <dialog chara="012">「Phù...」</dialog>
   <motion chara="012" action="show" img="枕玉-闭眼张嘴-敲门-中景（汗）" pos="center" duration="1"></motion>
   <text>
-    <p>The boy took a deep breath.</p>
-    <p>He reached out to knock on the door, but stopped just before his fist hit it.</p>
+    <p>Cậu bé hít một hơi thật sâu.</p>
+    <p>Anh ta vươn tay gõ cửa, nhưng dừng lại ngay trước khi nắm đấm chạm vào cửa.</p>
   </text>
   <motion chara="012" action="img_trans" img="枕玉-标准-敲门-中景（汗）"></motion>
-  <dialog chara="012">「Why me...?」</dialog>
-  <text>Discontent and helplessness swirled in the boy’s heart.</text>
+  <dialog chara="012">「Tại sao lại là tôi...?」</dialog>
+  <text>Sự bất mãn và bất lực cuộn trào trong lòng cậu bé.</text>
   <transition mode="shutter" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
-  <text>The boy’s name was Zhenyu. He had been her disciple for less than three months since he first joined the Edge of Taixuanpai faction, but she sent him to his room on top of Heavensky Peak so that they could get a good scolding from their family head</text>
+  <text>Tên cậu bé là Zhenyu. Cậu ta mới gia nhập phái Taixuanpai chưa đầy ba tháng, nhưng bà ta đã gửi cậu ta đến phòng riêng trên đỉnh Thiên Thiên Sơn để họ nhận được một bài học nhớ đời từ tộc trưởng</text>
   <motion chara="012" action="img_trans" img="枕玉-闭眼张嘴-敲门-中景（汗）"></motion>
-  <dialog chara="012">（Pushing the role of being scolded by a family head onto me? Both my older sister and apprentice are terrible...）</dialog>
-  <text>The boy imagined the headman’s angry appearance, feeling uneasy and restless.</text>
+  <dialog chara="012">(Đẩy vai trò bị người đứng đầu gia đình mắng mỏ lên tôi sao? Cả chị gái và người học việc của tôi đều tệ hại...））</dialog>
+  <text>Cậu bé tưởng tượng ra vẻ mặt giận dữ của trưởng làng, cảm thấy bất an và bồn chồn.</text>
   <motion chara="012" action="hide"></motion>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="拂云观-亮"></bg>
@@ -26,118 +26,118 @@
   <delay t="1"></delay>
   <mono pageend="true">
     <p></p>
-    <p>The head of the Taixuan Faction—『Willowfoil』, also known as Lin Zhaoyu.</p>
-    <p>She’d turned fifty-six this year, and she was past the age of knowing Celestial</p>
+    <p>Người đứng đầu phái Taixuan—『Liễu Lá, còn được gọi là Lin Zhaoyu.</p>
+    <p>Năm nay bà ấy đã bước sang tuổi 56, và bà ấy đã qua cái tuổi biết đến Thiên giới</p>
   </mono>
   <mono>
     <p></p>
-    <p>The elite Celestial ascended to the heavens engulfing in golden light, and Mount Taixuan was consumed by flame.</p>
-    <p>After that, she and her six brother apprentices—who had been the first disciples of a Celestial — remained here at Tensomine</p>
-    <p>He rebuilt the Taixuan school.</p>
+    <p>Vị thần ưu tú thăng thiên trong ánh sáng vàng bao trùm, núi Thái Huyền bị thiêu rụi trong lửa.</p>
+    <p>Sau đó, cô ấy và sáu người anh em học việc của mình—những người là đệ tử đầu tiên của một Thiên thần—ở lại đây tại Tensomine</p>
+    <p>Ông ấy đã xây dựng lại trường Taixuan.</p>
     <p></p>
-    <p>After a little over ten years, the Taixuan Faction came back to life splendidly</p>
-    <p>He was one of the six great schools in Shinshu martial arts.</p>
+    <p>Sau hơn mười năm, phái Taixuan đã hồi sinh rực rỡ</p>
+    <p>Ông ấy là một trong sáu trường phái võ thuật lớn của Shinshu.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Because of that, Lin Zhaoyu's fame was also very high and her husband 『Tsukkomaken』.</p>
-    <p>Together with Ma Feima, they had become a married couple of martial artists that everyone in the world envied</p>
+    <p>Vì điều đó, danh tiếng của Lin Zhaoyu cũng rất cao và chồng cô ấy là 『Tsukkomaken』.</p>
+    <p>Cùng với Ma Feima, họ đã trở thành một cặp vợ chồng võ sĩ mà mọi người trên thế giới đều ghen tị</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>As the master of his family, Lin Zhaoyu was by no means an eccentric person.</p>
-    <p>Quite the opposite, she was kind and gentle to everyone</p>
-    <p>We treat each other equally.</p>
+    <p>Là chủ gia tộc, Lin Zhaoyu hoàn toàn không phải là người lập dị.</p>
+    <p>Hoàn toàn ngược lại, cô ấy tốt bụng và dịu dàng với mọi người</p>
+    <p>Chúng ta đối xử với nhau bình đẳng.</p>
     <p></p>
-    <p>Except for a few exceptions.[\s]</p>
+    <p>Ngoại trừ một vài trường hợp ngoại lệ.[\s]</p>
     <p></p>
-    <p>Whenever I interacted with those exceptions, Lin Zhaoyu was always there</p>
-    <p>She went mad with rage, as if someone had changed.</p>
+    <p>Mỗi khi tôi tương tác với những trường hợp ngoại lệ đó, Lin Zhaoyu luôn có mặt</p>
+    <p>Cô ấy phát điên lên vì giận dữ, như thể có ai đó đã thay đổi.</p>
   </mono>
   <motion chara="003" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="入云阶" pos="0,-600"></bg>
-  <text>When the boy first came to Tianqiu Peak, his caring older brothers told him all about it.</text>
+  <text>Khi cậu bé lần đầu đến đỉnh Thiên Khâu, những người anh trai chu đáo của cậu đã kể cho cậu nghe tất cả mọi chuyện.</text>
   <bg img="入云阶" duration="60" pos="0,0"></bg>
   <dialog chara="-1">
-    <p>「You just got here, Zhenyu. I'll teach you the rules of this place!</p>
-    <p>In front of the family head, I absolutely mustn't mention a certain topic and their names.」</p>
+    <p>「Ngươi vừa mới đến đây thôi, Zhenyu. Ta sẽ dạy ngươi luật lệ ở nơi này!</p>
+    <p>Trước mặt người đứng đầu gia tộc, tôi tuyệt đối không được nhắc đến một chủ đề nhất định và tên của họ.</p>
   </dialog>
   <dialog chara="-1">
-    <p>「By a certain topic, she meant the vice-head.</p>
-    <p>No matter what you ask, don't tell the head of a family about your vice-head being out there. There is no need for me to interfere with these two」</p>
+    <p>「Ý cô ấy muốn nói đến phó chủ tịch bằng một chủ đề cụ thể nào đó.</p>
+    <p>Cho dù anh hỏi gì đi nữa, đừng nói với người đứng đầu gia tộc về việc người phó đứng đầu của anh đang ở ngoài đó. Tôi không cần phải can thiệp vào chuyện của hai người này.</p>
   </dialog>
-  <dialog chara="012">「That'll be fine.」</dialog>
+  <dialog chara="012">「Sẽ ổn thôi.」</dialog>
   <text>
-    <p>Zhenyu nodded hastily. An outsider shouldn't be interfering with the problem of a married couple</p>
-    <p>He is not the talkative type. Therefore, he will never make such a mistake</p>
+    <p>Zhenyu vội vàng gật đầu. Người ngoài không nên can thiệp vào chuyện của vợ chồng</p>
+    <p>Anh ấy không phải là người thích nói nhiều. Vì vậy, anh ấy sẽ không bao giờ mắc phải sai lầm như vậy</p>
   </text>
-  <dialog chara="012">「I found out about a certain topic. And what's their names?」</dialog>
-  <dialog chara="-1">「One of them is our master’s teacher—in other words, Master Phoenix...」</dialog>
-  <text>The siblings suddenly lowered their voices and looked around.</text>
-  <dialog chara="-1">「You may not have heard this name before, since you're all so young. But once upon a time the Great Teacher was very famous—a god who hasn’t aged even for one thousand years after he went down to Gekai」</dialog>
-  <dialog chara="-1">「Phoenix returned to the Celestial world twenty years ago. But don't provoke him by saying that out loud, okay? He never took you away when Master Daishi ascended into heaven... so I have been worried about it for some time now!」</dialog>
-  <dialog chara="012">「Yeah, yeah.」</dialog>
-  <text>Phoenix’s name faded over time, but the boy had heard a lot of stories about her. In fact it was precisely because 『The only true Celestial』 existed that he traveled all this way to Tensomine and became an apprentice in Taixuan Faction</text>
-  <dialog chara="-1">「The other name is 『Musou』, also known as Su Mei. She's a younger sister apprentice of the family head but their relationship has water and oil...」</dialog>
-  <dialog chara="-1">「Don't say this name out loud, or even hear it in your ears. If you run into anyone from the Musoumon Gate and find them hiding somewhere far away... You can never have anything to do with 'em!」</dialog>
-  <dialog chara="012">「Huh?」</dialog>
+  <dialog chara="012">Tôi đã tìm hiểu về một chủ đề nào đó. Và tên của chúng là gì?</dialog>
+  <dialog chara="-1">「Một trong số họ là sư phụ của sư phụ chúng ta—nói cách khác, Sư phụ Phượng Hoàng...」</dialog>
+  <text>Hai anh em đột nhiên hạ giọng và nhìn xung quanh.</text>
+  <dialog chara="-1">Có thể các em chưa từng nghe đến cái tên này trước đây, vì các em còn quá trẻ. Nhưng ngày xưa, vị Đại Sư rất nổi tiếng - một vị thần không hề già đi dù đã một nghìn năm kể từ khi xuống Địa Ngục.</dialog>
+  <dialog chara="-1">「Phượng Hoàng đã trở về Thiên giới hai mươi năm trước. Nhưng đừng chọc tức hắn bằng cách nói to điều đó, được không? Hắn chưa bao giờ đưa con đi khi Sư phụ Đại Sư lên thiên đường... nên ta đã lo lắng về điều đó một thời gian rồi!」</dialog>
+  <dialog chara="012"> 「Ừ, ừ.」</dialog>
+  <text>Tên của Phượng Hoàng đã phai mờ theo thời gian, nhưng cậu bé đã nghe rất nhiều câu chuyện về nàng. Trên thực tế, chính vì 『Vị Thiên Thần duy nhất chân chính』 tồn tại mà cậu đã đi một chặng đường dài đến Tensomine và trở thành đệ tử của phái Taixuan</text>
+  <dialog chara="-1">「Tên khác là 『Musou』, còn được biết đến với tên Su Mei. Cô ấy là em gái của người đứng đầu gia tộc nhưng mối quan hệ giữa họ như nước với lửa...</dialog>
+  <dialog chara="-1">「Đừng nói to cái tên này, hoặc thậm chí nghe thấy nó trong tai. Nếu bạn gặp bất kỳ ai từ Cổng Musoumon và thấy họ đang trốn ở đâu đó rất xa... Bạn không bao giờ được phép có bất kỳ liên hệ nào với họ!」</dialog>
+  <dialog chara="012">「Hả?」</dialog>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <event action="hide_ui" duration="1.5"></event>
   <bg img="BGDarkRoom"></bg>
   <motion chara="004" action="show" pos="right" duration="2" img="苏湄-自信-标准-中景"></motion>
   <mono>
     <p></p>
-    <p>Musoumon—it was almost twenty years ago, with the new Taixuan Faction</p>
-    <p>It was founded around the same time, but on a completely different scale.</p>
+    <p>Musoumon—đã gần hai mươi năm rồi, với phái Taixuan mới</p>
+    <p>Nó được thành lập vào khoảng thời gian tương tự, nhưng ở quy mô hoàn toàn khác.</p>
     <p></p>
-    <p>Right now, the Taixuan Faction is one of those six great factions</p>
-    <p>Musoumon is still a small sect.</p>
+    <p>Hiện tại, phái Taixuan là một trong sáu phái lớn</p>
+    <p>Musoumon vẫn là một giáo phái nhỏ.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>However, no one dared lay a hand on the disciples of Musoumon.</p>
-    <p>The reason for that was the head of family, 『Saishoku Kanebi』’s Su Mei.</p>
+    <p>Tuy nhiên, không ai dám động đến các môn đệ của Musoumon.</p>
+    <p>Lý do là do người đứng đầu gia tộc, Su Mei của 『Saishoku Kanebi』.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>A woman with peerless beauty and superior intelligence.</p>
+    <p>Một người phụ nữ có vẻ đẹp tuyệt trần và trí thông minh vượt trội.</p>
     <p></p>
-    <p>Su Mei was Phoenix’s second disciple, but in the martial arts world</p>
-    <p>He was considered to be the most fearsome of The Seven Great Void Swords, and he revered him with awe</p>
-    <p>It was called 『Onna Zhuge』 or『Musousennin』.</p>
+    <p>Su Mei là đệ tử thứ hai của Phượng Hoàng, nhưng trong giới võ thuật</p>
+    <p>Ông ta được coi là người đáng sợ nhất trong Bảy Đại Kiếm Hư Không, và ông ta kính trọng ông ta với lòng kính sợ</p>
+    <p>Nó được gọi là 『Onna Zhuge』 hoặc 『Musousennin』.</p>
   </mono>
   <motion chara="004" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="入云阶"></bg>
-  <dialog chara="012">「...Is it really that scary?」</dialog>
-  <text>The brothers looked at each other and nodded in unison.</text>
-  <dialog chara="-1">「It's terrifying.」</dialog>
+  <dialog chara="012">「...Nó thực sự đáng sợ đến vậy sao?」</dialog>
+  <text>Hai anh em nhìn nhau và gật đầu đồng loạt.</text>
+  <dialog chara="-1">「Thật đáng sợ.」</dialog>
   <event action="hide_ui" duration="2.1"></event>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="拂云观-侧面（开门）" duration="2"></bg>
   <motion chara="012" action="show" img="枕玉-闭眼张嘴-敲门-中景（汗）" pos="center"></motion>
   <dialog chara="012">「......」</dialog>
-  <text>As he stood there in a daze, the headman’s voice came from inside his room.</text>
+  <text>Khi anh ta đứng đó ngơ ngác, giọng nói của trưởng làng vọng ra từ trong phòng anh ta.</text>
   <motion chara="012" action="img_trans" img="枕玉-吃惊-敲门-中景（汗）"></motion>
-  <dialog chara="003">「What are you spacing out for outside, Zhenyu?」</dialog>
+  <dialog chara="003">「Cậu đang mơ màng làm gì ở ngoài vậy, Zhenyu?」</dialog>
   <motion chara="012" action="img_trans" img="枕玉-吃惊张嘴-标准-中景"></motion>
-  <dialog chara="012">「Ah... Yes! My apprentice, Zhenyu. I'm coming in」</dialog>
-  <text>The boy was nervous, but at the same time excited.</text>
+  <dialog chara="012">「À... Vâng! Đệ tử của ta, Zhenyu. Ta vào đây」</dialog>
+  <text>Cậu bé vừa lo lắng vừa phấn khích.</text>
   <motion chara="012" action="img_trans" img="枕玉-吃惊张嘴-标准-中景（多汗）"></motion>
-  <dialog chara="012">「Master... How do you know me?」</dialog>
-  <dialog chara="003">「Why? I'm not old enough to even remember the names of my disciples.」</dialog>
+  <dialog chara="012">「Sư phụ... Làm sao người biết tôi?」</dialog>
+  <dialog chara="003">「Tại sao? Ta còn chưa đủ tuổi để nhớ tên các đệ tử của mình.」</dialog>
   <text>
-    <p>The head of the family answered.</p>
-    <p>There was a hint of self-derision in her voice rather than condemnation.</p>
+    <p>Người đứng đầu gia đình trả lời.</p>
+    <p>Trong giọng nói của cô ấy có chút tự chế giễu hơn là lên án.</p>
   </text>
-  <dialog chara="003">「217 members of the gate faction remember everyone.[\s]His internal breathing is ragged, and his steps are unsteady. He clearly hasn't built up the basics yet—the only one who can do that would be someone like you just introduced to this school」</dialog>
+  <dialog chara="003">「217 thành viên của phái cổng nhớ tất cả mọi người. [\s]Hơi thở bên trong của hắn hổn hển, bước chân loạng choạng. Rõ ràng hắn vẫn chưa xây dựng được nền tảng cơ bản—người duy nhất có thể làm được điều đó là một người như ngươi vừa mới được giới thiệu vào trường này」</dialog>
   <motion chara="012" action="img_trans" img="枕玉-标准-标准-中景"></motion>
-  <dialog chara="012">「...Ah, y-yes. I'll keep training from now on!」</dialog>
-  <text>Zhenyu instantly broke out in a cold sweat.[\s]It had only been three months since he became a pupil, and 『Tai Yijing』 was still learning how to become an introductory student at『Edge of Taixuan』. That's why just climbing the Irimo Floor made him out of breath</text>
-  <text>My master’s words were indifferent, but Zhenyu sounded like she had pointed out my lack of training and I suddenly felt embarrassed.</text>
-  <dialog chara="004">「Climbing up to the top of this cloud floor is pretty impressive. Don't scare her like that, okay?」</dialog>
-  <text>Zhenyu felt a little strange. That voice didn't sound like it belonged to the head of our family just now</text>
+  <dialog chara="012">「...À, vâng. Từ giờ trở đi tôi sẽ tiếp tục luyện tập!</dialog>
+  <text>Zhenyu lập tức toát mồ hôi lạnh.[\s]Mới chỉ ba tháng kể từ khi anh ta trở thành đệ tử, và 『Tai Yijing』 vẫn đang học cách trở thành một học viên nhập môn tại 『Edge of Taixuan』. Đó là lý do tại sao chỉ leo lên Tầng Irimo thôi cũng khiến anh ta thở hổn hển</text>
+  <text>Lời nói của sư phụ tôi có vẻ thờ ơ, nhưng Zhenyu lại nói như thể đang chỉ ra sự thiếu sót trong việc rèn luyện của tôi, và tôi đột nhiên cảm thấy xấu hổ.</text>
+  <dialog chara="004">「Leo lên đỉnh tầng mây này thật ấn tượng. Đừng làm cô ấy sợ như vậy nhé?」</dialog>
+  <text>Zhenyu cảm thấy hơi lạ. Giọng nói vừa nãy không giống giọng của tộc trưởng gia tộc chúng ta</text>
   <event action="hide_ui" duration="3.1"></event>
   <motion chara="012" action="hide"></motion>
   <se id="01-71开门声"></se>
@@ -145,57 +145,57 @@
   <bg img="拂云观-亮"></bg>
   <motion action="show" pos="800,0" chara="004" img="苏湄-自信-标准-远景"></motion>
   <motion chara="004" action="move" pos="right" duration="2"></motion>
-  <text>The door suddenly opened. Inside stood a woman more beautiful than the boy had ever seen before, smiling faintly</text>
+  <text>Cánh cửa đột nhiên mở ra. Bên trong đứng một người phụ nữ xinh đẹp hơn bất kỳ người phụ nữ nào mà cậu bé từng thấy, mỉm cười nhẹ nhàng</text>
   <dialog chara="003">「......」</dialog>
   <motion chara="003" action="show" pos="left" img="林朝雨-愤恨-标准-远景" duration="1"></motion>
   <motion chara="004" action="show" pos="right" img="苏湄-自信-标准-远景" duration="1"></motion>
-  <text>The head of the family behind her, Lin Zhaoyu—had a dark look on his face.</text>
-  <dialog chara="003">「Su Mei... Since you're a Musoumon, how long has it been since I started appraising my disciples?」</dialog>
+  <text>Người đứng đầu gia tộc phía sau cô, Lin Zhaoyu—có vẻ mặt tối sầm.</text>
+  <dialog chara="003">「Su Mei... Vì con là một Musoumon, vậy ta đã bắt đầu đánh giá đệ tử của mình được bao lâu rồi?</dialog>
   <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-远景"></motion>
-  <dialog chara="004">「Oh, did I say something unnecessary?」</dialog>
-  <text>The stunningly beautiful woman turned toward Zhenyu and blinked.</text>
-  <text>At that point, Lin Zhaoyu finally turned to look at the boy.</text>
+  <dialog chara="004">「Ồ, tôi có nói điều gì không cần thiết không?」</dialog>
+  <text>Người phụ nữ đẹp đến nao lòng quay về phía Zhenyu và chớp mắt.</text>
+  <text>Lúc đó, Lin Zhaoyu cuối cùng cũng quay lại nhìn cậu bé.</text>
   <motion action="img_trans" chara="003" img="林朝雨-微笑-标准-远景"></motion>
   <motion chara="004" action="img_trans" img="苏湄-自信-标准-远景"></motion>
-  <dialog chara="003">「What do you want, Zhenyu? Tell me.」</dialog>
+  <dialog chara="003">「Ngươi muốn gì, Zhenyu? Hãy nói cho ta biết.」</dialog>
   <motion chara="003" action="hide"></motion>
   <motion chara="004" action="hide"></motion>
   <motion chara="012" action="show" pos="center" duration="1" img="枕玉-吃惊张嘴-标准-中景（汗）"></motion>
-  <dialog chara="012">「Ah...」</dialog>
-  <text>The boy couldn't help but hesitate. He had come to apologize for his master in place of a disciple and older sister</text>
+  <dialog chara="012">「À...」</dialog>
+  <text>Cậu bé không khỏi do dự. Cậu đến để xin lỗi thay cho sư phụ thay mặt cho một người đệ tử và chị gái</text>
   <mono pageend="true">
     <p></p>
-    <p>It's early morning. 『Musousennin』, also known as Su Mei suddenly came to Tensomine...</p>
-    <p>He’d said he needed to tell the headman what his vice-head had told him.</p>
+    <p>Trời vẫn còn sớm. 『Musousennin』, tức Su Mei, đột nhiên đến Tensomine...</p>
+    <p>Anh ấy nói rằng anh ấy cần phải nói với trưởng làng những gì phó trưởng làng đã nói với anh ấy.</p>
     <p></p>
-    <p>The older disciples and elder brothers were afraid of incurring their master’s wrath</p>
-    <p>No one tried to climb the mountain with Su Mei.</p>
+    <p>Các môn đệ lớn tuổi và các anh cả sợ làm phật lòng sư phụ</p>
+    <p>Không ai cố gắng leo núi cùng Tô Mai.</p>
     <p></p>
-    <p>While we were doing that, the head of Musoumon Gate was gone...</p>
-    <p>...No one would have thought he was already in the cloud of dust.</p>
+    <p>Trong khi chúng tôi đang làm việc đó, người đứng đầu Cổng Musoumon đã biến mất...</p>
+    <p>...Không ai ngờ rằng anh ta đã ở trong đám bụi rồi.</p>
   </mono>
-  <text>Not knowing what to do, the boy decided he should just tell her as it was.</text>
+  <text>Không biết phải làm gì, cậu bé quyết định nói thẳng với cô ấy sự thật.</text>
   <motion chara="012" action="img_trans" img="枕玉-闭眼张嘴-标准-中景（汗）"></motion>
-  <dialog chara="012">「Yes, Master. The head of the Musou Gate Resurrection would like to meet with you again! My second disciple Nee-san and Brother Xuanli can't decide on their own so I was told that they should go up a mountain for my report...」</dialog>
+  <dialog chara="012">「Vâng, thưa Sư phụ. Trưởng môn Phục Sinh Môn phái Musou muốn gặp lại người! Đệ tử thứ hai của con là Nee-san và huynh đệ Xuanli không thể tự quyết định nên con được bảo là họ nên lên núi để báo cáo...</dialog>
   <motion chara="012" action="hide" duration="0"></motion>
   <motion chara="004" action="show" pos="right" img="苏湄-甜笑-标准-远景"></motion>
   <motion chara="003" action="show" pos="left" img="林朝雨-惊讶-标准-远景"></motion>
   <dialog chara="004">「Hehe.」</dialog>
-  <text>Su Mei, who was off to the side of it all, laughed out loud without thinking.</text>
+  <text>Su Mei, người đang đứng ngoài cuộc, đã cười lớn mà không suy nghĩ.</text>
   <motion chara="003" action="img_trans" img="林朝雨-不悦-标准-远景"></motion>
-  <text>The head of the family made a clearly unamused face as he spoke coldly.</text>
-  <dialog chara="003">「Why would you report something like that when she's right here? Go back.」</dialog>
-  <dialog chara="012">「Yes... Excuse me.」</dialog>
-  <text>Zhenyu hung its head and bowed.</text>
+  <text>Người đứng đầu gia đình tỏ vẻ không hài lòng khi nói chuyện lạnh lùng.</text>
+  <dialog chara="003"> 「Sao anh lại báo cáo chuyện như vậy khi cô ấy đang ở ngay đây? Quay lại đi.」</dialog>
+  <dialog chara="012">「Vâng... Xin lỗi.」</dialog>
+  <text>Zhenyu cúi đầu và lạy.</text>
   <motion action="img_trans" chara="003" img="林朝雨-认真-标准-远景"></motion>
-  <dialog chara="003">「And then...」</dialog>
-  <text>The head of the family sighed and spoke in a gentle voice</text>
+  <dialog chara="003">「Và sau đó...」</dialog>
+  <text>Người đứng đầu gia đình thở dài và nói bằng giọng nhẹ nhàng</text>
   <motion chara="003" action="img_trans" img="林朝雨-微笑-标准-远景"></motion>
-  <dialog chara="003">「You don't have to come here on errands anymore. Genri will teach you the secrets of Taixuan, and make sure that your foundation is solid enough for both tai-chiehyun (Taixuanitsuyuu Tingling), as well! That way climbing up a mountain should not be too tiring after all...」</dialog>
-  <dialog chara="012">「Understood.」</dialog>
-  <text>The head of the family was thinking about him—Zhenyu moved from his heart, but he didn’t know what to say. He just bowed and said:</text>
-  <dialog chara="012">「Thank you very much.」</dialog>
-  <dialog chara="003">「Go.」</dialog>
+  <dialog chara="003">「Bạn không cần phải đến đây làm việc vặt nữa. Genri sẽ dạy bạn những bí quyết của Taixuan, và đảm bảo rằng nền tảng của bạn đủ vững chắc cho cả Taixuanitsuyuu Tingling nữa! Như vậy, việc leo núi sẽ không còn quá mệt mỏi nữa...</dialog>
+  <dialog chara="012">「Đã hiểu.」</dialog>
+  <text>Người đứng đầu gia tộc đang nghĩ về anh ta—Trần Vũ cảm động trong lòng, nhưng không biết nói gì. Anh ta chỉ cúi đầu và nói:</text>
+  <dialog chara="012">「Cảm ơn rất nhiều.」</dialog>
+  <dialog chara="003">「Đi.」</dialog>
   <bgm looptimes="0"></bgm>
   <event action="goto" to="01"></event>
 </scene>

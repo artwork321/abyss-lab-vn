@@ -1,10 +1,10 @@
 <scene id="24" type="block" prev="23" title="刃不破3">
   <motion chara="008" action="img_trans" img="马非马-微惊-标准-远景"></motion>
   <dialog chara="008">[...]</dialog>
-  <text>Lingshuang sounded like she was mocking him, but Ma Feima knew this was her way of praising him.</text>
+  <text>Lingshuang nói như thể đang chế nhạo anh ta, nhưng Ma Feima biết đó là cách cô ấy khen ngợi anh ta.</text>
   <mono pageend="true">
     <p></p>
-    <p>Purely by skill, only their Master Phoenix could rival Lingshuang now.</p>
+    <p>Chỉ xét về kỹ năng thuần túy, hiện giờ chỉ có Sư phụ Phượng Hoàng của họ mới có thể sánh được với Linh Hoàng.</p>
   </mono>
   <event action="hide_ui"></event>
   <motion chara="007" action="hide" duration="0"></motion>
@@ -14,32 +14,32 @@
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>The powerful [Edge of Taixuan] had five essences: Mantra, Form, Sanction, Ascension, and Eminence].</p>
+    <p>Cường lực [Cạnh Thái Huyền] có năm tinh túy: Chú, Hình thức, Trừng phạt, Thăng thiên và Uy thế].</p>
   </mono>
   <mono>
     <p></p>
-    <p>To master Ascension was to master the way of the blade. One did not have to be concerned with the form of the weapon, and any weapon could become a sword.</p>
+    <p>Để thành thạo Thăng Thiên là để thành thạo con đường của lưỡi kiếm. Người ta không cần phải quan tâm đến hình dạng của vũ khí, và bất kỳ vũ khí nào cũng có thể trở thành một thanh kiếm.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Besides Lin Zhaoyu, who was busy studying sword arts itself, the rest of the disciples had all mastered Ascension.</p>
+    <p>Ngoại trừ Lin Zhaoyu, người đang bận rèn luyện kiếm thuật, tất cả các đệ tử còn lại đều đã thành thạo Thăng Thiên.</p>
   </mono>
   <cg img="氛围_通用_冰块"></cg>
   <mono pageend="true">
     <p></p>
-    <p>But Eminence— Other than Celestial Phoenix, for thousands of years, Lingshuang alone was the only one to master this essence. </p>
+    <p>Nhưng thưa Bệ hạ— Ngoài Phượng Hoàng Thiên Giới ra, trong hàng ngàn năm, chỉ có Linh Hoàng là người duy nhất nắm vững được tinh hoa này.</p>
   </mono>
   <mono>
     <p></p>
-    <p>And Eminence is—</p>
+    <p>Và sự cao quý là—</p>
   </mono>
   <mono>
     <p></p>
-    <p>Where inaction is greater than action, </p>
+    <p>Nơi mà sự không hành động lớn hơn hành động, </p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Being swordless did not mean you had no sword.</p>
+    <p>Không có kiếm không có nghĩa là bạn không có kiếm.</p>
   </mono>
   <event action="hide_ui"></event>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
@@ -49,60 +49,60 @@
   <motion chara="008" action="show" pos="right" img="马非马-笑-标准-远景"></motion>
   <delay t="1"></delay>
   <event action="show_ui"></event>
-  <dialog chara="008">Ki from the will, a sword from the mind, this is the All-Mighty Wandering Eminence.</dialog>
+  <dialog chara="008">Khí từ ý chí, thanh kiếm từ tâm trí, đây là Bậc Vĩ Đại Lang Thang.</dialog>
   <motion chara="007" action="img_trans" img="凌霜-免了-标准-远景"></motion>
-  <dialog chara="007">[It’s a shame. I had a couple more moves with Redsweord I wanted to use.]</dialog>
+  <dialog chara="007">[Thật đáng tiếc. Tôi còn vài chiêu nữa muốn dùng với Redswoodr.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-微惊-标准-远景"></motion>
-  <dialog chara="008">[I’ll pass. It’s a hassle dealing with even one strike with you. If it wasn’t for how stubborn and unavoidable I heard you were when it came to fighting, I wouldn’t even have lifted a finger.]</dialog>
+  <dialog chara="008">[Tôi sẽ bỏ qua. Chỉ cần đối phó với một đòn đánh của anh thôi cũng đã phiền phức rồi. Nếu không phải vì tôi nghe nói anh cứng đầu và khó tránh khỏi việc đánh nhau, tôi thậm chí đã không động đến một ngón tay nào.]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-厌烦-标准-远景"></motion>
-  <dialog chara="007" inline="true">[I didn’t think you paid attention to my business.]</dialog>
+  <dialog chara="007" inline="true">[Tôi không nghĩ bạn để ý đến chuyện của tôi.]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
-  <dialog chara="007">[There’s not much happening around these parts except your feats: Who you beat up, who you defeated, who you killed… Seriously, why’s the world suddenly revolving around you? Are all of our Senior Sisters dead or something?]</dialog>
+  <dialog chara="007">[Chẳng có gì đáng chú ý ở đây ngoài những chiến tích của cậu: Cậu đánh bại ai, hạ gục ai, giết ai… Thật đấy, sao thế giới đột nhiên xoay quanh cậu vậy? Tất cả các Sư tỷ của chúng ta đều đã chết hay sao?]</dialog>
   <motion chara="008" action="img_trans" img="马非马-苦笑-标准-远景"></motion>
-  <text>The Sixth Disciple of Taixuan gave a forced grin. Even after twenty years he’d still find himself struggling to have a conversation with Lingshuang:</text>
-  <dialog chara="008">[Everyone’s well. Zhaoyu is my wife right now.]</dialog>
-  <dialog chara="007">[Oh right, I heard about that. School of Taixuan, was it? No wonder she’s the eldest, she won’t even change the name. But you, I heard that right after you got married, you went off to the Northern Wastes to chase a horse for a hundred miles.]</dialog>
+  <text>Đệ tử thứ sáu của Taixuan nở một nụ cười gượng gạo. Ngay cả sau hai mươi năm, hắn vẫn thấy mình khó có thể trò chuyện với Lingshuang:</text>
+  <dialog chara="008">[Mọi người đều khỏe. Triệu Vũ hiện là vợ tôi.]</dialog>
+  <dialog chara="007">[Ồ đúng rồi, tôi nghe nói về chuyện đó. Trường Thái Huyền, phải không? Thảo nào cô ấy là chị cả, cô ấy thậm chí còn không chịu đổi tên. Nhưng còn cô, tôi nghe nói ngay sau khi cô kết hôn, cô đã đến vùng đất hoang phía Bắc để đuổi theo một con ngựa suốt trăm dặm.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-悲伤-标准-远景"></motion>
-  <text>Ma Feima rubbed his nose and looked at Erebus. He didn’t go to the Northern Wastes for it, but he ended up meeting his lifelong best friend over there.</text>
+  <text>Ma Feima dụi mũi và nhìn Erebus. Anh ấy không đến Vùng đất hoang phía Bắc vì điều đó, nhưng cuối cùng lại gặp được người bạn thân suốt đời của mình ở đó.</text>
   <motion chara="007" action="img_trans" img="凌霜-看戏-标准-远景"></motion>
-  <dialog chara="007">[Did it taste good?]</dialog>
+  <dialog chara="007">[Nó có ngon không?]</dialog>
   <motion chara="008" action="img_trans" img="马非马-闭目-标准-远景"></motion>
   <dialog chara="008">[...]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-注视-标准-远景"></motion>
-  <text>The corners of Ma Feima’s mouth twitched slightly.</text>
+  <text>Khóe miệng của Ma Feima khẽ giật.</text>
   <motion chara="008" action="img_trans" img="马非马-沉思-标准-远景"></motion>
-  <dialog chara="008">[....Senior Sister, stop joking with me.]</dialog>
-  <text>Lingshuang wasn’t joking though:</text>
-  <dialog chara="007">[What happened to you? You were always the good one out of all of us, never getting into any fights. Honestly, you were more like a woman than any of us, but now? </dialog>
-  <dialog chara="007">You’ve probably gotten into more fights in these past decades than our Master did over thousands of years.]</dialog>
+  <dialog chara="008">[...Chị cả, đừng đùa với em nữa.]</dialog>
+  <text>Lingshuang không hề nói đùa đâu:</text>
+  <dialog chara="007">[Chuyện gì đã xảy ra với cậu vậy? Cậu luôn là người tốt nhất trong số chúng ta, chưa bao giờ gây gổ. Thành thật mà nói, cậu còn nữ tính hơn bất kỳ ai trong chúng ta, nhưng bây giờ thì sao?</dialog>
+  <dialog chara="007">Có lẽ trong những thập kỷ qua, ngươi đã gây gổ nhiều hơn cả Sư phụ của chúng ta trong hàng nghìn năm.</dialog>
   <motion chara="007" action="img_trans" img="凌霜-标准-标准-远景"></motion>
-  <dialog chara="007">[But did you get anything out of it? Are you the Strongest of Shenzhou? Or the Supreme Leader of the Lands?]</dialog>
+  <dialog chara="007">[Nhưng ngươi có được gì từ việc đó không? Ngươi có phải là người mạnh nhất Thần Châu không? Hay là lãnh tụ tối cao của các vùng đất?]</dialog>
   <motion chara="008" action="img_trans" img="马非马-笑-标准-远景"></motion>
-  <dialog chara="008">[Haha, that’s not my intention. There’s no way I’d beat my Senior sisters no matter how much I train my Edge of Taixuan. </dialog>
+  <dialog chara="008">[Haha, đó không phải ý định của tôi. Không đời nào tôi có thể đánh bại các sư tỷ của mình dù có luyện tập Thái Huyền Kiếm đến mấy đi nữa. </dialog>
   <motion chara="008" action="img_trans" img="马非马-悲伤-标准-远景"></motion>
   <dialog chara="008">
-    <p>Supreme Leader… What’s that good for? Who cares about number one? </p>
-    <p>Master was so powerful, and look what happened to her…]</p>
+    <p>Lãnh đạo tối cao… Thế thì có ích gì? Ai quan tâm đến vị trí số một chứ?</p>
+    <p>Sư phụ rất quyền lực, và hãy xem chuyện gì đã xảy ra với cô ấy…]</p>
   </dialog>
   <motion chara="007" action="img_trans" img="凌霜-思考-标准-远景"></motion>
-  <dialog chara="007">[Well, it’s good that you know that.]</dialog>
+  <dialog chara="007">[Tốt lắm, bạn biết điều đó.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-标准-标准-远景"></motion>
-  <text>Lingshuang let out a huff before walking towards the cottage.</text>
+  <text>Lingshuang thở dài trước khi đi về phía túp lều.</text>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
-  <dialog chara="007">[My abode is a bit too small for guests. Anything else? If not, I’m going.]</dialog>
+  <dialog chara="007">[Chỗ ở của tôi hơi nhỏ để tiếp khách. Còn gì nữa không? Nếu không thì tôi đi đây.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-认真-标准-远景"></motion>
-  <dialog chara="008">[Yes.]</dialog>
-  <text>Ma Feima stepped forward.</text>
+  <dialog chara="008">[Có.]</dialog>
+  <text>Ma Feima bước tới.</text>
   <motion chara="008" action="img_trans" img="马非马-标准-标准-远景"></motion>
-  <dialog chara="008">[Second Sister wanted me to tell you something important, something I have to tell you personally.]</dialog>
-  <dialog chara="007">[You couldn’t have told me earlier?]</dialog>
+  <dialog chara="008">[Chị Hai muốn tôi nói với anh điều gì đó quan trọng, điều mà tôi phải nói riêng với anh.]</dialog>
+  <dialog chara="007">[Sao anh không nói với tôi sớm hơn?]</dialog>
   <motion chara="008" action="img_trans" img="马非马-认真-标准-远景"></motion>
-  <dialog chara="008">[It has something to do with Master.]</dialog>
+  <dialog chara="008">[Nó có liên quan đến Thầy.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-悲伤-标准-远景"></motion>
   <bgm looptimes="0"></bgm>
-  <text>The Fifth Disciple of Taixuan stopped in her tracks.</text>
+  <text>Đệ tử thứ năm của Taixuan dừng bước.</text>
   <motion chara="007" action="img_trans" img="凌霜-吃惊-标准-远景"></motion>
-  <dialog chara="007">[Oh?]</dialog>
+  <dialog chara="007">[Ồ?]</dialog>
   <transition mode="fade" in="2" stop="0.5" out="3" color="#000000"></transition>
   <event action="goto" to="25"></event>
 </scene>

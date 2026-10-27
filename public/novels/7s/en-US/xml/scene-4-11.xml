@@ -1,188 +1,188 @@
 <scene id="11" prev="10" title="ピンタ">
   <transition mode="fade" in="0" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
-  <text>"Eagle" was joyous, startled, and furious.</text>
+  <text>"Đại bàng" vừa vui mừng, vừa giật mình, vừa tức giận.</text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bgm id="竹林伏兵"></bgm>
   <bg img="废弃驿站院内" duration="3"></bg>
-  <text inline="true">It was a joy to learn that his subordinates had caught the rat that made trouble. </text>
+  <text inline="true">Thật vui khi biết rằng cấp dưới của ông đã bắt được con chuột gây rắc rối.</text>
   <text>
     <p></p>
-    <p>It was stunning to hear that the "invader" was actually a little girl.</p>
+    <p>Thật kinh ngạc khi nghe nói "kẻ xâm lược" thực ra là một bé gái.</p>
   </text>
   <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="left" custom="default"></transition>
   <bg img="废弃驿站"></bg>
-  <text>After seeing the girl, the "Eagle" finally burst into anger.</text>
+  <text>Sau khi nhìn thấy cô gái, "Đại bàng" cuối cùng cũng nổi giận.</text>
   <event action="hide_ui" duration="2"></event>
   <motion chara="002" action="show" pos="center" img="素裳-嘟嘴-背手-远景" duration="2"></motion>
   <delay t="2"></delay>
-  <text inline="true">The soldiers he trained himself had been beaten like this by a teenage girl?! </text>
+  <text inline="true">Những người lính do chính anh ta huấn luyện lại bị một cô gái tuổi teen đánh bại như thế này sao?!</text>
   <text>
     <p></p>
-    <p>What an absolute humiliation!!!</p>
+    <p>Thật là một sự sỉ nhục tột cùng!!!</p>
   </text>
-  <text>In addition to his fury, he was a little surprised.</text>
+  <text>Ngoài cơn giận dữ, anh ta còn hơi ngạc nhiên.</text>
   <event action="hide_ui" duration="1"></event>
   <motion chara="002" action="move" pos="right" duration="1"></motion>
   <motion chara="015" action="show" pos="left" img="老鹰-普通-玩玉-远景" reversex="true" duration="1"></motion>
   <delay t="0.8"></delay>
   <motion chara="002" action="img_trans" img="素裳-标准-背手-远景"></motion>
-  <text>"Eagle" stepped forward, looking at the girl in front of him, with a lot of doubts in his mind:</text>
-  <text>What is the origin of this girl?!</text>
+  <text>"Đại bàng" bước tới, nhìn cô gái trước mặt, trong lòng đầy nghi ngờ:</text>
+  <text>Cô gái này đến từ đâu vậy?!</text>
   <mono>
     <p></p>
-    <p>Looking at the entire Northern Desert, there wasn't anyone not afraid of his Golden Sand Gang.</p>
+    <p>Nhìn khắp sa mạc phía Bắc, chẳng có ai không sợ băng đảng Cát Vàng của hắn cả.</p>
   </mono>
   <mono>
     <p></p>
-    <p>Even the most elite officers and soldiers thought his rule was far and hard, and never conflicted with it.</p>
+    <p>Ngay cả những sĩ quan và binh lính ưu tú nhất cũng cho rằng sự cai trị của ông ấy xa vời và khắc nghiệt, và chưa bao giờ mâu thuẫn với nó.</p>
   </mono>
   <mono>
     <p></p>
-    <p>Who had the guts of a bear-hearted leopard and dared to break through the door, becoming an enemy of "Eagle"?</p>
+    <p>Ai có gan như báo gấm và dám phá cửa xông vào, trở thành kẻ thù của "Đại Bàng"?</p>
   </mono>
-  <text>He couldn't figure it out.</text>
+  <text>Anh ấy không thể hiểu nổi.</text>
   <motion chara="002" action="img_trans" img="素裳-标准-背手-远景"></motion>
-  <text>And—the one who came was still a little girl, she looked at most sixteen years old, her childishness was still there, and there was the youthful spirit of a young man in her eyes.</text>
-  <text>And—— her martial arts wasn't bad, even surprisingly good. "Eagle"’s most prided men went into battle, but the four of them failed to capture her.</text>
-  <text>What was the origin of this girl?!</text>
-  <text inline="true">"Eagle" wanted to ask a question. But unexpectedly, it wasn't him who spoke first.</text>
+  <text>Và—người đến vẫn còn là một cô bé, trông cô bé nhiều nhất là mười sáu tuổi, sự ngây thơ của cô bé vẫn còn đó, và trong mắt cô bé có tinh thần trẻ trung của một chàng trai trẻ.</text>
+  <text>Và—— võ công của cô ấy không tệ, thậm chí còn tốt đến bất ngờ. Những người đàn ông kiêu hãnh nhất của "Đại Bàng" đã ra trận, nhưng cả bốn người đều không bắt được cô ấy.</text>
+  <text>Cô gái này đến từ đâu vậy?!</text>
+  <text inline="true">"Đại bàng" muốn đặt câu hỏi. Nhưng thật bất ngờ, người nói trước lại không phải là anh ta.</text>
   <text>
     <p></p>
-    <p>But unexpectedly, he wasn't the one who spoke first.</p>
+    <p>Nhưng thật bất ngờ, anh ta lại không phải là người nói trước.</p>
   </text>
   <motion chara="002" action="img_trans" img="素裳-大笑-背手-远景"></motion>
-  <dialog chara="002">[So you're "Eagle"? Wow, I didn't think–]</dialog>
+  <dialog chara="002">[Vậy ra cậu là "Đại bàng" à? Tuyệt vời, tôi không ngờ–]</dialog>
   <event action="hide_ui" duration="1"></event>
   <se id="01-42耳光轻-1"></se>
   <motion chara="-4" action="shake" duration="0.1" range="40" direction="default"></motion>
   <motion chara="002" action="shake" duration="0.2" range="80" direction="horizontal"></motion>
   <motion chara="002" action="hide" img="素裳-呆滞血-背手-远景"></motion>
-  <text inline="true">"Eagle" raised his hand and slapped Sushang severely, causing the words to be stuck in her throat.</text>
+  <text inline="true">"Đại bàng" giơ tay tát mạnh Sushang, khiến lời nói nghẹn lại trong cổ họng cô.</text>
   <text>
     <p></p>
-    <p>In his turf, he was the only one who got to speak first, and he asked questions first.</p>
+    <p>Trong lãnh địa của mình, ông ta là người duy nhất được nói trước và đặt câu hỏi trước.</p>
   </text>
   <motion chara="002" action="show" img="素裳-呆滞血-背手-远景" pos="right" duration="2"></motion>
-  <text>The girl raised her head, blood flowing from the corners of her mouth.</text>
+  <text>Cô gái ngẩng đầu lên, máu chảy ra từ khóe miệng.</text>
   <motion chara="002" action="img_trans" img="素裳-撒娇哭-背手-远景"></motion>
-  <text>She looked at "Eagle" in disbelief, tears in her eyes.</text>
-  <dialog chara="002">[You… you hit me?? My mother didn't even–]</dialog>
+  <text>Cô ấy nhìn "Đại bàng" với vẻ không tin nổi, nước mắt lưng tròng.</text>
+  <dialog chara="002">[Anh… anh đánh tôi à?? Mẹ tôi thậm chí còn không—]</dialog>
   <se id="01-44耳光重"></se>
   <motion chara="-4" action="shake" duration="0.1" range="40" direction="default"></motion>
   <motion chara="002" action="shake" duration="0.2" range="100" direction="horizontal"></motion>
   <motion chara="002" action="hide"></motion>
-  <text>"Eagle" slapped Sushang again, this time the force was extremely heavy, and Sushang nearly tumbled to the ground.</text>
+  <text>"Đại bàng" lại tát Sushang một lần nữa, lần này lực rất mạnh, Sushang suýt ngã xuống đất.</text>
   <motion chara="015" action="img_trans" img="老鹰-狞笑-扭头-远景" reversex="true"></motion>
-  <dialog chara="015">[...Next time you bring the captives back, shut their mouths first.]</dialog>
+  <dialog chara="015">[...Lần sau khi ngươi dẫn những người bị bắt trở lại, hãy bịt miệng họ trước đã.]</dialog>
   <motion chara="094" action="show" pos="right" img="砂匪1-远-坏笑"></motion>
-  <dialog chara="094">「Yes, Chief.」</dialog>
+  <dialog chara="094">「Vâng, thưa Sếp.」</dialog>
   <motion chara="094" action="hide" duration="0.5"></motion>
   <motion chara="015" action="hide" duration="0.5"></motion>
   <text>
-    <p>"Eagle" wiped his hands and squatted in front of the girl. </p>
-    <p>The girl also looked up at him, there was no fear in her eyes, only stubbornness and annoyance.</p>
+    <p>"Đại bàng" lau tay và ngồi xổm trước mặt cô gái.</p>
+    <p>Cô gái cũng ngước nhìn anh ta, trong mắt cô không có chút sợ hãi nào, chỉ có sự bướng bỉnh và khó chịu.</p>
   </text>
   <motion chara="015" action="show" pos="center" img="老鹰-微笑-叉腰-中景"></motion>
-  <text>"Eagle" held her chin before saying:</text>
+  <text>"Đại bàng" chống cằm trước khi nói:</text>
   <dialog chara="015">
-    <p>[I don't know who you are or what your goal is; </p>
-    <p>originally I was a little interested. </p>
-    <p>So I thought I might as well listen to your intentions and if you could make me laugh, I might have been compassionate.]</p>
+    <p>[Tôi không biết bạn là ai hoặc mục tiêu của bạn là gì; </p>
+    <p>ban đầu tôi hơi hứng thú.</p>
+    <p>Vậy nên tôi nghĩ mình cũng nên lắng nghe ý định của anh và nếu anh có thể làm tôi cười, có lẽ tôi đã có lòng thương cảm.</p>
   </dialog>
   <motion chara="015" action="img_trans" img="老鹰-普通-叉腰-中景"></motion>
-  <dialog chara="015">[...Now, you have lost this chance.]</dialog>
-  <text>"Eagle" stared at the girl's eyes, the tears still remaining, enjoying the pleasure of punishing the enemy. </text>
-  <text>This wasn't his style, but after meeting with the Raksha, his heart was full of boredom. Even knowing that threats and intimidation were meaningless, he continued.</text>
+  <dialog chara="015">[...Giờ thì bạn đã đánh mất cơ hội này rồi.]</dialog>
+  <text>"Đại bàng" nhìn chằm chằm vào mắt cô gái, nước mắt vẫn còn đọng lại, thích thú với việc trừng phạt kẻ thù.</text>
+  <text>Đây không phải là phong cách của anh ta, nhưng sau khi gặp Raksha, lòng anh ta tràn ngập sự buồn chán. Ngay cả khi biết rằng những lời đe dọa và hăm dọa là vô nghĩa, anh ta vẫn tiếp tục.</text>
   <motion chara="015" action="img_trans" img="老鹰-普通-抱胸NO刀-中景"></motion>
   <dialog chara="015" inline="true">
-    <p>[Next time, you have to know when you can speak and when you can't;  </p>
-    <p>you have to learn to be cautious in your words and deeds in order to please your master and save your life.</p>
+    <p>[Lần sau, bạn phải biết khi nào được phép nói và khi nào không được phép nói; </p>
+    <p>Bạn phải học cách thận trọng trong lời nói và hành động để làm hài lòng chủ nhân và cứu lấy mạng sống của mình.</p>
   </dialog>
   <motion chara="015" action="img_trans" img="老鹰-微笑-抱胸NO刀-中景"></motion>
   <dialog chara="015">
     <p></p>
-    <p>In the future, people who will face each other day and night will never cherish your flesh and blood like I do.]</p>
+    <p>Trong tương lai, những người sẽ đối mặt với nhau ngày đêm sẽ không bao giờ trân trọng máu mủ ruột thịt của bạn như tôi.</p>
   </dialog>
-  <dialog chara="015">[You are young and good-looking. Skinny and (?) are believed to be likable. To be honest, I intend to sell you at a good price, so you have a few days to be safe. But don't be too happy too soon.]</dialog>
+  <dialog chara="015">[Bạn còn trẻ và ưa nhìn. Gầy gò và (?) được cho là dễ mến. Thành thật mà nói, tôi định bán bạn với giá tốt, vì vậy bạn có vài ngày để an toàn. Nhưng đừng quá vui mừng quá sớm.]</dialog>
   <motion chara="015" action="img_trans" img="老鹰-狞笑-扭头-中景"></motion>
-  <dialog chara="015">[Wait a hundred times for the traffickers to take you away, you will regret not begging me to kill you today, I promise.]</dialog>
+  <dialog chara="015">[Hãy đợi bọn buôn người đưa mày đi cả trăm lần, mày sẽ hối hận vì không cầu xin tao giết mày hôm nay, tao hứa đấy.]</dialog>
   <motion chara="015" action="img_trans" img="老鹰-悲伤-扭头-中景"></motion>
   <dialog chara="015">
-    <p>[“I regret it” and beg for mercy… You have to do these two things for a lifetime, until you die. </p>
-    <p>Those who dare to provoke me to the Golden Sand Gang won't escape this fate.]</p>
+    <p>[“Tôi hối hận” và cầu xin tha thứ… Bạn phải làm hai việc này suốt đời, cho đến khi chết. </p>
+    <p>Những kẻ dám khiêu khích ta đến với Băng đảng Cát Vàng sẽ không thoát khỏi số phận này.")</p>
   </dialog>
-  <text>After all, "Eagle" glanced at the captive, and was disappointed. </text>
+  <text>Sau tất cả, "Đại bàng" liếc nhìn tù nhân và tỏ ra thất vọng.</text>
   <text>
-    <p>The girl sniffed and nodded seriously at him without saying a word. </p>
-    <p>Among the various reactions, it was the one that made him speechless.</p>
+    <p>Cô gái khịt mũi và gật đầu nghiêm túc với anh ta mà không nói một lời.</p>
+    <p>Trong số các phản ứng khác nhau, đó là phản ứng khiến anh ta không nói nên lời.</p>
   </text>
   <motion chara="015" action="hide"></motion>
-  <text>"Eagle" pushed Sushang away, wiped his hands on his clothes in disgust, and turned to the subordinates on the side:</text>
+  <text>“Đại bàng” đẩy Sushang ra, lau tay vào quần áo với vẻ ghê tởm, rồi quay sang những thuộc hạ bên cạnh:</text>
   <motion chara="015" action="show" pos="right" img="老鹰-撩发笑-远景" duration="0.5"></motion>
   <motion chara="095" action="show" reversex="true" pos="left" img="砂匪2-远-微笑" duration="0.5"></motion>
-  <dialog chara="015">[What are you thinking?]</dialog>
+  <dialog chara="015">[Bạn đang nghĩ gì vậy?]</dialog>
   <motion chara="095" action="img_trans" reversex="true" img="砂匪2-远-普通"></motion>
-  <text>The sudden question made the man sweat, and caused him to stutter.</text>
+  <text>Câu hỏi đột ngột khiến người đàn ông đổ mồ hôi và lắp bắp.</text>
   <dialog chara="015">
-    <p>[Since then, you have been restless… </p>
-    <p>...What do you want to say? Speak.’</p>
+    <p>[Kể từ đó, bạn đã bồn chồn… </p>
+    <p>...Bạn muốn nói gì? Hãy nói đi.'</p>
   </dialog>
-  <dialog chara="095">[Yes, it's boss... This girl, she, she's pretty good... Let's still take precautions…]</dialog>
+  <dialog chara="095">[Vâng, đúng rồi, sếp... Cô gái này, cô ấy, cô ấy khá giỏi... Nhưng vẫn phải cẩn thận nhé…]</dialog>
   <motion chara="015" action="img_trans" img="老鹰-撩发-远景"></motion>
-  <text>"Eagle" glanced at the man in disgust, who was frightened to take a step back.</text>
-  <dialog chara="015">[You served her the [Ki Suppressant Pill].]</dialog>
-  <dialog chara="095">[Yes...yes, she did not resist at all. We were worried...she had ulterior motives and would be against you.]</dialog>
+  <text>"Đại bàng" liếc nhìn người đàn ông với vẻ ghê tởm, người đàn ông sợ hãi lùi lại một bước.</text>
+  <dialog chara="015">[Bạn đã cho cô ấy uống [Viên thuốc ức chế Ki].]</dialog>
+  <dialog chara="095">[Vâng...vâng, cô ấy hoàn toàn không chống cự. Chúng tôi đã lo lắng...cô ấy có động cơ thầm kín và sẽ chống lại anh.]</dialog>
   <motion chara="015" action="img_trans" img="老鹰-悲伤-扭头-远景"></motion>
-  <dialog chara="015">[A teenage girl, with both hands bound in shackles, she can't use all of her internal strength.]</dialog>
+  <dialog chara="015">[Một cô gái tuổi teen, với cả hai tay bị còng, cô ấy không thể sử dụng hết sức mạnh nội tại của mình.]</dialog>
   <motion chara="015" action="img_trans" img="老鹰-微笑-抱胸NO刀-远景"></motion>
-  <dialog chara="015">[...And you thought she would be against me?]</dialog>
+  <dialog chara="015">[...Và anh nghĩ cô ấy sẽ chống lại tôi sao?]</dialog>
   <motion chara="095" action="hide" duration="0"></motion>
-  <dialog chara="095">[Your subordinate was wrong!]</dialog>
+  <dialog chara="095">[Cấp dưới của anh đã sai!]</dialog>
   <text>
-    <p>The man lost his soul and knelt down quickly. </p>
-    <p>He knew that the more gentle and calm the gang leader's tone, the more furious he became.</p>
+    <p>Người đàn ông mất linh hồn và nhanh chóng quỳ xuống.</p>
+    <p>Anh ta biết rằng giọng điệu của thủ lĩnh băng đảng càng nhẹ nhàng và bình tĩnh thì anh ta càng trở nên tức giận.</p>
   </text>
   <motion chara="015" action="img_trans" img="老鹰-普通-抱胸NO刀-远景"></motion>
   <dialog chara="015">[……]</dialog>
-  <text>"Eagle" was very angry in his heart, but  his face remained calm. This was a habit he has cultivated for many years. </text>
-  <text>The Raksha upset him, the little girl annoyed him; the self-assertion of his subordinates made him vaguely feel that his authority had been challenged.</text>
-  <dialog chara="015">[Take her... put her in the Dark Dungeon, and lock her up with the Raksha.]</dialog>
-  <dialog chara="015">[They are not allowed to have food, and they must be hungry until the slavers take them away.]</dialog>
-  <dialog chara="-1">[Yes!]</dialog>
-  <text>The bandits responded in unison, pulled the girl up, and pushed her to the Dark Dungeon.</text>
+  <text>“Đại bàng” rất tức giận trong lòng, nhưng mặt vẫn bình tĩnh. Đây là thói quen mà hắn đã rèn luyện trong nhiều năm.</text>
+  <text>Raksha làm anh ta khó chịu, cô bé làm anh ta bực mình; sự tự khẳng định của cấp dưới khiến anh ta mơ hồ cảm thấy quyền lực của mình đã bị thách thức.</text>
+  <dialog chara="015">[Hãy đưa cô ta... nhốt cô ta vào Ngục Tối và giam cô ta cùng với Raksha.]</dialog>
+  <dialog chara="015">[Họ không được phép ăn và phải chịu đói cho đến khi những kẻ buôn nô lệ đưa họ đi.]</dialog>
+  <dialog chara="-1">[Vâng!]</dialog>
+  <text>Bọn cướp đồng thanh đáp lại, kéo cô gái dậy và đẩy cô xuống Hầm ngục tối.</text>
   <motion chara="015" action="img_trans" img="老鹰-普通-玩玉-远景"></motion>
-  <dialog chara="015">[……Um?]</dialog>
+  <dialog chara="015">[……Ừm?]</dialog>
   <text>
-    <p>The man who had just kneeled on the ground did not leave. </p>
-    <p>He bowed his head, not daring to look up, but the trembling of his body had already revealed his tension.</p>
+    <p>Người đàn ông vừa quỳ xuống đất không rời đi.</p>
+    <p>Anh ta cúi đầu, không dám ngẩng lên, nhưng sự run rẩy của cơ thể đã cho thấy sự căng thẳng của anh ta.</p>
   </text>
-  <dialog chara="015">[What else do you want to say?]</dialog>
+  <dialog chara="015">[Bạn còn muốn nói gì nữa không?]</dialog>
   <motion chara="095" action="show" pos="left" img="砂匪2-远-微笑" reversex="true"></motion>
-  <text>The man straightened up as if he had received a pardon, showing a little excited smile.</text>
-  <dialog chara="095">[This subordinate has a treasure dedicated to the leader. I hope I can make up for it.]</dialog>
-  <text>As he spoke, he magically took out a cloth bag and presented it with both hands.</text>
-  <text>"Eagle" didn't stretch out his hand, didn't even look at the cloth bag, and asked:</text>
+  <text>Người đàn ông đứng thẳng dậy như thể vừa được tha tội, nở một nụ cười hơi phấn khích.</text>
+  <dialog chara="095">[Người cấp dưới này có một bảo vật dâng tặng cho lãnh đạo. Tôi hy vọng có thể bù đắp lại.]</dialog>
+  <text>Khi ông ấy nói, ông ấy đã lấy ra một chiếc túi vải một cách kỳ diệu và đưa nó ra bằng cả hai tay.</text>
+  <text>"Đại bàng" không vươn tay ra, thậm chí không nhìn vào túi vải, và hỏi:</text>
   <motion chara="015" action="img_trans" img="老鹰-普通-抱胸NO刀-远景"></motion>
-  <dialog chara="015">[What's inside? Where did it come from?]</dialog>
-  <dialog chara="095">"A sword that cuts iron like mud, taken from that little girl."</dialog>
+  <dialog chara="015">[Bên trong có gì? Nó đến từ đâu?]</dialog>
+  <dialog chara="095">"Một thanh kiếm chém sắt như bùn, lấy từ cô bé đó."</dialog>
   <dialog chara="015">[……]</dialog>
   <motion chara="095" action="img_trans" img="砂匪2-远-普通" reversex="true"></motion>
   <text inline="true">[……]</text>
-  <text>"Eagle" still didn't pick it up. The man also maintained his posture, and didn't dare to move an inch.</text>
+  <text>"Đại bàng" vẫn không nhặt nó lên. Người đàn ông cũng giữ nguyên tư thế, không dám nhúc nhích một inch nào.</text>
   <motion chara="015" action="img_trans" img="老鹰-微笑-玩玉-远景"></motion>
   <text>
-    <p>After a long time, "Eagle" smiled suddenly, reached out his hand to take the cloth bag, and slowly untied the cloth wrapped around it, revealing the true face of the sword in it. [\s]</p>
-    <p>He had confirmed that the man in front of him had not concealed or lied, that was enough.</p>
+    <p>Sau một hồi lâu, "Đại Bàng" đột nhiên mỉm cười, vươn tay lấy chiếc túi vải, và từ từ cởi bỏ lớp vải quấn quanh nó, để lộ ra bộ mặt thật của thanh kiếm bên trong. [\s]</p>
+    <p>Ông ấy đã xác nhận rằng người đàn ông trước mặt ông ấy không che giấu hay nói dối, thế là đủ rồi.</p>
   </text>
   <event action="hide_ui" duration="3"></event>
   <motion chara="095" action="hide"></motion>
   <motion chara="015" action="hide"></motion>
   <cg img="氛围_通用_轩辕剑" duration="3"></cg>
   <delay t="3"></delay>
-  <dialog chara="015">[Oh–]</dialog>
-  <text>Under the faint moonlight, the sword shone with a silvery light.</text>
-  <text>At a glance, he knew that this sword was a wonder of the world.</text>
+  <dialog chara="015">[Ồ–]</dialog>
+  <text>Dưới ánh trăng mờ ảo, thanh kiếm tỏa sáng với ánh bạc.</text>
+  <text>Chỉ cần nhìn thoáng qua, anh ta đã biết rằng thanh kiếm này là một kỳ quan của thế giới.</text>
   <transition mode="fade" in="1" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="12"></event>
 </scene>

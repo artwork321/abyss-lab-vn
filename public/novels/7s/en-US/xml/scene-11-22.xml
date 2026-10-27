@@ -2,154 +2,154 @@
   <transition mode="fade" stop="0.5" out="3" color="#000000"></transition>
   <bgm id="秋恋古道（慢抒情）"></bgm>
   <bg img="BGSky00"></bg>
-  <text>The sun has set, the last vestiges of its light setting westward.</text>
+  <text>Mặt trời đã lặn, những tia sáng cuối cùng của nó đang khuất dần về phía tây.</text>
   <bg img="BGSky02" duration="8"></bg>
-  <text>Ma Feima looked at the sky.</text>
+  <text>Ma Feima nhìn lên trời.</text>
   <dialog chara="008">[...]</dialog>
   <mono>
     <p></p>
-    <p>There were only clouds and the afterglow in the sky. There was nothing special about the clouds or the afterglow, </p>
+    <p>Trên bầu trời chỉ có mây và ánh hoàng hôn. Chẳng có gì đặc biệt về những đám mây hay ánh hoàng hôn cả,</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>but Ma Feima watched them intently nonetheless.</p>
+    <p>nhưng Ma Feima vẫn chăm chú quan sát họ.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>It didn’t matter what he was looking at, but that he was waiting.</p>
+    <p>Điều anh ta đang nhìn không quan trọng, mà quan trọng là anh ta đang chờ đợi.</p>
     <p></p>
-    <p>He didn’t like to wait, but he was very good at it.</p>
+    <p>Anh ấy không thích chờ đợi, nhưng anh ấy rất giỏi trong việc đó.</p>
     <p></p>
-    <p>He’d been a faithful companion to waiting for these past 10 years.</p>
+    <p>Anh ấy đã là người bạn đồng hành trung thành trong suốt 10 năm qua.</p>
   </mono>
   <event action="hide_ui"></event>
   <bg img="BGDesertWU" duration="3"></bg>
   <se id="01-71开门声"></se>
   <delay t="2"></delay>
   <event action="show_ui"></event>
-  <text>Creak—</text>
-  <text>A quiet squeaky noise sounded behind him.</text>
+  <text>Tiếng kẽo kẹt—</text>
+  <text>Một tiếng kêu rít nhỏ vang lên phía sau anh ta.</text>
   <motion chara="007" action="show" pos="right" img="凌霜-标准-标准-远景" duration="2"></motion>
   <delay t="1"></delay>
-  <text>Ma Feima turned around to see a girl leaning by the door, scowling at him:</text>
+  <text>Ma Feima quay lại nhìn thấy một cô gái đang dựa vào cửa, cau mày nhìn anh ta:</text>
   <motion chara="007" action="img_trans" img="凌霜-嫌弃-标准-远景"></motion>
-  <dialog chara="007">[Old Sixth. You’ve aged so much.]</dialog>
+  <dialog chara="007">[Ông già thứ Sáu. Ông đã già đi nhiều quá rồi.]</dialog>
   <motion chara="008" action="show" pos="left" img="马非马-笑-标准-远景"></motion>
-  <dialog chara="008">[Heh, I can always count on Senior Sister’s brutal honesty. It’s been twenty years, that’s bound to happen.]</dialog>
+  <dialog chara="008">[Hừ, mình luôn có thể trông cậy vào sự thẳng thắn tàn nhẫn của Sư tỷ. Đã hai mươi năm rồi, chuyện đó chắc chắn sẽ xảy ra thôi.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-微笑-标准-远景"></motion>
-  <text>Ma Feima couldn’t help but laugh. All these years, and his Fifth Senior Sister was still just as she was then. How was that not something to be happy about?</text>
-  <dialog chara="007">[Looks like age hasn’t matured you one bit.]</dialog>
+  <text>Ma Feima không nhịn được cười. Bao nhiêu năm rồi, mà sư tỷ năm của anh vẫn y như xưa. Chẳng lẽ đó không phải là điều đáng vui sao?</text>
+  <dialog chara="007">[Trông như tuổi tác chẳng làm bạn trưởng thành chút nào.]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
-  <text>Lingshuang glanced inside the room and said coldly:</text>
+  <text>Lingshuang liếc nhìn vào trong phòng và lạnh lùng nói:</text>
   <dialog chara="007">
-    <p>[You’ve always been a pretty good kid, and now you pick up fights whenever you want. </p>
-    <p>Who gave you the right to hurt my disciple?]</p>
+    <p>[Trước đây con luôn là một đứa trẻ ngoan, nhưng giờ con lại thích gây gổ bất cứ khi nào con muốn.</p>
+    <p>Ai cho ngươi quyền làm hại môn đệ của ta?</p>
   </dialog>
   <motion chara="008" action="img_trans" img="马非马-微惊-标准-远景"></motion>
   <text>
-    <p>Ma Feima stood there for a second. Even if he knew that his Fifth Senior Sister had taken in a disciple, he never actually associated the bonds of a master and a disciple with her. </p>
-    <p>To him, she’d always been cold and emotionless.</p>
+    <p>Ma Feima đứng đó một giây. Dù biết rằng Ngũ sư tỷ đã nhận đệ tử, hắn chưa bao giờ thực sự liên kết mối quan hệ thầy trò với cô ấy.</p>
+    <p>Đối với anh ấy, cô ấy luôn lạnh lùng và vô cảm.</p>
   </text>
   <motion chara="008" action="img_trans" img="马非马-沉思-标准-远景"></motion>
-  <dialog chara="008">[Who’s… That little girl?]</dialog>
-  <dialog chara="007">[She’s Seventh Sister’s daughter.]</dialog>
+  <dialog chara="008">[Cô bé đó là ai?]</dialog>
+  <dialog chara="007">[Cô ấy là con gái của người chị thứ bảy.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-微惊-标准-远景"></motion>
-  <dialog chara="008" inline="true">[No wonder she looked familiar, she’s Suyi’s — </dialog>
+  <dialog chara="008" inline="true">[Không ngạc nhiên khi cô ấy trông quen quen, cô ấy là của Suyi — </dialog>
   <motion chara="008" action="img_trans" img="马非马-标准-标准-远景"></motion>
-  <dialog chara="008">What’s her name again?]</dialog>
+  <dialog chara="008">Tên cô ấy là gì nhỉ?</dialog>
   <motion chara="007" action="img_trans" img="凌霜-厌烦-标准-远景"></motion>
   <dialog chara="007">[Sushang.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-苦笑-标准-远景"></motion>
-  <dialog chara="008">[Oh, kind of sounds like her mom’s name.]</dialog>
+  <dialog chara="008">[Ồ, nghe có vẻ giống tên mẹ cô ấy.]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-标准-标准-远景"></motion>
   <dialog chara="007">[...]</dialog>
   <text>[...]</text>
   <motion chara="008" action="img_trans" img="马非马-微笑-标准-远景"></motion>
-  <dialog chara="008">The woman showed no reaction to his statement.</dialog>
-  <text>[Fine… Let’s cut the pleasantries.]</text>
+  <dialog chara="008">Người phụ nữ không có phản ứng gì trước lời nói của anh ta.</dialog>
+  <text>[Được rồi… Thôi, bỏ qua những lời xã giao đi.]</text>
   <motion chara="008" action="img_trans" img="马非马-闭目-收剑"></motion>
-  <text>Ma Feima said, smiling.</text>
+  <text>Ma Feima nói, mỉm cười.</text>
   <motion chara="008" action="img_trans" img="马非马-沉思-握剑"></motion>
   <se id="01-20拿出轩辕剑"></se>
-  <text>He raised his hand, and a gigantic object appeared.</text>
+  <text>Anh ta giơ tay lên, và một vật thể khổng lồ xuất hiện.</text>
   <motion chara="007" action="img_trans" img="凌霜-注视-标准-远景"></motion>
-  <text>It was a crimson greatsword about five feet in length. It looked kind of like Sushang’s Xuanyuan.</text>
-  <text>The fifth disciple of Taixuan stared coldly at her sixth brother’s greatsword, a complicated look sparkling in her eyes.</text>
+  <text>Đó là một thanh đại kiếm màu đỏ thẫm dài khoảng 1,5 mét. Nó trông giống như Xuanyuan của Sushang.</text>
+  <text>Đệ tử thứ năm của Taixuan lạnh lùng nhìn chằm chằm vào thanh đại kiếm của người anh trai thứ sáu, ánh mắt nàng ánh lên vẻ phức tạp.</text>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
-  <dialog chara="007">But all she said in the end was:</dialog>
+  <dialog chara="007">Nhưng cuối cùng cô ấy chỉ nói:</dialog>
   <motion chara="008" action="img_trans" img="马非马-豪迈笑-握剑"></motion>
   <dialog chara="008">
-    <p>[What? Are you trying to show off?]</p>
-    <p>[Hahaha! No! I could never boast in front of my Fifth Senior Sister! I’d have no chance of winning even if you don’t have your Xuanyuan Sword.]</p>
+    <p>[Cái gì? Cậu đang cố khoe khoang à?]</p>
+    <p>[Haha! Không! Ta không bao giờ dám khoe khoang trước mặt Ngũ sư tỷ! Ta sẽ không có cơ hội thắng dù ngươi không có thanh kiếm Huyền Nguyên.]</p>
   </dialog>
-  <text>Ma Feima laughed heartily, but then adopted a more serious look, bowing down to the woman:</text>
+  <text>Ma Feima cười lớn, nhưng sau đó vẻ mặt trở nên nghiêm túc hơn, cúi đầu chào người phụ nữ:</text>
   <motion chara="008" action="img_trans" img="马非马-沉思-握剑"></motion>
-  <dialog chara="008">[It’s been twenty years, and I wanted to ask you for a duel to see if I’ve grown at all.]</dialog>
+  <dialog chara="008">[Đã hai mươi năm rồi, và tôi muốn thách đấu với anh để xem tôi có trưởng thành hơn chút nào không.]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-免了-标准-远景"></motion>
-  <dialog chara="007">[You truly have gotten old. You weren’t like this before.]</dialog>
+  <dialog chara="007">[Bạn thực sự đã già rồi. Trước đây bạn không như thế này.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-苦笑-握剑"></motion>
-  <dialog chara="008">[...Yes, people change.]</dialog>
+  <dialog chara="008">[...Vâng, con người thay đổi.]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-拒绝-标准-远景"></motion>
-  <dialog chara="007">[For the worse, it would seem.]</dialog>
+  <dialog chara="007">[Có vẻ như tình hình sẽ tồi tệ hơn.]</dialog>
   <motion chara="008" action="hide"></motion>
   <motion chara="007" action="hide"></motion>
   <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="left" custom="default"></transition>
   <bg img="凌霜小屋室外"></bg>
-  <text>Lingshuang entered the courtyard and shook her robe.</text>
+  <text>Lingshuang bước vào sân và rũ áo.</text>
   <motion chara="007" action="show" pos="center" img="凌霜-标准-标准-远景"></motion>
-  <dialog chara="007">[I’ll comply, you can strike me now.]</dialog>
+  <dialog chara="007">[Tôi sẽ tuân thủ, giờ anh có thể đánh tôi.]</dialog>
   <motion chara="007" action="move" pos="left"></motion>
   <motion chara="008" action="show" img="马非马-微惊-握剑" pos="right"></motion>
-  <dialog chara="008">[Are you not going to use a weapon, Senior Sister?]</dialog>
+  <dialog chara="008">[Chị không định dùng vũ khí sao, Sư tỷ?]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-免了-标准-远景"></motion>
-  <dialog chara="007">[No need.]</dialog>
+  <dialog chara="007">[Không cần.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-苦笑-握剑"></motion>
-  <dialog chara="008">「I'll believe you.」</dialog>
+  <dialog chara="008">「Tôi sẽ tin anh.」</dialog>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
-  <text>Ma Feima shook his giant greatsword in the air.</text>
+  <text>Ma Feima vung thanh đại kiếm khổng lồ của mình lên không trung.</text>
   <motion chara="008" action="img_trans" img="马非马-豪迈笑-握剑"></motion>
-  <dialog chara="008">[But this is a Xuanyuan Sword. The wounds they’d inflict are no joke, are you sure?]</dialog>
+  <dialog chara="008">[Nhưng đây là một thanh kiếm Huyền Nguyên. Những vết thương mà nó gây ra không phải chuyện đùa, ngươi có chắc không?]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-嫌弃-标准-远景"></motion>
-  <dialog chara="007">[Shut up, you think I don’t know that? It’s not like I have a [Xuanyuan] anyway, so does it matter what I use?]</dialog>
+  <dialog chara="007">[Im lặng đi, cậu nghĩ tôi không biết điều đó sao? Dù sao thì tôi cũng đâu có [Xuanyuan], vậy thì dùng cái gì cũng không quan trọng.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-闭眼-握剑"></motion>
   <text>
-    <p>Ma Feima titled his head. This wasn’t the answer he was expecting. </p>
-    <p>The duel was one thing, but he also wanted to know where that little girl’s Xuanyuan Sword came from.</p>
+    <p>Ma Feima nghiêng đầu. Đây không phải là câu trả lời mà anh ta mong đợi.</p>
+    <p>Cuộc đấu tay đôi là một chuyện, nhưng hắn cũng muốn biết thanh kiếm Huyền Nguyên của cô bé đó đến từ đâu.</p>
   </text>
   <motion chara="008" action="img_trans" img="马非马-沉思-握剑"></motion>
-  <dialog chara="008">[Is little Sushang’s Xuanyuan Sword not yours?]</dialog>
+  <dialog chara="008">[Thanh kiếm Huyền Nguyên của Tiểu Tô Chương không phải của ngươi sao?]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-厌烦-标准-远景"></motion>
-  <dialog chara="007">「Isn't the original sword from Lingshuang Nee-san?」</dialog>
-  <text>Lingshuang looked around and spotted an empty sheath. She picked it up.</text>
+  <dialog chara="007">「Chẳng phải thanh kiếm gốc là của Lingshuang Nee-san sao?</dialog>
+  <text>Lingshuang nhìn xung quanh và phát hiện một cái vỏ trống. Cô nhặt nó lên.</text>
   <se id="01-57接住剑柄"></se>
   <motion chara="007" action="img_trans" img="凌霜-对吧-标准-远景"></motion>
-  <dialog chara="007">[Fine fine, whatever you say. Now I have a weapon too.]</dialog>
+  <dialog chara="007">[Được rồi, được rồi, tùy anh nói. Giờ tôi cũng có vũ khí rồi.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-微惊-握剑"></motion>
-  <text>Ma Feima stood there slightly stunned.</text>
-  <dialog chara="008">[You’re going to use that scrap piece of wood against my 【Redsweord】?]</dialog>
+  <text>Ma Feima đứng đó hơi sững sờ.</text>
+  <dialog chara="008">[Ngươi định dùng mảnh gỗ vụn đó để chống lại thanh kiếm 【Redsweord】 của ta sao?]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
-  <dialog chara="007">[Again with the 【Redsweord】...]</dialog>
-  <text>She scoffed.</text>
+  <dialog chara="007">[Lại với 【Redsweord】...]</dialog>
+  <text>Cô ấy chế giễu.</text>
   <motion chara="007" action="img_trans" img="凌霜-小恶魔-标准-远景"></motion>
   <dialog chara="007">
-    <p>[Don’t underestimate this piece of wood, it has a name too. It’s called 【Sternsheath】. </p>
-    <p>How’s that? Is it worthy enough to face your 【Redsweord】?]</p>
+    <p>[Đừng đánh giá thấp mảnh gỗ này, nó cũng có tên. Nó được gọi là 【Sternsheath】. </p>
+    <p>Thế nào? Có xứng đáng để đối mặt với 【Redsweord】 của ngươi không?</p>
   </dialog>
   <dialog chara="008">[...]</dialog>
   <motion chara="008" action="img_trans" img="马非马-豪迈笑-握剑"></motion>
   <bgm looptimes="0"></bgm>
   <dialog chara="008">[... Hahahahaha!]</dialog>
-  <text>Ma Feima couldn’t hold in his laughter. He was extremely overjoyed right now.</text>
+  <text>Ma Feima không thể nhịn được cười. Lúc này anh ấy vô cùng vui mừng.</text>
   <mono>
     <p></p>
-    <p>There were few worthy of being his opponent in these past twenty years, so he hadn’t had a chance to unsheathe【Redsweord】before.</p>
+    <p>Trong hai mươi năm qua, có rất ít người xứng đáng làm đối thủ của anh ta, vì vậy anh ta chưa có cơ hội rút kiếm ra trước đây.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>He’d been teetering at the edge of death many times before, but this battle, one that didn’t necessarily risk his life, was the true battle of skill that he wished for.</p>
+    <p>Trước đây anh ta đã nhiều lần đứng trên bờ vực cái chết, nhưng trận chiến này, một trận chiến không nhất thiết phải mạo hiểm đến tính mạng của anh ta, mới là trận chiến kỹ năng thực sự mà anh ta mong muốn.</p>
   </mono>
   <motion chara="008" action="img_trans" img="马非马-邪恶-握剑"></motion>
-  <dialog chara="008">[Let’s see if【Sternsheath】can break my strike!]</dialog>
+  <dialog chara="008">[Hãy xem liệu 【Sternsheath】có thể phá vỡ đòn tấn công của ta không!]</dialog>
   <delay t="1"></delay>
   <event action="goto" to="23"></event>
 </scene>

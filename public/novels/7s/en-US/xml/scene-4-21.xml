@@ -5,94 +5,94 @@
   <bgm id="红颜近落霞（慢哀）"></bgm>
   <text>
     <p>Pain and exhaustion overwhelmed the girl’s body, reminding her that she was in control of her body once more.[\s]</p>
-    <p>… A rather cruel reminder, anyway.</p>
+    <p>...Dù sao thì đó cũng là một lời nhắc nhở khá tàn nhẫn.</p>
   </text>
-  <dialog chara="002">[It hurts…]</dialog>
+  <dialog chara="002">[Đau quá…]</dialog>
   <mono>
     <p></p>
     <p>The salty tang of blood in her mouth caused the girl to contemplate her life.[\s]</p>
     <p></p>
-    <p>Were her internals ruptured?</p>
-    <p>… Her slashed stomach continued to periodically send signals of pain.</p>
+    <p>Nội tạng của cô ấy có bị vỡ không?</p>
+    <p>... Bụng bị rạch của cô ấy vẫn thỉnh thoảng phát ra tín hiệu đau.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The way of the sword was no stranger to injuries, </p>
-    <p>but it was the first time the girl had suffered these kinds of injuries.</p>
+    <p>Con đường của thanh kiếm không hề xa lạ với những thương tích,</p>
+    <p>nhưng đó là lần đầu tiên cô gái bị những loại thương tích này.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>[em italic color=#FAFAD2]If this is what victory tastes like… </p>
-    <p>then it’s so bitter.[/em][\s]</p>
+    <p>[em italic color=#FAFAD2]Nếu đây là hương vị của chiến thắng… </p>
+    <p>thì nó đắng quá.[/em][\s]</p>
     <p></p>
-    <p>Li Sushang couldn’t help but let her mind run wild, even letting out a chuckle despite the resultant pain.</p>
-    <p>And once again, she grimaced in pain.</p>
+    <p>Li Sushang không thể không để tâm trí mình bay bổng, thậm chí còn bật cười dù đang đau đớn.</p>
+    <p>Và một lần nữa, cô ấy nhăn mặt vì đau.</p>
   </mono>
-  <dialog chara="002">[...Hey Raksha, you’re there, right?]</dialog>
-  <text>The girl tried her hardest to speak, asking the moon up above.</text>
+  <dialog chara="002">[...Này Raksha, cậu có ở đó không?]</dialog>
+  <text>Cô gái cố gắng hết sức để nói, hỏi mặt trăng ở trên cao.</text>
   <se id="01-68奥托脚步声"></se>
   <text>
-    <p>Nobody answered her. However, she heard the pattering of footsteps-[\s]</p>
-    <p>Knock, knock.[\s]</p>
-    <p>-as someone neared her.</p>
+    <p>Không ai trả lời cô ấy. Tuy nhiên, cô ấy nghe thấy tiếng bước chân-[\s]</p>
+    <p>Cốc cốc.[\s]</p>
+    <p>-khi có ai đó đến gần cô ấy.</p>
   </text>
-  <dialog chara="002">[Hehe… It’s you, right?]</dialog>
+  <dialog chara="002">[Hehe… Là bạn phải không?]</dialog>
   <se looptimes="0"></se>
   <text>
-    <p>Li Sushang asked, </p>
-    <p>but her voice was too quiet, so much so that she couldn’t even hear it herself over the shifting sands.</p>
+    <p>Li Sushang hỏi, </p>
+    <p>nhưng giọng cô ấy quá nhỏ, đến nỗi chính cô ấy cũng không nghe thấy được vì tiếng cát dịch chuyển.</p>
   </text>
-  <dialog chara="002">[Did you help me?]</dialog>
-  <dialog chara="001">[Stop talking.]</dialog>
+  <dialog chara="002">[Bạn đã giúp tôi chưa?]</dialog>
+  <dialog chara="001">[Ngừng nói chuyện.]</dialog>
   <event action="hide_ui" duration="2"></event>
   <cg img="CG_第一折_黑渊白花空手" duration="2"></cg>
   <delay t="2"></delay>
-  <text>The golden-haired green-eyed Raksha knelt down next to her.</text>
-  <dialog chara="001">[You’re very lucky. These aren’t serious injuries.]</dialog>
+  <text>Raksha tóc vàng mắt xanh quỳ xuống bên cạnh cô ấy.</text>
+  <dialog chara="001">[Bạn rất may mắn. Đây không phải là những chấn thương nghiêm trọng.]</dialog>
   <text>
-    <p>[em italic color=#FAFAD2]Are you kidding?[/em]</p>
-    <p>Li Sushang wanted to ask, but she ended up not saying a word. </p>
+    <p>[em italic color=#FAFAD2]Bạn đang đùa à?[/em]</p>
+    <p>Li Sushang muốn hỏi nhưng cuối cùng lại không nói một lời.</p>
   </text>
-  <text>She laid there peacefully, waiting to see what other kinds of tricks were up the Raksha’s sleeve.</text>
+  <text>Cô ấy nằm đó một cách bình thản, chờ xem Raksha còn giở trò gì nữa.</text>
   <event action="hide_ui" duration="3.1"></event>
   <se id="01-69黑渊白花效果音"></se>
   <cg img="CG_第一折_黑渊白花空手特效" duration="3"></cg>
   <delay t="3"></delay>
-  <text>Unsurprisingly, the Raksha opened his palm and allowed a golden-blue light to spill forth from the void, forming into an item.</text>
+  <text>Không có gì ngạc nhiên khi Raksha mở lòng bàn tay ra và để cho một luồng ánh sáng vàng xanh tràn ra từ hư không, tạo thành một vật thể.</text>
   <event action="hide_ui" duration="3"></event>
   <cg img="CG_第一折_黑渊白花4" duration="3"></cg>
   <delay t="3"></delay>
   <text>
-    <p>From Sushang’s perspective, it looked like a white umbrella with some strange crests. </p>
-    <p>Its body was elongated and its tip was sharp.</p>
+    <p>Từ góc nhìn của Sushang, nó trông giống như một chiếc ô màu trắng với một số họa tiết kỳ lạ.</p>
+    <p>Thân nó thon dài và đầu nó nhọn.</p>
   </text>
   <se looptimes="0"></se>
-  <dialog chara="002">[Are you going to poke me with that?]</dialog>
-  <dialog chara="001">[Stop talking.]</dialog>
-  <text>The Raksha repeated.</text>
+  <dialog chara="002">[Bạn định chọc tôi bằng cái đó à?]</dialog>
+  <dialog chara="001">[Ngừng nói chuyện.]</dialog>
+  <text>Raksha lặp lại.</text>
   <cg img="CG_第一折_黑渊白花6"></cg>
-  <text>His falling hair covered his eyes, and Sushang saw a drop of something, either sweat or a tear, drip from his face. [\s]The Raksha held the pitch black handle of the umbrella, placing its tip on Sushang’s injury, and said:</text>
+  <text>Mái tóc rủ xuống che khuất mắt anh ta, và Sushang nhìn thấy một giọt gì đó, có thể là mồ hôi hoặc nước mắt, nhỏ giọt từ mặt anh ta. [\s]Raksha cầm cán ô đen kịt, đặt đầu nhọn lên vết thương của Sushang và nói:</text>
   <dialog chara="001">
-    <p>[It won’t hurt, but it’ll feel a bit strange… </p>
-    <p>Probably a little numb or sore, can you try not to move?]</p>
+    <p>[Sẽ không đau, nhưng sẽ cảm thấy hơi lạ… </p>
+    <p>Có lẽ hơi tê hoặc đau, bạn có thể cố gắng đừng cử động được không?</p>
   </dialog>
-  <text>Sushang wanted to nod, but the pain from her injuries caused her to blink in response instead.</text>
-  <dialog chara="002">[...I believe you.]</dialog>
-  <text>She didn’t even know if she was able to say that.</text>
+  <text>Sushang muốn gật đầu, nhưng cơn đau do vết thương khiến cô ấy chỉ chớp mắt đáp lại.</text>
+  <dialog chara="002">[...Tôi tin bạn.]</dialog>
+  <text>Cô ấy thậm chí không biết mình có thể nói điều đó hay không.</text>
   <event action="hide_ui" duration="2"></event>
   <cg duration="2" img="CG_第一折_黑渊白花5"></cg>
   <delay t="2"></delay>
-  <text>The pain began to subside from the area the Raksha was touching with the tip of his umbrella. [\s]Using her Blade Mantra, Sushang could see that the Raksha was directing Ki into her injuries. </text>
-  <text>It was clearly a costly endeavor judging from the sweat pooling on his face.</text>
+  <text>Cơn đau bắt đầu dịu đi ở vùng mà Raksha đang chạm vào bằng đầu ô của hắn. [\s]Sử dụng Thần chú Lưỡi kiếm của mình, Sushang có thể thấy rằng Raksha đang hướng Ki vào vết thương của cô ấy.</text>
+  <text>Rõ ràng đó là một nỗ lực tốn kém, xét theo lượng mồ hôi đang đọng trên mặt anh ta.</text>
   <text>
-    <p>[em italic color=#FAFAD2]Do golden-haired people sweat gold too?[/em]</p>
-    <p>Li Sushang thought, slightly embarrassed, excited, shy, and a little sorry for thinking that of him.</p>
+    <p>[em italic color=#FAFAD2]Người tóc vàng cũng đổ mồ hôi ra vàng sao?[/em]</p>
+    <p>Lý Tô Chương nghĩ, hơi xấu hổ, phấn khích, ngượng ngùng, và có chút áy náy vì đã nghĩ như vậy về mình.</p>
   </text>
-  <dialog chara="001">[There’s too much of a gap between the functionality of the simulated ones…]</dialog>
-  <text>The Raksha said to himself.</text>
-  <dialog chara="001">[It’ll need some time.]</dialog>
-  <dialog chara="002">[Ok.]</dialog>
-  <text>Both the Raksha and Li Sushang stopped talking.</text>
+  <dialog chara="001">[Có một khoảng cách quá lớn giữa chức năng của những cái được mô phỏng…]</dialog>
+  <text>Raksha tự nhủ.</text>
+  <dialog chara="001">[Sẽ cần một chút thời gian.]</dialog>
+  <dialog chara="002">[Được rồi.]</dialog>
+  <text>Cả Raksha và Li Sushang đều ngừng nói.</text>
   <bgm looptimes="0"></bgm>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
@@ -100,83 +100,83 @@
   <mono>
     <p></p>
     <p></p>
-    <p>The nightly breeze blew through the Raksha’s long golden locks. </p>
+    <p>Làn gió đêm thổi qua mái tóc vàng dài của Raksha.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Li Sushang could feel a slight tickling sensation from where it brushed past on her face. </p>
-    <p>She wanted to say something, but didn’t in the end.</p>
+    <p>Li Sushang cảm thấy hơi nhột ở chỗ nó chạm vào mặt cô.</p>
+    <p>Cô ấy muốn nói điều gì đó, nhưng cuối cùng lại không nói.</p>
   </mono>
   <bg img="PureBlack"></bg>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>She instead closed her eyes. [\s]</p>
+    <p>Thay vào đó, cô ấy nhắm mắt lại. [\s]</p>
     <p></p>
-    <p>It was like what the Raksha said, she felt both numbness and soreness inside her. It was a strange feeling, but she could deal with it.</p>
+    <p>Giống như những gì Raksha nói, cô ấy cảm thấy cả tê liệt và đau nhức bên trong. Đó là một cảm giác kỳ lạ, nhưng cô ấy có thể chịu đựng được.</p>
   </mono>
   <bgm id="侠女之声（女抒情）"></bgm>
-  <dialog chara="002">[Sigh~]</dialog>
-  <text>She thought about the past day.</text>
+  <dialog chara="002">[Thở dài~]</dialog>
+  <text>Cô ấy nghĩ về ngày hôm qua.</text>
   <cg img="氛围_第一折_金沙帮众" duration="1"></cg>
   <bg img="BGSky03"></bg>
-  <text>First, she defeated four desert bandits and got a taste of what being a prisoner was like.</text>
+  <text>Đầu tiên, cô ấy đã đánh bại bốn tên cướp sa mạc và nếm trải cảm giác bị giam cầm.</text>
   <cg img="CG_第一折_鹰李对峙_鹰惊李伸手" duration="1"></cg>
-  <text>Then, she had an honorable duel with the man named “Eagle”, though she won by a thread.</text>
+  <text>Sau đó, cô ấy đã có một cuộc đấu tay đôi danh dự với người đàn ông tên là “Đại Bàng”, mặc dù cô ấy đã thắng sát nút.</text>
   <cg duration="1" img="CG_第一折_抢剑_鹰李"></cg>
-  <text>Despite seriously injuring the boss of the Golden Sand Gang, she was in pretty bad shape too.</text>
+  <text>Mặc dù đã gây thương tích nghiêm trọng cho ông trùm của Băng đảng Cát Vàng, nhưng cô ấy cũng đang trong tình trạng khá tồi tệ.</text>
   <cg img="CG_第一折_黑渊白花6"></cg>
-  <text>She also met this strange foreigner and was watching him heal her wounds with sorcery.</text>
+  <text>Cô ấy cũng gặp người nước ngoài kỳ lạ này và đang quan sát anh ta chữa lành vết thương cho cô bằng phép thuật.</text>
   <cg></cg>
-  <text>[em italic color=#FAFAD2]What a long day…[/em]</text>
+  <text>[em italic color=#FAFAD2]Một ngày dài thật đấy…[/em]</text>
   <text>
-    <p>The life and death experience she had today was a great step for the girl. </p>
-    <p>It was as if a lifetime had passed since this morning.</p>
+    <p>Trải nghiệm sinh tử mà cô ấy có hôm nay là một bước tiến lớn đối với cô gái.</p>
+    <p>Cứ như thể cả một đời người đã trôi qua kể từ sáng nay.</p>
   </text>
   <text>
-    <p>Satisfaction and emptiness. Joy and sorrow. </p>
-    <p>Unknown feelings swarmed and mixed together in Li Sushang’s heart.</p>
+    <p>Sự thỏa mãn và sự trống rỗng. Niềm vui và nỗi buồn.</p>
+    <p>Những cảm xúc khó tả dâng trào và lẫn lộn trong lòng Lý Tô Chương.</p>
   </text>
   <text>
-    <p>Slowly, the pain disappeared. [\s]</p>
-    <p>What replaced it was the small plant of pride taking root in the girl’s heart.</p>
+    <p>Từ từ, cơn đau biến mất. [\s]</p>
+    <p>Điều thay thế nó là mầm mống nhỏ bé của lòng tự hào đang bén rễ trong trái tim cô gái.</p>
   </text>
-  <dialog chara="002">[Haha, you… You’re going to suffer later if you don’t know the ways of Shenzhou.]</dialog>
-  <text>Li Sushang quietly said, looking at the silver moon hanging in the sky.</text>
-  <dialog chara="002">[We’re not supposed to have outside help during a duel. [\s]There were a lot of spectators just now, and they’ll be sure to call you a weasel or evil. You’re a foreigner, so it’s best to not stir up too much trouble here.]</dialog>
-  <dialog chara="001">[Fine. I could’ve just watched you die on the sidelines then.]</dialog>
+  <dialog chara="002">[Haha, ngươi… Ngươi sẽ phải chịu khổ sau này nếu không biết luật lệ của Thần Châu.]</dialog>
+  <text>Li Sushang lặng lẽ nói, nhìn vầng trăng bạc treo trên bầu trời.</text>
+  <dialog chara="002">[Chúng ta không được phép có sự trợ giúp từ bên ngoài trong một cuộc đấu tay đôi. [\s]Vừa nãy có rất nhiều khán giả, và chắc chắn họ sẽ gọi anh là kẻ hèn nhát hoặc độc ác. Anh là người nước ngoài, vì vậy tốt nhất là đừng gây ra quá nhiều rắc rối ở đây.]</dialog>
+  <dialog chara="001">[Được thôi. Lúc đó tôi chỉ cần đứng ngoài nhìn anh chết thôi.]</dialog>
   <dialog chara="002">[Hehe…]</dialog>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <event action="hide_ui" duration="2"></event>
   <cg img="CG_第一折_黑渊白花6" duration="2"></cg>
   <delay t="2"></delay>
-  <dialog chara="002">[Thanks. You’re not a bad Raksha. You, you're good…]</dialog>
+  <dialog chara="002">[Cảm ơn. Cô không phải là một Raksha tồi. Còn cô, cô tốt đấy…]</dialog>
   <dialog chara="001">[Ha.]</dialog>
-  <text>The Raksha didn’t look at her. Instead, he was still focusing on transferring his Ki through that white umbrella to heal her wounds.</text>
-  <dialog chara="001">[No need to thank me. I have something to ask of you too.]</dialog>
-  <dialog chara="002">[Hmm? What?]</dialog>
-  <text>The girl was suddenly curious.</text>
-  <dialog chara="002">[Well let’s hear it. You saved my life, so no matter what it is that you need, I’ll give it my all.]</dialog>
-  <dialog chara="001">[Just now underground, you said that your martial art was called the Edge of Taixuan? The exclusive teachings of the Celestial Phoenix?]</dialog>
-  <text>The Raksha said casually.</text>
-  <dialog chara="001">[Who’s that? And why do you call her a Celestial?]</dialog>
-  <dialog chara="002">[Because she’s truly a Celestial, an incredibly powerful one too. They say that she’s immortal since she still looks like a maiden even after thousands of years.]</dialog>
+  <text>Raksha không nhìn cô ấy. Thay vào đó, hắn vẫn tập trung vào việc truyền Ki của mình qua chiếc ô trắng đó để chữa lành vết thương cho cô ấy.</text>
+  <dialog chara="001">[Không cần cảm ơn tôi. Tôi cũng có việc muốn nhờ bạn.]</dialog>
+  <dialog chara="002">[Hừm? Cái gì vậy?]</dialog>
+  <text>Cô gái đột nhiên tò mò.</text>
+  <dialog chara="002">[Hãy nói đi. Anh đã cứu mạng tôi, vậy nên bất kể anh cần gì, tôi sẽ cố gắng hết sức.]</dialog>
+  <dialog chara="001">[Vừa nãy ở dưới lòng đất, anh nói rằng môn võ của anh được gọi là Cạnh Thái Huyền? Giáo lý độc quyền của Thiên Phượng?]</dialog>
+  <text>Raksha nói một cách thờ ơ.</text>
+  <dialog chara="001">[Đó là ai? Và tại sao bạn lại gọi cô ấy là Thiên thần?]</dialog>
+  <dialog chara="002">[Bởi vì cô ấy thực sự là một Thiên thần, một người vô cùng mạnh mẽ. Người ta nói rằng cô ấy bất tử vì cô ấy vẫn trông như một thiếu nữ ngay cả sau hàng nghìn năm.]</dialog>
   <event action="hide_ui" duration="2.1"></event>
   <cg img="CG_第一折_黑渊白花空手特效" duration="0.9"></cg>
   <delay t="1"></delay>
   <cg img="CG_第一折_黑渊白花空手" duration="0.9"></cg>
-  <text>The Raksha blinked, and the white umbrella disappeared into thin air.</text>
-  <dialog chara="001">[Do you know where she is?]</dialog>
-  <dialog chara="002">[Me? No idea.]</dialog>
-  <text>Li Sushang bit her lips to hide her excitement.</text>
-  <dialog chara="002">[But you’ve asked the right person. If there’s anyone who knows the whereabouts of the Celestial, then it has to be my master. </dialog>
-  <dialog chara="002">Did you know that the Celestial took in seven disciples? Both my mom and my master were her disciples…]</dialog>
-  <dialog chara="002">[Wait, do you want to see the Celestial?]</dialog>
+  <text>Raksha chớp mắt, và chiếc ô trắng biến mất vào không khí.</text>
+  <dialog chara="001">[Bạn có biết cô ấy ở đâu không?]</dialog>
+  <dialog chara="002">[Tôi ư? Không biết.]</dialog>
+  <text>Li Sushang cắn môi để che giấu sự phấn khích.</text>
+  <dialog chara="002">[Nhưng bạn đã hỏi đúng người rồi. Nếu có ai biết tung tích của Thiên Thần thì đó phải là sư phụ của tôi.</dialog>
+  <dialog chara="002">Bạn có biết rằng Thiên thần đã nhận bảy đệ tử không? Cả mẹ tôi và sư phụ tôi đều là đệ tử của bà ấy…]</dialog>
+  <dialog chara="002">[Chờ đã, bạn có muốn gặp Thiên Thần không?]</dialog>
   <dialog chara="001">[...]</dialog>
-  <text>The Raksha stared at her and cracked a smile:</text>
+  <text>Raksha nhìn chằm chằm vào cô ấy và nở một nụ cười:</text>
   <cg img="CG_第一折_黑渊白花空手笑"></cg>
-  <dialog chara="001">[I do.]</dialog>
-  <text>Perhaps he didn’t realize that this was the first time he’d smiled so freely and joyfully after leaving the west on his journey to Shenzhou.</text>
+  <dialog chara="001">[Tôi làm.]</dialog>
+  <text>Có lẽ anh ấy không nhận ra rằng đây là lần đầu tiên anh ấy cười thoải mái và vui vẻ như vậy sau khi rời phương Tây trên đường đến Thần Châu.</text>
   <text>Li Sushang didn’t know his past nor his pain, but she knew just how big his smile was right now. [\s]An impulse claimed the girl’s instincts as she leapt up: </text>
   <event action="hide_ui" duration="2"></event>
   <bg img="废弃驿站"></bg>
@@ -184,10 +184,10 @@
   <motion chara="002" action="show" pos="right" img="素裳-龇牙-普通-中景" duration="1"></motion>
   <motion chara="001" action="show" pos="left" img="奥托-微笑释然-标准-中景" duration="1"></motion>
   <delay t="1.5"></delay>
-  <dialog chara="002">[Then come with me! We’ll go back and get my master to take us to see the Celestial!]</dialog>
+  <dialog chara="002">[Vậy thì đi theo tôi! Chúng ta sẽ quay lại và nhờ sư phụ đưa chúng ta đi gặp Thiên Thần!]</dialog>
   <motion chara="001" action="img_trans" img="奥托-笑容释然-标准-中景"></motion>
   <event action="achievement" aid="0587835ecd47f23d"></event>
-  <notification>伝記更新：「羅刹人」</notification>
+  <notification>伝記更新： 「羅刹人」</notification>
   <motion chara="001" action="hide" duration="3"></motion>
   <motion chara="002" action="hide" duration="3"></motion>
   <transition mode="fade" in="3" stop="0.5" out="1" color="#000000"></transition>

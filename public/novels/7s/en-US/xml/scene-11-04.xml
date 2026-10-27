@@ -5,99 +5,99 @@
   <se id="02-02马奔跑（沙漠）" looptimes="-1"></se>
   <se id="02-01马嘶鸣"></se>
   <bgm id="国势倾危（燃）"></bgm>
-  <text>A similarly sleepless man and a horse raced across the vast desert sea.</text>
+  <text>Một người đàn ông và một con ngựa cũng mất ngủ tương tự đã phi nước đại qua biển sa mạc rộng lớn.</text>
   <mono>
     <p></p>
     <p>The horse was sweating the color of blood, its hooves were gold. Its slender head and long neck had a reddish-brown body with distinctive red mane that made it look like an elongated back[\s]</p>
-    <p>They could run more than a thousand miles per day, and even with their hooves treading on the sand there were no footprints—they remained flat</p>
+    <p>Chúng có thể chạy hơn một nghìn dặm mỗi ngày, và ngay cả khi móng guốc của chúng giẫm lên cát cũng không để lại dấu chân—chúng vẫn phẳng lì</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p>The man looked like someone who had undergone training. He was large, with long hair and a short beard; his muscles were taut[\s]</p>
-    <p>There was a large scar on his face from the sword, ruining its well-groomed appearance—but it didn’t damage how heroic he looked.</p>
+    <p>Trên mặt anh ta có một vết sẹo lớn do thanh kiếm gây ra, làm hỏng vẻ ngoài chỉn chu của anh ta—nhưng điều đó không làm giảm đi vẻ anh hùng của anh ta.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
     <p></p>
     <p></p>
-    <p>This man and his horse were in perfect sync. They looked like longtime best friends who had surpassed their master-servant relationship</p>
+    <p>Người đàn ông này và con ngựa của anh ta hoàn toàn ăn ý với nhau. Trông họ giống như những người bạn thân lâu năm đã vượt qua mối quan hệ chủ tớ</p>
   </mono>
   <mono>
     <p></p>
-    <p>When people in the martial arts world see this eccentric pairing from afar, they hurl insults at each other inside their hearts. But on paper it takes Gongte's thanks and calls out to 「Vice-Head of the Horse!」 or「Mr. Horse!」 while smiling</p>
+    <p>Khi những người trong giới võ thuật nhìn thấy cặp đôi kỳ quặc này từ xa, họ thầm chửi rủa nhau. Nhưng trên giấy tờ, họ lại cảm ơn Gongte và gọi anh ta là 「Phó thủ lĩnh của đội Mã!」 hoặc 「Ngài Mã!」 với nụ cười</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>That was because he had been the only male disciple among Phoenix’s disciples</p>
-    <p>The sixth disciple of the Seven Swords,</p>
-    <p>He was the vice-head of Tensoramine Taixuan School, which had made a name for itself widely[\s]</p>
+    <p>Đó là vì ông ấy là môn đệ nam duy nhất trong số các môn đệ của Phượng Hoàng</p>
+    <p>Đệ tử thứ sáu của Thất Kiếm,</p>
+    <p>Ông là phó hiệu trưởng của trường Tensoramine Taixuan, một trường đã nổi tiếng rộng rãi[\s]</p>
     <p></p>
-    <p>『Tsukkomaken』—because he's Ma Feima.</p>
+    <p>『Tsukkoken』—bởi vì anh ấy là Ma Feima.</p>
   </mono>
   <se looptimes="0"></se>
   <event action="achievement" aid="f2980e56d3697a89"></event>
-  <notification>伝記解放：「馬非馬」</notification>
+  <notification>伝記解放： 「馬非馬」</notification>
   <mono>
     <p></p>
-    <p>On the surface, he had a number of titles—his name was well-known and everyone in martial arts wanted to get acquainted with him</p>
+    <p>Bề ngoài, anh ta có rất nhiều danh hiệu—tên tuổi của anh ta rất nổi tiếng và mọi người trong giới võ thuật đều muốn làm quen với anh ta</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>But behind the scenes, people referred to this Ma Feima as something like 『Henjin』 『Abnormal.』 『A horse that won't die even if you kill it.』 or『Madman』 and/or percentageB—and when they actually met him everyone had a friendly nod despite their headaches</p>
-    <p>As a matter of fact, there was no one who wanted to get close with him.</p>
+    <p>Nhưng đằng sau hậu trường, mọi người gọi Ma Feima này là những biệt danh kiểu như 『Henjin』 『Bất thường.』 『Một con ngựa không chết ngay cả khi bạn giết nó.』 hoặc 『Kẻ điên』 và/hoặc phần trămB—và khi họ thực sự gặp anh ta, mọi người đều gật đầu thân thiện mặc dù họ đang đau đầu </p>
+    <p>Thực tế là không có ai muốn gần gũi với anh ta cả.</p>
   </mono>
   <mono>
     <p></p>
-    <p>After all, not only were Ma Feima superior in martial arts but what they did was extremely arrogant</p>
+    <p>Xét cho cùng, Ma Feima không chỉ giỏi võ thuật hơn mà những việc họ làm còn vô cùng kiêu ngạo</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Despite his title as vice-head of the Taixuan faction, Ma Feima was an outstanding lone wolf</p>
+    <p>Mặc dù mang danh hiệu phó thủ lĩnh của phe Taixuan, Ma Feima vẫn là một người đơn độc xuất sắc</p>
     <p></p>
-    <p>Even if he was a disciple of the Taixuan school, there weren't many opportunities to meet him every year. He spent more days with his beloved horse 『Erebus』 than Lin Zhaoyu—his wife</p>
+    <p>Dù là đệ tử của trường phái Taixuan, mỗi năm cũng không có nhiều cơ hội gặp gỡ. Anh dành nhiều ngày bên con ngựa yêu quý 『Erebus』 hơn là bên Lin Zhaoyu—vợ anh</p>
   </mono>
   <mono>
     <p></p>
-    <p>Ma Feima when he’s at Heavensky Peak is calm, polite and humble.</p>
-    <p>However, he became like a different person the moment they descended that mountain and accepted any fight or provocation.</p>
-    <p>It didn’t matter if the opponent was from a distinguished family or royalty and nobility at all.</p>
+    <p>Ma Feima khi ở Thiên Thiên Đỉnh rất điềm tĩnh, lịch sự và khiêm nhường.</p>
+    <p>Tuy nhiên, anh ta trở nên như một người khác ngay khi họ xuống núi và chấp nhận bất kỳ cuộc chiến hay sự khiêu khích nào.</p>
+    <p>Không quan trọng đối thủ đến từ gia đình danh giá hay hoàng tộc, quý tộc.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Fight for justice? Exterminate evil.</p>
-    <p>There was no need for such a just cause in the Sword of Parting.</p>
+    <p>Đấu tranh cho công lý? Diệt trừ cái ác.</p>
+    <p>Không cần một lý do chính đáng như vậy trong Thanh Kiếm Chia Ly.</p>
   </mono>
   <mono>
     <p></p>
-    <p>They fought when they wanted to fight, and would do so if it meant fighting.</p>
-    <p>If you want to use a sword, then do it with your own fist.</p>
-    <p>He would save the people he wanted to help, and kill those who needed him.</p>
+    <p>Họ chiến đấu khi họ muốn chiến đấu, và sẽ làm như vậy nếu điều đó có nghĩa là phải chiến đấu.</p>
+    <p>Nếu muốn dùng kiếm thì hãy dùng nắm đấm của mình mà dùng.</p>
+    <p>Anh ta sẽ cứu những người anh ta muốn giúp đỡ, và giết những người cần anh ta.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Everything is as my heart desires.</p>
+    <p>Mọi thứ đều như lòng tôi mong muốn.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>That's why people in the martial arts world are afraid of him and avoid it. As a result, Lin Zhaoyu is often forced to work tirelessly for his cause as well — even though he has caused quite an uproar during that time...</p>
+    <p>Đó là lý do tại sao mọi người trong giới võ thuật đều sợ hãi và tránh xa anh ta. Kết quả là, Lin Zhaoyu thường bị buộc phải làm việc không ngừng nghỉ vì sự nghiệp của anh ta - mặc dù anh ta đã gây ra khá nhiều xáo trộn trong thời gian đó...</p>
     <p></p>
-    <p>His enemies were all over the place, and while no one would openly try to curry favor with his Taixuan Shichiken’s wrath—there was not a small number of people who had bounties on him behind closed doors</p>
+    <p>Kẻ thù của hắn ở khắp mọi nơi, và mặc dù không ai dám công khai lấy lòng cơn thịnh nộ của Thái Huyền Thất Thiên—nhưng vẫn có không ít người treo thưởng cho việc giết hắn sau cánh cửa đóng kín</p>
   </mono>
   <mono>
     <p></p>
-    <p>Ma Feima attitude toward them was 「He didn't refuse to come.」.</p>
+    <p>Thái độ của Ma Feima đối với họ là 「Anh ấy không từ chối đến.」.</p>
   </mono>
   <mono chara="008">
     <p></p>
-    <p>「If you want to kill me, come. I'll be your opponent at any time!</p>
-    <p>If I run away even a little bit, it'll be cowardice for me. And if you can’t kill my life... You are useless? That is all there was to that story」</p>
+    <p>Nếu muốn giết tôi, cứ đến đây. Tôi sẽ là đối thủ của anh bất cứ lúc nào!</p>
+    <p>Nếu tôi bỏ chạy dù chỉ một chút thôi, đó sẽ là hèn nhát đối với tôi. Và nếu anh không thể giết tôi... Anh vô dụng sao? Câu chuyện chỉ có vậy thôi.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>There really is no end to those who come and kill him.</p>
-    <p>Ambushes, conspiracies and traps... Poisoning. Sex appeal! Duels? matches ...</p>
-    <p>He had used every technique he could, but even so the Ma Feima was not dead. Countless terrifying scars remained on his body—but it still kept him alive and well</p>
+    <p>Thật sự không có hồi kết cho những kẻ đến giết hắn.</p>
+    <p>Phục kích, âm mưu và cạm bẫy... Đầu độc. Sức hấp dẫn giới tính! Đấu tay đôi? Trận đấu...</p>
+    <p>Hắn đã sử dụng mọi kỹ thuật có thể, nhưng Ma Feima vẫn chưa chết. Vô số vết sẹo khủng khiếp vẫn còn trên cơ thể hắn - nhưng chúng vẫn giữ cho hắn sống khỏe mạnh</p>
   </mono>
   <bgm looptimes="0"></bgm>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
@@ -106,30 +106,30 @@
   <motion chara="003" action="show" pos="right" img="林朝雨-微笑-标准-中景"></motion>
   <bgm id="红颜近落霞（慢哀）"></bgm>
   <dialog chara="003">「My husband loves freedom, so he is impulsive and rude. But I'm not a bad person; would you please pardon him out of respect for me?[\s]If there's anything I can do to help, it is my duty as a member of the Taixuan Faction.」</dialog>
-  <text>A few years ago, Lin Zhaoyu held a banquet under the pretense of celebrating her fiftieth birthday by inviting each school in martial arts[\s]The toast at the banquet was actually an apology. In place of her husband, she had begged for forgiveness from each and every force he’d offended</text>
+  <text>Vài năm trước, Lin Zhaoyu đã tổ chức một bữa tiệc dưới danh nghĩa mừng sinh nhật lần thứ 50 của mình bằng cách mời tất cả các trường phái võ thuật[\s]Lời chúc mừng tại bữa tiệc thực chất là một lời xin lỗi. Thay mặt chồng mình, cô ấy đã cầu xin sự tha thứ từ tất cả các thế lực mà anh ta đã xúc phạm</text>
   <motion chara="008" action="show" pos="left" img="马非马-微笑-标准-中景"></motion>
-  <text>Ma Feima stood up with a laugh, and as punishment he himself drank several drinks to apologize many times</text>
+  <text>Ma Feima đứng dậy cười lớn, và để trừng phạt bản thân, ông ta đã uống vài ly rượu để xin lỗi nhiều lần</text>
   <motion chara="008" action="hide"></motion>
   <motion chara="003" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <mono>
     <p></p>
-    <p>The alcohol enters my stomach, turning into a man's tears.</p>
-    <p>Tears don't flow easily, and on lonely nights they turn into heavy rain.</p>
+    <p>Rượu vào dạ dày tôi, biến thành nước mắt của một người đàn ông.</p>
+    <p>Nước mắt không dễ dàng tuôn rơi, và vào những đêm cô đơn, chúng biến thành cơn mưa lớn.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>What people thought to be true was the biggest lie in this world.</p>
+    <p>Điều mà mọi người cho là đúng lại là lời nói dối lớn nhất trên thế giới này.</p>
     <p></p>
-    <p>Horsemen didn’t have freedom, nor did they like it.</p>
+    <p>Những người cưỡi ngựa không có tự do, và họ cũng không thích điều đó.</p>
   </mono>
   <motion chara="003" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <text>
-    <p>Knowing that his master had come back to life, Ma Feima hurried through the night toward Musoumon Gate</p>
-    <p>In order to let Su Mei know about this first.</p>
+    <p>Biết rằng sư phụ mình đã sống lại, Ma Feima vội vã chạy xuyên đêm về phía cổng Musoumon</p>
+    <p>Để Su Mei biết chuyện này trước.</p>
   </text>
   <se></se>
   <bgm id="国势倾危（燃）" looptimes="0"></bgm>
@@ -137,223 +137,223 @@
   <bg img="BGDarkRoom"></bg>
   <motion chara="008" action="show" pos="left" duration="1" img="马非马-微惊-标准-中景"></motion>
   <motion chara="004" action="show" pos="right" img="苏湄-自信-标准-中景" duration="1"></motion>
-  <dialog chara="004">「I know.」</dialog>
+  <dialog chara="004">「Tôi biết.」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-中景"></motion>
-  <dialog chara="004">「It's because my apprentice is there that information comes in. But it was only half a day earlier than you, so I came at just the right time to ask for your opinion—I had nothing but simple info on hand」</dialog>
+  <dialog chara="004">「Chính vì có người học việc của tôi ở đó nên thông tin mới có được. Nhưng chỉ sớm hơn anh nửa ngày, nên tôi đến đúng lúc để hỏi ý kiến anh—tôi chỉ có thông tin đơn giản trong tay」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-中景"></motion>
-  <text>『Musousennin』, also known as “Su Mei” didn’t change her expression at all. When she was done listening to him he explained it once more and asked a lot about the details</text>
+  <text>『Musousennin』, hay còn gọi là “Su Mei”, không hề thay đổi biểu cảm. Khi nghe anh ta nói xong, anh ta giải thích lại một lần nữa và hỏi rất nhiều chi tiết.</text>
   <motion chara="008" action="img_trans" img="马非马-标准-标准-中景"></motion>
   <dialog chara="008">
-    <p>「It was so sudden that I only heard a few things from nearby.</p>
-    <p>After putting together all sorts of explanations, there was no doubt that she would be my master.」</p>
+    <p>「Nó xảy ra quá đột ngột nên tôi chỉ nghe được vài tiếng động từ gần đó.</p>
+    <p>Sau khi tổng hợp tất cả các lời giải thích, không còn nghi ngờ gì nữa rằng cô ấy sẽ là chủ nhân của tôi.</p>
   </dialog>
   <motion chara="004" action="img_trans" img="苏湄-闭目-标准-中景"></motion>
-  <dialog chara="004">「Was it still twenty years ago, or before that?」</dialog>
+  <dialog chara="004">「Việc đó vẫn diễn ra cách đây hai mươi năm, hay trước đó nữa?」</dialog>
   <motion chara="008" action="img_trans" img="马非马-认真-标准-中景"></motion>
-  <dialog chara="008">「That's right.」</dialog>
+  <dialog chara="008">「Đúng vậy.」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-中景"></motion>
-  <dialog chara="004">「Master doesn't grow old, does he?」</dialog>
-  <text>When his second disciple laughed, Ma Feima’s heart nearly danced along with it.</text>
+  <dialog chara="004">「Sư phụ không già đi, phải không?</dialog>
+  <text>Khi đệ tử thứ hai của ông cười, trái tim của Ma Feima gần như nhảy theo.</text>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-中景"></motion>
   <dialog chara="004">
-    <p>「...That's weird. The time and place are strange, too...</p>
-    <p>But that proves my guess was correct...」</p>
+    <p>...Thật kỳ lạ. Thời gian và địa điểm cũng kỳ lạ...</p>
+    <p>Nhưng điều đó chứng tỏ phỏng đoán của tôi là đúng...」</p>
   </dialog>
   <motion chara="004" action="img_trans" img="苏湄-忧郁-别过-中景"></motion>
-  <text>With that, Su Mei fell silent and turned her gaze upward out of habit.</text>
+  <text>Nói xong, Tô Miêu im lặng và theo thói quen ngước nhìn lên.</text>
   <dialog chara="004">
-    <p>「There's something strange about your tone, Little Ma.</p>
-    <p>...Something doesn't make sense, does it?」</p>
+    <p>Giọng điệu của con có gì đó lạ lắm, Tiểu Ma.</p>
+    <p>...Có gì đó không hợp lý, phải không?</p>
   </dialog>
   <motion chara="008" action="img_trans" img="马非马-闭目-标准-中景"></motion>
   <dialog chara="008">
-    <p>「Killing people, burning down buildings.</p>
-    <p>...Judging by her master’s personality, it was hard to imagine she would do something like that.」</p>
+    <p>「Giết người, đốt nhà.</p>
+    <p>...Xét theo tính cách của chủ nhân cô ấy, thật khó tưởng tượng cô ấy lại làm điều như vậy.」</p>
   </dialog>
   <motion chara="004" action="img_trans" img="苏湄-微笑-别过-中景"></motion>
-  <dialog chara="004">「Yes.」</dialog>
-  <text>Su Mei said with a light sigh</text>
+  <dialog chara="004">「Vâng.」</dialog>
+  <text>Su Mei khẽ thở dài</text>
   <motion chara="008" action="img_trans" img="马非马-瞥目-标准-中景"></motion>
   <dialog chara="004">
-    <p>「That's right. I think it is strange, too... At first we thought that the information was wrong or there might be some kind of ulterior motive behind all this ...</p>
-    <p>But like you said, 『Master.』 definitely showed up.」</p>
+    <p>「Đúng vậy. Tôi cũng thấy lạ... Lúc đầu chúng tôi nghĩ rằng thông tin đó sai hoặc có thể có một động cơ ngầm nào đó đằng sau tất cả chuyện này ...</p>
+    <p>Nhưng như bạn đã nói, 『Sư phụ.』 chắc chắn đã xuất hiện.」</p>
   </dialog>
   <dialog chara="004">「......」</dialog>
-  <dialog chara="004">「『Killing people and burning down buildings... Judging by my master’s personality, I doubt he would do that』, right?」</dialog>
-  <dialog chara="004">「Then what kind of personality is he? When I was a child, my master took Miss Zhaoyu with him and burned Mochiyama to the ground. He killed many people from Holy Fire Cult—I still remember it now」</dialog>
+  <dialog chara="004">「『Giết người và đốt nhà... Xét theo tính cách của sư phụ tôi, tôi nghi ngờ ông ấy sẽ không làm điều đó』, phải không?」</dialog>
+  <dialog chara="004">「Vậy hắn ta có tính cách như thế nào? Khi tôi còn nhỏ, sư phụ tôi đã đưa cô Zhaoyu đi cùng và thiêu rụi Mochiyama. Ông ta đã giết rất nhiều người thuộc Giáo phái Thánh Hỏa—tôi vẫn còn nhớ rõ chuyện đó」</dialog>
   <motion chara="008" action="img_trans" img="马非马-认真-标准-中景"></motion>
   <dialog chara="008">
-    <p>「Enzera manipulated the believers with sorcery, causing them to lose control. Mochiyama...</p>
-    <p>According to Lin Zhaoyu stories, it was full of serious energy there. If we left them alone they'd create monsters that would cause trouble for us all...」</p>
+    <p>「Enzera đã thao túng những người tin tưởng bằng phép thuật, khiến họ mất kiểm soát. Mochiyama...</p>
+    <p>Theo lời kể của Lin Zhaoyu, nơi đó tràn đầy năng lượng nguy hiểm. Nếu chúng ta để mặc họ, họ sẽ tạo ra những con quái vật gây rắc rối cho tất cả chúng ta... </p>
   </dialog>
   <dialog chara="004">
-    <p>「Yes, my master had killed only those who lost their minds and burned the terrible land of unearthly aura.</p>
-    <p>But does that mean it’s okay to kill or burn them?」</p>
+    <p>「Đúng vậy, sư phụ của ta chỉ giết những kẻ mất trí và thiêu rụi vùng đất khủng khiếp của khí tức siêu nhiên.</p>
+    <p>Nhưng điều đó có nghĩa là được phép giết hoặc thiêu chúng sao?</p>
   </dialog>
   <motion chara="008" action="img_trans" img="马非马-沉思-标准-中景"></motion>
   <dialog chara="008">
-    <p>「...I can't say for sure about the good or bad.</p>
-    <p>But it was his duty as a disciple of the Taixuan faction to defeat demons.」</p>
+    <p>...Tôi không thể nói chắc chắn về điều đó là tốt hay xấu.</p>
+    <p>Nhưng đó là bổn phận của anh ta với tư cách là một đệ tử của phái Taixuan để đánh bại ma quỷ.」</p>
   </dialog>
   <motion chara="004" action="img_trans" img="苏湄-瞥视-别过-中景"></motion>
-  <text>Su Mei turned her gaze to Ma Feima’s face.</text>
+  <text>Su Mei quay ánh mắt về phía mặt Ma Feima.</text>
   <motion chara="008" action="img_trans" img="马非马-微惊-标准-中景"></motion>
-  <dialog chara="004">「Stampede, bewitchment and necromancy... There are many ways to call it that. It's essentially the same thing: True energy surpasses what a human body can tolerate」</dialog>
-  <dialog chara="004">「Excessive earnestness robs people of their reason, makes them mad and turns into a wild beast that can only slaughter or destroy. Once this begins there'll be no way to return it back in its original state」</dialog>
-  <dialog chara="004">「That's why I kill to save them. Taking the lives of one evil spirit is like protecting thousands and innocent people, right? Yes... The Taixuan Faction has a duty: mercilessly killing those who have fallen into demon form!」</dialog>
+  <dialog chara="004">「Giẫm đạp, mê hoặc và gọi hồn... Có nhiều cách để gọi nó như vậy. Về bản chất thì cũng giống nhau: Năng lượng chân chính vượt quá khả năng chịu đựng của cơ thể con người」</dialog>
+  <dialog chara="004">「Sự nhiệt tình thái quá cướp mất lý trí của con người, khiến họ phát điên và biến thành một con thú hoang chỉ biết giết chóc hoặc phá hoại. Một khi điều này bắt đầu thì không thể nào đưa nó trở lại trạng thái ban đầu được nữa」</dialog>
+  <dialog chara="004">「Đó là lý do tại sao ta giết để cứu chúng. Lấy đi mạng sống của một linh hồn tà ác cũng giống như bảo vệ hàng ngàn người vô tội, phải không? Đúng vậy... Phái Taixuan có nhiệm vụ: tàn nhẫn giết những kẻ đã sa vào hình dạng ma quỷ!」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-痛苦-别过-中景"></motion>
   <motion chara="008" action="img_trans" img="马非马-悲伤-标准-中景"></motion>
-  <dialog chara="004">「...I have followed those teachings and never once disobeyed them. The number of monsters my peerless gate has defeated in the past twenty years must be less than a thousand, but I've yet to feel proud about it—not only that...but even more so because they despise this commandment」</dialog>
+  <dialog chara="004">...Ta đã tuân theo những lời dạy đó và chưa bao giờ bất tuân. Số lượng quái vật mà cánh cổng vô song của ta đã đánh bại trong hai mươi năm qua chắc chắn chưa đến một nghìn, nhưng ta vẫn chưa cảm thấy tự hào về điều đó—không chỉ vậy...mà còn hơn thế nữa bởi vì chúng coi thường giới luật này」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-闭目-标准-中景"></motion>
-  <dialog chara="004">「...Should they really have died?[\s]Most of the people who went berserk were ordinary folks with no experience in martial arts, and only a few had children from warrior families. They're mostly commoners—not bad guys at all!」</dialog>
-  <dialog chara="004">「It's just... unfortunately, 『Maki』 brought about a disaster.」</dialog>
+  <dialog chara="004">...Liệu họ có thực sự nên chết không?[\s]Hầu hết những người nổi điên đều là người dân thường không có kinh nghiệm võ thuật, và chỉ một số ít có con cái xuất thân từ gia đình võ sĩ. Họ chủ yếu là thường dân—hoàn toàn không phải là người xấu!」</dialog>
+  <dialog chara="004">「Thật không may là... Maki đã gây ra một thảm họa.」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-中景"></motion>
   <dialog chara="004">
-    <p>「『Maki』 has no eyes, and『Ten'i』 doesn't have mercy. That is why humans become dogs</p>
-    <p>You said that it's not wrong for a master to kill someone. I think so too, but mistakes are always there...」</p>
+    <p> 「『Maki』 không có mắt, và『Ten'i』 không có lòng thương xót. Đó là lý do tại sao con người trở thành chó</p>
+    <p>Ngươi nói rằng việc một bậc thầy giết người không phải là sai. Ta cũng nghĩ vậy, nhưng sai lầm thì vẫn luôn có...</p>
   </dialog>
-  <dialog chara="004">「If there are no mistakes in my master, me or the dead—then that means it's up to heaven.」</dialog>
+  <dialog chara="004">Nếu không có sai sót nào ở sư phụ tôi, tôi hay người đã khuất - thì điều đó có nghĩa là mọi việc tùy thuộc vào trời.</dialog>
   <motion chara="004" action="img_trans" img="苏湄-闭目-标准-中景"></motion>
-  <dialog chara="004">「Little Ma, the Void is nothing more than a cage. No matter how amazing my master's martial arts skills may seem to me—she’ll always be 『Sora』 prisoner! Now that twenty years have passed since she died... do you think this『Extermination of demons』 precept can still bind her?」</dialog>
+  <dialog chara="004">「Tiểu Ma, Hư Không chẳng khác gì một cái lồng. Cho dù kỹ năng võ thuật của sư phụ ta có vẻ tuyệt vời đến đâu đi nữa—cô ấy vẫn mãi là tù nhân của 『Sora』! Giờ đã hai mươi năm trôi qua kể từ khi cô ấy chết... ngươi có nghĩ rằng giới luật 『Diệt trừ yêu ma』 này còn có thể trói buộc cô ấy được nữa không?</dialog>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-中景"></motion>
-  <dialog chara="004">「Don't judge new things based on your impressions of the past. You might get caught up in it, you know?」</dialog>
+  <dialog chara="004">Đừng đánh giá những điều mới dựa trên ấn tượng của bạn về quá khứ. Bạn có thể bị cuốn vào đó đấy, bạn biết không?</dialog>
   <motion chara="008" action="img_trans" img="马非马-微笑-标准-中景"></motion>
   <dialog chara="008">「......」</dialog>
-  <text>Ma Feima looked at Somei’s well-defined face.[\s]The agony welled up in his heart once more, but he was used to it by now. This woman had been like that since childhood—always ruthlessly calm and unmoving about anything</text>
+  <text>Ma Feima nhìn khuôn mặt rõ nét của Somei. [\s]Nỗi đau lại dâng trào trong tim anh, nhưng giờ anh đã quen với điều đó rồi. Người phụ nữ này đã như vậy từ nhỏ - luôn bình tĩnh một cách tàn nhẫn và không hề lay chuyển trước bất cứ điều gì</text>
   <text>
-    <p>[em italic]But it's different now...[/em]</p>
-    <p>His eyes felt like they were melting, and he was overcome with the urge to say what she had said years ago.</p>
+    <p>[em italic]Nhưng bây giờ thì khác rồi...[/em]</p>
+    <p>Mắt anh như tan chảy, và anh bị thôi thúc muốn nói những điều mà cô ấy đã nói nhiều năm trước.</p>
   </text>
   <motion chara="004" action="img_trans" img="苏湄-闭目-标准-中景"></motion>
   <motion chara="008" action="img_trans" img="马非马-微惊-标准-中景"></motion>
-  <dialog chara="004">「It's impossible.」</dialog>
-  <text>Suddenly, Su Mei opened her mouth.</text>
+  <dialog chara="004">「Điều đó là không thể.」</dialog>
+  <text>Đột nhiên, Su Mei mở miệng.</text>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-中景"></motion>
-  <dialog chara="004">「I know what you're trying to say, Little Ma. It is written all over your face...」</dialog>
+  <dialog chara="004">「Tôi biết cô đang cố nói gì, Tiểu Ma. Điều đó thể hiện rõ trên khuôn mặt cô rồi...</dialog>
   <motion chara="008" action="img_trans" img="马非马-闭目-标准-中景"></motion>
   <dialog chara="008">「―――」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-中景"></motion>
-  <dialog chara="004">「You're...」</dialog>
-  <text>Su Mei shook her head lightly, but it wasn’t as if she was blaming him</text>
+  <dialog chara="004">「Bạn là...</dialog>
+  <text>Su Mei khẽ lắc đầu, nhưng không phải là cô ấy đang trách móc anh ấy</text>
   <motion chara="008" action="img_trans" img="马非马-悲伤-标准-中景"></motion>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-中景"></motion>
-  <dialog chara="004">「You know me better than anyone else in the world, but you still don't get it. I may be a woman who understands your feelings most out of all people on this planet—but not because she loves him or anything like that!」</dialog>
+  <dialog chara="004"> 「Anh hiểu em hơn bất cứ ai trên thế giới này, nhưng anh vẫn không hiểu. Có thể em là người phụ nữ hiểu cảm xúc của anh nhất trên hành tinh này—nhưng không phải vì em yêu anh ấy hay bất cứ điều gì tương tự!」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-中景"></motion>
   <dialog chara="004">
-    <p>「I don't love you, and no one does.</p>
-    <p>This is not your fault, nor can you change it.」</p>
+    <p>Tôi không yêu bạn, và không ai yêu bạn cả.</p>
+    <p>Đây không phải lỗi của bạn, và bạn cũng không thể thay đổi được.</p>
   </dialog>
   <motion chara="008" action="img_trans" img="马非马-苦笑-标准-中景"></motion>
   <dialog chara="008">「...Haha.」</dialog>
-  <text>Ma Feima smiled bitterly.</text>
-  <dialog chara="008">「You want to ask me for something else, right? Don’t you think that if I tell a random lie or two she might just assume things more wholeheartedly.」</dialog>
+  <text>Ma Feima cười cay đắng.</text>
+  <dialog chara="008">「Bạn muốn hỏi tôi điều gì khác phải không? Bạn không nghĩ rằng nếu tôi nói dối một vài điều ngẫu nhiên thì cô ấy có thể sẽ tin tưởng tôi hơn sao?」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-中景"></motion>
   <motion chara="008" action="img_trans" img="马非马-瞥目-标准-中景"></motion>
-  <dialog chara="004">「Don't be stupid, Little Ma. You will not fall for it and I shall too!」</dialog>
-  <text>Su Mei wriggles her fingers. Ma Feima can't help but stare at those beautiful, white hands of his without thinking about it...</text>
+  <dialog chara="004">「Đừng ngốc nghếch, Tiểu Ma. Em sẽ không mắc bẫy đâu, và anh cũng vậy!」</dialog>
+  <text>Su Mei ngoe ngoe ngón tay. Ma Feima không thể không nhìn chằm chằm vào đôi bàn tay trắng ngần xinh đẹp của mình mà không hề suy nghĩ...</text>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-中景"></motion>
   <motion chara="008" action="img_trans" img="马非马-悲伤-标准-中景"></motion>
-  <dialog chara="004">「There is one thing I respect. Little Ma—you are a good person, and you have long since ceased to be the doll that follows me around」</dialog>
-  <dialog chara="004">「There was no need for that to happen, right? Yes. I know you did not make such a mistake or suffer so much more than anything else...」</dialog>
+  <dialog chara="004">「Có một điều tôi tôn trọng. Tiểu Ma—cô là một người tốt, và cô đã không còn là con búp bê đi theo tôi nữa」</dialog>
+  <dialog chara="004">「Không cần thiết phải xảy ra chuyện đó, phải không? Vâng. Tôi biết bạn không phạm phải sai lầm như vậy hay phải chịu đựng nhiều hơn bất cứ điều gì khác...」</dialog>
   <dialog chara="004">
-    <p>「So I don't want you to do anything against your will.</p>
-    <p>You understand? No matter what I try to make you do, it's your own choice.」</p>
+    <p>Vậy nên tôi không muốn bạn làm bất cứ điều gì trái với ý muốn của mình.</p>
+    <p>Cậu hiểu chứ? Dù tôi có cố gắng bắt cậu làm gì đi nữa, đó vẫn là sự lựa chọn của chính cậu.</p>
   </dialog>
   <motion chara="004" action="img_trans" img="苏湄-闭目-标准-中景"></motion>
   <motion chara="008" action="img_trans" img="马非马-微笑-标准-中景"></motion>
   <dialog chara="004">
-    <p>「...But there's a difference between willingly doing it and being happy.</p>
-    <p>You have to make your own choices.」</p>
+    <p>...Nhưng có sự khác biệt giữa việc tự nguyện làm điều đó và việc cảm thấy hạnh phúc.</p>
+    <p>Bạn phải tự đưa ra lựa chọn của mình.</p>
   </dialog>
-  <text>Ma Feima shrugged. He wasn't happy; he knew that, and she understood it too</text>
+  <text>Ma Feima nhún vai. Anh ta không vui; anh ta biết điều đó, và cô ấy cũng hiểu điều đó</text>
   <motion chara="004" action="img_trans" img="苏湄-痛苦-别过-中景"></motion>
   <dialog chara="004">
-    <p>「Fine. I'll give you a choice, and it will be yours to choose from!</p>
-    <p>What I'm about to tell you is a choice—」</p>
+    <p>Được rồi. Tôi sẽ cho anh lựa chọn, và anh có quyền lựa chọn!</p>
+    <p>Điều tôi sắp nói với bạn là một sự lựa chọn —</p>
   </dialog>
-  <dialog chara="008">「I'll stay.」</dialog>
+  <dialog chara="008">「Tôi sẽ ở lại.」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-瞥视-别过-中景"></motion>
   <text>
-    <p>Su Mei looked at the man in front of her. She first glanced into his eyes, then down to him throat and hands...[\s]</p>
-    <p>Her gaze gave him great joy, and then courage to speak.</p>
+    <p>Su Mei nhìn người đàn ông trước mặt. Đầu tiên cô liếc nhìn vào mắt anh ta, rồi nhìn xuống cổ họng và tay anh ta...[\s]</p>
+    <p>Ánh nhìn của cô ấy mang lại cho anh niềm vui lớn lao, và sau đó là sự can đảm để nói.</p>
   </text>
   <motion chara="008" action="img_trans" img="马非马-认真-标准-中景"></motion>
-  <dialog chara="008">「My master will come looking for Mei-nee. I can't let her die!」</dialog>
+  <dialog chara="008">「Chủ nhân của tôi sẽ đến tìm Mei-nee. Tôi không thể để cô ấy chết được!</dialog>
   <motion chara="004" action="img_trans" img="苏湄-痛苦-别过-中景"></motion>
   <dialog chara="004" inline="true">「......</dialog>
   <motion chara="004" action="img_trans" img="苏湄-微笑-别过-中景"></motion>
-  <dialog chara="004">I won't die.」</dialog>
-  <text>Su Mei answered casually.</text>
+  <dialog chara="004">Tôi sẽ không chết.</dialog>
+  <text>Su Mei trả lời một cách thờ ơ.</text>
   <motion chara="008" action="img_trans" img="马非马-沉思-标准-中景"></motion>
   <text>
     <p>Ma Feima remained silent. Her words silenced him[\s]</p>
-    <p>That's because what 『Musou』, also known as “Su Mei” says is always true.</p>
+    <p>Đó là bởi vì những gì 『Musou』, hay còn gọi là “Su Mei” nói luôn luôn đúng.</p>
   </text>
-  <text>She is Su Mei. I won't do anything unconvinced, nor will she make meaningless promises</text>
+  <text>Cô ấy là Tô Mai. Tôi sẽ không làm bất cứ điều gì khi chưa tin tưởng, và cô ấy cũng sẽ không đưa ra những lời hứa vô nghĩa</text>
   <motion chara="004" action="img_trans" img="苏湄-自信-标准-中景"></motion>
   <dialog chara="004">
-    <p>「I've been preparing for this since a long time ago. My master expected to come back, after all...</p>
-    <p>I want you to tell the others about this.」</p>
+    <p>「Tôi đã chuẩn bị cho việc này từ lâu rồi. Dù sao thì sư phụ tôi cũng mong sẽ trở về...</p>
+    <p>Tôi muốn bạn kể cho những người khác biết về chuyện này.</p>
   </dialog>
   <motion chara="008" action="img_trans" img="马非马-微惊-标准-中景"></motion>
-  <dialog chara="008">「Are you telling me... to go back and let Zhaoyu know?」</dialog>
+  <dialog chara="008">「Ý anh là... bảo tôi quay lại báo cho Triệu Vũ biết sao?」</dialog>
   <motion action="img_trans" chara="004" img="苏湄-标准-标准-中景"></motion>
-  <dialog chara="004">「There's no need for that. I will tell Miss Zhaoyu directly, and she wants you to go farther away than this!」</dialog>
-  <dialog chara="008">「If you're looking for Lingshuang, that would be the way... Is it Lingshuang Nee-san?」</dialog>
+  <dialog chara="004">「Không cần thiết đâu. Tôi sẽ nói thẳng với cô Zhaoyu, cô ấy muốn anh đi xa hơn nữa!</dialog>
+  <dialog chara="008">「Nếu bạn đang tìm Lingshuang, thì đó là đường này... Có phải là Lingshuang Nee-san không?</dialog>
   <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-中景"></motion>
-  <dialog chara="004">「That's right.」</dialog>
+  <dialog chara="004">「Đúng vậy.」</dialog>
   <se id="02-10拍手"></se>
-  <text>Su Mei clapped her hands and laughed.</text>
-  <dialog chara="004">「I'd like you to go north. At the speed of Erebus, we should be there in less than half a month![\s]I want you to find Lingshuang and tell her that Master has returned—」</dialog>
+  <text>Su Mei vỗ tay và cười.</text>
+  <dialog chara="004"> 「Ta muốn ngươi đi về phía bắc. Với tốc độ của Erebus, chúng ta sẽ đến đó trong vòng chưa đầy nửa tháng![\s]Ta muốn ngươi tìm Lingshuang và nói với nàng rằng Sư phụ đã trở về—」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-自信-标准-中景"></motion>
-  <dialog chara="004">「I also checked to see if Lingshuang had a sword.」</dialog>
+  <dialog chara="004">「Tôi cũng đã kiểm tra xem Lingshuang có kiếm không.」</dialog>
   <motion chara="008" action="img_trans" img="马非马-疑惑-标准-中景"></motion>
-  <dialog chara="008">「Huh? Lingshuang Nee-san's sword is...」</dialog>
+  <dialog chara="008">「Hả? Thanh kiếm của Lingshuang Nee-san là...</dialog>
   <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-中景"></motion>
   <dialog chara="004">
-    <p>「That's right. So please check it out!</p>
-    <p>The whereabouts of the Henxuan Sword are very important, so I want to know everything.」</p>
+    <p>「Đúng vậy. Vậy hãy kiểm tra nhé!</p>
+    <p>Vị trí của Thanh kiếm Henxuan rất quan trọng, vì vậy tôi muốn biết tất cả mọi thứ.</p>
   </dialog>
   <motion chara="008" action="img_trans" img="马非马-闭目-标准-中景"></motion>
   <text>
-    <p>Ma Feima hung his head, ruminating on the meaning of Su Mei’s words.</p>
-    <p>Since Su Mei had said that, he knew there was some sort of intention behind it—but not for him to understand.</p>
+    <p>Ma Feima cúi đầu, suy ngẫm về ý nghĩa lời nói của Su Mei.</p>
+    <p>Vì Su Mei đã nói như vậy nên anh ta biết có một ý đồ nào đó đằng sau đó—nhưng anh ta không thể hiểu được.</p>
   </text>
   <text>
-    <p>However, he had known Su Mei for more than thirty years.</p>
-    <p>She also knew that clever women didn't like the act of explaining things to men.</p>
+    <p>Tuy nhiên, ông đã quen biết Su Mei hơn ba mươi năm.</p>
+    <p>Cô ấy cũng biết rằng những người phụ nữ thông minh không thích việc phải giải thích mọi thứ cho đàn ông.</p>
   </text>
   <motion chara="008" action="img_trans" img="马非马-认真-标准-中景"></motion>
-  <dialog chara="008">「Understood. Should I just tell him? Maybe we should bring her back to Nakahara...」</dialog>
+  <dialog chara="008">「Đã hiểu. Mình có nên nói với anh ấy không? Có lẽ chúng ta nên đưa cô ấy trở lại Nakahara...」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-中景"></motion>
   <dialog chara="004">
-    <p>「Yes, just tell them. It's up to you what we do with the froststorm!</p>
-    <p>After that, please return to Tianqiu Peak. Let's meet up there!」</p>
+    <p>「Vâng, cứ nói với họ. Việc chúng ta làm gì với cơn bão băng là tùy thuộc vào anh!</p>
+    <p>Sau đó, xin hãy quay lại đỉnh Thiên Khâu. Chúng ta sẽ gặp nhau ở đó!</p>
   </dialog>
   <motion chara="008" action="img_trans" img="马非马-标准-标准-中景"></motion>
-  <dialog chara="008">「Understood.」</dialog>
-  <text>Ma Feima answered, but he didn’t try to leave.</text>
-  <dialog chara="008">「As for Zhaoyu...」</dialog>
+  <dialog chara="008">「Đã hiểu.」</dialog>
+  <text>Ma Feima trả lời, nhưng anh ta không cố gắng rời đi.</text>
+  <dialog chara="008">「Còn về Triệu Vũ...」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-中景"></motion>
-  <dialog chara="004">「I know.」</dialog>
-  <text>It was as if the man's words conveyed all of her doubts and unease. Her reply had been very accurate—she didn’t need to say anything more than that</text>
-  <text>Ma Feima replied, then turned his back and prepared to leave.</text>
+  <dialog chara="004">「Tôi biết.」</dialog>
+  <text>Như thể lời nói của người đàn ông đã truyền tải hết mọi nghi ngờ và lo lắng của cô. Câu trả lời của cô rất chính xác - cô không cần phải nói thêm gì nữa</text>
+  <text>Ma Feima trả lời, rồi quay lưng chuẩn bị rời đi.</text>
   <motion chara="008" action="hide"></motion>
   <motion chara="004" action="img_trans" img="苏湄-微笑-别过-中景"></motion>
   <bgm id="十大恶人（阴谋）" looptimes="0"></bgm>
-  <dialog chara="004">「Little Ma～」</dialog>
-  <text>Su Mei called out to him from behind.</text>
+  <dialog chara="004"> 「Little Ma～」</dialog>
+  <text>Su Mei gọi anh ta từ phía sau.</text>
   <motion chara="004" action="img_trans" img="苏湄-瞥视-别过-中景"></motion>
-  <dialog chara="004">「I'm not deceiving you or dying.」</dialog>
-  <text>The man remained silent and nodded. That was enough</text>
+  <dialog chara="004">「Tôi không lừa dối bạn cũng không sắp chết.」</dialog>
+  <text>Người đàn ông vẫn im lặng và gật đầu. Thế là đủ rồi</text>
   <motion chara="004" action="hide" duration="1.5"></motion>
   <transition mode="fade" in="2" stop="0.5" out="2" color="#000000"></transition>
   <cg img="CG_第二折_百里逐驹1"></cg>
   <bgm looptimes="0"></bgm>
   <se id="02-01马嘶鸣"></se>
   <se id="02-02马奔跑（沙漠）" looptimes="-1"></se>
-  <text>That night, Ma Feima rode his Erebus into the desert to meet with Su Mei's fifth disciple of Taixuan-ha.</text>
-  <text>The night was long, but one man and a horse kept running until dawn without rest.</text>
+  <text>Đêm đó, Ma Feima cưỡi Erebus vào sa mạc để gặp đệ tử thứ năm của Su Mei thuộc Taixuan-ha.</text>
+  <text>Đêm dài lắm, nhưng một người đàn ông và một con ngựa cứ chạy cho đến rạng sáng mà không nghỉ ngơi.</text>
   <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="06"></event>
 </scene>

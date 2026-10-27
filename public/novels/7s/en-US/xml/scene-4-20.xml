@@ -5,51 +5,51 @@
   <bgm id="国势倾危（燃）"></bgm>
   <mono>
     <p></p>
-    <p>“Eagle” wasn’t a swordsman, but a soldier.</p>
+    <p>“Đại bàng” không phải là kiếm sĩ, mà là một người lính.</p>
     <p></p>
-    <p>What he uses isn’t swords, but greatswords.</p>
+    <p>Những gì anh ta dùng không phải là kiếm, mà là đại kiếm.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Thus, whenever he holds the handle backward, he habitually turns his wrist, </p>
-    <p>so that the side of the blade edge, faced the enemy. </p>
+    <p>Do đó, bất cứ khi nào anh ta cầm tay cầm ngược lại, anh ta thường xoay cổ tay,</p>
+    <p>để cạnh của lưỡi dao hướng về phía kẻ thù.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>But tonight——[\s]</p>
+    <p>Nhưng tối nay——[\s]</p>
     <p></p>
-    <p>Tonight, at this moment between life and death, </p>
-    <p>“Eagle” had a strange idea.[\s]</p>
+    <p>Đêm nay, vào khoảnh khắc giữa sự sống và cái chết,</p>
+    <p>“Đại bàng” có một ý tưởng kỳ lạ.[\s]</p>
     <p></p>
-    <p>This idea took root and sprouted unknowingly when he sword danced earlier. </p>
+    <p>Ý tưởng này đã bén rễ và nảy mầm một cách vô thức khi anh ta múa kiếm trước đó.</p>
   </mono>
   <mono chara="015" pageend="true">
     <p></p>
-    <p>(Swords are double edged, unlike greatswords…)</p>
+    <p>(Kiếm có hai lưỡi, không giống như đại kiếm…)</p>
   </mono>
   <mono>
     <p></p>
     <p>This was just an idea, but it was lingering.[\s]</p>
-    <p>This was just an idea, but it prompted “Eagle” to give up the habit of turning his wrists at the critical moment of life and death. </p>
+    <p>Đây chỉ là một ý tưởng, nhưng nó đã thúc đẩy “Đại bàng” từ bỏ thói quen xoay cổ tay vào thời khắc quyết định sống chết.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p>This saved him a split moment of time.[\s]</p>
-    <p>Without this split moment, he would’ve died before the blade could’ve reached the girl. </p>
+    <p>Nếu không có khoảnh khắc chớp nhoáng này, anh ta đã chết trước khi lưỡi dao kịp chạm tới cô gái.</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <cg duration="2"></cg>
   <bg img="刀光与剑影" duration="2"></bg>
   <mono>
     <p></p>
-    <p>Like a bolt of lightning, the girl’s palm rushed towards his head.</p>
+    <p>Như một tia chớp, lòng bàn tay của cô gái lao về phía đầu anh ta.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>"Eagle" held the hilt of the sword and picked it up with the back of his hand. [\s]</p>
+    <p>"Đại bàng" cầm chuôi kiếm và nhặt nó lên bằng mu bàn tay. [\s]</p>
     <p></p>
-    <p>Swords are unlike greatswords. Swords had double edges, regardless of front and back. </p>
-    <p>Though, it only spared him a split moment of time, but the end results are quite different.</p>
+    <p>Kiếm không giống như đại kiếm. Kiếm có hai lưỡi, bất kể trước hay sau.</p>
+    <p>Mặc dù nó chỉ giúp anh ta tiết kiệm được một khoảnh khắc ngắn ngủi, nhưng kết quả cuối cùng lại hoàn toàn khác.</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <event action="hide_ui" duration="1"></event>
@@ -61,41 +61,41 @@
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>The sword slashed the mud flicked across the moonlight. [\s]</p>
-    <p>Its edge gently touched, penetrated, and bid farewell to the girl's body, dividing her into two. </p>
+    <p>Thanh kiếm chém vào bùn bắn tung tóe dưới ánh trăng. [\s]</p>
+    <p>Lưỡi dao nhẹ nhàng chạm vào, xuyên qua và tạm biệt thân thể cô gái, chia đôi cô ấy ra.</p>
     <p></p>
-    <p>It's as easy as cutting a piece of thin paper.</p>
+    <p>Nó dễ như cắt một tờ giấy mỏng.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>Her gaze froze staring blankly in the void, no longer moving; [\s]</p>
-    <p>And that fatal palm blade stopped dead in its track midair, no longer having power to move. </p>
-  </mono>
-  <mono pageend="true">
-    <p></p>
-    <p></p>
-    <p></p>
-    <p>"Eagle" killed the girl and took her sword. </p>
-    <p></p>
-    <p>Though hard, though cruel, it was a victory after all.</p>
+    <p>Ánh mắt cô ấy đông cứng, nhìn chằm chằm vào khoảng không vô định, không còn chuyển động nữa; [\s]</p>
+    <p>Và lưỡi dao lòng bàn tay chết người đó dừng lại giữa không trung, không còn sức để di chuyển nữa.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
     <p></p>
-    <p>-It should be so.</p>
+    <p>"Đại bàng" đã giết cô gái và lấy thanh kiếm của cô ấy.</p>
+    <p></p>
+    <p>Dù khó khăn, dù tàn nhẫn, nhưng cuối cùng đó vẫn là một chiến thắng.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>-Nó nên là như vậy.</p>
   </mono>
   <transition mode="fade" in="2" stop="0.5" out="2" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <mono>
     <p></p>
-    <p>But when the point of the sword was about to stab Li Sushang's waist, "Eagle"’s Ki suddenly disappeared.</p>
+    <p>Nhưng khi mũi kiếm sắp đâm vào eo Li Sushang, khí của "Đại Bàng" đột nhiên biến mất.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The tyrannical inner strength that he had cultivated over the years was gone, as if it had never been born. [\s]</p>
-    <p>No matter how he tries to summon it, there is no response in the empty meridians.</p>
+    <p>Sức mạnh nội tâm độc đoán mà hắn đã vun đắp qua nhiều năm đã biến mất, như thể nó chưa từng được sinh ra. [\s]</p>
+    <p>Dù anh ta có cố gắng triệu hồi nó thế nào đi nữa, cũng không có phản hồi nào trong các kinh mạch trống rỗng.</p>
   </mono>
   <event action="hide_ui" duration="2.1"></event>
   <motion chara="096" action="show" pos="right" duration="0.1" img="老鹰-特写-微笑（带血）"></motion>
@@ -105,11 +105,11 @@
   <bgm id="原始武士" looptimes="0"></bgm>
   <mono chara="015">
     <p></p>
-    <p>[em italic]Impossible–[/em]</p>
+    <p>[em italic]Không thể–[/em]</p>
   </mono>
   <mono>
     <p></p>
-    <p>A cold current named fear instantly flows through the blood veins of "Eagle".</p>
+    <p>Một dòng chảy lạnh lẽo mang tên sợ hãi lập tức chảy qua huyết quản của "Đại bàng".</p>
   </mono>
   <mono chara="015" pageend="true">
     <p></p>
@@ -118,16 +118,16 @@
   <motion action="hide" duration="1" chara="096"></motion>
   <mono pageend="true">
     <p></p>
-    <p>There was absolutely no problem with his breathing and Ki, </p>
-    <p>He was also sure that he would never get corrupted this moment. [\s]</p>
+    <p>Hoàn toàn không có vấn đề gì với việc thở và Khí của anh ấy,</p>
+    <p>Anh ta cũng chắc chắn rằng mình sẽ không bao giờ bị tha hóa vào lúc này. [\s]</p>
     <p></p>
-    <p>But, the impossible just happened, right when he was about to win.</p>
+    <p>Nhưng điều không thể tin được vừa xảy ra, ngay khi anh ấy sắp thắng.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>This was the second time tonight,</p>
+    <p>Đây là lần thứ hai tối nay,</p>
     <p></p>
-    <p>"Eagle" suddenly understood something, but it was too late…</p>
+    <p>"Đại bàng" đột nhiên hiểu ra điều gì đó, nhưng đã quá muộn…</p>
   </mono>
   <event action="hide_ui" duration="3.1"></event>
   <motion chara="-5" action="show" pos="center" img="竖劈（无色）"></motion>
@@ -140,31 +140,31 @@
   <delay t="1"></delay>
   <mono pageend="true">
     <p></p>
-    <p>The sudden loss of his Ki made him barely capable of holding onto the handle as he swung.</p>
+    <p>Việc đột ngột mất đi Ki khiến anh ta hầu như không thể giữ được cán khi vung.</p>
     <p></p>
-    <p>"Xuanyuan" sliced the girl’s shadow, the tip was embedded deeply in a visible wound, and she was out of his grasp.</p>
+    <p>"Xuanyuan" chém vào bóng của cô gái, mũi kiếm cắm sâu vào vết thương có thể nhìn thấy, và cô ấy đã thoát khỏi tầm với của hắn.</p>
   </mono>
   <motion chara="-4" action="shake" duration="0.1" range="420" direction="horizontal"></motion>
   <se id="01-44耳光重"></se>
   <se id="01-29下颚命中"></se>
   <mono pageend="true">
     <p></p>
-    <p>The girl's palm hit his cheek. [\s]</p>
+    <p>Lòng bàn tay của cô gái đập vào má anh ta. [\s]</p>
     <p></p>
-    <p>Accompanied by the sound of slaps and bone cracks, was great pain and unwillingness.</p>
+    <p>Đi kèm với tiếng tát và tiếng xương gãy là nỗi đau đớn tột cùng và sự bất lực.</p>
   </mono>
   <bg img="PureBlack" duration="1"></bg>
   <mono chara="015">
     <p></p>
-    <p>[em italic]Why?[/em]</p>
+    <p>[em italic]Tại sao?[/em]</p>
   </mono>
   <mono>
     <p></p>
-    <p>Darkness rushed to embrace him from the shattered half of the skull, but he tried his best to resist... His eyes spun frantically, searching for...</p>
+    <p>Bóng tối ập đến bao trùm lấy anh từ nửa hộp sọ vỡ vụn, nhưng anh đã cố gắng hết sức để chống cự... Đôi mắt anh đảo điên cuồng, tìm kiếm...</p>
   </mono>
   <mono chara="015" pageend="true">
     <p></p>
-    <p>[em italic]Why-[/em]</p>
+    <p>[em italic]Tại sao-[/em]</p>
   </mono>
   <transition mode="eye" in="2" stop="0.5" out="0" color="#000000"></transition>
   <event action="hide_ui" duration="2.6"></event>
@@ -174,9 +174,9 @@
   <delay t="2.5"></delay>
   <mono pageend="true">
     <p></p>
-    <p>He saw. [\s]</p>
+    <p>Anh ấy đã thấy. [\s]</p>
     <p></p>
-    <p>Far away, in the drawing room of the broken post, in front of his favorite chair, a man stood.</p>
+    <p>Ở xa xa, trong phòng khách của căn nhà bị hỏng, trước chiếc ghế yêu thích của mình, một người đàn ông đứng.</p>
   </mono>
   <transition mode="eye" in="1" stop="0.2" out="1" color="#000000"></transition>
   <bg img="奥托现身2"></bg>
@@ -186,29 +186,29 @@
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Beside this man, a coffin stood quietly.</p>
+    <p>Bên cạnh người đàn ông này, một chiếc quan tài đứng lặng lẽ.</p>
   </mono>
   <mono chara="015">
     <p></p>
-    <p>[em italic]It was you……[/em]</p>
+    <p>[em italic]Chính là bạn……[/em]</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The man looked at him in the distance. The candlelight flickered, and he struggled to look around, trying to see the man’s expression clearly--</p>
+    <p>Người đàn ông nhìn anh ta từ xa. Ánh nến lập lòe, và anh ta cố gắng nhìn xung quanh, cố gắng nhìn rõ biểu cảm của người đàn ông--</p>
   </mono>
   <event action="hide_ui" duration="3.1"></event>
   <bg img="奥托现身3" duration="3"></bg>
   <delay t="3"></delay>
   <mono chara="015">
     <p></p>
-    <p>[em italic]IT WAS YOU!!!!!![/em]</p>
+    <p>[em italic]CHÍNH LÀ BẠN!!!!!![/em]</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <bg img="PureBlack" duration="0.1"></bg>
   <delay t="1"></delay>
   <text>
-    <p>His thinking only had time to get here. </p>
-    <p>His anger had just risen, before the darkness grabbed him and took him away.</p>
+    <p>Suy nghĩ của anh ấy chỉ kịp đến đây.</p>
+    <p>Cơn giận của anh ta vừa mới dâng lên thì bóng tối đã tóm lấy anh ta và đưa anh ta đi.</p>
   </text>
   <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
   <bgm looptimes="0"></bgm>

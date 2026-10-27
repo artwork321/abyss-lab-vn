@@ -1,20 +1,20 @@
 <scene id="15" type="block" prev="14" title="霧と火2">
   <motion chara="002" action="show" pos="left" img="素裳-战损-虚弱-空手-中景"></motion>
   <motion chara="008" action="show" pos="right" img="马非马-苦笑-标准-中景"></motion>
-  <dialog chara="008">「However, the world is a cruel place. Daughter...」</dialog>
-  <text>Ma Feima stood a full body away from her. He trembled as he watched the girl stand up, supporting his knees with both hands without any surprise whatsoever</text>
+  <dialog chara="008">「Tuy nhiên, thế giới này thật tàn nhẫn. Con gái à...」</dialog>
+  <text>Ma Feima đứng cách cô ấy cả người. Anh run rẩy khi nhìn cô gái đứng dậy, chống hai tay lên đầu gối mà không hề tỏ ra ngạc nhiên chút nào</text>
   <dialog chara="008">
-    <p>「Being energetic was a good thing, but she couldn't beat me.</p>
-    <p>Don't push yourself. You have a wonderful future ahead of you!」</p>
+    <p>「Năng động là điều tốt, nhưng cô ấy không thể đánh bại tôi.</p>
+    <p>Đừng thúc ép bản thân. Tương lai tươi sáng đang chờ đón bạn!</p>
   </dialog>
   <motion chara="002" action="img_trans" img="素裳-战损-顽强-空手-中景"></motion>
-  <dialog chara="002">「I... won't lose.」</dialog>
+  <dialog chara="002">「Tôi... sẽ không thua.」</dialog>
   <text>
-    <p>Blood dripped from the girl's nose.</p>
-    <p>Li Sushang looked up, her eyes unfocused.</p>
+    <p>Máu chảy ra từ mũi cô gái.</p>
+    <p>Li Sushang ngước nhìn lên, ánh mắt lơ đãng.</p>
   </text>
   <motion action="img_trans" chara="002" img="素裳-战损-顽强-邀战-中景"></motion>
-  <dialog chara="002">「I'm... *cough* ...」</dialog>
+  <dialog chara="002">「Tôi... *ho* ...」</dialog>
   <motion chara="008" action="img_trans" img="马非马-微笑-标准-中景"></motion>
   <dialog chara="008">「......」</dialog>
   <motion chara="002" action="hide"></motion>
@@ -25,46 +25,46 @@
   <delay t="1"></delay>
   <mono>
     <p></p>
-    <p>How many times had Ma Feima seen such an expression on his face?</p>
+    <p>Ma Feima đã thấy vẻ mặt như vậy bao nhiêu lần rồi?</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>For twenty years, a large number of people had come after his life.</p>
-    <p>Many heroes, great men and excellent youngsters challenged him.</p>
+    <p>Trong hai mươi năm, rất nhiều người đã tìm cách giết ông ấy.</p>
+    <p>Nhiều anh hùng, vĩ nhân và thanh niên xuất sắc đã thách thức ông.</p>
     <p></p>
-    <p>Most of them were like this.</p>
-    <p>Even without a slight chance of victory, he hadn’t given up until the very end—he was betting on that momentary possibility where life and death were separated.</p>
+    <p>Hầu hết họ đều như thế này.</p>
+    <p>Ngay cả khi không có chút hy vọng chiến thắng nào, anh ấy vẫn không bỏ cuộc cho đến tận phút cuối cùng - anh ấy đang đặt cược vào khả năng thoáng qua đó, nơi ranh giới giữa sự sống và cái chết được phân định.</p>
   </mono>
-  <dialog chara="008">[em italic]（Struggling? ...Yeah, I guess so.）[/em]</dialog>
+  <dialog chara="008">[em italic](Đang gặp khó khăn à? ...Ừ, chắc vậy.)[/em]</dialog>
   <mono pageend="true">
     <p></p>
-    <p>However, Ma Feima did not dislike it.</p>
-    <p>On the contrary, she’d been enthralling him.</p>
+    <p>Tuy nhiên, Ma Feima không ghét điều đó.</p>
+    <p>Ngược lại, cô ấy đã làm anh ta say mê.</p>
   </mono>
   <motion chara="002" action="hide"></motion>
   <cg img="氛围_第二折_烟雾2"></cg>
   <bg img="PureBlack"></bg>
   <mono>
     <p></p>
-    <p>After all... in this mist-shrouded world, Ma Feima was alone.</p>
+    <p>Xét cho cùng... trong thế giới mờ sương này, Ma Feima chỉ có một mình.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Even if it was just a one-time connection, even though we would never meet again in the future—[\s]</p>
+    <p>Dù chỉ là cuộc gặp gỡ một lần, dù chúng ta sẽ không bao giờ gặp lại nhau trong tương lai—[\s]</p>
     <p></p>
-    <p>Watching the challenger burn his own life and try to prove that he exists, it feels like I've been acknowledged by my world.</p>
-    <p>Ma Feima felt as if a mist in the shape of such people would envelop him—a feeling that he was alive.</p>
+    <p>Chứng kiến người thách thức tự hủy hoại cuộc đời mình và cố gắng chứng minh sự tồn tại của anh ta, tôi cảm thấy như mình đã được thế giới công nhận.</p>
+    <p>Ma Feima cảm thấy như thể một làn sương có hình dạng những người như vậy sẽ bao trùm lấy anh ta - một cảm giác rằng anh ta đang sống.</p>
   </mono>
   <cg></cg>
   <mono pageend="true">
     <p></p>
-    <p>That was why he’d always given his opponent an opportunity to fight.</p>
+    <p>Đó là lý do tại sao anh ấy luôn cho đối thủ của mình cơ hội chiến đấu.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p>That's why,[\s]</p>
     <p></p>
-    <p>He had always hoped that he would be killed—</p>
+    <p>Anh ta luôn hy vọng rằng mình sẽ bị giết—</p>
   </mono>
   <se id="01-32铁剑掷出"></se>
   <event action="hide_ui" duration="2"></event>
@@ -75,33 +75,33 @@
   <bg img="轩辕剑_灯光00%" duration="0.5" scale="1.3" pos="-100,100"></bg>
   <delay t="0.5"></delay>
   <bg img="轩辕剑_灯光00%下" pos="-300,200" scale="1.5" duration="1"></bg>
-  <text>In front of the girl, a fence fell without making any sound.</text>
+  <text>Trước mặt cô gái, một hàng rào đổ xuống mà không phát ra tiếng động nào.</text>
   <bg img="BGDesert03"></bg>
   <motion chara="002" action="show" pos="left" img="素裳-战损-虚弱-空手-远景"></motion>
   <motion chara="008" action="show" pos="300,0" img="马非马-笑-标准-远景"></motion>
-  <dialog chara="008">「Pick it up.」</dialog>
-  <text>Ma Feima said.</text>
+  <dialog chara="008">「Nhặt nó lên.」</dialog>
+  <text>Ma Feima nói.</text>
   <motion chara="008" action="img_trans" img="马非马-微笑-标准-远景"></motion>
-  <dialog chara="008">「Without a sword—you can’t fight me.」</dialog>
+  <dialog chara="008">「Không có kiếm thì ngươi không thể đấu với ta.」</dialog>
   <motion chara="008" action="img_trans" img="马非马-认真-标准-远景"></motion>
-  <dialog chara="008">「I won't go easy on you. This time, use all your strength to kill me! Understand? Pick it up!!」</dialog>
+  <dialog chara="008">「Ta sẽ không nương tay với ngươi. Lần này, hãy dùng hết sức mình để giết ta! Hiểu chưa? Nhặt nó lên!!」</dialog>
   <se id="01-21轩辕剑氛围声"></se>
-  <text>Sushang slowly lowered its head. A drop of blood fell onto the old sword, making a small sound like phoenix cries</text>
+  <text>Sushang từ từ cúi đầu. Một giọt máu rơi xuống thanh kiếm cũ, phát ra âm thanh nhỏ như tiếng phượng hoàng kêu</text>
   <se id="01-21轩辕剑氛围声" looptimes="0"></se>
   <se id="01-60吐血小"></se>
-  <dialog chara="002">「You... Why are you the Sword God?」</dialog>
-  <text>She coughs up the blood in her mouth. At that point, she can finally speak clearly enough for me to understand what I'm saying...</text>
+  <dialog chara="002">「Ngươi... Sao ngươi lại là Thần Kiếm?」</dialog>
+  <text>Cô ấy ho ra máu trong miệng. Lúc đó, cuối cùng cô ấy cũng có thể nói đủ rõ ràng để tôi hiểu những gì tôi đang nói...</text>
   <motion chara="008" action="img_trans" img="马非马-微惊-标准-远景"></motion>
   <dialog chara="008">「......?」</dialog>
   <motion chara="008" action="img_trans" img="马非马-笑-标准-远景"></motion>
   <dialog chara="008">「Ha—Haha!」</dialog>
   <dialog chara="008">
-    <p>「You think that's the Sword God? Haha, you overestimate me.</p>
-    <p>Daughter, do you have any idea how much of a boundary the Sword God has? Most martial arts practitioners can't even touch it for their entire lives.」</p>
+    <p>Ngươi nghĩ đó là Kiếm Thần sao? Haha, ngươi đánh giá quá cao ta rồi.</p>
+    <p>Con gái, con có biết giới hạn của Kiếm Thần lớn đến mức nào không? Hầu hết các võ giả cả đời cũng không thể chạm tới nó được.</p>
   </dialog>
-  <dialog chara="008">「Only geniuses like Master Phoenix and Lingshuang Nee-san would be able to master such things as divine beings—daughter, my technique is not that of the Sword God; it’s sword will.」</dialog>
+  <dialog chara="008">「Chỉ những thiên tài như Sư phụ Phượng Hoàng và Lingshuang Nee-san mới có thể nắm vững những thứ như thần thú—con gái, kỹ thuật của ta không phải là Kiếm Thần; đó là ý chí kiếm.」</dialog>
   <motion chara="008" action="img_trans" img="马非马-笑-示剑0-远景"></motion>
-  <dialog chara="008">「Take a look.」</dialog>
+  <dialog chara="008">「Hãy xem.」</dialog>
   <event action="hide_ui"></event>
   <delay t="0.5"></delay>
   <se id="01-01白光转场"></se>
@@ -110,51 +110,51 @@
   <motion chara="008" action="img_trans" img="马非马-笑-示剑2-远景" duration="0.5"></motion>
   <delay t="0.5"></delay>
   <event action="show_ui"></event>
-  <text>He reached out his hand, and a greatsword red as flame suddenly appeared.</text>
-  <dialog chara="008">「This is my sword, 『Redsweord』.」</dialog>
-  <dialog chara="008">「The Henxuan Swords are held by our seven disciples one at a time. This sword is synchronized with the Void Blade, and it can use skillful techniques in response to changes of its will...」</dialog>
-  <dialog chara="008">「『Redsweord』 can control light. I'll be able to change this sight and invisibility with just my own feelings, so normally it doesn’t show much of anything but when the time comes you transmute your swordsmanship」</dialog>
-  <dialog chara="002">「Huh...?」</dialog>
+  <text>Anh ta vươn tay ra, và một thanh đại kiếm đỏ rực như lửa đột nhiên xuất hiện.</text>
+  <dialog chara="008">「Đây là thanh kiếm của ta, 『Redswoodr』.」</dialog>
+  <dialog chara="008">「Bảy đệ tử của chúng ta lần lượt nắm giữ thanh kiếm Henxuan. Thanh kiếm này đồng bộ với Void Blade, và nó có thể sử dụng các kỹ thuật điêu luyện để đáp ứng những thay đổi ý chí của nó...」</dialog>
+  <dialog chara="008">「『Redswood』 có thể điều khiển ánh sáng. Ta sẽ có thể thay đổi khả năng nhìn thấy và tàng hình này chỉ bằng cảm xúc của mình, vì vậy bình thường nó không thể hiện nhiều nhưng khi thời cơ đến, ngươi sẽ biến đổi kiếm pháp của mình」</dialog>
+  <dialog chara="002">「Hừ...?」</dialog>
   <motion chara="002" action="img_trans" img="素裳-战损-虚弱-标准-远景"></motion>
   <text>
-    <p>Sushang picked up the sword and stared at it.[\s]</p>
-    <p>If what Ma Feima said was true, then why didn't his own sword change?</p>
+    <p>Sushang nhặt thanh kiếm lên và nhìn chằm chằm vào nó.[\s]</p>
+    <p>Nếu những gì Ma Feima nói là đúng, vậy tại sao thanh kiếm của chính ông ta lại không thay đổi?</p>
   </text>
-  <text>Could that absentmindedness be the true form of swordsmanship?</text>
-  <dialog chara="002">「M-My...」</dialog>
+  <text>Liệu sự lơ đãng đó có phải là hình thức kiếm thuật đích thực?</text>
+  <dialog chara="002">「M-Tôi...」</dialog>
   <motion chara="008" action="img_trans" img="马非马-微笑-示剑2-远景"></motion>
-  <dialog chara="008">「Yes... Your sword is still in its original form. In other words, you haven't mastered the will of your blade yet? If it learns how to wield a tsurugi that can change shape as well!」</dialog>
-  <dialog chara="002">「I see... So you haven't been able to do it yet.」</dialog>
+  <dialog chara="008">「Phải... Thanh kiếm của ngươi vẫn ở dạng nguyên bản. Nói cách khác, ngươi vẫn chưa làm chủ được ý chí của lưỡi kiếm sao? Nếu nó học được cách sử dụng một thanh tsurugi có thể thay đổi hình dạng thì sao!</dialog>
+  <dialog chara="002">「Tôi hiểu rồi... Vậy là bạn vẫn chưa làm được.」</dialog>
   <mono>
     <p></p>
     <p></p>
     <p></p>
-    <p>It was a little disappointing... But that must have been the truth.</p>
+    <p>Hơi thất vọng một chút... Nhưng chắc đó là sự thật.</p>
   </mono>
   <mono>
     <p></p>
-    <p>I swallowed the bitter blood in my mouth. The sense of loss, embarrassment and frustration were all consumed by it together with sadness...</p>
+    <p>Tôi nuốt dòng máu đắng ngắt trong miệng. Cảm giác mất mát, xấu hổ và thất vọng đều bị nhấn chìm cùng với nỗi buồn...</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Don't worry. This is your second trial, right?</p>
+    <p>Đừng lo. Đây là lần thử thứ hai của bạn rồi phải không?</p>
   </mono>
   <se id="01-20拿出轩辕剑"></se>
-  <text>Li Sushang straightened her back and held the sword in hand.</text>
+  <text>Li Sushang thẳng lưng và cầm kiếm trong tay.</text>
   <motion action="img_trans" chara="002" img="素裳-战损-振作-单手-远景"></motion>
   <dialog chara="002">
-    <p>「You... have a sword, too.</p>
-    <p>That's... fair!」</p>
+    <p>「Bạn... cũng có một thanh kiếm.</p>
+    <p>Điều đó... công bằng!</p>
   </dialog>
   <text>
     <p>Her body was still trembling. She couldn't stop—especially her legs, which were shaking all over the place[\s]</p>
-    <p>But her eyes... Her gaze is powerful. It's—</p>
+    <p>Nhưng đôi mắt của cô ấy... Ánh nhìn của cô ấy rất mạnh mẽ. Nó là—</p>
   </text>
   <motion chara="008" action="img_trans" img="马非马-笑-示剑2-远景"></motion>
-  <text>They were the eyes common to those burning.</text>
+  <text>Đó là đôi mắt chung của những kẻ đang bốc cháy.</text>
   <motion chara="002" action="img_trans" img="素裳-战损-顽强-单手-远景"></motion>
-  <dialog chara="002">「Jizaimon... Li Sushang, please take care of him again.」</dialog>
-  <dialog chara="002">「This is...a trial!」</dialog>
+  <dialog chara="002">「Jizaimon... Li Sushang, hãy chăm sóc cậu ấy lần nữa.」</dialog>
+  <dialog chara="002">「Đây là...một cuộc thử nghiệm!」</dialog>
   <dialog chara="008">「―――」</dialog>
   <motion chara="008" action="hide"></motion>
   <motion chara="002" action="hide"></motion>
@@ -162,14 +162,14 @@
   <delay t=".1"></delay>
   <bg img="PureBlack"></bg>
   <cg img="氛围_第二折_火苗2" duration="30" scale="1.2"></cg>
-  <text>Ma Feima stroked the red scar on his nose. He could feel a faint warmth in her fingertips</text>
-  <text>[em italic]Yeah. This loneliness, this kind of firelight...[/em]</text>
-  <text>He's still alive.</text>
+  <text>Ma Feima vuốt ve vết sẹo đỏ trên mũi anh. Anh có thể cảm nhận được hơi ấm nhẹ ở đầu ngón tay cô</text>
+  <text>[em italic]Ừ. Nỗi cô đơn này, ánh lửa kiểu này...[/em]</text>
+  <text>Anh ấy vẫn còn sống.</text>
   <cg></cg>
   <bgm looptimes="0"></bgm>
-  <dialog chara="008">「Listen carefully.」</dialog>
-  <text>Ma Feima said.</text>
-  <dialog chara="008">「There's only one skill I can use: Open Sword Mountain Disintegration.」</dialog>
+  <dialog chara="008">「Hãy lắng nghe kỹ.」</dialog>
+  <text>Ma Feima nói.</text>
+  <dialog chara="008">「Ta chỉ có thể sử dụng một kỹ năng duy nhất: Phá Hủy Núi Kiếm Mở.」</dialog>
   <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="16"></event>
 </scene>

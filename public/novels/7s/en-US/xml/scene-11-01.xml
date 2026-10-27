@@ -1,5 +1,5 @@
 <scene id="01" type="block" prev="00" title="序2">
-  <text>The boy bowed, then turned his back and headed down the mountain. Lin Zhaoyu watched her pupil disappear toward a stone staircase before turning to face Su Mei in silence</text>
+  <text>Cậu bé cúi chào, rồi quay lưng đi xuống núi. Lin Zhaoyu nhìn học trò của mình khuất dần về phía cầu thang đá trước khi quay sang đối mặt với Su Mei trong im lặng</text>
   <bgm id="天穹"></bgm>
   <motion chara="003" action="hide"></motion>
   <motion chara="004" action="hide"></motion>
@@ -9,78 +9,78 @@
   <motion chara="004" action="show" img="苏湄-自信-标准-中景" pos="right"></motion>
   <motion chara="003" action="show" reversex="true" img="林朝雨-不悦-标准-中景" pos="left"></motion>
   <delay t="1.4"></delay>
-  <dialog chara="003">「I think of you as a younger sister apprentice, but there's no right to interfere with my Taixuan school.」</dialog>
+  <dialog chara="003">「Ta coi ngươi như một đệ tử trẻ, nhưng ngươi không có quyền can thiệp vào trường phái Taixuan của ta.」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-中景"></motion>
-  <dialog chara="004">「I'm sorry.」</dialog>
-  <text>Still smiling, Su Mei turned her gaze far away and then looked around this small room again.</text>
+  <dialog chara="004">「Tôi xin lỗi.」</dialog>
+  <text>Vẫn mỉm cười, Tô Mỹ quay ánh mắt nhìn xa xăm rồi lại nhìn quanh căn phòng nhỏ này.</text>
   <motion chara="003" action="img_trans" img="林朝雨-不悦-标准-中景" reversex="true"></motion>
   <motion chara="004" action="img_trans" img="苏湄-自信-标准-中景"></motion>
-  <dialog chara="004">「The Taixuan Faction, the Kumokan... Heheh. They're all yours now!」</dialog>
-  <text>Lin Zhaoyu responded coldly with a snort of “Hmph.”</text>
-  <dialog chara="003">「Either way, the Taixuan family must be informed. I can't allow them to break off with my own hands!」</dialog>
+  <dialog chara="004">「Phe Taixuan, Kumokan... Heheh. Giờ thì tất cả đều thuộc về ngươi rồi!」</dialog>
+  <text>Lin Zhaoyu đáp lại lạnh lùng bằng một tiếng "Hừ."</text>
+  <dialog chara="003"> 「Dù thế nào đi nữa, gia tộc Taixuan cũng phải được thông báo. Ta không thể để họ tự tay cắt đứt quan hệ được!」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-中景"></motion>
-  <dialog chara="004">「*sigh* Of the seven of us, Miss Zhaoyu seems to miss her most.」</dialog>
-  <text>The two of them continued their small talk, never getting down to business. Lin Zhaoyu patiently waited for him but Su Mei seemed interested in the little things</text>
+  <dialog chara="004">「*thở dài* Trong bảy người chúng ta, cô Zhaoyu có vẻ nhớ cô ấy nhất.」</dialog>
+  <text>Hai người họ tiếp tục trò chuyện vu vơ, chẳng bao giờ đi vào vấn đề chính. Lin Zhaoyu kiên nhẫn chờ đợi anh ta nhưng Su Mei có vẻ quan tâm đến những chuyện nhỏ nhặt</text>
   <motion chara="004" action="img_trans" img="苏湄-自信-标准-中景"></motion>
-  <dialog chara="004">「Miss Zhaoyu's pupil has quite a bit of potential, and she does have some nerve. It is just too bad that he was male; it will be difficult to train Little Ma into her own level」</dialog>
-  <dialog chara="003">「...When I take apprentices, my talent is not as important to me. And Yanqing has enough martial arts skills that no one can compete with him in the first place! Men and women don't matter—not even a single disciple of mine could match his」</dialog>
+  <dialog chara="004">Học trò của cô Zhaoyu có khá nhiều tiềm năng, và cô ấy cũng khá gan dạ. Chỉ tiếc là cậu ta là nam; sẽ rất khó để huấn luyện Tiểu Mã đạt đến trình độ của cô ấy.</dialog>
+  <dialog chara="003">...Khi tôi nhận đệ tử, tài năng của tôi không quan trọng bằng. Và Yanqing có đủ kỹ năng võ thuật mà ngay từ đầu không ai có thể sánh được với cậu ta! Nam nữ không thành vấn đề—ngay cả một đệ tử của tôi cũng không thể sánh được với cậu ta」</dialog>
   <motion action="img_trans" chara="003" img="林朝雨-怅然-标准-中景" reversex="true"></motion>
-  <dialog chara="003">「But Zhenyus certainly do have a knack for it. The Void Faction will be passed on to future generations eventually, and he might become my last disciple!」</dialog>
-  <dialog chara="004">「Miss Zhaoyu, are you thinking about your last apprentice now?」</dialog>
+  <dialog chara="003">「Nhưng Zhenyus quả thực có năng khiếu về việc đó. Phái Hư Không cuối cùng sẽ được truyền lại cho các thế hệ sau, và cậu ta có thể trở thành đệ tử cuối cùng của ta!」</dialog>
+  <dialog chara="004">「Cô Zhaoyu, cô đang nghĩ về người học trò cuối cùng của mình sao?」</dialog>
   <motion chara="003" action="img_trans" img="林朝雨-心头一震-标准-中景" reversex="true"></motion>
-  <text>Lin Zhaoyu was somewhat dumbfounded, and suddenly went pale.</text>
+  <text>Lin Zhaoyu hơi sững sờ, đột nhiên tái mặt.</text>
   <text>She was the oldest of Phoenix’s seven disciples, and fifteen years older than her second[\s]Lin Zhaoyu hadn’t bothered him at first, but now that years have passed and he is married to the youngest Ma Feima has made his age even more apparent</text>
   <motion chara="003" action="img_trans" reversex="true" img="林朝雨-愤怒-标准-中景"></motion>
-  <dialog chara="003">「Su Mei, stop trying to test my patience... Let's get back on topic.」</dialog>
-  <text>The head of the Taixuan Faction would break through their groping each other's stomach.</text>
-  <dialog chara="003">「Master resurrected, sister apprentice dead. Now it's our turn—what are you going to do?[\s]You didn't come to see me for the first time in a long while just so we could chat, right? Are you... planning on killing my master again.」</dialog>
+  <dialog chara="003">「Su Mei, đừng cố thử thách sự kiên nhẫn của tôi nữa... Chúng ta hãy quay lại chủ đề chính.」</dialog>
+  <text>Người đứng đầu phái Taixuan sẽ phá vỡ sự chen lấn, xô đẩy nhau của bọn họ.</text>
+  <dialog chara="003">「Sư phụ hồi sinh, sư tỷ đã chết. Giờ đến lượt chúng ta—ngươi định làm gì?[\s]Ngươi không đến gặp ta lần đầu tiên sau một thời gian dài chỉ để chúng ta trò chuyện, phải không? Ngươi... định giết sư phụ ta lần nữa sao?</dialog>
   <dialog chara="004">「......」</dialog>
-  <text>Lin Zhaoyu took her younger sister apprentice’s silence as an affirmation.</text>
+  <text>Lin Zhaoyu coi sự im lặng của em gái mình như một lời khẳng định.</text>
   <motion chara="003" action="img_trans" reversex="true" img="林朝雨-愤恨-标准-中景"></motion>
-  <dialog chara="003">「I don't like you, Su Mei. But in the past she thought of me as her own little sister... So let’s give some advice to that effect:」</dialog>
-  <dialog chara="003">「It's different now. The seven of us will never be together again, and we were just lucky back then... There is no guarantee that it would turn out the same even if I tried one more time」</dialog>
-  <text>Lin Zhaoyu let out a long sigh.</text>
+  <dialog chara="003"> 「Tôi không thích cô, Su Mei. Nhưng trước đây cô ấy coi tôi như em gái ruột của mình... Vậy nên hãy cho tôi vài lời khuyên về vấn đề đó nhé:」</dialog>
+  <dialog chara="003">「Bây giờ thì khác rồi. Bảy người chúng ta sẽ không bao giờ được ở bên nhau nữa, và hồi đó chúng ta chỉ may mắn thôi... Không có gì đảm bảo rằng mọi chuyện sẽ lại như vậy dù tôi có cố gắng thêm một lần nữa」</dialog>
+  <text>Lin Zhaoyu thở dài một hơi.</text>
   <motion chara="003" action="img_trans" reversex="true" img="林朝雨-心头一震-标准-中景"></motion>
   <dialog chara="003">
-    <p>「It's been twenty years, but I never forgot that night...</p>
-    <p>Wanxi and Lingshuang nearly lost their lives. If it weren't for you, that sword with the face of Yanqingru would have been a disaster...」</p>
+    <p>Đã hai mươi năm trôi qua, nhưng tôi chưa bao giờ quên đêm đó...</p>
+    <p>Vạn Tây và Linh Hoàng suýt mất mạng. Nếu không phải vì ngươi, thanh kiếm mang khuôn mặt của Yanqingru đã trở thành thảm họa...</p>
   </dialog>
   <motion chara="004" action="img_trans" img="苏湄-甜笑-标准-中景"></motion>
-  <dialog chara="004">「You really do miss the past, don't you? Heheh. It has been twenty years already! 『If...』 is nothing like that...」</dialog>
+  <dialog chara="004">「Bạn thực sự nhớ quá khứ, phải không? Heheh. Đã hai mươi năm rồi! 『Nếu...』 không giống như thế đâu...」</dialog>
   <text>
-    <p>Su Mei had absolutely no interest in the past.</p>
-    <p>Lin Zhaoyu understood, but she couldn't agree with him at all.</p>
+    <p>Su Mei hoàn toàn không quan tâm đến quá khứ.</p>
+    <p>Lin Zhaoyu hiểu, nhưng cô ấy hoàn toàn không đồng ý với anh ta.</p>
   </text>
   <motion chara="004" action="img_trans" img="苏湄-自信-标准-中景"></motion>
   <motion chara="003" action="img_trans" img="林朝雨-不悦-标准-中景" reversex="true"></motion>
-  <dialog chara="003">「Hmph, tell me. What's your plan?」</dialog>
-  <dialog chara="004">「I don't have a plan.」</dialog>
+  <dialog chara="003">「Hừm, nói cho ta biết. Kế hoạch của ngươi là gì?</dialog>
+  <dialog chara="004">「Tôi không có kế hoạch.」</dialog>
   <motion chara="003" action="img_trans" reversex="true" img="林朝雨-惊恐-标准-中景"></motion>
-  <text>In the martial arts world, everyone acknowledged that she was intelligent and earned her nickname of 『Chikei Musou』—Su Mei. That’s what he said</text>
+  <text>Trong giới võ thuật, mọi người đều công nhận cô ấy thông minh và có biệt danh là 『Chikei Musou』—Su Mei. Đó là những gì anh ấy nói</text>
   <motion action="img_trans" chara="004" img="苏湄-闭目-标准-中景"></motion>
-  <dialog chara="004">「No matter how hard you think about it, there's no plan that will work out perfectly. If everything goes according to your plans then Master should be dead by now and he won’t come back into this world...」</dialog>
+  <dialog chara="004">「Dù bạn có suy nghĩ thế nào đi nữa, cũng không có kế hoạch nào hoàn hảo cả. Nếu mọi việc diễn ra theo đúng kế hoạch của bạn thì Sư phụ đáng lẽ đã chết rồi và sẽ không bao giờ quay trở lại thế giới này nữa...</dialog>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-中景"></motion>
-  <dialog chara="004">「That's why I have no intention of making any plans. Change happens all the time, and it is impossible to calculate a human heart...」</dialog>
+  <dialog chara="004">「Đó là lý do tại sao tôi không có ý định lập bất kỳ kế hoạch nào. Thay đổi diễn ra liên tục, và không thể tính toán được trái tim con người...</dialog>
   <motion chara="003" action="img_trans" reversex="true" img="林朝雨-惊讶-标准-中景"></motion>
-  <text>Something cold suddenly welled up in the hearts of Lin Zhaoyu.</text>
-  <text>He hated Su Mei, but on the inside he believed she must have had some kind of plan.</text>
-  <text>Just like twenty years ago, when she gathered seven people and plotted to kill Phoenix—the invincible True Celestial. —The world would change with time; I knew that but the Taixuana Seven Swords had also changed from before</text>
+  <text>Một cảm giác lạnh lẽo đột nhiên dâng lên trong lòng Lin Zhaoyu.</text>
+  <text>Anh ta ghét Su Mei, nhưng trong lòng anh ta tin rằng cô ta chắc hẳn đã có một kế hoạch nào đó.</text>
+  <text>Cũng giống như hai mươi năm trước, khi cô ta tập hợp bảy người và âm mưu giết Phượng Hoàng—Thiên Thần Chân Chính bất khả chiến bại. —Thế giới sẽ thay đổi theo thời gian; ta biết điều đó nhưng Thất Kiếm Taixuana cũng đã thay đổi so với trước đây</text>
   <motion chara="003" action="img_trans" reversex="true" img="林朝雨-怅然-标准-中景"></motion>
-  <dialog chara="003">「So, you...」</dialog>
+  <dialog chara="003">「Vậy thì, bạn...」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-中景"></motion>
-  <dialog chara="004">「Yeah, I don't have a plan. But there are plenty of ways to do it!」</dialog>
+  <dialog chara="004">「Ừ, tôi không có kế hoạch. Nhưng có rất nhiều cách để làm điều đó!」</dialog>
   <motion chara="003" action="img_trans" reversex="true" img="林朝雨-惊讶-标准-中景"></motion>
-  <text>Lin Zhaoyu frowned suspiciously.</text>
-  <dialog chara="003">「A way?」</dialog>
+  <text>Lin Zhaoyu cau mày nghi ngờ.</text>
+  <dialog chara="003">「Một cách?」</dialog>
   <motion action="img_trans" chara="004" img="苏湄-闭目-标准-中景"></motion>
-  <dialog chara="004">「Yes.」</dialog>
+  <dialog chara="004">「Vâng.」</dialog>
   <dialog chara="004">
-    <p>「Twenty years ago, we buried our master and set fire to Mount Taixuan.</p>
-    <p>After that, I went back to the mountains and found something suspicious.」</p>
+    <p>「Hai mươi năm trước, chúng tôi đã chôn cất sư phụ và đốt cháy núi Thái Huyền.</p>
+    <p>Sau đó, tôi quay lại vùng núi và phát hiện ra điều gì đó đáng ngờ.</p>
   </dialog>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-中景"></motion>
-  <dialog chara="004">「Master's sword was missing.」</dialog>
-  <text>Su Mei takes a step forward. There seems to be an even deeper meaning behind her gaze as she stares at the Lin Zhaoyu</text>
+  <dialog chara="004">「Thanh kiếm của chủ nhân đã biến mất.」</dialog>
+  <text>Su Mei bước tới một bước. Dường như có một ý nghĩa sâu xa hơn ẩn sau ánh mắt cô khi nhìn chằm chằm vào Lin Zhaoyu</text>
   <event action="hide_ui" duration="1.5"></event>
   <motion chara="003" action="hide"></motion>
   <motion chara="004" action="hide"></motion>
@@ -88,99 +88,99 @@
   <bg img="拂云观-亮" scale="1.3"></bg>
   <motion chara="003" action="show" reversex="true" img="林朝雨-惊恐-标准-近景" pos="left"></motion>
   <motion chara="004" action="show" pos="right" img="苏湄-平静-标准-近景"></motion>
-  <dialog chara="003">「...It was gone?」</dialog>
+  <dialog chara="003">「...Nó đã biến mất rồi sao?」</dialog>
   <dialog chara="004">「......」</dialog>
-  <text>Su Mei was staring at Lin Zhaoyu’s face, but she suddenly averted her gaze.</text>
+  <text>Su Mei đang nhìn chằm chằm vào mặt Lin Zhaoyu, nhưng đột nhiên cô ấy quay mặt đi.</text>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-近景"></motion>
-  <dialog chara="004">「...It's not my sister.」</dialog>
-  <dialog chara="003">「Huh?」</dialog>
+  <dialog chara="004">「...Đó không phải là em gái tôi.」</dialog>
+  <dialog chara="003">「Hả?」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-自信-标准-近景"></motion>
-  <text>Su Mei smiled faintly on her face, as if she had come up with something interesting.</text>
-  <dialog chara="004">「By the time I returned, Master's coffin had been burned to a crisp. The bones inside it were scorched and there was no sign of them at all! Unfortunately for you—I decided on where they should be —because in that place we thought fire would never pass us by」</dialog>
-  <dialog chara="004">「That's why I investigated the crime scene. Then, as expected...」</dialog>
+  <text>Su Mei khẽ mỉm cười, như thể cô ấy vừa nghĩ ra điều gì đó thú vị.</text>
+  <dialog chara="004">「Khi tôi trở về, quan tài của Sư phụ đã bị cháy thành tro. Xương bên trong bị cháy đen và không còn dấu vết gì nữa! Thật không may cho anh—tôi đã quyết định nơi đặt chúng—vì ở nơi đó chúng tôi nghĩ rằng lửa sẽ không bao giờ đi qua chúng tôi」</dialog>
+  <dialog chara="004"> 「Đó là lý do tại sao tôi điều tra hiện trường vụ án. Sau đó, như dự đoán...」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-近景"></motion>
-  <dialog chara="004">「The body inside the coffin didn't belong to my master.」</dialog>
+  <dialog chara="004">「Thi thể bên trong quan tài không phải là của chủ nhân tôi.」</dialog>
   <motion chara="003" action="img_trans" img="林朝雨-愤怒-标准-近景" reversex="true"></motion>
-  <dialog chara="003">「...What did you say?」</dialog>
+  <dialog chara="003">「...Bạn vừa nói gì vậy?」</dialog>
   <motion chara="003" action="img_trans" reversex="true" img="林朝雨-惊恐-标准-近景"></motion>
   <dialog chara="004">「......」</dialog>
   <dialog chara="003">
-    <p>「In other words... You've known Master was alive for a long time? Did you know that twenty years ago, dearest Mell.</p>
-    <p>And yet, she didn't tell me... She said nothing and kept quiet.」</p>
+    <p>Nói cách khác... Cô đã biết Sư phụ còn sống từ lâu rồi sao? Cô đã biết điều đó từ hai mươi năm trước rồi chứ, Mell thân yêu.</p>
+    <p>Thế mà cô ấy không nói với tôi... Cô ấy không nói gì và giữ im lặng.</p>
   </dialog>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-近景"></motion>
   <dialog chara="004">「......」</dialog>
   <motion chara="003" action="img_trans" reversex="true" img="林朝雨-怅然-标准-近景"></motion>
   <dialog chara="003">
-    <p>「I didn't know. Never knew... What about Lord Yanqing? Do you not understand the situation either, Wanxi and Wanru ...</p>
-    <p>Besides, Suyi. At the very least I have to let her know―」</p>
+    <p>Tôi không biết. Chưa bao giờ biết... Còn Lãnh chúa Yanqing thì sao? Cả Wanxi và Wanru cũng không hiểu tình hình sao...?</p>
+    <p>Hơn nữa, Suyi. Ít nhất tôi cũng phải cho cô ấy biết―」</p>
   </dialog>
-  <dialog chara="004">「No, I didn't tell anyone.」</dialog>
+  <dialog chara="004">「Không, tôi không nói với ai cả.」</dialog>
   <motion chara="003" action="hide" img="林朝雨-怅然-标准-近景"></motion>
-  <text>Lin Zhaoyu steps back. Suddenly, a sharp pain runs through her cheeks as the old man crushes his pride of being an imaginary sword-fighting leader and makes it seem like she'll be ten years older in no time at all—time is eradicating any deception that might come to mind for him</text>
+  <text>Lin Zhaoyu lùi lại. Đột nhiên, một cơn đau nhói chạy dọc má cô khi ông lão đập tan lòng tự hào về việc mình là một thủ lĩnh đấu kiếm tưởng tượng và khiến cô cảm thấy như mình sẽ già đi mười tuổi trong nháy mắt - thời gian đang xóa bỏ mọi ảo tưởng mà ông ta có thể nghĩ ra</text>
   <motion chara="003" action="show" img="林朝雨-愤怒-标准-近景" reversex="true" pos="left"></motion>
   <dialog chara="003">
-    <p>「I've lived in solitude for the rest of my life. She is not like us, and we are making preparations... But either way—I cannot afford to let her know about this</p>
-    <p>Why did you not tell us, Su Mei?」</p>
+    <p>Tôi đã sống cô độc suốt quãng đời còn lại. Cô ấy không giống chúng ta, và chúng ta đang chuẩn bị... Nhưng dù sao đi nữa—tôi không thể để cô ấy biết về chuyện này</p>
+    <p>Tại sao cô không nói cho chúng tôi biết, Su Mei?</p>
   </dialog>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-近景"></motion>
-  <dialog chara="004">「That's right... I wonder why?」</dialog>
+  <dialog chara="004">「Đúng vậy... Tôi tự hỏi tại sao?」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-瞥视-标准-近景"></motion>
   <motion chara="003" action="img_trans" img="林朝雨-惊讶-标准-近景" reversex="true"></motion>
-  <text>Su Mei mutters. There seems to be a fog in her eyes</text>
-  <dialog chara="004">「...Time...」</dialog>
-  <text>The words come out of his mouth in a daze. Su Mei looks around as if she's upset, like an old man who has lost all memory and is searching for some treasure he doesn’t even know himself about from within the piled-up relic</text>
-  <dialog chara="004">「It's just... I need a little more time.」</dialog>
+  <text>Su Mei lẩm bẩm. Dường như có một màn sương mờ trong mắt cô ấy</text>
+  <dialog chara="004">「...Thời gian...」</dialog>
+  <text>Những lời nói thốt ra từ miệng anh ta trong trạng thái mơ màng. Su Mei nhìn xung quanh như thể cô ấy đang buồn bã, giống như một ông lão đã mất hết trí nhớ và đang tìm kiếm một kho báu mà chính ông ta cũng không biết đến từ đống di vật chất chồng lên nhau</text>
+  <dialog chara="004"> 「Chỉ là... tôi cần thêm chút thời gian.」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-闭目-标准-近景"></motion>
-  <text>She closes her eyes as she says that. It seems like this is the end of a topic for us to talk about, huh?[\s]When she opened her mouth again, the illusion of an old man had vanished. Standing before Lin Zhaoyu was none other than a calm master at Musoumon Gate</text>
+  <text>Cô ấy nhắm mắt lại khi nói điều đó. Có vẻ như đây là kết thúc của chủ đề mà chúng ta cần nói đến, phải không?[\s]Khi cô ấy mở miệng ra lần nữa, ảo ảnh của một ông lão đã biến mất. Đứng trước Lin Zhaoyu không ai khác ngoài một vị cao thủ điềm tĩnh ở Môn phái Musoumon</text>
   <motion chara="004" action="img_trans" img="苏湄-平静-标准-近景"></motion>
-  <dialog chara="004">「That's right... I knew it for a long time. Twenty years ago, my master disappeared from Mount Taixuan—someone might have stolen his body and he may already be resurrected — so there was no way you could tell? It just occurred to me that one 『Possible.』 existed」</dialog>
-  <dialog chara="004">「Master isn't dead, he might be alive.」</dialog>
+  <dialog chara="004">「Đúng vậy... Ta đã biết điều đó từ lâu rồi. Hai mươi năm trước, sư phụ ta biến mất khỏi núi Thái Huyền — có thể ai đó đã đánh cắp thi thể của ông ấy và ông ấy có thể đã được hồi sinh — vậy nên không có cách nào để biết được sao? Ta chợt nghĩ rằng có một 『Có thể.』 tồn tại」</dialog>
+  <dialog chara="004">「Sư phụ chưa chết, có thể ông ấy vẫn còn sống.」</dialog>
   <dialog chara="004">
-    <p>「No matter how unbelievable it may be, as long as there's a possibility I can’t ignore them.[\s]</p>
-    <p>That's why I created the Muso Gate and sent them all across Zhongyuan. They not only defeated evil spirits, but also gave me missions to locate my master in search of suspicious locations」</p>
+    <p>「Dù có vẻ khó tin đến mấy, miễn là có khả năng xảy ra thì tôi không thể phớt lờ chúng.[\s]</p>
+    <p>Đó là lý do tại sao ta tạo ra Cổng Muso và phái họ đi khắp Zhongyuan. Họ không chỉ đánh bại tà ma mà còn giao cho ta nhiệm vụ tìm kiếm sư phụ ở những địa điểm khả nghi.</p>
   </dialog>
   <dialog chara="004">
-    <p>「And I...</p>
-    <p>For the past few years, Master and I have been trying to find out more about this sword. We've learned a lot from it![\s]</p>
-    <p>I don't have any proof that we can win, but there are plenty of ways to use it.」</p>
+    <p>「Và tôi...</p>
+    <p>Trong vài năm qua, Sư phụ và tôi đã cố gắng tìm hiểu thêm về thanh kiếm này. Chúng tôi đã học được rất nhiều điều từ nó![\s]</p>
+    <p>Tôi không có bằng chứng nào cho thấy chúng ta có thể thắng, nhưng có rất nhiều cách để sử dụng nó.</p>
   </dialog>
-  <text>『Means』... Those words made Lin Zhaoyu feel a little uncomfortable.</text>
+  <text>『Có nghĩa là』... Những lời đó khiến Lin Zhaoyu cảm thấy hơi khó chịu.</text>
   <motion chara="003" action="img_trans" img="林朝雨-心头一震-标准-近景" reversex="true"></motion>
-  <dialog chara="003">「You mustn't do anything dirty to your master. He is Phoenix, after all!」</dialog>
+  <dialog chara="003">Ngươi không được làm điều gì xấu xa với chủ nhân của mình. Dù sao thì ngài ấy cũng là Phượng Hoàng!</dialog>
   <motion chara="004" action="img_trans" img="苏湄-瞥视-标准-近景"></motion>
-  <dialog chara="004">「Yes... I have no intention of being rude to my master.」</dialog>
+  <dialog chara="004">「Vâng... Tôi không có ý định bất lịch sự với chủ nhân của mình.」</dialog>
   <motion chara="004" action="img_trans" img="苏湄-标准-标准-近景"></motion>
-  <text>A faint smile appeared on Su Mei’s lips, but there was sadness mixed in.</text>
-  <dialog chara="004">「If my master is coming to kill me, then that’s only natural. Those who are killed have the right of vengeance」</dialog>
-  <dialog chara="004">「But I don't regret killing my master. If not for that, we would still be in endless agony right now... What about you?」</dialog>
+  <text>Một nụ cười nhạt thoáng hiện trên môi Tô Mỹ, nhưng xen lẫn nỗi buồn.</text>
+  <dialog chara="004">「Nếu chủ nhân của tôi đến giết tôi thì đó là điều tự nhiên. Những người bị giết có quyền trả thù」</dialog>
+  <dialog chara="004"> 「Nhưng ta không hối hận vì đã giết sư phụ. Nếu không phải vì điều đó, chúng ta vẫn sẽ đang trong đau khổ vô tận... Còn ngươi thì sao?」</dialog>
   <motion chara="003" action="img_trans" img="林朝雨-怅然-标准-近景" reversex="true"></motion>
   <dialog chara="003">「......」</dialog>
-  <text>The thirty years they’d spent together had become a thin needle, lightly stabbing into the chest of this headwoman who belonged to the Taixuan faction</text>
-  <dialog chara="003">「...I don't regret it either.」</dialog>
-  <text>Lin Zhaoyu spoke in a quiet voice.</text>
+  <text>Ba mươi năm họ ở bên nhau đã trở thành một cây kim mỏng, nhẹ nhàng đâm vào ngực người phụ nữ đứng đầu thuộc phe Taixuan này</text>
+  <dialog chara="003">「...Tôi cũng không hối hận.」</dialog>
+  <text>Lin Zhaoyu nói bằng giọng nhỏ nhẹ.</text>
   <motion chara="003" action="img_trans" img="林朝雨-认真-标准-近景" reversex="true"></motion>
   <motion chara="004" action="img_trans" img="苏湄-自信-标准-近景"></motion>
   <dialog chara="004">
-    <p>「It's fine. I have no intention of sitting down and waiting for death, so from now on we will fight my master with all our might! Only God knows if he is alive or dead—[\s]</p>
-    <p>That's why I came here. Miss Zhaoyu, please lend me your strength!」</p>
+    <p>「Không sao cả. Ta không có ý định ngồi chờ chết, vậy nên từ giờ trở đi chúng ta sẽ chiến đấu với sư phụ ta bằng toàn bộ sức lực! Chỉ có Chúa mới biết ông ấy còn sống hay đã chết—[\s]</p>
+    <p>Đó là lý do tôi đến đây. Cô Zhaoyu, xin hãy giúp tôi với!</p>
   </dialog>
   <text>
-    <p>Lin Zhaoyu stared at the red-haired woman in front of her.[\s]</p>
-    <p>In the past, she had been her own little sister and best friend. She was a comrade in love with him; he thought that once they parted ways there would be nothing to do between them until their deaths</p>
+    <p>Lin Zhaoyu nhìn chằm chằm vào người phụ nữ tóc đỏ trước mặt.[\s]</p>
+    <p>Trước đây, cô ấy là em gái ruột và người bạn thân nhất của anh ấy. Cô ấy là người bạn đồng hành yêu anh ấy; anh ấy nghĩ rằng một khi họ chia tay thì sẽ không còn gì liên quan đến nhau cho đến khi chết</p>
   </text>
-  <text>But right now, various emotions swirled in the hearts of Lin Zhaoyu.</text>
-  <text>And then, at the end of her sentence...</text>
+  <text>Nhưng ngay lúc này, nhiều cảm xúc hỗn loạn trong lòng Lin Zhaoyu.</text>
+  <text>Và sau đó, ở cuối câu của cô ấy...</text>
   <motion chara="003" action="img_trans" img="林朝雨-心头一震-标准-近景" reversex="true"></motion>
-  <dialog chara="003">「Go ahead and say it.」</dialog>
+  <dialog chara="003">「Cứ nói đi.」</dialog>
   <transition mode="fade" in="1" stop="0.1" out="0" color="#000000"></transition>
   <motion chara="004" action="hide"></motion>
   <motion chara="003" action="hide"></motion>
   <transition mode="fade" in="0" stop="0.5" out="1" color="#000000"></transition>
   <cg img="CG_第二折_天穹苏湄" duration="1"></cg>
-  <text>Su Mei stepped out of the cloud view and spread her arms wide at a peak in Tianqiu Peak, drawing circles as she answered.</text>
+  <text>Su Mei bước ra khỏi tầm nhìn mây và dang rộng hai tay trên đỉnh Thiên Khâu, vẽ vòng tròn khi trả lời.</text>
   <motion chara="004" action="show" pos="center" img="苏湄-甜笑-标准-近景"></motion>
-  <dialog chara="004">「I want to have Zhaoyu Nee-san's sword style.」</dialog>
+  <dialog chara="004">「Tôi muốn có kiếm pháp của Triệu Vũ Nee-san.」</dialog>
   <event action="hide_ui" duration="8"></event>
   <motion chara="004" action="hide" duration="2.5"></motion>
   <transition mode="fade" in="2" stop="0.5" color="#000000" out="0"></transition>

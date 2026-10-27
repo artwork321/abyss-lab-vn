@@ -4,82 +4,82 @@
   <bg img="PureBlack"></bg>
   <mono>
     <p></p>
-    <p>When Li Sushang was born, she weighed only two kin and three Ryo. She had almost the same weight as a single sword</p>
-    <p>Those in the mountain villa shook their heads, and his father Li Xin turned to her mother Qin Suyi as he spoke.</p>
+    <p>Khi Lý Tô Chương chào đời, cô chỉ nặng hai cân ba ryo. Cô nặng gần bằng một thanh kiếm</p>
+    <p>Những người trong biệt thự trên núi lắc đầu, và cha anh, Lý Xin, quay sang mẹ cô, Tần Suyi, khi anh nói.</p>
     <p></p>
-    <p>「She won't be able to live.」</p>
+    <p>「Cô ấy sẽ không thể sống được.」</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>At that time, Qin Suyi was in the middle of recuperating after childbirth and answered as follows:</p>
+    <p>Lúc đó, Tần Suyi đang trong thời gian dưỡng bệnh sau khi sinh con và trả lời như sau:</p>
   </mono>
   <mono>
     <p></p>
-    <p>「Even if she couldn't live, that was her fate.</p>
-    <p>I don't hate fate, but we have no intention of having a second child.</p>
-    <p>Even if the Lee bloodline ends now, that's fate.」</p>
+    <p>「Dù cô ấy không thể sống, đó cũng là số phận của cô ấy.</p>
+    <p>Tôi không ghét số phận, nhưng chúng tôi không có ý định sinh con thứ hai.</p>
+    <p>Cho dù dòng máu họ Lee kết thúc ngay bây giờ, đó cũng là số phận.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>It is said that upon hearing this, Li Xin turned pale and left.</p>
+    <p>Người ta nói rằng khi nghe điều này, Lý Xin tái mặt và bỏ đi.</p>
   </mono>
   <bg img="忆剑山庄" duration="2"></bg>
   <mono pageend="true">
     <p></p>
-    <p>Thanks to the care of her mother and wet nurse, Li Sushang had survived. And she was still very well-rested as a result...</p>
+    <p>Nhờ sự chăm sóc của mẹ và vú nuôi, Li Sushang đã sống sót. Và nhờ vậy mà cô ấy vẫn còn rất khỏe mạnh...</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <bg img="忆剑山庄门外" duration="2"></bg>
   <delay t="2"></delay>
   <mono pageend="true">
     <p></p>
-    <p>One hundred days after the birth of Sushang, Li Xin invited a famous fortune-teller 「Kohansen」 to her villa.</p>
+    <p>Một trăm ngày sau khi Sushang ra đời, Li Xin đã mời một thầy bói nổi tiếng tên là Kohansen đến biệt thự của mình.</p>
     <p></p>
-    <p>Kohansen makes a sigil and chants an incantation. After observing her for some time around Sushang, she yelps out loud—</p>
+    <p>Kohansen vẽ một ký hiệu và niệm chú. Sau khi quan sát cô ấy một lúc quanh Sushang, cô ấy hét lên thật to—</p>
     <p></p>
-    <p>「The young lord was born a genius with the talent for swordsmanship. He had an extraordinary fate, and he looked like someone who would do something important!」</p>
+    <p>「Vị thiếu gia trẻ tuổi sinh ra đã là một thiên tài với tài năng kiếm thuật. Anh ta có một vận mệnh phi thường, và trông anh ta giống như một người sẽ làm được điều gì đó quan trọng!」</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>There were many different interpretations of those words. Overjoyed at what he had expected, Li Xin thought that his daughter would fulfill her dream to stand on top in the martial arts world instead and held a banquet for him—a grand celebration</p>
+    <p>Có nhiều cách hiểu khác nhau về những lời đó. Vui mừng khôn xiết trước những gì mình mong đợi, Li Xin nghĩ rằng con gái mình sẽ thực hiện được ước mơ đứng đầu trong thế giới võ thuật và đã tổ chức một bữa tiệc cho anh ấy - một lễ kỷ niệm hoành tráng</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>However, there was no main character at the banquet.</p>
+    <p>Tuy nhiên, không có nhân vật chính nào tại bữa tiệc.</p>
     <p></p>
-    <p>Qin Suyi, the real 「Sennin」’s pupil and a cold-eyed stare at that farce before leaving with her daughter in his arms</p>
+    <p>Qin Suyi, học trò của 「Sennin」 thật sự, nhìn chằm chằm vào trò hề đó với ánh mắt lạnh lùng trước khi rời đi cùng con gái trong vòng tay</p>
     <p></p>
-    <p>She went back to the bedroom, lowered her daughter onto a soft rug and placed some small wooden swords beside it</p>
+    <p>Cô ấy quay lại phòng ngủ, đặt con gái mình xuống một tấm thảm mềm và đặt một vài thanh kiếm gỗ nhỏ bên cạnh</p>
     <p></p>
-    <p>The young Sushang reached out to touch the sword, but she couldn't. Hata Suyi said nothing and simply watched in silence</p>
+    <p>Sushang trẻ tuổi vươn tay chạm vào thanh kiếm, nhưng không được. Hata Suyi không nói gì mà chỉ im lặng quan sát</p>
   </mono>
   <cg img="氛围_通用_轩辕剑" duration="2"></cg>
   <mono pageend="true">
     <p></p>
-    <p>Ever since she was old enough to remember, there had been a sword by Li Sushang’s side. So maybe it wasn't long before the girl learned about her blade</p>
+    <p>Từ khi cô đủ lớn để nhớ, đã có một thanh kiếm bên cạnh Li Sushang. Vì vậy, có lẽ không lâu sau cô gái đã biết về thanh kiếm của mình</p>
     <p></p>
-    <p>Her mother had taught her unusual ways of speaking, and his father was teaching each girl the twelve forms that were used to remember swordsmanship.</p>
+    <p>Mẹ cô đã dạy cô những cách nói chuyện khác thường, và cha anh đang dạy mỗi cô gái mười hai thế kiếm được dùng để ghi nhớ.</p>
     <p></p>
-    <p>Thus, Li Sushang spent her childhood training with the sword and four years passed in an instant.</p>
+    <p>Như vậy, Li Sushang đã dành cả tuổi thơ để luyện kiếm và bốn năm trôi qua trong nháy mắt.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The young Sushang had practiced diligently, and the Denka’s swordplay wasn't bad at all. But even so her mother refused to listen by saying that she would be sent into a vast desert for 「Apprenticeship」</p>
+    <p>Sushang trẻ tuổi đã luyện tập chăm chỉ, và kiếm pháp của Denka cũng không tệ chút nào. Nhưng dù vậy, mẹ cô vẫn không chịu nghe lời và nói rằng cô sẽ bị gửi đến một sa mạc rộng lớn để 'học việc'</p>
     <p></p>
-    <p>In response to this, Sushang cried and screamed but didn't resist much.</p>
-    <p>As a young girl, she had no concept of places like Bakuhoku or Nankan and didn't know how to leave home.</p>
+    <p>Đáp lại điều này, Sushang khóc và la hét nhưng không phản kháng nhiều.</p>
+    <p>Khi còn nhỏ, cô ấy không hề có khái niệm về những nơi như Bakuhoku hay Nankan và không biết làm thế nào để rời khỏi nhà.</p>
   </mono>
   <cg duration="2"></cg>
   <mono pageend="true">
     <p></p>
-    <p>A few days after it was decided that he would go to the desert, a well-liked Stone Suzuri Dojin from all across Shaanxi visited Omokukenzanso. To welcome his guest of honor with open arms and respect for him, her father ordered Nurse Soumo (a wet nurse), who had been brought into their backyards so she could train in this style...</p>
+    <p>Vài ngày sau khi quyết định rằng anh ta sẽ đến sa mạc, một võ sĩ Đá Suzuri Dojin được yêu mến từ khắp Thiểm Tây đã đến thăm Omokukenzanso. Để chào đón vị khách quý của mình với vòng tay rộng mở và sự kính trọng, cha cô đã ra lệnh cho bà vú Soumo (một người vú nuôi), người đã được đưa đến sân sau nhà họ để cô ấy có thể luyện tập theo phong cách này...</p>
     <p></p>
-    <p>The wet nurse can't move her legs the way she wants. Sushang sneaks out of my backyard without being noticed by a nannies, then hid in its usual spot and peeked into our living room with great interest</p>
+    <p>Cô vú nuôi không thể cử động chân theo ý muốn. Sushang lẻn ra khỏi sân sau nhà tôi mà không bị người giữ trẻ nào phát hiện, rồi trốn vào chỗ quen thuộc và nhìn trộm vào phòng khách nhà chúng tôi với vẻ rất thích thú</p>
   </mono>
   <bg img="忆剑山庄内" duration="2"></bg>
   <mono>
     <p></p>
-    <p>「Long time no see, Master Li.」</p>
+    <p>「Lâu rồi không gặp, Sư phụ Li.」</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <motion chara="010" action="show" pos="center" img="李绅-温柔-标准-远景" duration="2"></motion>
@@ -87,225 +87,226 @@
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>After exchanging greetings with a smile, Li Xin sat down for tea and left the rest of their conversation to his wife.</p>
+    <p>Sau khi trao đổi lời chào hỏi với nụ cười, Li Xin ngồi xuống uống trà và để vợ mình tiếp tục cuộc trò chuyện.</p>
   </mono>
   <motion chara="010" action="move" pos="left" duration="1"></motion>
-  <mono>He understands it very well. The reason why this vast Sword Mountain Manor has gained such a high reputation in the martial arts world is not because of him, but rather...</mono>
+  <mono>Hắn hiểu rất rõ. Lý do tại sao trang viên Kiếm Sơn rộng lớn này lại có được danh tiếng cao như vậy trong giới võ thuật không phải là vì hắn, mà là...</mono>
   <event action="hide_ui" duration="3"></event>
   <motion chara="009" action="show" pos="right" duration="3" img="秦素衣-标准-标准-远景"></motion>
   <delay t="3"></delay>
   <event action="show_ui"></event>
   <mono pageend="true">
     <p></p>
-    <p>—His wife, the seventh disciple of 「Celestial Phoenix」 「Somekoken」 Taixuanza Celestial Soi Hata.</p>
+    <p>—Vợ của anh ta, đệ tử thứ bảy của 「Thiên Phượng」 「Somekoken」 Taixuanza Thiên Soi Hata.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>At the time, when Celestial Phoenix was still in this world—if anyone had to say he controlled Shinshu’s martial arts society...it would have been him.</p>
-    <p>Legend has it that Phoenix is a Celestial who descended to the world below. Not only does he have immortality, but also his unparalleled talent in martial arts</p>
+    <p>Vào thời điểm đó, khi Thiên Phượng vẫn còn ở thế giới này—nếu ai đó phải nói rằng ông ta kiểm soát xã hội võ thuật của Shinshu...thì đó sẽ là ông ta.</p>
+    <p>Truyền thuyết kể rằng Phượng Hoàng là một vị thần giáng trần. Không chỉ bất tử, ông ta còn sở hữu tài năng võ thuật vô song</p>
     <p></p>
-    <p>But ten years ago, a golden light suddenly appeared on Mount Taixuan. The Celestial rode the crane to heaven and turned it into scorched earth by an inferno...</p>
-    <p>That incident had caused quite a stir in the martial arts world. Everyone wanted to know why a Celestial who’d protected Shinshu for over one thousand years suddenly returned from heaven</p>
+    <p>Nhưng mười năm trước, một luồng ánh sáng vàng đột nhiên xuất hiện trên núi Thái Huyền. Vị thần cưỡi hạc lên trời và biến nơi đó thành vùng đất cháy rụi bằng một trận hỏa hoạn...</p>
+    <p>Sự việc đó đã gây ra một sự xáo trộn lớn trong giới võ thuật. Mọi người đều muốn biết tại sao một vị Thiên nhân đã bảo vệ Shinshu hơn một nghìn năm lại đột nhiên trở về từ thiên đường</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Now that the Celestial were no longer in this world, their answer would naturally lead them to expect much from 「Taixuan Shichiken」—the seven disciples of one</p>
+    <p>Giờ đây khi Thiên giới không còn ở thế giới này nữa, câu trả lời của họ đương nhiên sẽ khiến họ kỳ vọng rất nhiều vào 「Taixuan Shichiken」—bảy đệ tử của một người</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p>Keen----</p>
-    <p>The elderly monk drank his tea, placed the lid on a chaki (tea utensil), and told him about recent events in martial arts before finally speaking of a Celestial.</p>
+    <p>Vị sư già uống trà, đậy nắp ấm trà (chaki) lại, rồi kể cho ông nghe về những sự kiện gần đây trong võ thuật trước khi cuối cùng nói về một vị Thiên.</p>
     <p></p>
-    <p>「To be honest, Phoenix-sama saved me when I was young. But even now he regretted not being able to thank him properly... *Sigh* He'll probably come back again someday!」</p>
+    <p>Thành thật mà nói, Phượng Hoàng đã cứu tôi khi tôi còn nhỏ. Nhưng ngay cả bây giờ ngài ấy vẫn tiếc vì không thể cảm ơn ngài ấy một cách tử tế... *Thở dài* Có lẽ ngài ấy sẽ quay lại vào một ngày nào đó!</p>
   </mono>
   <motion chara="009" action="img_trans" img="秦素衣-温柔-标准-远景"></motion>
   <mono pageend="true">
     <p></p>
-    <p>Qin Suyi also put his hand on the tea utensil and answered with a laugh.</p>
+    <p>Qin Suyi cũng đặt tay lên dụng cụ pha trà và cười đáp lại.</p>
     <p></p>
-    <p>「We mortals don't speculate about the Celestial on our own. As long as we have some connection to them, I believe that they will be reunited with Master Cleric!」</p>
+    <p>「Chúng ta, những người phàm trần, không tự ý suy đoán về các vị Thần. Chỉ cần chúng ta có mối liên hệ nào đó với họ, ta tin rằng họ sẽ được đoàn tụ với Thầy tu tối cao!」</p>
     <p></p>
-    <p>The monk laughed loudly and nodded, then never spoke of Phoenix again.</p>
+    <p>Vị sư cười lớn và gật đầu, rồi không bao giờ nhắc đến Phượng Hoàng nữa.</p>
   </mono>
   <motion chara="010" action="hide"></motion>
   <motion chara="009" action="hide"></motion>
   <mono pageend="true">
     <p></p>
-    <p>After finishing his tea, the monk announced that he had free time.</p>
+    <p>Sau khi uống xong trà, nhà sư tuyên bố rằng ông có thời gian rảnh.</p>
     <p></p>
-    <p>Her father saw the customer off, and when she returned he looked gloomy.</p>
+    <p>Cha cô ấy tiễn khách hàng đi, và khi cô ấy quay lại thì ông ấy trông ủ rũ.</p>
   </mono>
   <motion chara="010" action="show" pos="right" img="李绅-邪笑-标准-中景"></motion>
-  <dialog chara="010">「What do you think that tanuki dad came here for? He's after our sword fighting spirit.」</dialog>
+  <dialog chara="010">「Bạn nghĩ bố tanuki đến đây làm gì? Ông ta đang muốn lấy tinh thần đấu kiếm của chúng ta.」</dialog>
   <motion chara="009" action="show" pos="left" img="秦素衣-冷漠-标准-中景"></motion>
-  <dialog chara="009">「...Ours?」</dialog>
+  <dialog chara="009">「...Của chúng ta sao?」</dialog>
   <motion chara="010" action="img_trans" img="李绅-阴沉-标准-中景"></motion>
   <mono pageend="true">
     <p></p>
-    <p>Li Sushang couldn't help but be surprised at the disdain in her mother’s words.</p>
+    <p>Li Sushang không khỏi ngạc nhiên trước sự khinh miệt trong lời nói của mẹ mình.</p>
     <p></p>
-    <p>In her memories, their parents were always on good terms. Yes...just like the other married couples</p>
+    <p>Trong ký ức của cô ấy, cha mẹ họ luôn hòa thuận. Đúng vậy... giống như những cặp vợ chồng khác</p>
     <p></p>
-    <p>She didn’t know her mother and father talked like that.</p>
+    <p>Cô ấy không biết bố mẹ mình nói chuyện như vậy.</p>
   </mono>
   <motion chara="009" action="img_trans" img="秦素衣-阴沉-标准-中景"></motion>
   <dialog chara="009">
-    <p>「If he's after 『Tanuki Dad』, then...</p>
-    <p>What are you?」</p>
+    <p>「Nếu anh ta đang theo đuổi 『Bố Tanuki』, thì...</p>
+    <p>Bạn là ai?</p>
   </dialog>
   <motion chara="010" action="img_trans" img="李绅-标准-标准-中景"></motion>
-  <dialog chara="010">「Me? Suyi, I-I... can swear my feelings for you to the sun and moon.」</dialog>
+  <dialog chara="010">「Tôi ư? Suyi, tôi... có thể thề thốt tình cảm của mình dành cho em trước mặt trời và mặt trăng.」</dialog>
   <motion chara="009" action="img_trans" img="秦素衣-温柔-标准-中景"></motion>
-  <dialog chara="009">「Why don't you stop with that? I am no longer the same little girl as back then.」</dialog>
-  <text>Qin Suyi said indifferently.</text>
+  <dialog chara="009">「Sao anh không thôi đi? Tôi không còn là cô bé ngày xưa nữa.」</dialog>
+  <text>Qin Suyi nói một cách thờ ơ.</text>
   <motion chara="009" action="img_trans" img="秦素衣-苦笑-标准-中景"></motion>
-  <dialog chara="009">「You helped me back then, and you've been very kind to my life. Because of your kindness I thought that it would be a good idea for us both as wives so we could teach each other the true meaning behind swordsmanship—whether this was just lip service or genuine love...」</dialog>
+  <dialog chara="009">「Hồi đó chị đã giúp đỡ em, và chị đã rất tốt bụng với cuộc đời em. Vì lòng tốt của chị mà em nghĩ rằng sẽ là một ý hay nếu cả hai chúng ta, với tư cách là vợ, có thể dạy cho nhau ý nghĩa thực sự của kiếm thuật—cho dù đó chỉ là lời nói suông hay tình yêu chân thành...</dialog>
   <motion chara="009" action="img_trans" img="秦素衣-冷漠-标准-中景"></motion>
-  <dialog chara="009">「But as time passes, you can see people's hearts. When I failed to master the art of swordplay... what did it say? What have we done for each other up until this point in our lives! Li Xin is a married couple and lies do not work on us at all」</dialog>
-  <dialog chara="009">「The fact that you saved me and whispered your love was a lie. I want to get my hands on Taixuan, but it's the only truth in this world!」</dialog>
+  <dialog chara="009">「Nhưng thời gian trôi qua, bạn có thể nhìn thấu lòng người. Khi tôi thất bại trong việc thành thạo kiếm thuật... nó nói lên điều gì? Chúng ta đã làm gì cho nhau cho đến thời điểm này trong cuộc đời! Li Xin là vợ chồng và lời nói dối hoàn toàn không có tác dụng với chúng ta」</dialog>
+  <dialog chara="009">「Việc ngươi cứu ta và thì thầm lời yêu thương là một lời nói dối. Ta muốn có được Taixuan, nhưng đó mới là sự thật duy nhất trên đời này!」</dialog>
   <motion chara="010" action="img_trans" img="李绅-冷漠-标准-中景"></motion>
   <dialog chara="010">「Suyi...」</dialog>
   <motion chara="009" action="img_trans" img="秦素衣-苦笑-标准-中景"></motion>
-  <dialog chara="009">「Oh well, it doesn't matter now. Keep talking!」</dialog>
-  <text>His father fell silent for a while.</text>
+  <dialog chara="009">「Thôi được rồi, giờ thì không quan trọng nữa. Cứ tiếp tục nói đi!</dialog>
+  <text>Cha anh ấy im lặng một lúc.</text>
   <motion chara="010" action="img_trans" img="李绅-阴沉-标准-中景"></motion>
-  <dialog chara="010">「You are guilty of being attached to an innocent man. There is fifty thousand people in the martial arts world who seek you after learning Edge of Taixuan, and now they have Phoenix's name; everyone fears that he will be known as The Seven Sword... But from here on out ...」</dialog>
+  <dialog chara="010">「Ngươi có tội vì bám víu vào một người vô tội. Có năm mươi nghìn người trong giới võ thuật đang tìm kiếm ngươi sau khi học được Kiếm Cực Thái Huyền, và giờ họ có danh tiếng Phượng Hoàng; mọi người đều lo sợ rằng hắn sẽ được biết đến với cái tên Thất Kiếm... Nhưng từ giờ trở đi...</dialog>
   <motion chara="010" action="img_trans" img="李绅-愤怒-标准-中景"></motion>
   <dialog chara="010">
-    <p>「...In the end, her imaginary form is fake. It will disappear over time like a scent of ink on paper...</p>
-    <p>If your secret is revealed to the martial arts world...」</p>
+    <p>「...Cuối cùng, hình dạng tưởng tượng của cô ấy là giả. Nó sẽ biến mất theo thời gian như mùi mực trên giấy...</p>
+    <p>Nếu bí mật của bạn bị tiết lộ cho giới võ thuật...</p>
   </dialog>
-  <dialog chara="009">「I understand what you're trying to say. Yes, the Swordcracker Mountain Manor cannot protect me and neither can yours...」</dialog>
+  <dialog chara="009">「Tôi hiểu ý anh muốn nói. Đúng vậy, trang viên Núi Kiếm Phá không thể bảo vệ tôi và trang viên của anh cũng vậy...」</dialog>
   <motion chara="010" action="img_trans" img="李绅-阴沉-标准-中景"></motion>
   <dialog chara="010">
-    <p>「Yeah. We're the only ones who know about this, but there is no way to cover up what really happened...</p>
-    <p>For example, your disciple... Did you notice his gaze the last time he was here?</p>
-    <p>Would you laugh at me for being so suspicious if I said he noticed?」</p>
+    <p>「Ừ. Chúng ta là những người duy nhất biết về chuyện này, nhưng không có cách nào che giấu được những gì thực sự đã xảy ra...</p>
+    <p>Ví dụ, đệ tử của ông... Ông có để ý ánh mắt của anh ta lần trước khi anh ta đến đây không?</p>
+    <p>Bạn có cười tôi vì quá đa nghi nếu tôi nói rằng anh ấy đã nhận thấy không?</p>
   </dialog>
   <motion chara="009" action="img_trans" img="秦素衣-阴沉-标准-中景"></motion>
-  <text>As Qin Suyi fell silent, Li Xin continued</text>
-  <dialog chara="010">「From what you've told me, I will never be able to master the art of swordsmanship in my entire life. But if it is true that one can learn a full-blown martial arts style with only their bare clothes...」</dialog>
-  <dialog chara="009">「You're the one who has high hopes for Sushang.」</dialog>
+  <text>Khi Tần Suyi im lặng, Lý Xin tiếp tục</text>
+  <dialog chara="010">「Theo những gì anh nói, cả đời tôi sẽ không bao giờ có thể thành thạo kiếm thuật. Nhưng nếu đúng là người ta có thể học được một môn võ thuật hoàn chỉnh chỉ với quần áo trần...</dialog>
+  <dialog chara="009">「Chính cậu mới là người đặt nhiều hy vọng vào Sushang.」</dialog>
   <motion chara="010" action="img_trans" img="李绅-温柔-标准-中景"></motion>
-  <dialog chara="010">「Yeah, well... But what about it?」</dialog>
-  <dialog chara="010">「That girl is our daughter. She has talent with a sword, and she's blessed to be gifted in the field as well! Why not teach her how takken spirit works?」</dialog>
-  <dialog chara="010">「We don't need to send her somewhere that far away. If something happens, we can never stay by your side...」</dialog>
+  <dialog chara="010">「Ừ thì... Nhưng còn chuyện đó thì sao?」</dialog>
+  <dialog chara="010">「Cô gái đó là con gái chúng ta. Cô ấy có tài năng về kiếm thuật, và còn được trời phú cho năng khiếu trong cả lĩnh vực khác nữa! Sao không dạy cô ấy cách thức hoạt động của linh hồn Takken nhỉ?</dialog>
+  <dialog chara="010">「Chúng ta không cần phải đưa cô ấy đến nơi xa xôi như vậy. Nếu có chuyện gì xảy ra, chúng ta sẽ không bao giờ ở bên cạnh được...」</dialog>
   <motion chara="009" action="img_trans" img="秦素衣-冷漠-标准-中景"></motion>
-  <dialog chara="010">「And as for that fifth disciple... Is there a reason why I have to send her Sushang?!」</dialog>
-  <text>Waiting for him to finish, Qin Suyi opened his mouth.</text>
-  <dialog chara="009">「Taixuan has five elements.」</dialog>
+  <dialog chara="010"> 「Còn về đệ tử thứ năm đó... Có lý do gì mà ta phải cử Sushang đến đây không?!」</dialog>
+  <text>Chờ anh ta nói xong, Tần Suyi mở miệng.</text>
+  <dialog chara="009">「Taixuan có năm yếu tố.」</dialog>
   <motion chara="010" action="img_trans" img="李绅-标准-标准-中景"></motion>
-  <dialog chara="010">「...Hm?」</dialog>
+  <dialog chara="010">「...Hừm?」</dialog>
   <motion chara="009" action="img_trans" img="秦素衣-厌恶-标准-中景"></motion>
   <dialog chara="009">
-    <p>「The heart, the shape of it all: will. Souls and gods—you should know what a sword looks like as well</p>
-    <p>After that, I didn't talk about it until now and thought there was no need to.」</p>
+    <p>「Trái tim, hình dạng của tất cả: ý chí. Linh hồn và thần thánh—bạn cũng nên biết thanh kiếm trông như thế nào</p>
+    <p>Sau đó, tôi không nói về chuyện đó cho đến bây giờ và nghĩ rằng không cần thiết phải nói.</p>
   </dialog>
-  <text>Qin Suyi snorted contemptuously.</text>
+  <text>Qin Suyi khịt mũi khinh bỉ.</text>
   <motion chara="009" action="img_trans" img="秦素衣-温柔-标准-中景"></motion>
-  <dialog chara="009">「Hmph. I wasn't trying to hide it from you or anything, but there is no point in talking about the Three Uninvolved Wisdom Clan members when they cannot even master a sword heart!」</dialog>
-  <dialog chara="009">「Kenshin is the foundation of a Taixuan school, and swordsmanship as an introductory to “Taixuani”... Those are things that we seven have mastered.」</dialog>
+  <dialog chara="009">「Hừm. Ta không cố giấu ngươi điều gì cả, nhưng chẳng ích gì khi nói về các thành viên của Tam Trí Tộc khi họ thậm chí còn không thể thành thạo kiếm tâm!</dialog>
+  <dialog chara="009">「Kenshin là nền tảng của trường phái Taixuan, và kiếm thuật là phần giới thiệu cho “Taixuani”... Đó là những điều mà bảy người chúng ta đã thành thạo.」</dialog>
   <motion chara="009" action="img_trans" img="秦素衣-恍然-标准-中景"></motion>
-  <text>The coldness in her mother’s voice diminished, replaced by more ephemerality.</text>
-  <dialog chara="009">「My 『Sumizomeka』, that mysterious power... is the will of swordsmanship. Master gave us all a penchant for wielding kenjou-tsurugi! The shape changes when we realize our intentions are different from each other」</dialog>
-  <dialog chara="009">「Out of the seven, only my fifth disciple Lingshuang-neechan was able to learn his will. After all... she doesn't need it anymore!」</dialog>
-  <text>Her mother fell silent for a while, as if basking in memories.</text>
+  <text>Sự lạnh lùng trong giọng nói của mẹ cô giảm đi, được thay thế bằng sự phù du hơn.</text>
+  <dialog chara="009">「『Sumizomeka』 của ta, sức mạnh bí ẩn đó... chính là ý chí kiếm thuật. Sư phụ đã ban cho chúng ta khuynh hướng sử dụng kenjou-tsurugi! Hình dạng thay đổi khi chúng ta nhận ra ý định của mình khác nhau」</dialog>
+  <dialog chara="009">Trong số bảy người, chỉ có đệ tử thứ năm của ta là Lingshuang-neechan mới có thể học được ý chí của hắn. Xét cho cùng... nàng ấy không cần nó nữa!</dialog>
+  <text>Mẹ cô im lặng một lúc, như thể đang đắm mình trong ký ức.</text>
   <dialog chara="009">
-    <p>「Swordsmanship is the essence of swordplay.</p>
-    <p>The way of the sword was all creation in Morira, and it itself had been nothing more than a possession.」</p>
+    <p>「Kiếm thuật là tinh túy của kiếm thuật.</p>
+    <p>Con đường của thanh kiếm là tất cả sự sáng tạo ở Morira, và bản thân nó chẳng hơn gì một vật sở hữu.</p>
   </dialog>
   <motion chara="010" action="img_trans" img="李绅-贪婪-标准-中景"></motion>
   <dialog chara="009">
-    <p>「After learning Soul Un, you can use every weapon in the world like a sword and no longer have to worry about its shape.</p>
-    <p>Only when he reached that boundary could his swordplay be said to have achieved great feats.」</p>
+    <p> 「Sau khi học được Linh Hồn Un, bạn có thể sử dụng mọi loại vũ khí trên thế giới như một thanh kiếm và không còn phải lo lắng về hình dạng của nó nữa.</p>
+    <p>Chỉ khi nào anh ta đạt đến ranh giới đó thì kiếm thuật của anh ta mới được coi là đạt được những kỳ tích vĩ đại.</p>
   </dialog>
-  <dialog chara="010">「Using all kinds of weapons like swords...」</dialog>
-  <text>Li Xin couldn't help but be startled.</text>
+  <dialog chara="010">「Sử dụng đủ loại vũ khí như kiếm...」</dialog>
+  <text>Li Xin không khỏi giật mình.</text>
   <motion chara="010" action="img_trans" img="李绅-邪笑-标准-中景"></motion>
-  <dialog chara="010">「Taixuan, that's the taiky sword ki for you! It really is a divine technique.」</dialog>
+  <dialog chara="010">「Taixuan, đó chính là kiếm khí Taiky đấy! Quả thực là một kỹ thuật thần thánh.」</dialog>
   <motion chara="009" action="img_trans" img="秦素衣-冷漠-标准-中景"></motion>
-  <dialog chara="009">「Yes.」</dialog>
-  <text>Qin Suyi’s ephemerality vanished as if waking from a dream, and his tone returned to its original cold one.</text>
+  <dialog chara="009">「Vâng.」</dialog>
+  <text>Sự phù du của Tần Suyi biến mất như thể vừa tỉnh giấc khỏi một giấc mơ, và giọng điệu của hắn trở lại vẻ lạnh lùng ban đầu.</text>
   <motion chara="010" action="img_trans" img="李绅-阴沉-标准-中景"></motion>
-  <dialog chara="009">「However, there is a divine spirit above the soul.」</dialog>
+  <dialog chara="009">「Tuy nhiên, có một thần linh ở trên linh hồn.」</dialog>
   <motion chara="009" action="img_trans" img="秦素衣-阴沉-标准-中景"></motion>
-  <dialog chara="009">「The God----Without technique, the Swordless will win against Ariken. Their swordsmanship can turn into a blade with only their hearts and minds as they wish it to be! That is what this god of war means...」</dialog>
-  <dialog chara="009">「Only five thousand years have passed since I learned the Divine Vow. Even among us eight, only Master and Lingshuang-neechan are able to reach a boundary between Sword Godsmen!」</dialog>
+  <dialog chara="009">「Vị thần----Không cần kỹ thuật, kẻ không kiếm sẽ thắng Ariken. Kiếm pháp của họ có thể biến thành lưỡi kiếm chỉ bằng trái tim và khối óc của họ theo ý muốn! Đó là ý nghĩa của vị thần chiến tranh này...」</dialog>
+  <dialog chara="009">「Chỉ mới năm nghìn năm trôi qua kể từ khi ta học được Lời Thề Thần Thánh. Ngay cả trong số tám người chúng ta, chỉ có Sư phụ và Lingshuang-neechan mới có thể đạt đến cảnh giới của Kiếm Thần!」</dialog>
   <motion chara="009" action="img_trans" img="秦素衣-厌恶-标准-中景"></motion>
-  <dialog chara="009">「My master is a Celestial, so it's not strange at all. But Lingshuang was able to obtain the supremely powerful Sword God in her mortal body... Heheh! I admire that talent from my heart and soul.」</dialog>
-  <dialog chara="009">「That's why...」</dialog>
+  <dialog chara="009">「Sư phụ của ta là một vị thần, nên điều đó chẳng có gì lạ cả. Nhưng Linh Hoàng lại có thể sở hữu sức mạnh tối thượng của Kiếm Thần trong thân xác phàm nhân của mình... Heheh! Ta hết lòng ngưỡng mộ tài năng đó.」</dialog>
+  <dialog chara="009">「Đó là lý do tại sao...</dialog>
   <motion chara="009" action="hide"></motion>
   <motion chara="010" action="hide"></motion>
-  <text>Through a small hole in the window, young Sushang saw her mother slowly walking before his father.</text>
+  <text>Qua một lỗ nhỏ trên cửa sổ, cậu bé Sushang nhìn thấy mẹ mình chậm rãi bước về phía cha.</text>
   <motion chara="009" action="show" pos="left" img="秦素衣-阴沉-标准-远景" duration="2"></motion>
   <motion chara="010" action="show" pos="center" img="李绅-愤怒-标准-远景" duration="2"></motion>
   <delay t="2"></delay>
-  <dialog chara="009">「I'll have to take her under my wing. No one but Lingshuang would be a good match for me!」</dialog>
-  <dialog chara="009">「The best swordsmanship you can learn from the strongest wielder of a real blade. With learning Sword God and adding my henken to it, she will be your only one who has learned Taixuan Wuyun after her master died!」</dialog>
+  <dialog chara="009">「Ta phải che chở cho nàng. Chỉ có Lingshuang mới xứng đôi với ta!」</dialog>
+  <dialog chara="009"> 「Kiếm pháp tốt nhất mà bạn có thể học được từ người sử dụng kiếm thật mạnh nhất. Với việc học Kiếm Thần và thêm cả kỹ thuật Henken của tôi vào đó, cô ấy sẽ là người duy nhất học được Taixuan Wuyun sau khi sư phụ cô ấy băng hà!」</dialog>
   <motion chara="009" action="img_trans" img="秦素衣-温柔-标准-远景"></motion>
-  <dialog chara="009">「I'm going to have you become the best in all of Japan.」</dialog>
-  <text>Li Sushang couldn't help but gasp. Her heart pounded in her chest</text>
+  <dialog chara="009">「Tôi sẽ giúp cậu trở thành người giỏi nhất toàn Nhật Bản.」</dialog>
+  <text>Li Sushang không kìm được mà thở hổn hển. Tim cô đập thình thịch trong lồng ngực</text>
   <dialog chara="009">
-    <p>「If you need ten years, I'll have Bakuhoku stay here for 10.</p>
-    <p>If you need twenty years, I'll have them stay for 20.」</p>
+    <p>「Nếu cậu cần mười năm, tôi sẽ cho Bakuhoku ở lại đây 10 năm.</p>
+    <p>Nếu anh cần hai mươi năm, tôi sẽ cho họ ở lại 20 năm.</p>
   </dialog>
   <motion chara="009" action="img_trans" img="秦素衣-厌恶-标准-远景"></motion>
-  <text>The mother stared at her father. There was a firmness in his eyes that didn't allow him to object</text>
+  <text>Người mẹ nhìn chằm chằm vào cha mình. Ánh mắt ông kiên quyết không cho phép ông phản đối</text>
   <dialog chara="009">
-    <p>「Don't think I can keep Sushang locked away in your Swordcracker Manor. This is not the extent of her talent, you know?</p>
-    <p>Anyway, get away from Sushang. Don't interfere with my daughters life!」</p>
+    <p>Đừng tưởng ta có thể nhốt Sushang trong Trang viên Kiếm Phá của ngươi. Ngươi biết đấy, tài năng của cô ta chưa đến mức đó đâu?</p>
+    <p>Dù sao thì, hãy tránh xa Sushang ra. Đừng can thiệp vào cuộc sống của con gái tôi!</p>
   </dialog>
-  <dialog chara="009">「Who was responsible for returning to the Li family, and who could have obtained their current martial arts? Please don't forget that.」</dialog>
+  <dialog chara="009">Ai là người chịu trách nhiệm đưa gia tộc họ Li trở về, và ai có thể đã đạt được võ công hiện tại của họ? Xin đừng quên điều đó.</dialog>
   <motion chara="009" action="move" pos="-1500,0" duration="3"></motion>
   <mono pageend="true">
     <p></p>
-    <p>With that, her mother left the living room.</p>
+    <p>Nói xong, mẹ cô ấy rời khỏi phòng khách.</p>
     <p></p>
-    <p>Li Xin stood rooted to the spot, motionless for a long time. A sound came from her clenched fist</p>
+    <p>Li Xin đứng bất động tại chỗ một lúc lâu. Một âm thanh phát ra từ nắm đấm siết chặt của cô ấy</p>
     <p></p>
-    <p>Sushang was sitting there in a daze. It surprised me, but it also made my heart race with joy...</p>
+    <p>Sushang ngồi đó ngơ ngác. Điều đó làm tôi ngạc nhiên, nhưng cũng khiến tim tôi đập nhanh vì vui sướng...</p>
   </mono>
   <motion chara="009" action="hide"></motion>
   <motion chara="010" action="hide"></motion>
   <bg duration="2" img="忆剑山庄"></bg>
-  <dialog chara="002">（The best in the world...?）</dialog>
-  <text inline="true">She hadn’t realized that her mother was expecting this much from herself.</text>
-  <text>Perhaps it was just a whim of her mother. But though she hadn't made this clear yet, the light that stretched far and wide into the young girl’s heart shone through</text>
-  <dialog chara="002">（Am I... going to be the best in this world?）</dialog>
-  <text>She swallowed and rubbed her eyes. Just as she was about to stand up, I saw a white figure</text>
+  <dialog chara="002">(Tốt nhất thế giới...?)</dialog>
+  <text inline="true">Cô ấy không nhận ra rằng mẹ cô ấy đang kỳ vọng nhiều đến vậy ở bản thân mình.</text>
+  <text>Có lẽ đó chỉ là một ý thích bất chợt của mẹ cô. Nhưng dù bà chưa nói rõ điều này, ánh sáng lan tỏa sâu rộng vào trái tim cô gái trẻ vẫn tỏa sáng</text>
+  <dialog chara="002">(Liệu tôi... có trở thành người giỏi nhất thế giới này không?)</dialog>
+  <text>Cô ấy nuốt nước bọt và dụi mắt. Ngay khi cô ấy sắp đứng dậy, tôi thấy một bóng trắng</text>
   <event action="hide_ui" duration="2"></event>
   <cg img="CG_回忆篇_李素裳" duration="2"></cg>
   <delay t="2"></delay>
-  <text inline="true">I looked up and saw Qin Suyi, the owner of Omokuken Mountain Manor.</text>
+  <text inline="true">Tôi ngước nhìn lên và thấy Qin Suyi, chủ nhân của Trang viên Núi Omokuken.</text>
   <text>
     <p></p>
-    <p>Her mother smiled, but there was sadness and apology in her eyes.</p>
+    <p>Mẹ cô ấy mỉm cười, nhưng trong mắt bà có nỗi buồn và lời xin lỗi.</p>
   </text>
-  <dialog chara="009">「Did you hear everything?」</dialog>
-  <dialog chara="002">「Yeah...」</dialog>
-  <text>Sushang was so full of impulse that I wanted to tell my mother she would never let me down. But the words came out at her throat, and ultimately didn't say anything about it...</text>
-  <dialog chara="009">「I'm sorry.」</dialog>
-  <text>Her mother crouched down and gently patted her head.</text>
-  <dialog chara="009">「I'm so sorry for sending you to such a faraway place, even though your mother is still young... But my mom will make arrangements. In the future when that sword reaches its zenith no one can bully us anymore!」</dialog>
+  <dialog chara="009">「Bạn đã nghe hết chưa?」</dialog>
+  <dialog chara="002">「Ừ...」</dialog>
+  <text>Sushang bốc đồng đến nỗi tôi muốn nói với mẹ rằng bà sẽ không bao giờ làm tôi thất vọng. Nhưng lời nói nghẹn lại ở cổ họng, và cuối cùng bà không nói gì về chuyện đó...</text>
+  <dialog chara="009">「Tôi xin lỗi.」</dialog>
+  <text>Mẹ cô cúi xuống và nhẹ nhàng vỗ đầu cô.</text>
+  <dialog chara="009">「Tôi rất xin lỗi vì đã gửi cậu đến một nơi xa xôi như vậy, dù mẹ cậu còn trẻ... Nhưng mẹ tôi sẽ lo liệu. Sau này khi thanh kiếm đó đạt đến đỉnh cao, sẽ không ai có thể bắt nạt chúng ta nữa!」</dialog>
   <dialog chara="009">
-    <p>「Mom has her own problems to deal with. Even if I tell you now, she won't understand me at all...</p>
-    <p>When I'm in the martial arts world, there are a lot of things that can never be decided by me. But...</p>
-    <p>I'm going to live. Sushang, you will be living properly... Promises with my mother!」</p>
+    <p>「Mẹ có những vấn đề riêng cần giải quyết. Cho dù bây giờ con có nói với mẹ thì mẹ cũng sẽ không hiểu con chút nào...</p>
+    <p>Khi tôi ở trong thế giới võ thuật, có rất nhiều điều tôi không bao giờ có thể quyết định được. Nhưng...</p>
+    <p>Ta sẽ sống. Sushang, con sẽ sống tử tế... Hứa với mẹ ta nhé!</p>
   </dialog>
-  <text>The young Sushang looked into her mother’s eyes and nodded, faltering.</text>
+  <text>Sushang trẻ nhìn vào mắt mẹ và gật đầu, ngập ngừng.</text>
   <text>
-    <p>She still didn't understand everything her mother said, and could only read a portion of the emotion.</p>
-    <p>Even so, he realized that a burden which shouldn’t have existed at his age rested on him.</p>
+    <p>Cô ấy vẫn chưa hiểu hết những gì mẹ cô ấy nói, và chỉ có thể đọc được một phần cảm xúc.</p>
+    <p>Dù vậy, ông nhận ra rằng một gánh nặng lẽ ra không nên tồn tại ở tuổi của mình đang đè nặng lên ông.</p>
   </text>
-  <notification>伝記解放：「秦素衣」</notification>
-  <notification>伝記解放：「李紳」</notification>
+  <notification>伝記解放: 「秦素衣」</notification>
+  <notification>伝記解放: 「李紳」</notification>
   <event action="achievement" aid="f264952df7ffa72c"></event>
   <event action="achievement" aid="2e4bba1abf781c9f"></event>
   <event action="hide_ui" duration="2"></event>
   <cg duration="2"></cg>
   <delay t="2"></delay>
-  <text>Qin Suyi took the young Sushang's hand and smiled gently.</text>
-  <dialog chara="009">「Come here, there's something I want to give you.」</dialog>
+  <text>Qin Suyi nắm lấy tay chàng trai trẻ Sushang và mỉm cười dịu dàng.</text>
+  <dialog chara="009"> 「Lại đây, có thứ tôi muốn đưa cho bạn.」</dialog>
   <transition mode="fade" in="3" stop="0.5" out="0.1" color="#000000"></transition>
 </scene>
-scripts>
+
+bản ghi&gt;

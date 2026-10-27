@@ -4,44 +4,44 @@
   <bgm id="太鼓乱舞（战斗）"></bgm>
   <text>
     <p>She unleashed her technique![\s]</p>
-    <p>The giant sword 「Redsweord」 created a tornado of sand with such force that it seemed to collapse even the mountain.</p>
+    <p>Thanh kiếm khổng lồ 「Redswoodr」 tạo ra một cơn lốc cát với sức mạnh đến mức dường như có thể làm sụp đổ cả ngọn núi.</p>
   </text>
   <cg img="氛围_第二折_瞬尘"></cg>
   <text>
     <p>She unleashed her technique![\s]</p>
-    <p>The balustrade stretches straight out. It's 「Shunjin」!</p>
-    <p>It's not a defensive sword or kaken, but an open blade!</p>
+    <p>Lan can trải dài thẳng tắp. Đó là 「Shunjin」!</p>
+    <p>Đây không phải là kiếm phòng thủ hay kaken, mà là một lưỡi kiếm mở!</p>
   </text>
   <cg img="氛围_第二折_瞬尘对山崩"></cg>
   <text>
-    <p>Open sword versus open blade—[\s]</p>
-    <p>Her qi shot out of her sword, and she headed straight for the opponent without hesitation!</p>
+    <p>Kiếm mở đấu với lưỡi kiếm mở—[\s]</p>
+    <p>Khí của nàng phóng ra từ thanh kiếm, và nàng lao thẳng về phía đối thủ không chút do dự!</p>
   </text>
   <text>
-    <p>She had risked her life to launch a desperate attack. Sushang seemed prepared for the clash—[\s]</p>
-    <p>But in reality, that wasn't the case.</p>
+    <p>Cô ấy đã liều mạng để thực hiện một cuộc tấn công liều lĩnh. Sushang có vẻ đã chuẩn bị sẵn sàng cho cuộc đụng độ—[\s]</p>
+    <p>Nhưng trên thực tế, không phải vậy.</p>
   </text>
   <cg></cg>
-  <text>The idea of slamming an open sword into the opening was something I’d come up with when 「Shinkaze」 injured me.</text>
+  <text>Ý tưởng đâm thanh kiếm đang mở vào khe hở là điều tôi nghĩ ra khi 「Shinkaze」 làm tôi bị thương.</text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="奥托的眼睛2"></bg>
-  <text>In the mysterious spiral of yellow and blue, Li Sushang made eye contact with a Raksha for just an instant</text>
+  <text>Trong vòng xoáy bí ẩn màu vàng và xanh lam, Li Sushang đã chạm mắt với một Raksha chỉ trong chốc lát</text>
   <dialog chara="001">「......」</dialog>
   <text>
-    <p>Her green eyes were vacant, but she was looking in her direction.</p>
-    <p>In that moment... Li Sushang completely believed in him.</p>
+    <p>Đôi mắt xanh của cô ấy trống rỗng, nhưng cô ấy đang nhìn về phía cô ấy.</p>
+    <p>Vào thời điểm đó... Li Sushang hoàn toàn tin tưởng anh ta.</p>
   </text>
-  <text>[em italic]I'm sure the Raksha will lend us a hand![/em]</text>
+  <text>[em italic]Tôi chắc chắn Raksha sẽ giúp chúng ta![/em]</text>
   <text>
-    <p>And if the Raksha lends a hand—</p>
-    <p>I'll never lose!</p>
+    <p>Và nếu Raksha giúp đỡ—</p>
+    <p>Tôi sẽ không bao giờ thua!</p>
   </text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="BGDesert01"></bg>
   <motion chara="001" action="show" pos="center" img="奥托-严肃-单空手-远景（棺材）"></motion>
   <text>
-    <p>It was a rough outline I’d made based on such thoughts, but the time had come to decide who would win or lose.</p>
-    <p>The Raksha raised his left hand behind the two of them, who were throwing all their strength into a sword.</p>
+    <p>Đó là một bản phác thảo sơ lược mà tôi đã lập dựa trên những suy nghĩ như vậy, nhưng đã đến lúc phải quyết định ai sẽ thắng hay thua.</p>
+    <p>Raksha giơ tay trái lên phía sau hai người họ, những người đang dồn hết sức lực vào thanh kiếm.</p>
   </text>
   <motion chara="001" action="hide"></motion>
   <event action="hide_ui"></event>
@@ -56,16 +56,16 @@
   <cg img="氛围_通用_犹大"></cg>
   <motion chara="-4" action="shake" duration="0.1" range="200" direction="horizontal"></motion>
   <text>
-    <p>The golden cross appeared in his hand out of nowhere and vanished as if on fire—[\s]</p>
-    <p>It was 「Oath of Judah」, one of the three greatest Divine Key Treasures in Shicksal!!!</p>
+    <p>Chiếc thánh giá vàng xuất hiện trong tay anh ta từ hư không rồi biến mất như thể đang bốc cháy—[\s]</p>
+    <p>Đó là 「Lời thề của Giuđa」, một trong ba Bảo vật Chìa khóa Thần thánh vĩ đại nhất ở Shicksal!!!</p>
   </text>
   <text>
-    <p>The catalyst that was the legacy of an ancient god reappeared!</p>
-    <p>An invisible chain flew toward the Ma Feima's form, binding him!</p>
+    <p>Chất xúc tác là di sản của một vị thần cổ đại đã xuất hiện trở lại!</p>
+    <p>Một sợi dây xích vô hình bay về phía hình dáng của Ma Feima, trói chặt hắn!</p>
   </text>
   <text>
-    <p>Target... fixed!</p>
-    <p>Seriously... Prohibition!</p>
+    <p>Mục tiêu... đã được xác định!</p>
+    <p>Nghiêm túc đấy... Cấm rượu!</p>
   </text>
   <cg img="CG_第二折_开剑山崩2" duration="1"></cg>
   <delay t="0.1"></delay>
@@ -74,28 +74,28 @@
   <cg img="CG_第二折_开剑山崩2" reset="true"></cg>
   <se id="01-09心跳loop"></se>
   <text>
-    <p>The scene of Li Sushang and "Eagle"'s fight to the death, which happened about three nights ago.[\s]</p>
-    <p>Suddenly, Ma Feima's heart palpitated. His true spirit had vanished from his body...</p>
+    <p>Cảnh Li Sushang và "Đại Bàng" giao chiến đến chết, xảy ra khoảng ba đêm trước.[\s]</p>
+    <p>Đột nhiên, tim Ma Feima đập thình thịch. Linh hồn thật sự của hắn đã biến mất khỏi cơ thể...</p>
   </text>
   <dialog chara="008">
-    <p>[em italic]（What—?[/em][\s]</p>
-    <p>[em italic]What happened----?）[/em]</p>
+    <p>[em italic](Cái gì—?[/em][\s]</p>
+    <p>[em italic]Chuyện gì đã xảy ra----?）[/em]</p>
   </dialog>
-  <text>In the span of a moment, Ma Feima’s thoughts raced through his mind and he found out what had caused it.</text>
-  <dialog chara="008">[em italic]（The Raksha Demon!!!）[/em]</dialog>
-  <text>The anticipation and joy that had been suppressed suddenly exploded.</text>
-  <dialog chara="008">[em italic]（You've finally laid a hand on me!?）[/em]</dialog>
-  <dialog chara="008">「Very well!!」</dialog>
-  <text>Ma Feima shouted in a loud voice.</text>
-  <dialog chara="008">「That's what I have to do. Come at me!」</dialog>
+  <text>Trong chốc lát, suy nghĩ của Ma Feima vụt qua tâm trí anh và anh đã tìm ra nguyên nhân.</text>
+  <dialog chara="008">[em italic](Ác quỷ Raksha!!!）[/em]</dialog>
+  <text>Sự mong đợi và niềm vui bị kìm nén bỗng nhiên bùng nổ.</text>
+  <dialog chara="008">[em italic](Cuối cùng thì ngươi cũng đã động tay vào ta rồi sao!?）[/em]</dialog>
+  <dialog chara="008">「Rất tốt!!」</dialog>
+  <text>Ma Feima hét lớn.</text>
+  <dialog chara="008"> 「Đó là điều tôi phải làm. Cứ đến đây!」</dialog>
   <cg img="氛围_第二折_山崩" scale="1.5" origin="25%,50%"></cg>
   <text>
     <p>He loosened his grip and let go of the sword![\s]</p>
-    <p>—But the force of that mountain collapse had reached its peak, and there was no stopping it now.</p>
+    <p>—Nhưng sức mạnh của vụ sụp đổ núi đó đã đạt đến đỉnh điểm và không thể ngăn chặn nó được nữa.</p>
   </text>
   <text>
-    <p>It doesn't matter if I have my true feelings sealed away![\s]</p>
-    <p>The greatsword 「Redsweord」 flies forward with all its might!</p>
+    <p>Không sao cả nếu tôi giấu kín cảm xúc thật của mình![\s]</p>
+    <p>Đại kiếm 「Redswoodr」 lao về phía trước với toàn bộ sức mạnh!</p>
   </text>
   <cg img="CG_第二折_开剑山崩3" scale="2" origin="50%,40%"></cg>
   <motion chara="-4" action="shake" duration="0.1" range="200" direction="vertical" delay="0.5"></motion>
@@ -103,49 +103,49 @@
   <cg img="CG_第二折_开剑山崩3" duration="1" scale="1" origin="50%,40%"></cg>
   <delay t="0.5"></delay>
   <cg img="CG_第二折_开剑山崩3" reset="true"></cg>
-  <text inline="true">At the same time, Ma Feima brought his left hand forward. It was also an open sword: a mountain cave-in―</text>
+  <text inline="true">Đồng thời, Ma Feima đưa tay trái về phía trước. Đó cũng là một thanh kiếm mở: một hang núi sập―</text>
   <text>
     <p></p>
-    <p>Even if he loses his Uchiko, this is still the sixth disciple of Taikyou Kenpai: Lord Mahiko—a veteran!</p>
+    <p>Ngay cả khi mất Uchiko, đây vẫn là đệ tử thứ sáu của Taikyou Kenpai: Lãnh chúa Mahiko—một cựu binh!</p>
   </text>
-  <text>He slammed a heavy blow from his well-developed muscles into the blade of an eavesdrop, pushing it upwards.</text>
+  <text>Anh ta giáng một cú đánh mạnh từ những cơ bắp phát triển tốt của mình vào lưỡi dao của một cái rương, đẩy nó lên trên.</text>
   <text>
     <p>Shah----[\s]</p>
-    <p>And then...[\s]</p>
-    <p>Boom—</p>
+    <p>Và sau đó...[\s]</p>
+    <p>Bùm—</p>
   </text>
   <transition mode="fade" in="0.3" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
   <bg img="BGBlood1"></bg>
   <text>
-    <p>The kenjo grazed the top of Ma Feima’s head, slicing a few striations through his hair.[\s]</p>
-    <p>The crimson shadow flew right next to Sushang. Her young body was sucked in by a large force and dragged backward, falling onto the ground</p>
+    <p>Kiếm kenjo sượt qua đỉnh đầu Ma Feima, chém vài đường vào tóc anh ta.[\s]</p>
+    <p>Cái bóng đỏ thẫm bay ngay bên cạnh Sushang. Thân thể non nớt của cô bị một lực lớn hút vào và kéo ngược ra sau, ngã xuống đất</p>
   </text>
   <text>Her left shoulder was close to the crimson shadow. Because of that, she had been caught up in a sand flow and suffered deep enough wounds for her bones could be seen[\s]A new pain and an old one assaulted the girl all at once, knocking her unconscious.</text>
   <cg img="CG_第二折_开剑山崩3"></cg>
   <text>
-    <p>Ma Feima won. The only technique he used was definitely 「Yamakuzure」</p>
-    <p>However, Ma Feima was also defeated because he hadn’t used 「Yamakuzure」 just once.</p>
+    <p>Ma Feima đã thắng. Kỹ thuật duy nhất anh ta sử dụng chắc chắn là 「Yamakuzure」</p>
+    <p>Tuy nhiên, Ma Feima cũng bị đánh bại vì anh ta chưa sử dụng 「Yamakuzure」 dù chỉ một lần.</p>
   </text>
   <cg img="氛围_第二折_瞬尘"></cg>
   <text>
-    <p>Li Sushang’s 「Shunjin」 was the fastest and most accurate way to open a sword</p>
-    <p>If she hadn't used 「Shunjin」, Sushang would never have posed a threat to Ma Feima in front of that mountain collapse.</p>
+    <p>Phương pháp 「Shunjin」 của Li Sushang là cách nhanh nhất và chính xác nhất để mở kiếm</p>
+    <p>Nếu cô ấy không dùng 「Shunjin」, Sushang sẽ không bao giờ gây ra mối đe dọa cho Ma Feima trước vụ sụp đổ núi đó.</p>
   </text>
-  <text>However, 「Shunjin」 wasn’t「Shinkaze」. That was why Ma Feima had been able to deflect the tip with pure muscle strength</text>
+  <text>Tuy nhiên, 「Shunjin」 không phải là 「Shinkaze」. Đó là lý do tại sao Ma Feima có thể làm chệch hướng mũi tên chỉ bằng sức mạnh cơ bắp</text>
   <bgm looptimes="0"></bgm>
   <cg></cg>
   <bg img="BGDesert02"></bg>
   <text>
-    <p>Was that due to luck? No, it wasn't.[\s]</p>
-    <p>His ability to see techniques and analyze them was superior.[\s]</p>
-    <p>In short, there was a huge gap in ability.</p>
+    <p>Có phải do may mắn không? Không, không phải.[\s]</p>
+    <p>Khả năng nhìn nhận và phân tích các kỹ thuật của anh ấy là vượt trội.[\s]</p>
+    <p>Tóm lại, có một khoảng cách rất lớn về khả năng.</p>
   </text>
   <motion action="show" pos="left" chara="008" img="马非马-沉思-标准-远景"></motion>
   <text>
     <p>This time too, it was a duel between life and death.[\s]</p>
-    <p>Ma Feima slowly turned around.[\s]</p>
-    <p>My opponent is worth putting all his strength into it.</p>
+    <p>Ma Feima từ từ quay lại.[\s]</p>
+    <p>Đối thủ của tôi xứng đáng để tôi dốc toàn bộ sức lực vào việc này.</p>
   </text>
   <bgm id="原始武士"></bgm>
   <motion chara="008" action="img_trans" img="马非马-疯狂-标准-远景"></motion>
@@ -153,67 +153,67 @@
   <motion chara="001" action="show" pos="right" img="奥托-汗严-标准-远景" duration="1"></motion>
   <delay t="1"></delay>
   <event action="show_ui"></event>
-  <text>The Raksha stood nearby, motionless. His smile had vanished from his face; the calmness he’d been feeling earlier was gone</text>
-  <dialog chara="008">「You made a move.」</dialog>
+  <text>Raksha đứng gần đó, bất động. Nụ cười đã biến mất khỏi khuôn mặt hắn; sự bình tĩnh mà hắn cảm thấy trước đó đã biến mất</text>
+  <dialog chara="008">「Bạn đã hành động.」</dialog>
   <motion chara="008" action="img_trans" img="马非马-邪恶-标准-远景"></motion>
-  <dialog chara="008">「You—you laid a hand on me!」</dialog>
+  <dialog chara="008">「Ngươi—ngươi đã động tay vào ta!」</dialog>
   <text>
-    <p>[em italic]Ah, thank goodness! This man was not a bloodless doll.</p>
+    <p>[em italic]Ôi, ơn trời! Người đàn ông này không phải là một con búp bê vô hồn.</p>
     <p>It looked like cold ice, but there were burning flames![/em]</p>
   </text>
-  <text>At this time, the joy of Ma Feima reached its peak.</text>
+  <text>Lúc này, niềm vui của Ma Feima đạt đến đỉnh điểm.</text>
   <motion chara="008" action="hide" duration="0"></motion>
   <motion chara="001" action="hide"></motion>
   <motion chara="-4" action="shake" duration="0.1" range="200" direction="horizontal"></motion>
   <text>Gah!</text>
   <text>
-    <p>A fist completely devoid of internal power struck the Raksha’s cheek.</p>
-    <p>Even though the Raksha had guessed his intentions, he didn’t try to dodge or block them</p>
+    <p>Một nắm đấm hoàn toàn không có nội lực giáng xuống má của Raksha.</p>
+    <p>Mặc dù Raksha đã đoán được ý định của hắn, nhưng hắn không cố gắng né tránh hay ngăn chặn chúng</p>
   </text>
   <text>
-    <p>The Raksha's body fell into the desert.</p>
-    <p>He staggered to his feet.</p>
+    <p>Thi thể của Raksha rơi xuống sa mạc.</p>
+    <p>Anh ta loạng choạng đứng dậy.</p>
   </text>
   <event action="hide_ui" duration="1"></event>
   <motion chara="008" action="show" pos="left" img="马非马-邪恶-标准-远景" duration="1"></motion>
   <delay t="1"></delay>
-  <dialog chara="008">「...What kind of technique was that? Containing my true strength.」</dialog>
+  <dialog chara="008">「...Đó là loại kỹ thuật gì vậy? Chứa đựng sức mạnh thực sự của ta.」</dialog>
   <se id="01-38踏在沙上的脚步声"></se>
-  <text>A large man walked toward the blond one.</text>
-  <dialog chara="008">「Apparently there’s a mysterious technique called 『Gentenkaki』 in the southwest Frontier, but your skill is clearly different. You were so far away from me that how did you seal it? ...Could this be poisoned or something? No—when was she poisoning my body again」</dialog>
+  <text>Một người đàn ông to lớn bước về phía người tóc vàng.</text>
+  <dialog chara="008"> 「Hình như ở vùng biên giới phía tây nam có một kỹ thuật bí ẩn gọi là 『Gentenkaki』, nhưng kỹ năng của ngươi rõ ràng là khác. Ngươi ở xa ta như vậy, làm sao ngươi phong ấn được nó? ...Có phải là bị tẩm độc hay gì đó không? Không—lúc nào cô ta lại đầu độc cơ thể ta nữa」</dialog>
   <motion chara="008" action="img_trans" img="马非马-笑-标准-远景"></motion>
-  <dialog chara="008" inline="true">「Oh, well. I don’t care about that at all</dialog>
+  <dialog chara="008" inline="true">「Ồ, thôi vậy. Tôi chẳng quan tâm đến chuyện đó chút nào</dialog>
   <dialog chara="008">
     <p></p>
-    <p>What's important is that you declared war through your actions.」</p>
+    <p>Điều quan trọng là bạn đã tuyên chiến thông qua hành động của mình.</p>
   </dialog>
   <event action="hide_ui" duration="1"></event>
   <motion chara="001" action="show" pos="right" duration="1" img="奥托-伤严肃-标准-远景"></motion>
-  <text>Ma Feima stopped in front of the Raksha and appraised him, making no attempt to hide it.</text>
-  <text>Blood oozed from the sand-scratched wound, and his handsome face looked very dirty. But he slowly stood up to straighten himself out before staring at Ma Feima with strange green eyes</text>
+  <text>Ma Feima dừng lại trước mặt Raksha và đánh giá hắn, không hề che giấu điều đó.</text>
+  <text>Máu rỉ ra từ vết thương bị cát cào, khuôn mặt điển trai của anh ta trông rất bẩn thỉu. Nhưng anh ta từ từ đứng dậy để chỉnh trang lại bản thân trước khi nhìn chằm chằm vào Ma Feima bằng đôi mắt xanh kỳ lạ</text>
   <motion chara="001" action="img_trans" img="奥托-伤严肃-单空手-远景"></motion>
-  <dialog chara="001">「...Aren't you going to go get that sword?」</dialog>
-  <text>The Raksha asked.</text>
+  <dialog chara="001">「...Bạn không định đi lấy thanh kiếm đó sao?</dialog>
+  <text>Raksha hỏi.</text>
   <motion chara="008" action="img_trans" img="马非马-疑惑-标准-远景"></motion>
-  <dialog chara="008">「Huh? Don't worry about it. If you need something, then we can go and get them in time for the trip!」</dialog>
+  <dialog chara="008">「Hả? Đừng lo. Nếu cậu cần gì thì mình có thể đi mua kịp cho chuyến đi!</dialog>
   <motion chara="008" action="img_trans" img="马非马-苦笑-标准-远景"></motion>
-  <dialog chara="008">「Besides, if you can seal away the seriousness of it all—relying too much on 『Redsweord』 will put us at a disadvantage.」</dialog>
+  <dialog chara="008">「Hơn nữa, nếu anh có thể che giấu sự nghiêm trọng của tất cả mọi chuyện—việc quá dựa dẫm vào 『Redswoodr』 sẽ khiến chúng ta gặp bất lợi.」</dialog>
   <motion chara="001" action="img_trans" img="奥托-伤严肃-标准-远景"></motion>
   <dialog chara="001">「......」</dialog>
   <motion chara="008" action="img_trans" img="马非马-疯狂-标准-远景"></motion>
-  <text>Ma Feima looked behind him as if following the gaze of a Raksha, and he couldn’t help but laugh</text>
-  <dialog chara="008">「I know what you are worried about. Don't worry, that girl is fine」</dialog>
-  <dialog chara="008">「There's no need to worry about that girl or think of a way out right now—all you gotta do is put all your true strength into killing me, and everything will be settled. Right? Isn’t it hard for ya?」</dialog>
-  <text>The Raksha is silent. It seems he's thinking about something...</text>
+  <text>Ma Feima nhìn lại phía sau như thể đang dõi theo ánh mắt của một Raksha, và anh ta không thể nhịn được cười</text>
+  <dialog chara="008">「Tôi biết bạn đang lo lắng điều gì. Đừng lo, cô gái đó vẫn ổn」</dialog>
+  <dialog chara="008">「Không cần phải lo lắng về cô gái đó hay nghĩ cách thoát thân ngay bây giờ—tất cả những gì anh cần làm là dồn hết sức mạnh thực sự của mình vào việc giết tôi, và mọi chuyện sẽ được giải quyết. Phải không? Anh thấy khó khăn lắm sao?</dialog>
+  <text>Raksha im lặng. Có vẻ như hắn đang suy nghĩ về điều gì đó...</text>
   <motion chara="001" action="img_trans" img="奥托-伤笑-单空手-远景"></motion>
-  <dialog chara="001">「So, are you going to take my sword?」</dialog>
-  <dialog chara="008">「Huh?」</dialog>
-  <text>Surprised for a moment, Ma Feima continued laughing loudly.</text>
+  <dialog chara="001"> 「Vậy, ngươi định lấy thanh kiếm của ta sao?」</dialog>
+  <dialog chara="008">「Hả?」</dialog>
+  <text>Ngạc nhiên trong giây lát, Ma Feima tiếp tục cười lớn.</text>
   <motion chara="008" action="img_trans" img="马非马-邪恶-标准-远景"></motion>
-  <dialog chara="008">「Haha. I'll take your sword? You talk big! Very funny, very interesting... Let me see what you can do with it — which kind of blade are we going to use here in the first place? Is that her hilt hanging from a tree branching off my neck or something?」</dialog>
+  <dialog chara="008">「Haha. Ta sẽ lấy kiếm của ngươi sao? Ngươi nói mạnh miệng quá! Rất buồn cười, rất thú vị... Để ta xem ngươi có thể làm gì với nó — rốt cuộc thì chúng ta sẽ dùng loại kiếm nào ở đây? Có phải chuôi kiếm của cô ta đang treo lủng lẳng trên một cành cây mọc ra từ cổ ta hay sao?」 </dialog>
   <motion chara="001" action="img_trans" img="奥托-伤严肃-标准-远景"></motion>
-  <text>The Raksha turned his gaze downward and sighed.</text>
-  <dialog chara="001">「There's no need.」</dialog>
+  <text>Raksha cúi đầu xuống và thở dài.</text>
+  <dialog chara="001">「Không cần thiết.」</dialog>
   <bgm looptimes="0"></bgm>
   <transition mode="fade" in="2" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="19"></event>

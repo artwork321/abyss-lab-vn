@@ -4,101 +4,101 @@
   <bgm id="侠女之声（女抒情）"></bgm>
   <mono chara="009">
     <p></p>
-    <p>[Live well.]</p>
+    <p>[Sống tốt.]</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The voice echoed in Li Sushang's Mind Lake. </p>
-    <p>The lake was calm as usual, everything around was Still Water.</p>
+    <p>Giọng nói vang vọng trong Hồ Tâm Trí của Lý Tô Chương.</p>
+    <p>Mặt hồ vẫn tĩnh lặng như thường lệ, mọi thứ xung quanh đều là mặt nước phẳng lặng.</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <bg img="心湖（2）无尘" duration="2"></bg>
   <delay t="2"></delay>
   <mono chara="009">
     <p></p>
-    <p>[Make sure you live well.]</p>
+    <p>[Hãy chắc chắn rằng bạn sống tốt.]</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The voice reverberated within the Mind Lake. </p>
-    <p>A soft breeze caressed the body, everything was Dustless. </p>
+    <p>Tiếng nói vang vọng trong Hồ Tâm Trí.</p>
+    <p>Một làn gió nhẹ mơn man thân thể, mọi thứ đều không có bụi.</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <bg img="心湖（3）明镜" duration="2"></bg>
   <delay t="2"></delay>
   <mono chara="009">
     <p></p>
-    <p>[Promise me…]</p>
+    <p>[Hãy hứa với tôi…]</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The sound… reverberates. </p>
-    <p>The Mind Lake is like a Clear Mirror, illuminating all of heaven and earth.</p>
+    <p>Âm thanh… vang vọng.</p>
+    <p>Hồ Tâm Trí giống như một tấm gương trong suốt, soi sáng cả trời đất.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>Why did Blade Sanction fail? No more doubts. [\s]</p>
-    <p>Why did Blade Sanction fail? No more regrets. [\s]</p>
-    <p>Why did Blade Sanction fail? No more worries.</p>
+    <p>Tại sao lệnh trừng phạt Blade lại thất bại? Không còn nghi ngờ gì nữa. [\s]</p>
+    <p>Tại sao Blade Sanction lại thất bại? Không còn hối tiếc nữa. [\s]</p>
+    <p>Tại sao lệnh trừng phạt Blade lại thất bại? Không còn lo lắng nữa.</p>
   </mono>
   <mono>
     <p></p>
     <p></p>
-    <p>Throw away all the troubles, just concentrate on this strike. [\s]</p>
+    <p>Hãy vứt bỏ mọi phiền muộn, chỉ tập trung vào cuộc tấn công này. [\s]</p>
     <p>Use the sword— the tool for killing,[\s]</p>
-    <p>With sword techniques—  the skills of killing.</p>
+    <p>Với kỹ thuật kiếm thuật - kỹ năng giết chóc.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>Kill the enemy and live. </p>
-    <p>Sushang's thoughts are nothing more than that.</p>
+    <p>Giết kẻ thù và sống.</p>
+    <p>Suy nghĩ của Sushang chẳng hơn gì thế.</p>
   </mono>
   <bg img="PureBlack"></bg>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>How ironic, the purpose was so simple. [\s]</p>
-    <p>Yet she detoured a long, long way.</p>
+    <p>Thật trớ trêu, mục đích thật đơn giản. [\s]</p>
+    <p>Tuy nhiên, cô ấy đã đi đường vòng rất xa.</p>
   </mono>
   <bg img="轩辕剑_灯光00%"></bg>
   <mono pageend="true">
     <p></p>
-    <p>Holding the hilt with her fingers, she felt relieved. </p>
-    <p>This ancient sword Xuanyuan was her only support at the moment.</p>
+    <p>Cầm chuôi kiếm bằng các ngón tay, cô ấy cảm thấy nhẹ nhõm.</p>
+    <p>Thanh kiếm cổ Huyền Nguyên này là chỗ dựa duy nhất của cô ấy lúc này.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Wiping off the blood from the corner of her eye and wiping off the foam from her mouth. </p>
-    <p>The girl held a sword in her hand. </p>
-    <p>She didn’t rake up any sword stances yet, but, </p>
+    <p>Lau máu ở khóe mắt và lau bọt trên miệng.</p>
+    <p>Cô gái cầm một thanh kiếm trong tay.</p>
+    <p>Cô ấy chưa tập luyện bất kỳ thế kiếm nào, nhưng, </p>
   </mono>
   <mono>
     <p></p>
-    <p>Opening, Switch, Guard, Wrath. </p>
+    <p>Mở đầu, Chuyển đổi, Bảo vệ, Cơn thịnh nộ.</p>
   </mono>
-  <mono>Odious Crescent, [\s]Ocean Breaker, [\s]Onslaught.</mono>
+  <mono>Trăng lưỡi liềm đáng ghét, [\s]Sóng vỡ đại dương, [\s]Cuộc tấn công.</mono>
   <mono>
-    <p>Sailing Eagle, Soaring Falcon, [\s]Raining Swift, Sparrow’s Roost, [\s]Shadow Hawk, Selene’s Heron. [\s]</p>
+    <p>Đại bàng lướt buồm, Chim ưng bay lượn, [\s]Chim én mưa, Tổ chim sẻ, [\s]Diều hâu bóng tối, Diệc Selene. [\s]</p>
     <p>Gaunt Willow, Gentle Orchid, Girded Bamboo, [\s]Gray Chrysanthemum, Gleaming Lotus, Green Pines.[\s]</p>
-    <p>Ripstone, Roaring Thunder, Railing Blitz, Rockslide, Riven Dust, Roiling Gale.</p>
+    <p>Đá xé, Sấm sét gầm rú, Tia chớp lan can, Lở đá, Bụi nứt, Gió lốc cuộn trào.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>These are the four forms and twenty-one stances of Taixuan’s Blade Form. Their names flashed across her mind as the muscle memories of each form passed through her body. </p>
+    <p>Đây là bốn hình thức và hai mươi mốt thế đứng của Kiếm pháp Taixuan. Tên của chúng vụt qua tâm trí cô khi ký ức cơ bắp của từng hình thức lướt qua cơ thể cô.</p>
   </mono>
-  <dialog chara="008">[Listen.]</dialog>
-  <text>Although the enemy was close, the sound seems to be coming from far, far away.</text>
-  <dialog chara="008">“I will only use one trick: Wrath Form • Rockslide.”</dialog>
+  <dialog chara="008">[Nghe.]</dialog>
+  <text>Mặc dù kẻ thù ở gần, nhưng âm thanh dường như phát ra từ rất xa.</text>
+  <dialog chara="008">“Tôi sẽ chỉ sử dụng một chiêu: Dạng Thịnh Nộ • Lở Đá.”</dialog>
   <dialog chara="002">[……]</dialog>
-  <text>Li Sushang remained silent.</text>
-  <dialog chara="008">"There is only one move: Wrath Form • Rockslide. I won't keep my hand, let me see your response."</dialog>
+  <text>Li Sushang vẫn im lặng.</text>
+  <dialog chara="008">"Chỉ có một nước đi: Dạng Thịnh Nộ • Lở Đá. Tôi sẽ không giữ bài, hãy cho tôi xem phản ứng của bạn."</dialog>
   <text>
-    <p>Should I apply? </p>
-    <p>Ma Feima's instructions slipped through Sushang's mind, and she didn't care.</p>
+    <p>Tôi có nên nộp đơn không?</p>
+    <p>Những chỉ dẫn của Ma Feima đã lọt khỏi tâm trí Sushang, và cô ấy không quan tâm.</p>
   </text>
-  <text>After all, everything comes down to this one strike.</text>
+  <text>Xét cho cùng, mọi thứ đều phụ thuộc vào đòn đánh này.</text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <event action="goto" to="17"></event>
 </scene>

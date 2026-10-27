@@ -5,12 +5,12 @@
   <delay t="0.5"></delay>
   <cg img="CG_第一折_起手姿势_1" duration="10" pos="-50,75" scale="1.2"></cg>
   <bgm id="传奇诞生"></bgm>
-  <text inline="true">Li Sushang leaned down, bent her left knee just merely inches from the ground, and lightly touched the ground using four to five fingers. </text>
-  <text>If someone noticed her appearance at that moment, they would’ve found it hilarious right?</text>
-  <text>But, with the speed of Li Sushang body, the vision of a normal human simply can’t capture the strange starting formation. </text>
+  <text inline="true">Li Sushang cúi xuống, gập đầu gối trái chỉ cách mặt đất vài inch, và nhẹ nhàng chạm đất bằng bốn đến năm ngón tay.</text>
+  <text>Nếu ai đó để ý đến vẻ ngoài của cô ấy vào lúc đó, họ hẳn sẽ thấy rất buồn cười phải không?</text>
+  <text>Nhưng với tốc độ cơ thể của Li Sushang, thị giác của một người bình thường đơn giản là không thể nắm bắt được đội hình khởi đầu kỳ lạ đó.</text>
   <text>
-    <p>This move wasn’t from Edge of Taixuan, but rather a secret technique passed down by the Li Family: </p>
-    <p>[Fleeting Swallow].</p>
+    <p>Chiêu thức này không phải từ Edge of Taixuan mà là một bí thuật được truyền lại bởi gia tộc Li: </p>
+    <p>[Chim én vụt qua].</p>
   </text>
   <event action="hide_ui" duration="1"></event>
   <delay t="0.1"></delay>
@@ -23,8 +23,8 @@
   <delay t="0.1"></delay>
   <bg img="老鹰黑屏" duration="0.5"></bg>
   <delay t="0.5"></delay>
-  <text>In an azure flash, Li Sushang dashed and hit “Eagle.” </text>
-  <text>She was the first to strike, the attack being a palm blade. </text>
+  <text>Trong một tia chớp xanh lam, Li Sushang lao tới và đánh trúng “Đại bàng.”</text>
+  <text>Cô ấy là người ra đòn trước, đòn tấn công là bằng lưỡi dao lòng bàn tay.</text>
   <bg img="老鹰黑屏" duration="0.3" scale="3" origin="45%,80%"></bg>
   <delay t="0.3"></delay>
   <motion chara="-5" action="show" pos="center" img="竖劈-上下(透明) "></motion>
@@ -42,8 +42,8 @@
   <delay t="0.1"></delay>
   <bg img="PureBlack"></bg>
   <text>
-    <p>She hit “Eagle”'s wrist with her right palm, shooting down [Xuanyuan], </p>
-    <p>Then she slapped the man’s heart with a lightning quick backhand, shaking them away.</p>
+    <p>Cô ta dùng lòng bàn tay phải đánh vào cổ tay của “Đại bàng”, bắn hạ [Xuanyuan], </p>
+    <p>Rồi cô ta dùng mu bàn tay nhanh như chớp tát vào tim người đàn ông, hất chúng đi.</p>
   </text>
   <se id="01-57接住剑柄"></se>
   <bg img="废弃驿站"></bg>
@@ -52,19 +52,19 @@
   <delay t="2"></delay>
   <motion chara="002" action="show" img="素裳-笑-背剑-远景" pos="right" duration="2"></motion>
   <delay t="1"></delay>
-  <text>At the same time, her left hand accurately caught the falling sword.</text>
+  <text>Đồng thời, tay trái của cô ấy đã bắt chính xác thanh kiếm đang rơi xuống.</text>
   <text>
-    <p>A familiar sense of peace flowed through her heart.</p>
-    <p>As she touched her sword, she felt really great. </p>
+    <p>Một cảm giác bình yên quen thuộc tràn ngập trong lòng cô.</p>
+    <p>Khi chạm vào thanh kiếm, cô ấy cảm thấy thật tuyệt.</p>
   </text>
-  <text>Li Sushang shook the sword, then gave “Eagle” a smile:</text>
+  <text>Lý Thần Trương lắc kiếm, rồi nở nụ cười với “Đại Bàng”:</text>
   <motion chara="002" action="img_trans" img="素裳-大笑-背剑-远景"></motion>
-  <dialog chara="002">[Thanks.]</dialog>
+  <dialog chara="002">[Cảm ơn.]</dialog>
   <motion chara="015" action="img_trans" img="老鹰-微笑-肉搏备战-远景"></motion>
-  <text inline="true">Her tone was sincere and cute, but it was a huge humiliation to “Eagle.”</text>
+  <text inline="true">Giọng điệu của cô ấy chân thành và dễ thương, nhưng đó là một sự sỉ nhục lớn đối với “Đại bàng”.</text>
   <text>
     <p></p>
-    <p>For many years in the Northern Desert, he never suffered a defeat like this.</p>
+    <p>Trong nhiều năm ở Sa mạc phía Bắc, ông chưa bao giờ phải chịu một thất bại nào như thế này.</p>
   </text>
   <motion chara="002" action="hide"></motion>
   <motion chara="015" action="hide"></motion>
@@ -72,189 +72,189 @@
   <bg img="PureBlack"></bg>
   <mono>
     <p></p>
-    <p>“Eagle” felt a sudden urge to kill, along with the surging desire of vengeance. </p>
+    <p>“Đại bàng” cảm thấy thôi thúc muốn giết người đột ngột, cùng với khát khao trả thù dâng trào. </p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Not only did he want to kill Li Sushang, he wanted to give her a miserable death.</p>
+    <p>Hắn không chỉ muốn giết Li Sushang, hắn còn muốn cho cô ta một cái chết thảm khốc.</p>
   </mono>
   <cg img="CG_第一折_老鹰战姿_掌" duration="3"></cg>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>Maintaining the posture for facing an enemy,</p>
+    <p>Duy trì tư thế đối mặt với kẻ thù,</p>
     <p></p>
-    <p>The leader of the Golden Sand Gang cautioned himself,</p>
-    <p>He genuinely branded the girl in front of him as a [strong enemy]. </p>
+    <p>Thủ lĩnh của Băng đảng Cát Vàng tự cảnh báo mình,</p>
+    <p>Anh ta thực sự coi cô gái trước mặt mình là một [kẻ thù mạnh].</p>
   </mono>
   <cg img="CG_第一折_老鹰战姿_掌" duration="30" scale="1.8" origin="10%,10%"></cg>
   <mono>
     <p></p>
     <p></p>
     <p></p>
-    <p>This was war.</p>
+    <p>Đây là chiến tranh.</p>
   </mono>
   <mono>
     <p></p>
-    <p>Not a match, not a duel, but a war.</p>
+    <p>Không phải một trận đấu, không phải một cuộc đấu tay đôi, mà là một cuộc chiến.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Though the scale was small, the goal was simple, but it was war.</p>
+    <p>Mặc dù quy mô nhỏ, mục tiêu rất đơn giản, nhưng đó là chiến tranh.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
     <p></p>
-    <p>Therefore,</p>
+    <p>Do đó,</p>
     <p></p>
-    <p>This place was a battlefield where “Eagle” was the best in,</p>
-    <p>Now it was war time that “Eagle” was most used to.</p>
+    <p>Nơi này là một chiến trường nơi "Đại bàng" là người giỏi nhất,</p>
+    <p>Giờ đây, “Đại bàng” đã quen với thời chiến nhất.</p>
     <p></p>
-    <p>Within a few seconds, his mind ran wild, and he already calculated the disadvantages, advantages, and variables.</p>
+    <p>Trong vòng vài giây, tâm trí anh ta trở nên hỗn loạn và anh ta đã tính toán xong những bất lợi, ưu điểm và các biến số.</p>
   </mono>
   <transition mode="dissolve" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="废弃驿站"></bg>
   <cg></cg>
-  <mono>There’s one disadvantage, it was the [Strength Difference].</mono>
+  <mono>Có một nhược điểm, đó là [Sự khác biệt về sức mạnh].</mono>
   <mono>
     <p></p>
-    <p>“Eagle” understood it very clearly, also wasn’t ashamed to admit it:</p>
-    <p>The little girl in front of his eyes, was far above him in terms of both external and internal strength. </p>
-    <p>Even stronger than any person from the Jianghu Society he knew. </p>
+    <p>“Đại bàng” hiểu rất rõ điều đó, và cũng không xấu hổ khi thừa nhận điều đó:</p>
+    <p>Cô bé trước mắt anh ta, vượt xa anh ta về cả sức mạnh bên ngoài lẫn bên trong.</p>
+    <p>Còn mạnh hơn bất kỳ người nào từ Giang Hồ mà anh ta biết.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The sheer power gap is like heaven and earth, the end of a match would be laid out from the start</p>
-    <p>—If only, it was just a match.</p>
+    <p>Khoảng cách sức mạnh chênh lệch như trời đất, kết cục của trận đấu đã được định đoạt ngay từ đầu</p>
+    <p>—Giá như đó chỉ là một trận đấu.</p>
   </mono>
-  <mono>There were two variables, some [Unknowns].</mono>
+  <mono>Có hai biến số, một số [Không rõ].</mono>
   <mono>
     <p></p>
-    <p>Those two palm blades didn’t use internal force, is the [Binding Dust] still in effect?</p>
-    <p>Two people escaped from the dungeon, is the [Raksha] still here?</p>
+    <p>Hai lưỡi kiếm đó không dùng nội lực, vậy [Bụi Ràng Buộc] vẫn còn hiệu lực chứ?</p>
+    <p>Hai người đã trốn thoát khỏi ngục tối, [Raksha] vẫn còn ở đây chứ?</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>These two unknowns could affect the outcome of this fight, </p>
-    <p>if the worst possibility is considered, “Eagle” would have no chance of winning even if it’s a gamble</p>
-    <p>—If only, he really ends up in the worst case scenario.</p>
+    <p>Hai ẩn số này có thể ảnh hưởng đến kết quả của trận đấu này,</p>
+    <p>nếu xét đến khả năng xấu nhất, “Đại bàng” sẽ không có cơ hội thắng ngay cả khi đó là một canh bạc</p>
+    <p>—Giá mà anh ta thực sự rơi vào tình huống tồi tệ nhất.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>…The situation was so horrible, the chances of winning were nearly zero.</p>
-    <p>But “Eagle” had absolute confidence in victory.</p>
+    <p>...Tình hình thật tồi tệ, cơ hội chiến thắng gần như bằng không.</p>
+    <p>Nhưng “Đại bàng” hoàn toàn tin tưởng vào chiến thắng.</p>
     <p></p>
-    <p>Because, he has yet to count his [advantages].</p>
+    <p>Bởi vì, anh ta vẫn chưa tính đến [những lợi thế] của mình.</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <motion chara="015" action="show" pos="left" img="老鹰-微笑-肉搏备战-远景" duration="2"></motion>
   <motion chara="002" action="show" pos="right" img="素裳-浅笑-背剑-远景" duration="2"></motion>
   <delay t="1.5"></delay>
-  <text>There are three advantages.</text>
+  <text>Có ba ưu điểm.</text>
   <dialog chara="015">[Hahahahahaha—]</dialog>
-  <text>The man let out a cheerful laugh,</text>
+  <text>Người đàn ông bật cười vui vẻ,</text>
   <motion chara="015" action="img_trans" img="老鹰-狞笑-肉搏备战-远景"></motion>
-  <dialog chara="015">[Amazing! Little girl, good work!]</dialog>
+  <dialog chara="015">[Tuyệt vời! Cô bé, giỏi lắm!]</dialog>
   <dialog chara="015">
-    <p>[It should be said that I’ve underestimated you; when I’m old, I should serve the old… </p>
-    <p>Snatching stuff from my hands, hehe, not even 100,000 Rakshas could do it.]</p>
+    <p>[Phải nói rằng tôi đã đánh giá thấp bạn; khi tôi già, tôi nên phục vụ người già… </p>
+    <p>Giật đồ từ tay tôi, hehe, ngay cả 100.000 Rakshas cũng không làm được.</p>
   </dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目前-背剑-远景"></motion>
   <dialog chara="002">
-    <p>[Oh… thanks, but this was mine originally. </p>
-    <p>I didn’t rob you of anything, it’s called returning to the original owner.]</p>
+    <p>[Ồ… cảm ơn, nhưng cái này vốn là của tôi.</p>
+    <p>Tôi không cướp của bạn bất cứ thứ gì, đó gọi là trả lại cho chủ sở hữu ban đầu.</p>
   </dialog>
   <motion chara="015" action="img_trans" img="老鹰-微笑-肉搏备战-远景"></motion>
   <dialog chara="015">[Hehehe…]</dialog>
-  <text>The man couldn’t help but laugh.</text>
+  <text>Người đàn ông không thể nhịn được cười.</text>
   <motion chara="015" action="img_trans" img="老鹰-狞笑-肉搏备战-远景"></motion>
-  <dialog chara="015">[Since it returned to its original owner, why aren’t you leaving?]</dialog>
+  <dialog chara="015">[Vì nó đã được trả lại cho chủ sở hữu ban đầu, tại sao bạn không rời đi?]</dialog>
   <motion chara="002" action="img_trans" img="素裳-惊讶2-背剑-远景"></motion>
-  <dialog chara="002">[I haven’t beaten you yet, so I can’t go.]</dialog>
+  <dialog chara="002">[Tôi vẫn chưa đánh bại được bạn, nên tôi không thể đi.]</dialog>
   <motion chara="015" action="img_trans" img="老鹰-惊讶-肉搏备战-远景"></motion>
   <dialog chara="015">[......]</dialog>
   <motion chara="015" action="img_trans" img="老鹰-狞笑-肉搏备战-远景"></motion>
-  <dialog chara="015">[So… you’re here to kill me.]</dialog>
+  <dialog chara="015">[Vậy… anh đến đây để giết tôi.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-惊讶-背剑-远景"></motion>
-  <dialog chara="002" inline="true">[No no, I haven’t figured that out yet… you could be killed or not. </dialog>
+  <dialog chara="002" inline="true">[Không không, tôi vẫn chưa nghĩ ra điều đó… bạn có thể bị giết hoặc không.</dialog>
   <motion chara="002" action="img_trans" img="素裳-浅笑-背剑-远景"></motion>
-  <dialog chara="002">But you still owe me two slaps, so I have to get those fair and square.]</dialog>
+  <dialog chara="002">Nhưng anh vẫn còn nợ tôi hai cái tát, nên tôi phải trả cho anh một cách công bằng.</dialog>
   <dialog chara="015">[Heh.]</dialog>
-  <text>"Eagle" sneered.</text>
+  <text>"Đại bàng" chế nhạo.</text>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>Advantage Number One: [Experience]. </p>
+    <p>Ưu điểm số một: [Kinh nghiệm]. </p>
     <p></p>
-    <p>Compared to his long time in the Jianghu Society, Li Sushang social experience was near nothing. </p>
-    <p>She didn’t find the hints buried in “Eagle”’s words at all, </p>
-    <p>only walking into the trap step by step unknowingly. </p>
+    <p>So với thời gian dài ông ta ở xã hội giang hồ, kinh nghiệm xã hội của Li Sushang gần như không đáng kể.</p>
+    <p>Cô ấy hoàn toàn không tìm thấy những gợi ý ẩn giấu trong lời nói của “Đại bàng”,</p>
+    <p>chỉ bước vào bẫy từng bước một mà không hề hay biết.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>Advantage Number Two: it’s [Character]. </p>
+    <p>Ưu điểm thứ hai: đó là [Nhân vật]. </p>
     <p></p>
-    <p>Eagle had tasted defeat before. In order to win, he would do anything. </p>
-    <p>Li Sushang is really an honest and stupid idiot, </p>
-    <p>things such as justice and fairness still occupy a high place in her heart.</p>
+    <p>Đại bàng đã từng nếm trải thất bại trước đây. Để chiến thắng, nó sẽ làm bất cứ điều gì.</p>
+    <p>Li Sushang thực sự là một kẻ ngốc trung thực và ngu xuẩn,</p>
+    <p>những điều như công lý và sự công bằng vẫn chiếm một vị trí quan trọng trong trái tim cô ấy.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>If he utilizes the full use of these two advantages,</p>
-    <p>And relies on the third advantage.</p>
-    <p>Making another bet on the variables.</p>
+    <p>Nếu anh ta tận dụng tối đa hai lợi thế này,</p>
+    <p>Và dựa vào lợi thế thứ ba.</p>
+    <p>Đặt cược khác vào các biến số.</p>
     <p></p>
-    <p>“Eagle” believes he can tip the balance of victory to lean towards him.</p>
+    <p>“Đại bàng” tin rằng anh ta có thể xoay chuyển cán cân chiến thắng nghiêng về phía mình.</p>
   </mono>
   <dialog chara="015">
-    <p>[Fair and square… Good, I want that as well. </p>
-    <p>How about this, little girl, let’s gamble.]</p>
+    <p>[Công bằng và chính trực… Tốt, tôi cũng muốn thế.</p>
+    <p>Thế này nhé cô bé, chúng ta cùng đánh bạc nào.</p>
   </dialog>
   <motion chara="015" action="img_trans" img="老鹰-惊讶-肉搏备战-远景"></motion>
   <motion chara="002" action="img_trans" img="素裳-小恶魔-背剑-远景"></motion>
-  <dialog chara="002">[Gambling isn’t good… but do speak, I’m listening.]</dialog>
+  <dialog chara="002">[Cờ bạc không tốt… nhưng cứ nói đi, tôi đang nghe.]</dialog>
   <motion chara="015" action="img_trans" img="老鹰-微笑-肉搏备战-远景"></motion>
   <motion chara="002" action="img_trans" img="素裳-浅笑-背剑-远景"></motion>
-  <dialog chara="015">[Haha, yes.]</dialog>
+  <dialog chara="015">[Haha, vâng.]</dialog>
   <dialog chara="015">
-    <p>[Let’s do as you wish, and we’ll compete in an honest and fair manner. Just fists, no using weapons. </p>
-    <p>If I lose, you can have my head. If you lose, the sword stays.]</p>
+    <p>[Hãy làm theo ý muốn của bạn, và chúng ta sẽ thi đấu một cách trung thực và công bằng. Chỉ dùng nắm đấm, không dùng vũ khí.</p>
+    <p>Nếu tôi thua, anh có thể lấy đầu tôi. Nếu anh thua, thanh kiếm vẫn ở lại.</p>
   </dialog>
   <motion chara="002" action="img_trans" img="素裳-专注-背剑-远景"></motion>
   <motion chara="015" action="img_trans" img="老鹰-惊讶-肉搏备战-远景"></motion>
-  <dialog chara="002">[That won’t work.]</dialog>
-  <text>The girl shook her head,</text>
+  <dialog chara="002">[Điều đó sẽ không hiệu quả.]</dialog>
+  <text>Cô gái lắc đầu,</text>
   <motion chara="002" action="img_trans" img="素裳-浅笑-背剑-远景"></motion>
   <dialog chara="002">
-    <p>[I promised my mother to never let this sword leave my side.</p>
-    <p>How about this, if I lose, you can also have my head. Is that fair?]</p>
+    <p>[Tôi đã hứa với mẹ rằng sẽ không bao giờ để thanh kiếm này rời khỏi bên mình.</p>
+    <p>Thế này thì sao, nếu tôi thua, anh cũng có thể lấy đầu tôi. Như vậy có công bằng không?</p>
   </dialog>
   <dialog chara="015">[......]</dialog>
-  <text>“Eagle” was stunned, then he laughed:</text>
+  <text>“Đại bàng” sững sờ, rồi cười:</text>
   <motion chara="015" action="img_trans" img="老鹰-狞笑-肉搏备战-远景"></motion>
-  <dialog chara="015">[It’s fair! Hahahahaha, very fair, really fucking fair!]</dialog>
+  <dialog chara="015">[Công bằng! Hahahahaha, rất công bằng, thực sự rất công bằng!]</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目前-背剑-远景"></motion>
-  <dialog chara="002">[Uh… it’s a deal?]</dialog>
+  <dialog chara="002">[Ừm… vậy là xong rồi chứ?]</dialog>
   <motion chara="002" action="img_trans" img="素裳-浅笑-背剑-远景"></motion>
-  <dialog chara="015">[It’s a deal.]</dialog>
+  <dialog chara="015">[Đã thỏa thuận.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-大笑-背剑-远景"></motion>
   <dialog chara="002">[Mm.]</dialog>
   <motion chara="002" action="hide" duration="0"></motion>
   <motion chara="015" action="hide" duration="0"></motion>
-  <text inline="true">With a toss from Li Sushang’s hand, </text>
+  <text inline="true">Với một cú ném từ tay Li Sushang, </text>
   <event action="hide_ui" duration="1"></event>
   <cg img="氛围_通用_轩辕剑下落" duration="0.5" pos="0,200" scale="2"></cg>
   <delay t="0.3"></delay>
   <se id="01-26大刀向下挥"></se>
-  <text>the Xuanyuan Sword plunged straight through the ground, leaving only the hilt standing abruptly on the ancient green rocks. </text>
+  <text>Thanh kiếm Huyền Nguyên đâm thẳng xuống đất, chỉ còn lại chuôi kiếm dựng đứng trên những tảng đá xanh cổ xưa.</text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg img="CG_第一折_鹰李对峙_鹰惊李抱拳_无剑" scale="2" origin="85%,54%"></cg>
-  <dialog chara="002">[Why don’t you let me go first? I’m younger than you.]</dialog>
+  <dialog chara="002">[Sao anh không để tôi đi trước? Tôi trẻ hơn anh.]</dialog>
   <cg img="CG_第一折_鹰李对峙_鹰惊李抱拳_无剑" duration="0.5" origin="85%,54%"></cg>
-  <text>While talking, Sushang activated her Blade Mantra, her heart was Still Water.</text>
+  <text>Trong khi nói chuyện, Sushang kích hoạt Chú Kiếm, trái tim nàng tĩnh lặng như nước.</text>
   <bgm looptimes="0"></bgm>
   <transition mode="fade" in="1" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="16"></event>

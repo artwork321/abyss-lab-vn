@@ -5,28 +5,28 @@
   <mono pageend="true" chara="002">
     <p></p>
     <p></p>
-    <p>[She said that Master Phoenix was the only true Celestial in this world. Immortal and undying.]</p>
+    <p>[Cô ấy nói rằng Sư phụ Phượng Hoàng là vị Thiên nhân chân chính duy nhất trên thế giới này. Bất tử và không bao giờ chết.]</p>
     <p></p>
-    <p>[They say that she was all powerful and beyond the three realms. With her hands she could turn Shenzhou over, and with her sword she could bring peace to the lands.]</p>
+    <p>[Người ta nói rằng nàng toàn năng và vượt xa cả ba cõi. Với đôi tay của mình, nàng có thể lật đổ Thần Châu, và với thanh kiếm của mình, nàng có thể mang lại hòa bình cho các vùng đất.]</p>
     <p></p>
-    <p>[As the protector of Shenzhou, she’d slain one of many demons.]</p>
+    <p>[Với tư cách là người bảo vệ Thần Châu, cô ấy đã giết một trong số nhiều con quỷ.]</p>
   </mono>
   <mono pageend="true" chara="002">
     <p></p>
     <p></p>
     <p></p>
-    <p>[The imperial court has named her as the Celestial, </p>
-    <p>but she doesn’t have a care for politics, nor is she concerned about dynastical change. </p>
-    <p>Every emperor who’s about to ascend will visit her at Mount Taixuan.]</p>
+    <p>[Triều đình hoàng gia đã phong cho nàng là Thiên thần, </p>
+    <p>nhưng cô ấy không quan tâm đến chính trị, cũng không lo lắng về sự thay đổi dòng họ.</p>
+    <p>Mỗi vị hoàng đế sắp lên ngôi đều sẽ đến thăm bà ấy ở núi Thái Huyền.</p>
   </mono>
   <mono pageend="true" chara="002">
     <p></p>
     <p></p>
     <p></p>
     <p></p>
-    <p>[They say that rulers who are graced by her presence will live a long and fruitful life to see their kingdom prosper.]</p>
+    <p>[Họ nói rằng những người cai trị được ân sủng bởi sự hiện diện của bà sẽ sống lâu và sung túc để chứng kiến vương quốc của họ thịnh vượng.]</p>
     <p></p>
-    <p>[And the ones who couldn’t would either pass away unexpectedly or have their dynasty taken from them.]</p>
+    <p>[Và những người không thể làm được điều đó sẽ hoặc qua đời đột ngột hoặc bị tước đoạt dòng dõi.]</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <event action="hide_ui" duration="1"></event>
@@ -34,82 +34,82 @@
   <delay t="1"></delay>
   <mono chara="002">
     <p></p>
-    <p>[—That’s about it. There was more, but I forgot.]</p>
+    <p>[—Chỉ vậy thôi. Còn nữa nhưng tôi quên mất.]</p>
   </mono>
   <mono chara="001">
     <p></p>
-    <p>[Hmm…]</p>
+    <p>[Ừm…]</p>
   </mono>
-  <mono>The Raksha observed Li Sushang’s expression.</mono>
-  <mono chara="001" pageend="true">[Those are merely empty praises. Have there been actual accounts?]</mono>
+  <mono>Raksha quan sát biểu cảm của Li Sushang.</mono>
+  <mono chara="001" pageend="true">[Đó chỉ là những lời khen sáo rỗng. Đã có những bằng chứng thực tế nào chưa?]</mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘5" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[Actual accounts… Slaying the demonic cult leader Yan Shiluo? Or killing the demons on Li Island? </p>
-    <p>Those are dubious tales. </p>
-    <p>What kind of examples do you want to hear? My wet nurse didn’t tell me much…]</p>
+    <p>[Các tài khoản thực tế… Giết chết thủ lĩnh giáo phái ma quỷ Yan Shiluo? Hay tiêu diệt lũ quỷ trên đảo Li? </p>
+    <p>Đó là những câu chuyện đáng ngờ.</p>
+    <p>Bạn muốn nghe những ví dụ như thế nào? Bà vú nuôi của tôi không kể cho tôi nhiều lắm…</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘5" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="001">
     <p></p>
-    <p>[For instance…]</p>
+    <p>[Ví dụ…]</p>
   </mono>
-  <mono>The Raksha’s gaze suddenly narrowed.</mono>
+  <mono>Ánh mắt của Raksha đột nhiên nheo lại.</mono>
   <mono chara="001">
     <p></p>
-    <p>[If the Celestial really is as all powerful as they claim, transcending the three realms, have they ever brought the dead back to life before?]</p>
+    <p>[Nếu Thiên giới thực sự toàn năng như họ tuyên bố, vượt qua ba cõi, thì họ đã từng hồi sinh người chết trước đây chưa?]</p>
   </mono>
   <mono chara="002">
     <p></p>
-    <p>[Bring the dead… Back to life?]</p>
+    <p>[Đưa người chết… trở lại cuộc sống?]</p>
   </mono>
-  <mono chara="001">[Yes.]</mono>
-  <mono pageend="true">The Raksha said quietly.</mono>
+  <mono chara="001">[Có.]</mono>
+  <mono pageend="true">Raksha nói nhỏ.</mono>
   <mono>
     <p></p>
     <p></p>
-    <p>The man stared at Li Sushang, but he wasn’t looking at her. It was as if there was something giant next to the girl that was glowing with heat and did the same to his eyes.</p>
+    <p>Người đàn ông nhìn chằm chằm vào Li Sushang, nhưng anh ta không nhìn cô ấy. Cứ như thể có một thứ gì đó khổng lồ bên cạnh cô gái đang tỏa nhiệt và làm điều tương tự với đôi mắt của anh ta.</p>
   </mono>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[I, I don’t remember…]</p>
+    <p>[Tôi, tôi không nhớ…]</p>
   </mono>
   <mono>
     <p></p>
-    <p>Sushang avoided his fierce stare and glanced at the coffin. Suddenly, she had an epiphany:</p>
-    <p>[You’re trying to revive someone, aren’t you?]</p>
+    <p>Sushang tránh ánh nhìn dữ dội của anh ta và liếc nhìn quan tài. Đột nhiên, cô ấy chợt nhận ra:</p>
+    <p>[Bạn đang cố gắng hồi sinh ai đó, phải không?]</p>
   </mono>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[Ah.]</p>
+    <p>[À.]</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘14" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="001">
     <p></p>
-    <p>[Yes.]</p>
+    <p>[Có.]</p>
   </mono>
   <mono>
     <p></p>
-    <p>The Raksha opened his mouth and let out a meaningless sound. </p>
+    <p>Raksha mở miệng và phát ra một âm thanh vô nghĩa.</p>
   </mono>
   <bgm looptimes="0"></bgm>
   <mono pageend="true">
     <p></p>
-    <p>He stopped after, his eyes dimming. The light and heat they once contained dissipated in the air. </p>
-    <p>Once again, he became the foreigner who would sometimes tell a few jokes or look off sadly into the distance.</p>
+    <p>Sau đó anh ta dừng lại, đôi mắt mờ dần. Ánh sáng và hơi ấm mà chúng từng chứa đựng tan biến vào không khí.</p>
+    <p>Một lần nữa, anh ta lại trở thành người nước ngoài thỉnh thoảng kể vài câu chuyện cười hoặc nhìn xa xăm với vẻ buồn bã.</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘15" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[That’s right! That’s why you’re trying to find the Celestial… You want her to revive someone?]</p>
+    <p>[Đúng vậy! Đó là lý do tại sao bạn đang cố gắng tìm kiếm Thiên Thần… Bạn muốn cô ấy hồi sinh ai đó sao?]</p>
   </mono>
   <bgm id="红颜近落霞（慢哀）"></bgm>
   <event action="hide_ui" duration="1"></event>
@@ -117,90 +117,90 @@
   <delay t="1"></delay>
   <mono chara="001">
     <p></p>
-    <p>[Yes.]</p>
+    <p>[Có.]</p>
   </mono>
   <mono chara="-3">
     <p></p>
-    <p>He lowered his eyes.</p>
+    <p>Anh ta cúi đầu xuống.</p>
   </mono>
   <mono chara="001" pageend="true">
     <p></p>
-    <p>[Isn’t it rather common for ordinary people to have a wish like that?]</p>
+    <p>[Chẳng phải người bình thường thường có một ước muốn như vậy sao?]</p>
   </mono>
   <mono>
     <p></p>
-    <p>The golden-haired man smiled gently.</p>
+    <p>Người đàn ông tóc vàng mỉm cười dịu dàng.</p>
   </mono>
   <mono chara="001">
-    <p>[I want her to come back to life. </p>
-    <p>It’s very simple, but it’s often the most simple wishes that are the hardest to fulfill.]</p>
+    <p>[Tôi muốn cô ấy sống lại.</p>
+    <p>Điều này rất đơn giản, nhưng thường thì những ước muốn đơn giản nhất lại khó thực hiện nhất.</p>
   </mono>
-  <mono chara="001" pageend="true">[Nineteen years. It’ll be nineteen years after four days.]</mono>
+  <mono chara="001" pageend="true">[Mười chín năm. Sẽ tròn mười chín năm sau bốn ngày.]</mono>
   <mono chara="002">
     <p></p>
-    <p>[Sigh]</p>
+    <p>[Thở dài]</p>
   </mono>
-  <mono>Li Sushang wanted to say something, but she couldn’t find anything to say, so she only sighed:</mono>
-  <mono chara="002">[That’s a long time.]</mono>
+  <mono>Lý Thiệu Trương muốn nói điều gì đó nhưng không tìm được gì để nói nên chỉ thở dài:</mono>
+  <mono chara="002">[Đó là một khoảng thời gian dài.]</mono>
   <mono pageend="true">
     <p></p>
-    <p>She was only fifteen years old, and she hadn’t been loved for long by anybody else nor had she loved anyone, so she couldn’t understand the passion that permeated the Raksha’s words.</p>
+    <p>Cô ấy mới chỉ mười lăm tuổi, và cô ấy chưa được ai yêu thương lâu cũng như chưa từng yêu ai, vì vậy cô ấy không thể hiểu được niềm đam mê thấm đẫm trong lời nói của Raksha.</p>
   </mono>
   <mono chara="002">
     <p></p>
-    <p>[Nineteen years… </p>
+    <p>[Mười chín năm… </p>
   </mono>
   <mono chara="001">
     <p></p>
-    <p>It all happens in a flash. I have enough time, and so does she.]</p>
+    <p>Mọi chuyện diễn ra trong chớp mắt. Tôi có đủ thời gian, và cô ấy cũng vậy.</p>
   </mono>
-  <mono>The Raksha brushed his finger across the coffin. </mono>
-  <mono chara="001" pageend="true">[Once we see the Celestial, she’ll come back.]</mono>
-  <text inline="true">— [We]. </text>
+  <mono>Raksha vuốt ngón tay qua quan tài.</mono>
+  <mono chara="001" pageend="true">[Một khi chúng ta nhìn thấy Thiên thần, cô ấy sẽ quay lại.]</mono>
+  <text inline="true">— [Chúng tôi]. </text>
   <text>
     <p></p>
-    <p>For a second, Li Sushang thought he was talking about her.</p>
+    <p>Trong giây lát, Li Sushang tưởng rằng anh ta đang nói về cô ấy.</p>
   </text>
-  <text>However, the Raksha’s emerald-like eyes were focused on the coffin, completely unaware of her presence.</text>
-  <text>To see the Raksha like this… Li Sushang suddenly felt as if she didn’t want to disappoint him.</text>
+  <text>Tuy nhiên, đôi mắt màu ngọc lục bảo của Raksha vẫn tập trung vào chiếc quan tài, hoàn toàn không để ý đến sự hiện diện của cô ấy.</text>
+  <text>Nhìn thấy Raksha như thế này… Li Sushang đột nhiên cảm thấy như thể cô không muốn làm anh ấy thất vọng.</text>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘11" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="002">
     <p></p>
-    <p>[em italic]([Could the Celestial really bring that person back to life?])[/em]</p>
+    <p>[em italic]([Liệu Thiên Thần có thực sự hồi sinh được người đó không?])[/em]</p>
   </mono>
-  <mono pageend="true">The girl suddenly shivered.</mono>
+  <mono pageend="true">Cô gái đột nhiên rùng mình.</mono>
   <mono>
     <p></p>
-    <p>She never thought the Raksha had that much hope for the Celestial. At first, she was just going to point him to her master and then let her master help him see the Celestial. It was so simple. </p>
+    <p>Cô ấy không bao giờ nghĩ rằng Raksha lại có nhiều hy vọng đến thế đối với Thiên Thần. Ban đầu, cô ấy chỉ định chỉ cho hắn ta đến gặp chủ nhân của mình rồi để chủ nhân giúp hắn ta gặp Thiên Thần. Thật đơn giản.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>However, Li Sushang had now wandered into another person’s wish by her own accords. </p>
-    <p>A sentence that she’d never paid much care to before was now tugging at her heartstrings. [\s]</p>
-    <p>She just hoped… Ah, she wasn’t sure herself.</p>
+    <p>Tuy nhiên, Li Sushang giờ đã tự ý đi vào ý muốn của người khác.</p>
+    <p>Một câu mà trước đây cô chưa từng để ý đến giờ lại khiến trái tim cô rung động. [\s]</p>
+    <p>Cô ấy chỉ hy vọng… À, chính cô ấy cũng không chắc.</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘18" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="002">
     <p></p>
-    <p>[She will… Uh… She will come back!]</p>
+    <p>[Cô ấy sẽ… Ờ… Cô ấy sẽ quay lại!]</p>
   </mono>
-  <mono>The girl said with little confidence.</mono>
-  <mono chara="002" pageend="true">[It’s just… Raksha. When we go see my master… and then… When you see the Celestial… You’ll…]</mono>
+  <mono>Cô gái nói với vẻ thiếu tự tin.</mono>
+  <mono chara="002" pageend="true">[Chỉ là… Raksha. Khi chúng ta đi gặp sư phụ của ta… và sau đó… Khi ngươi gặp Thiên thần… Ngươi sẽ…]</mono>
   <event action="hide_ui" duration="1"></event>
   <cg duration="1" img="CG_第二折_风中奇缘17"></cg>
   <delay t="1"></delay>
   <mono>
     <p></p>
-    <p>She stuttered, trying to cheer the Raksha up, </p>
-    <p>but the guilt in her heart caused her voice to get quieter and quieter.</p>
+    <p>Cô ấy lắp bắp, cố gắng làm cho Raksha vui lên,</p>
+    <p>nhưng cảm giác tội lỗi trong lòng khiến giọng nói của cô ấy càng lúc càng nhỏ dần.</p>
   </mono>
   <mono chara="002">
     <p></p>
-    <p>[You’ll definitely… Get what you want.]</p>
+    <p>[Bạn chắc chắn sẽ… Có được thứ bạn muốn.]</p>
   </mono>
   <mono chara="001" pageend="true">
     <p></p>
@@ -211,53 +211,53 @@
   <delay t="1"></delay>
   <mono>
     <p></p>
-    <p>The corners of his mouth formed a faint smile.</p>
+    <p>Khóe miệng anh ta nở một nụ cười nhạt.</p>
   </mono>
   <mono chara="001" pageend="true">
     <p></p>
-    <p>[Thank you, Sushang.]</p>
+    <p>[Cảm ơn Sushang.]</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Sushang sat there, shocked, and then realized she had a large dumb grin on face. </p>
-    <p>She pouted and looked away.</p>
+    <p>Sushang ngồi đó, sững sờ, rồi nhận ra mình đang nở một nụ cười ngốc nghếch lớn trên mặt.</p>
+    <p>Cô ấy bĩu môi và nhìn đi chỗ khác.</p>
   </mono>
   <cg img="CG_第二折_风中奇缘17"></cg>
-  <dialog chara="002">[Hmm?]</dialog>
+  <dialog chara="002">[Hừm?]</dialog>
   <bgm looptimes="0"></bgm>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
   <se id="02-02马奔跑（沙漠）"></se>
-  <text>The clattering of hooves came closer. </text>
+  <text>Tiếng vó ngựa lộn xộn càng lúc càng đến gần.</text>
   <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="left" custom="default"></transition>
   <cg img="CG_第二折_百里逐驹2"></cg>
   <se id="02-02马奔跑（沙漠）" looptimes="-1"></se>
-  <text>From the edge of her vision, a man and horse came closer and closer toward the same direction that Sushang was heading.</text>
-  <dialog chara="002">([Hmm? Master has other friends?])</dialog>
-  <text>She saw the rider’s face clearly now: it was a giant man of yellow hair.</text>
-  <text>Li Sushang suddenly felt as if she recognized him even though she hadn’t seen anyone else for the past ten years.</text>
+  <text>Từ rìa tầm nhìn của cô, một người đàn ông và một con ngựa tiến lại gần hơn về cùng hướng mà Sushang đang đi.</text>
+  <dialog chara="002">([Hừm? Sư phụ còn có bạn bè khác à?])</dialog>
+  <text>Giờ cô đã nhìn rõ mặt người cưỡi ngựa: đó là một người đàn ông khổng lồ tóc vàng.</text>
+  <text>Li Sushang đột nhiên cảm thấy như thể cô nhận ra anh ta dù đã mười năm không gặp ai khác.</text>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg img="CG_第二折_风中奇缘17"></cg>
   <mono>
     <p></p>
-    <p>As if by coincidence, the man glanced at the Raksha and Li Sushang too. </p>
+    <p>Như thể tình cờ, người đàn ông cũng liếc nhìn Raksha và Li Sushang.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The momentary glance, however, suddenly stopped as it turned into a glare.</p>
+    <p>Tuy nhiên, cái nhìn thoáng qua đó đột nhiên dừng lại và biến thành ánh nhìn chằm chằm.</p>
   </mono>
   <se looptimes="0" id="02-02马奔跑（沙漠）"></se>
   <mono pageend="true" chara="099">
     <p></p>
-    <p>[Motherfucker.]</p>
+    <p>[Đồ khốn nạn.]</p>
   </mono>
   <transition mode="eye" in="0.5" stop="0.5" out="0.5" color="#000000"></transition>
   <cg img="CG_第二折_百里逐驹3" scale="2" origin="60%,5%"></cg>
   <bgm id="太鼓乱舞（战斗）"></bgm>
-  <text>The brute closed his eyes, but opened them quickly.</text>
+  <text>Tên hung tợn nhắm mắt lại, nhưng nhanh chóng mở mắt ra.</text>
   <cg img="CG_第二折_百里逐驹3" duration="1" origin="60%,5%"></cg>
-  <text>His face was a myriad of emotions: sorrow, frustration, and pure joy.</text>
-  <text>He waved his hand, and despite it being empty, a light shot forth from it— !</text>
+  <text>Khuôn mặt anh ấy hiện lên muôn vàn cảm xúc: buồn bã, thất vọng và niềm vui thuần khiết.</text>
+  <text>Anh ta vẫy tay, và mặc dù tay anh ta trống không, một luồng ánh sáng vẫn phát ra từ đó— !</text>
   <se id="02-02马奔跑（沙漠）" looptimes="0"></se>
   <cg duration="0"></cg>
   <se id="01-26大刀向下挥"></se>
@@ -267,41 +267,41 @@
   <motion chara="-5" action="hide"></motion>
   <se id="02-01马嘶鸣"></se>
   <se id="02-02马奔跑（沙漠）"></se>
-  <text>The ropes that connected the cart to the horse were severed, and they ran off into the dunes in the distance.</text>
+  <text>Dây thừng nối xe với ngựa bị đứt, và chúng chạy vào những cồn cát ở phía xa.</text>
   <se id="01-34男沙地重摔"></se>
   <motion chara="-4" action="shake" duration="0.2" range="300" direction="horizontal"></motion>
-  <text>The cart leaned forward and planted into the sand, tipping forward before falling back.</text>
+  <text>Chiếc xe nghiêng về phía trước và cắm xuống cát, lật về phía trước trước khi ngã về phía sau.</text>
   <se id="01-30女孩轻功whoosh_02"></se>
-  <text>Sushang moved quickly and stabilized herself with the [Gleaming Lotus] move of the Edge of Taixuan’s Guard Form.</text>
-  <text>She reached for the Raksha but was met with an invisible wall that cushioned her bottom. It was the invisible barrier that the Raksha had opened.</text>
-  <text>They both stumbled a bit but didn’t fall.</text>
+  <text>Sushang di chuyển nhanh và giữ thăng bằng bằng chiêu thức [Hoa sen rực rỡ] của thế phòng thủ Taixuan.</text>
+  <text>Cô ấy với tới Raksha nhưng gặp phải một bức tường vô hình che chắn mông cô. Đó là rào cản vô hình mà Raksha đã mở ra.</text>
+  <text>Cả hai đều loạng choạng một chút nhưng không ngã.</text>
   <cg duration="1"></cg>
   <motion chara="097" action="show" pos="center" img="李素裳-特写-坚定"></motion>
   <dialog chara="002">[!!!]</dialog>
-  <text>Faced with this sudden turn of events, Li Sushang had not yet calmed down. </text>
+  <text>Đối mặt với diễn biến bất ngờ này, Li Sushang vẫn chưa bình tĩnh lại.</text>
   <text>
-    <p>Reason being that she knew that move. </p>
-    <p>The move that the man launched was [Ripstone] of the Edge of Taixuan’s [Wrath Form].</p>
+    <p>Lý do là vì cô ấy biết chiêu đó.</p>
+    <p>Chiêu thức mà người đàn ông tung ra là [Đá Rách] của [Hình thức Thịnh Nộ] Taixuan.</p>
   </text>
   <motion chara="097" action="img_trans" img="李素裳-特写-艰难"></motion>
-  <dialog chara="002">[em italic][(Who is he? And why can he use the Edge of Taixuan?)][/em]</dialog>
-  <text>And yet, there was something that shocked her even more.</text>
+  <dialog chara="002">[em italic][(Hắn là ai? Và tại sao hắn có thể sử dụng Cạnh Thái Huyền?)][/em]</dialog>
+  <text>Tuy nhiên, có một điều còn khiến cô ấy sốc hơn nữa.</text>
   <motion chara="097" action="hide"></motion>
   <transition mode="fade" in="0.5" stop="0.1" out="0.5" color="#FFFFFF"></transition>
   <cg img="CG_第二折_百里逐驹4"></cg>
   <bg img="BGPureWhite00"></bg>
-  <text>—The man’s hands were empty when he launched his strike.</text>
+  <text>—Tay người đàn ông không có gì khi anh ta tung đòn.</text>
   <cg img="CG_第二折_百里逐驹4" duration="15" scale="3" origin="20%,5%"></cg>
-  <text>[em italic]To bring forth a sword from formless Ki.[/em]</text>
+  <text>[em italic]Mang đến một thanh kiếm từ Khí vô hình.[/em]</text>
   <text>
-    <p>—Isn’t that the highest of the five Taixuan Essences? </p>
-    <p>The one that, from her knowledge, was only learnt by her master…</p>
+    <p>—Chẳng phải đó là tinh hoa Thái Huyền cao cấp nhất trong năm loại tinh hoa Thái Huyền sao?</p>
+    <p>Điều mà, theo hiểu biết của cô ấy, chỉ được học bởi sư phụ của cô ấy…</p>
   </text>
   <bgm looptimes="0"></bgm>
   <event action="hide_ui" duration="1"></event>
   <cg duration="2"></cg>
   <delay t="1"></delay>
-  <text>[Eminence]?!</text>
+  <text>[Ngài]?!</text>
   <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="11"></event>
 </scene>

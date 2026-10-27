@@ -1,128 +1,128 @@
 <scene id="21" type="block" prev="20" title="太虚の五番弟子2">
   <mono>
     <p></p>
-    <p>She is the 5th disciple of the Taixuan faction, and the only person other than Phoenix in the last 100 years who has mastered the supreme boundary "Taixuanshin".</p>
+    <p>Cô ấy là đệ tử thứ 5 của phái Taixuan, và là người duy nhất ngoài Phượng Hoàng trong 100 năm qua đã thành thạo cảnh giới tối thượng "Taixuanshin".</p>
   </mono>
   <mono>
     <p></p>
-    <p>At the age of two she began to learn martial arts, and at the age of thirteen she reached the realm of Taixuan. She is a peerless swordsman who is called "the supreme divine sword that forgets me".</p>
+    <p>Lúc hai tuổi, cô ấy bắt đầu học võ thuật, và đến năm mười ba tuổi đã đạt đến cảnh giới Thái Huyền. Cô ấy là một kiếm sĩ vô song được gọi là "thần kiếm tối cao quên mất ta".</p>
   </mono>
   <event action="achievement" aid="c6a6ddc0c3d637d9"></event>
-  <notification>伝記解放：「凌霜」</notification>
+  <notification>伝記解放: 「凌霜」</notification>
   <mono pageend="true">
     <p></p>
-    <p>In the past thirty-seven years of her life, Lingshuang has never really set foot in the world, always holding a sword.</p>
+    <p>Trong 37 năm cuộc đời, Lingshuang chưa bao giờ thực sự đặt chân ra thế giới, luôn luôn cầm kiếm bên mình.</p>
   </mono>
   <mono>
     <p></p>
-    <p>She has no setbacks, no failures, no half-hearted desires, no bonds.</p>
+    <p>Cô ấy không gặp trở ngại, không thất bại, không có mong muốn nửa vời, không có ràng buộc.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Her common sense, rules, logic, reason, worldly circumstances...Lingshuang didn't pay any attention to anything that constrained ordinary people.</p>
+    <p>Lý trí, quy tắc, logic, lý lẽ, hoàn cảnh thế tục của cô ấy...Lingshuang không hề để ý đến bất cứ điều gì ràng buộc người thường.</p>
   </mono>
-  <text>But……</text>
+  <text>Nhưng……</text>
   <motion chara="007" action="img_trans" img="凌霜-标准-标准-近景"></motion>
-  <dialog chara="007">"Yes. It was my fault."</dialog>
-  <text>Luckily, only she and those close to her knew...</text>
+  <dialog chara="007">"Vâng. Đó là lỗi của tôi."</dialog>
+  <text>May mắn thay, chỉ có cô ấy và những người thân cận với cô ấy biết...</text>
   <motion chara="007" action="img_trans" img="凌霜-免了-标准-近景"></motion>
-  <dialog chara="007">"At your age, it's only natural to think about men."</dialog>
-  <text>This person's dogmatic ability is truly amazing.</text>
+  <dialog chara="007">"Ở tuổi của bạn, việc nghĩ về đàn ông là điều tự nhiên thôi."</dialog>
+  <text>Khả năng giáo điều của người này thực sự đáng kinh ngạc.</text>
   <motion chara="002" action="img_trans" img="素裳-撒娇哭-背手-近景"></motion>
   <motion chara="002" action="shake" duration="0.5" range="3" direction="default"></motion>
-  <dialog chara="002">“???……What did you say!?”</dialog>
+  <dialog chara="002">“???……Bạn vừa nói gì vậy!?”</dialog>
   <delay t="0.1"></delay>
   <motion chara="002" action="img_trans" img="素裳-委屈-背手-近景"></motion>
-  <text>Sushang was so embarrassed by her, she didn't know what to do, and she involuntarily turned her attention to the Raksha's body. She even stares at him appreciatively.</text>
-  <text>The Raksha is lying on the ground in a strange position, but no one tries to pick him up and put him to bed.</text>
+  <text>Sushang xấu hổ đến nỗi không biết phải làm gì, và cô vô thức hướng sự chú ý về phía cơ thể của Raksha. Cô thậm chí còn nhìn anh ta với vẻ thích thú.</text>
+  <text>Con quỷ Raksha đang nằm trên mặt đất trong một tư thế kỳ lạ, nhưng không ai cố gắng đỡ nó dậy và đưa nó lên giường.</text>
   <motion chara="007" action="img_trans" img="凌霜-看戏-标准-近景"></motion>
-  <dialog chara="007">"I'm a little old."</dialog>
-  <text>Lingshuang said coldly.</text>
+  <dialog chara="007">Tôi hơi lớn tuổi rồi.</dialog>
+  <text>Lingshuang lạnh lùng nói.</text>
   <motion chara="002" action="img_trans" img="素裳-惊讶-普通-近景"></motion>
   <motion chara="007" action="img_trans" img="凌霜-对吧-标准-近景"></motion>
-  <dialog chara="007">"Neither you nor your mother have an eye for men."</dialog>
+  <dialog chara="007">"Cả bạn và mẹ bạn đều không có mắt nhìn đàn ông."</dialog>
   <motion chara="002" action="img_trans" img="素裳-撒娇哭-抱手-近景"></motion>
-  <dialog chara="002">"Huh? You're wrong! Master, it's a misunderstanding――"</dialog>
+  <dialog chara="002">Hả? Ngài nhầm rồi! Thưa chủ nhân, đó chỉ là hiểu lầm thôi――"'</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目下-背手-近景"></motion>
-  <text>Sushang hurriedly waved her hand, trying to distract her from the topic.</text>
-  <dialog chara="002">"Um, ka, ka, ka, is his wound okay?"</dialog>
+  <text>Sushang vội vàng vẫy tay, cố gắng đánh lạc hướng cô ấy khỏi chủ đề đó.</text>
+  <dialog chara="002">"Ừm, ka, ka, ka, vết thương của anh ấy ổn chứ?"</dialog>
   <bgm looptimes="0"></bgm>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-近景"></motion>
-  <dialog chara="007">"Not good. Much heavier than you."</dialog>
+  <dialog chara="007">"Không tốt. Nặng hơn bạn nhiều."</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目前-普通-近景"></motion>
-  <dialog chara="002">"Is this wound caused by that Ma Fei... Master?"</dialog>
-  <text>Lingshuang shook her head.</text>
+  <dialog chara="002">"Vết thương này có phải do Ma Fei... Sư phụ gây ra không?"</dialog>
+  <text>Lingshuang lắc đầu.</text>
   <motion chara="007" action="img_trans" img="凌霜-思考-标准-近景"></motion>
-  <dialog chara="007">"With this level of power, I don't think I'll attract Lord Yanqing's attention. He ran out of strength and was defeated."</dialog>
-  <dialog chara="007">"In order to fight Lord Yanqing, he literally used up every drop of real energy in his body. I don't know what wickedness he used, but it's a good thing he didn't die."</dialog>
-  <text>Master looks at the blond man lying on the floor.</text>
+  <dialog chara="007">"Với sức mạnh này, tôi không nghĩ mình sẽ thu hút được sự chú ý của Lãnh chúa Yanqing. Ông ta đã hết sức và bị đánh bại."</dialog>
+  <dialog chara="007">"Để chiến đấu với Lãnh chúa Yanqing, hắn ta đã dùng hết từng giọt sinh lực thực sự trong cơ thể. Ta không biết hắn ta đã dùng tà thuật gì, nhưng may là hắn ta không chết."</dialog>
+  <text>Ông chủ nhìn người đàn ông tóc vàng nằm trên sàn.</text>
   <motion chara="007" action="img_trans" img="凌霜-免了-标准-近景"></motion>
-  <dialog chara="007">"My hand is burnt and probably useless. My muscles and bones weren't affected, but the internal injuries were so severe that my life span would have been reduced by 10 years, and various adverse effects might occur. Don't be like this man, think again."</dialog>
+  <dialog chara="007">"Tay tôi bị bỏng và có lẽ không dùng được nữa. Cơ và xương của tôi không bị ảnh hưởng, nhưng các tổn thương nội tạng nghiêm trọng đến mức tuổi thọ của tôi sẽ bị giảm đi 10 năm, và có thể xảy ra nhiều tác dụng phụ khác nhau. Đừng giống như người đàn ông này, hãy suy nghĩ lại."</dialog>
   <bgm id="红颜近落霞（慢哀）"></bgm>
   <motion chara="002" action="img_trans" img="素裳-悲伤目下-抱手-近景"></motion>
   <motion chara="007" action="img_trans" img="凌霜-标准-标准-近景"></motion>
-  <dialog chara="002">"... This person is fine."</dialog>
+  <dialog chara="002">'... Người này ổn.'</dialog>
   <motion chara="002" action="hide"></motion>
   <motion chara="007" action="hide"></motion>
   <cg img="CG_第二折_奥托重伤"></cg>
   <mono>
     <p></p>
-    <p>Sushang stares at Raksha's blackened arm. It was no longer visible in human hands.</p>
+    <p>Sushang nhìn chằm chằm vào cánh tay đen sạm của Raksha. Nó không còn nhìn thấy được trong bàn tay con người nữa.</p>
   </mono>
   <mono>
     <p></p>
-    <p>But she believed he would recover. And she believed in that "Abyss Flower" that she could heal the body.</p>
+    <p>Nhưng cô ấy tin rằng anh ấy sẽ hồi phục. Và cô ấy tin vào "Bông hoa vực sâu" đó rằng cô ấy có thể chữa lành cơ thể.</p>
   </mono>
   <mono>
     <p></p>
-    <p>She had experienced Sushang first-hand, so she understood her wonder.</p>
+    <p>Cô ấy đã trực tiếp trải nghiệm Sushang nên cô ấy hiểu được sự kinh ngạc của cô ấy.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>If only he was sincere enough...</p>
+    <p>Giá như anh ấy thành thật hơn...</p>
   </mono>
   <cg></cg>
   <motion chara="002" action="show" img="素裳-悲伤目前-背手-近景" pos="left"></motion>
-  <dialog chara="002">"Master, I have a request."</dialog>
+  <dialog chara="002">"Thưa chủ nhân, tôi có một yêu cầu.</dialog>
   <motion chara="007" action="show" img="凌霜-注视-标准-近景" pos="right"></motion>
-  <dialog chara="007">"Yes, tell me."</dialog>
-  <dialog chara="002">"Um... can you share your master's sword spirit with him?"</dialog>
+  <dialog chara="007">"Vâng, hãy nói cho tôi biết."</dialog>
+  <dialog chara="002">"Ừm... cậu có thể chia sẻ linh hồn kiếm của sư phụ mình với anh ấy được không?"</dialog>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-近景"></motion>
-  <dialog chara="007">"Taixuan? I don't think he can master it at his age. You should teach him the tricks of the sword and let him try it himself."</dialog>
+  <dialog chara="007">"Taixuan? Tôi không nghĩ cậu ấy có thể thành thạo nó ở độ tuổi này. Anh nên dạy cậu ấy các thủ thuật kiếm thuật và để cậu ấy tự thử."</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目下-抱手-近景"></motion>
-  <dialog chara="002" inline="true">"Eh? I didn't intend to do that.</dialog>
+  <dialog chara="002" inline="true">Hả? Tôi không có ý định làm thế.</dialog>
   <motion chara="002" action="img_trans" img="素裳-惊讶-普通-近景"></motion>
-  <dialog chara="002">wait. Can I teach you some kenshin tips? ”</dialog>
-  <dialog chara="007">"Why not?"</dialog>
-  <dialog chara="002">"Oh, isn't it forbidden by the ancestors to tell the outside world?"</dialog>
+  <dialog chara="002">Chờ đã. Tôi có thể dạy bạn vài mẹo đánh kiếm không?</dialog>
+  <dialog chara="007">"Tại sao không?"</dialog>
+  <dialog chara="002">Ồ, chẳng phải tổ tiên đã cấm tiết lộ cho thế giới bên ngoài sao?</dialog>
   <motion chara="007" action="img_trans" img="凌霜-思考-标准-近景"></motion>
   <dialog chara="007">"..."</dialog>
   <motion chara="007" action="img_trans" img="凌霜-拒绝-标准-近景"></motion>
   <dialog chara="007">“…………”</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目前-背手-近景"></motion>
-  <text>The Fifth Disciple of the Taixuan Sword School closed his eyes and lost himself in thought, then opened his eyes again after a while.</text>
+  <text>Đệ tử thứ năm của phái kiếm Taixuan nhắm mắt lại và chìm đắm trong suy tư, sau một lúc lại mở mắt ra.</text>
   <motion chara="007" action="img_trans" img="凌霜-小恶魔-标准-近景"></motion>
-  <dialog chara="007">"I can't teach you. Give up."</dialog>
+  <dialog chara="007">"Tôi không thể dạy bạn. Hãy bỏ cuộc đi."</dialog>
   <motion chara="002" action="img_trans" img="素裳-绝望张嘴-抱手-近景"></motion>
-  <dialog chara="002" inline="true">"I also...</dialog>
+  <dialog chara="002" inline="true">'Tôi cũng...</dialog>
   <motion chara="002" action="img_trans" img="素裳-专注-背手-近景"></motion>
-  <dialog chara="002" inline="true">Oh no! What I'm trying to say is that I want his master's Taixuan to restore his inner strength.</dialog>
+  <dialog chara="002" inline="true">Ôi không! Ý tôi muốn nói là tôi muốn Thái Huyền của sư phụ anh ta khôi phục lại nội lực cho anh ta.</dialog>
   <motion chara="002" action="img_trans" img="素裳-严肃-普通-近景"></motion>
-  <dialog chara="002">He has an amazing dharma, and with enough sincerity, he can heal any wound. ”</dialog>
+  <dialog chara="002">Ông ấy có một pháp tuyệt vời, và với đủ sự thành tâm, ông ấy có thể chữa lành mọi vết thương.</dialog>
   <motion chara="007" action="img_trans" img="凌霜-厌烦-标准-近景"></motion>
-  <dialog chara="007">"defect."</dialog>
-  <text>Lingshuang nodded slightly.</text>
-  <dialog chara="007">"Then wait a minute. I'll lend you a hand once I get rid of Lord Yanqing."</dialog>
+  <dialog chara="007">"lỗi."</dialog>
+  <text>Lingshuang khẽ gật đầu.</text>
+  <dialog chara="007">"Vậy thì đợi một chút. Ta sẽ giúp ngươi sau khi ta tống khứ được Lãnh chúa Yanqing."</dialog>
   <motion chara="002" action="img_trans" img="素裳-笑-普通-近景"></motion>
-  <dialog chara="002">"Thank you, master!"</dialog>
-  <text>Sushang smiled broadly.</text>
+  <dialog chara="002">"Cảm ơn sư phụ!"</dialog>
+  <text>Sushang cười tươi.</text>
   <motion chara="002" action="img_trans" img="素裳-大笑-背手-近景"></motion>
-  <dialog chara="002">“After all, master is the best!”</dialog>
+  <dialog chara="002">Xét cho cùng, sư phụ là người giỏi nhất!</dialog>
   <motion chara="007" action="img_trans" img="凌霜-看戏-标准-近景"></motion>
-  <dialog chara="007">"Yes. You guys, get some sleep."</dialog>
+  <dialog chara="007">"Vâng. Mấy cậu đi ngủ đi."</dialog>
   <motion chara="002" action="img_trans" img="素裳-惊讶-普通-近景"></motion>
-  <text>Sushang was surprised and hurriedly waved her hand.</text>
-  <dialog chara="002">"No, nene--I'm not going to sleep!"</dialog>
+  <text>Sushang ngạc nhiên và vội vàng vẫy tay.</text>
+  <dialog chara="002">"Không, nene--Tôi không đi ngủ đâu!"</dialog>
   <bgm looptimes="0"></bgm>
   <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="22"></event>

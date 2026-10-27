@@ -5,20 +5,20 @@
   <motion chara="001" action="show" pos="right" duration="1" img="奥托-严肃-标准-远景（棺材）"></motion>
   <motion chara="002" action="show" pos="left" duration="1" img="素裳-愤怒-持剑-中景"></motion>
   <delay t="3"></delay>
-  <text>Ma Feima was staring at this strange pair.</text>
+  <text>Ma Feima đang nhìn chằm chằm vào cặp đôi kỳ lạ này.</text>
   <motion chara="002" action="hide"></motion>
   <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="left" custom="default"></transition>
   <event action="hide_ui" duration="1"></event>
   <motion chara="001" action="show" pos="center" img="奥托-严肃-标准-中景（棺材）"></motion>
   <delay t="1"></delay>
-  <text>One of them was a blond Raksha.</text>
+  <text>Một trong số họ là Raksha tóc vàng.</text>
   <mono pageend="true">
     <p></p>
     <p></p>
     <p></p>
-    <p>He was tall and slender with well-defined features, but just looking at him didn’t seem to be anything special on the inside. His breathing lacked any basics or his martial arts seemed average[\s]</p>
+    <p>Anh ta cao và mảnh khảnh với những đường nét rõ ràng, nhưng chỉ nhìn bề ngoài thì bên trong anh ta dường như không có gì đặc biệt. Hơi thở của anh ta thiếu những kỹ năng cơ bản hoặc võ công của anh ta có vẻ bình thường[\s]</p>
     <p></p>
-    <p>However, Ma Feima knew better. This person was different from how he looked; it wasn’t an easy opponent to deal with</p>
+    <p>Tuy nhiên, Ma Feima hiểu rõ hơn. Người này khác với vẻ bề ngoài; đây không phải là đối thủ dễ đối phó</p>
   </mono>
   <mono pageend="true">
     <p></p>
@@ -26,25 +26,25 @@
     <p></p>
     <p>When I used my swordsmanship to take a look, the true movements of his body were extremely unnatural.[\s]</p>
     <p></p>
-    <p>It's like the inside of a strange eight-stringed sutra is empty.</p>
-    <p>And yet, the sanyo sanin in my hand has such force that it feels like I’m going to go berserk.</p>
+    <p>Nó giống như bên trong một cuốn kinh tám dây kỳ lạ trống rỗng.</p>
+    <p>Thế mà, cây sanyo sanin trong tay ta lại có sức mạnh đến nỗi ta cảm thấy như mình sắp phát điên.</p>
   </mono>
   <dialog chara="008">（......）</dialog>
   <mono pageend="true">
     <p></p>
     <p></p>
     <p></p>
-    <p>This Raksha had a very strange reaction when he stopped the carriage with his sword earlier, too.</p>
+    <p>Tên Raksha này cũng có phản ứng rất kỳ lạ khi hắn chặn cỗ xe bằng thanh kiếm của mình trước đó.</p>
     <p></p>
-    <p>He hadn’t moved his arms and legs, but he was completely unaffected by the overturned carriage—as if floating in midair.</p>
+    <p>Anh ta không hề cử động tay chân, nhưng hoàn toàn không bị ảnh hưởng bởi cỗ xe bị lật úp - như thể đang lơ lửng giữa không trung.</p>
   </mono>
-  <dialog chara="008">（...Does the Raksha Kingdom have that kind of divine power?）</dialog>
+  <dialog chara="008">(...Vương quốc Raksha có loại sức mạnh thần thánh đó không?)</dialog>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>Ma Feima couldn’t believe it.</p>
+    <p>Ma Feima không thể tin được.</p>
     <p></p>
-    <p>Was the blond-haired man hiding that he was an extremely skilled user of Uchiko? Or perhaps a suspicious martial arts wielder. Though it had to be one or another, Ma Feima thought</p>
+    <p>Liệu người đàn ông tóc vàng kia đang che giấu việc mình là một người sử dụng Uchiko cực kỳ thành thạo? Hay có lẽ là một người sử dụng võ thuật đáng ngờ. Dù sao thì cũng phải là một trong hai, Ma Feima nghĩ</p>
   </mono>
   <event action="hide_ui"></event>
   <motion chara="001" action="show" pos="center" duration="1" img="奥托-严肃-标准-近景"></motion>
@@ -53,12 +53,12 @@
   <mono>
     <p></p>
     <p></p>
-    <p>And both of his eyes...</p>
+    <p>Và cả hai mắt của anh ấy...</p>
     <p></p>
     <p></p>
-    <p>He has a very young face, but his eyes are so deep that they don't match him at all...</p>
+    <p>Anh ấy có khuôn mặt rất trẻ, nhưng đôi mắt lại sâu thẳm đến nỗi hoàn toàn không phù hợp với anh ấy...</p>
   </mono>
-  <mono pageend="true">It looked at hell,[\s]It was a bittersweet taste,[\s]They were the eyes of someone who had overcome blood abyss.</mono>
+  <mono pageend="true">Nó nhìn vào địa ngục,[\s]Đó là một hương vị ngọt ngào xen lẫn cay đắng,[\s]Đó là đôi mắt của người đã vượt qua vực thẳm máu.</mono>
   <event action="hide_ui" duration="0.56"></event>
   <motion chara="001" action="hide" duration="0"></motion>
   <bg img="PureBlack"></bg>
@@ -66,25 +66,25 @@
   <delay t="0.5"></delay>
   <mono>
     <p></p>
-    <p>I could hear whispers urging me to be careful in my horse-hitting brain.[\s]This Raksha is someone who can kill me.</p>
+    <p>Tôi có thể nghe thấy những lời thì thầm thúc giục tôi phải cẩn thận trong bộ não đang đánh ngựa của mình.[\s]Raksha này là người có thể giết tôi.</p>
   </mono>
   <mono chara="008" pageend="true">
     <p></p>
-    <p>[em italic]（Really? ...Is this man capable of doing it, or...）[/em]</p>
+    <p>[em italic](Thật sao? ...Người đàn ông này có khả năng làm được việc đó không, hay...?)[/em]</p>
   </mono>
   <motion chara="100" action="hide"></motion>
   <mono pageend="true">
     <p></p>
-    <p>A heavy pain and craving swirled in my chest.</p>
-    <p>Ma Feima closed his eyes.[\s]</p>
+    <p>Một nỗi đau đớn và khao khát nặng nề cuộn trào trong lồng ngực tôi.</p>
+    <p>Ma Feima nhắm mắt lại.[\s]</p>
     <p></p>
-    <p>Death.[\s]</p>
+    <p>Cái chết.[\s]</p>
     <p></p>
-    <p>Like flowers blooming in the night air, a stimulus known as death spread through her heart and quickly drowned out all cold.</p>
+    <p>Như những bông hoa nở rộ trong không khí đêm, một kích thích được gọi là cái chết lan tỏa khắp trái tim cô và nhanh chóng nhấn chìm mọi sự lạnh lẽo.</p>
   </mono>
   <mono chara="008">
     <p></p>
-    <p>[em italic]（Very well... Let's see what you can do!）[/em]</p>
+    <p>[em italic](Rất tốt... Hãy xem bạn có thể làm được gì!)[/em]</p>
   </mono>
   <transition mode="dissolve" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="BGDesert02"></bg>
@@ -94,45 +94,45 @@
     <p></p>
     <p>That’s what Ma Feima told himself.[\s]</p>
     <p></p>
-    <p>The whisper accepted his words and suppressed the urge for now.</p>
-    <p>Then, she waited for her master's order as if unable to wait any longer.</p>
+    <p>Tiếng thì thầm chấp nhận lời anh ấy và tạm thời kìm nén ham muốn.</p>
+    <p>Sau đó, cô ấy chờ đợi mệnh lệnh của chủ nhân như thể không thể chờ đợi thêm nữa.</p>
   </mono>
   <mono chara="008" pageend="true">
     <p></p>
-    <p>[em italic]（This woman is...）[/em]</p>
+    <p>[em italic](Người phụ nữ này là...）[/em]</p>
   </mono>
   <motion chara="001" action="hide"></motion>
   <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="right" custom="default"></transition>
   <motion chara="002" action="show" img="素裳-愤怒-持剑-近景" pos="center"></motion>
-  <text>She was the reason why Ma Feima had laid a hand on her.</text>
-  <text>It was a girl dressed in bluish-colored clothes. There's something familiar about her innocent eyes that still look like they belonged to someone else...</text>
+  <text>Cô ấy là lý do khiến Ma Feima ra tay với cô ấy.</text>
+  <text>Đó là một cô gái mặc quần áo màu xanh lam. Có điều gì đó quen thuộc trong đôi mắt ngây thơ của cô ấy, trông như thể chúng thuộc về một người khác...</text>
   <motion chara="002" action="hide"></motion>
   <cg img="氛围_通用_轩辕剑"></cg>
   <delay t="0.1"></delay>
   <cg img="氛围_通用_轩辕剑" scale="1.4" pos="-200,100" duration="30"></cg>
-  <text inline="true">Likewise, he recognized the sword she was holding. He’d only caught a glimpse of its hilt at first glance—but Ma Feima had confidence that it would never make any mistakes in his vision</text>
-  <text>It is a sword of honor granted to seven disciples by Phoenix, and it serves as the foundation for Taixuana 「Ken'i」.</text>
+  <text inline="true">Tương tự như vậy, anh ta nhận ra thanh kiếm mà cô ấy đang cầm. Thoạt nhìn, anh ta chỉ thoáng thấy chuôi kiếm—nhưng Ma Feima tin tưởng rằng nó sẽ không bao giờ mắc sai lầm trong tầm nhìn của anh ta</text>
+  <text>Đây là thanh kiếm danh dự được Phượng Hoàng ban tặng cho bảy đệ tử, và nó là nền tảng cho Taixuana 「Ken'i」.</text>
   <cg img="CG_通用_李素裳战斗-1"></cg>
-  <text>And that wasn't all. When the carriage shook violently, she tried to get into position with her sword Joren; it was only for a moment—but Ma Feima could clearly tell who this girl had been studying under</text>
+  <text>Và đó chưa phải là tất cả. Khi cỗ xe rung lắc dữ dội, cô cố gắng vào vị trí với thanh kiếm Joren của mình; chỉ trong chốc lát—nhưng Ma Feima có thể nhận ra rõ ràng cô gái này đã học dưới sự hướng dẫn của ai</text>
   <dialog chara="008">
-    <p>[em italic]（...A genuine swordsmanship!</p>
+    <p>[em italic](...Một kỹ thuật kiếm thuật đích thực!</p>
     <p>It's not Taixuan Shinken, nor is it the sword of pure memory...）[/em]</p>
   </dialog>
-  <text>Ma Feima immediately realized that this girl must be Lingshuang’s pupil</text>
-  <dialog chara="008">[em italic]（Haha. I see! If only that hadn't happened... How did he inherit the true power of a sword?）[/em]</dialog>
-  <text>Even if it was something that Su Mei desperately tried to stop, Lingshuang didn't mind at all.</text>
+  <text>Ma Feima lập tức nhận ra rằng cô gái này chắc chắn là học trò của Lingshuang</text>
+  <dialog chara="008">[em italic](Haha. Tôi hiểu rồi! Giá như chuyện đó đừng xảy ra... Làm sao mà hắn ta thừa hưởng được sức mạnh thực sự của thanh kiếm?)[/em]</dialog>
+  <text>Ngay cả khi đó là điều mà Tô Miêu đã cố gắng ngăn cản một cách tuyệt vọng, Linh Hoàng cũng chẳng hề bận tâm.</text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
   <bg img="BGDesert00"></bg>
   <motion chara="008" action="show" pos="center" img="马非马-微笑-标准-中景"></motion>
   <text>
-    <p>Ma Feima was suddenly happy.</p>
-    <p>From this half-assed Taixuan Sword Form, he could vaguely make out the elegant figure of a woman who had vanished twenty years ago</p>
+    <p>Ma Feima đột nhiên vui vẻ.</p>
+    <p>Từ hình thức kiếm pháp Taixuan nửa vời này, hắn có thể lờ mờ nhận ra dáng vẻ thanh lịch của một người phụ nữ đã biến mất hai mươi năm trước</p>
   </text>
-  <text inline="true">[em italic]A-All those years that have passed...[/em]</text>
+  <text inline="true">[em italic]Tất cả những năm tháng đã trôi qua...[/em]</text>
   <text>
     <p></p>
-    <p>Those years were both nostalgic and heartbreaking to him.</p>
+    <p>Những năm tháng đó vừa gợi lại nỗi nhớ thương vừa khiến anh đau lòng.</p>
   </text>
   <transition mode="shutter" in="1" stop="0.5" out="1" color="#000000"></transition>
   <motion chara="001" action="show" pos="-500,0" img="奥托-严肃-标准-远景（棺材）"></motion>
@@ -140,43 +140,43 @@
   <motion chara="008" action="show" pos="400,0" img="马非马-苦笑-标准-远景"></motion>
   <se id="01-39踏在木板的脚步声"></se>
   <text>
-    <p>Just then, the Raksha opened his mouth.</p>
-    <p>It was a very quiet voice, but it had been enough to ruin the faint emotion of Ma Feima</p>
+    <p>Ngay lúc đó, Raksha mở miệng.</p>
+    <p>Đó là một giọng nói rất nhỏ, nhưng nó đã đủ để phá hỏng cảm xúc yếu ớt của Ma Feima</p>
   </text>
-  <dialog chara="001">「Be careful with Sushang.」</dialog>
-  <text>The Raksha spoke to the girl.</text>
+  <dialog chara="001">「Hãy cẩn thận với Sushang.」</dialog>
+  <text>Raksha nói chuyện với cô gái.</text>
   <dialog chara="008">
-    <p>[em italic]（This man doesn't speak Shinshu fluently. He sounds like someone from Zhongyuan...</p>
+    <p>[em italic](Người đàn ông này không nói tiếng Shinshu trôi chảy. Anh ta nghe giống như người đến từ Zhongyuan...</p>
     <p>How did Lingshuang get to know someone like this...?）[/em]</p>
   </dialog>
   <motion chara="001" action="img_trans" img="奥托-微笑奸-标准-远景（棺材）"></motion>
-  <dialog chara="001">「That man is trying to obtain your sword.」</dialog>
+  <dialog chara="001">「Người đàn ông đó đang cố gắng lấy thanh kiếm của bạn.」</dialog>
   <motion chara="002" action="img_trans" img="素裳-惊讶-持剑-远景"></motion>
-  <dialog chara="002">「Huh? My kenjou!」</dialog>
+  <dialog chara="002">「Hả? Kenjou của tôi!」</dialog>
   <text>……</text>
-  <text>Their eyes met.</text>
+  <text>Ánh mắt họ chạm nhau.</text>
   <motion chara="001" action="img_trans" img="奥托-标准-标准-远景（棺材）"></motion>
   <motion chara="008" action="img_trans" img="马非马-沉思-标准-远景"></motion>
-  <text>But one of them turned his gaze downward, and the other averted it.</text>
+  <text>Nhưng một người trong số họ nhìn xuống, còn người kia thì ngoảnh mặt đi.</text>
   <dialog chara="008">
-    <p>[em italic]（Oh... So you saw right through me?</p>
+    <p>[em italic](Ồ... Vậy là anh đã nhìn thấu tôi rồi sao?</p>
     <p>This Raksha Demon seems pretty good.）[/em]</p>
   </dialog>
   <motion chara="008" action="img_trans" img="马非马-邪恶-标准-远景"></motion>
   <text>
     <p>The scarred man couldn’t help but smile broadly.[\s]</p>
-    <p>The scars of the sword on his face turned red, as if a flame were burning.</p>
+    <p>Những vết sẹo của thanh kiếm trên mặt anh ta chuyển sang màu đỏ, như thể có ngọn lửa đang cháy.</p>
   </text>
   <text>
-    <p>My curiosity grew stronger again, replaced by an uncontrollable urge.</p>
-    <p>I hear another whisper in my ear. 「This man is the one who can kill me.」</p>
+    <p>Sự tò mò của tôi lại trỗi dậy mạnh mẽ hơn, được thay thế bằng một thôi thúc không thể kiểm soát.</p>
+    <p>Tôi nghe thấy một tiếng thì thầm khác bên tai. 「Người đàn ông này là kẻ có thể giết tôi.」</p>
   </text>
   <dialog chara="008">
-    <p>[em italic]（I’ve made up my mind! All right, come at me now. Death is nothing to be afraid of—</p>
+    <p>[em italic] (Tôi đã quyết định rồi! Được rồi, cứ đến đây đi. Cái chết chẳng có gì đáng sợ cả—</p>
     <p>Can this man do it?）[/em]</p>
   </dialog>
-  <dialog chara="008">[em italic]（You should be able to tell if you try!）[/em]</dialog>
-  <text>—That was the decision he preferred most.</text>
+  <dialog chara="008">[em italic](Bạn sẽ nhận ra nếu thử!)[/em]</dialog>
+  <text>—Đó là quyết định mà anh ấy thích nhất.</text>
   <transition mode="fade" in="2" stop="3" out="0" color="#000000"></transition>
   <event action="goto" to="12"></event>
 </scene>

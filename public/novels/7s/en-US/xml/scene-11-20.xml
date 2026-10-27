@@ -8,7 +8,7 @@
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>The flames went out.</p>
+    <p>Ngọn lửa đã tắt.</p>
   </mono>
   <event action="hide_ui"></event>
   <se></se>
@@ -17,20 +17,20 @@
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>The light of the flames that had once risen to sky—the heat from burning even gold at one point, suddenly vanished without a trace</p>
+    <p>Ánh sáng của ngọn lửa từng bốc lên trời - sức nóng từ việc đốt cháy vàng tại một thời điểm nào đó, đột nhiên biến mất không dấu vết</p>
   </mono>
   <se id="01-01恢复意识"></se>
-  <dialog chara="002">（Huh? I wonder what's wrong—）</dialog>
+  <dialog chara="002">(Hả? Không biết có chuyện gì vậy—")</dialog>
   <mono>
     <p></p>
-    <p>It turned into pain. Pain surged from my chest and stomach, shoulder blades or the crown of his head all at once—it was as if a flood had broken through an embankment</p>
+    <p>Nó biến thành đau đớn. Cơn đau dâng lên từ ngực và bụng tôi, xương bả vai hoặc đỉnh đầu anh ấy cùng một lúc—như thể một trận lũ đã tràn qua bờ đê</p>
   </mono>
-  <dialog chara="002">（Where am I—）</dialog>
+  <dialog chara="002">(Tôi đang ở đâu—)</dialog>
   <mono pageend="true">
     <p></p>
-    <p>What answered her was intense pain. All of it pounded in my head, and the sound mixed with that heartbeat so loud I couldn't sleep</p>
+    <p>Điều đáp lại cô ấy là nỗi đau dữ dội. Tất cả đều dồn dập trong đầu tôi, và âm thanh đó hòa lẫn với nhịp tim đập mạnh đến nỗi tôi không thể ngủ được</p>
   </mono>
-  <dialog chara="002">（Shut up! Just shut your mouth. I'll wake you—）</dialog>
+  <dialog chara="002">(Im lặng! Cứ ngậm miệng lại. Tôi sẽ đánh thức cậu dậy—")</dialog>
   <cg duration="0"></cg>
   <event action="hide_ui"></event>
   <delay t="0.1"></delay>
@@ -41,108 +41,108 @@
   <delay t="6"></delay>
   <event action="show_ui"></event>
   <bgm id="红颜近落霞（慢哀）"></bgm>
-  <text>Li Sushang slowly opened her eyes.</text>
+  <text>Li Sushang từ từ mở mắt.</text>
   <motion chara="007" action="show" pos="right"></motion>
-  <text inline="true">It was a familiar ceiling, the cabin I'd grown accustomed to. The person staring at me by my side had also looked very well-recognized</text>
+  <text inline="true">Đó là một trần nhà quen thuộc, căn nhà gỗ mà tôi đã quen thuộc. Người đang nhìn chằm chằm vào tôi bên cạnh cũng trông rất quen thuộc</text>
   <text>
     <p></p>
-    <p>...I felt safe, and I was so used to seeing her that it seemed the same as always.</p>
+    <p>...Tôi cảm thấy an toàn, và tôi đã quá quen với việc gặp cô ấy đến nỗi mọi thứ dường như vẫn như mọi khi.</p>
   </text>
   <motion chara="002" action="show" pos="left" img="素裳-疲惫无神-背手-近景"></motion>
   <motion chara="007" action="show" pos="right" img="凌霜-标准-标准-近景"></motion>
-  <dialog chara="002">「Master... Takumi?」</dialog>
-  <dialog chara="007">「Yes.」</dialog>
-  <text>Lingshuang replied without wasting a single moment.</text>
+  <dialog chara="002">「Sư phụ... Takumi?」</dialog>
+  <dialog chara="007">「Vâng.」</dialog>
+  <text>Lingshuang trả lời không lãng phí một giây phút nào.</text>
   <motion chara="002" action="img_trans" img="素裳-疲惫笑-背手-近景"></motion>
-  <dialog chara="002" inline="true">「Heheh. I...</dialog>
+  <dialog chara="002" inline="true">「Heheh. Tôi...</dialog>
   <motion chara="002" action="img_trans" img="素裳-撒娇哭-背手-近景"></motion>
   <motion chara="002" action="shake" duration="0.5" range="20" direction="default"></motion>
-  <dialog chara="002">Ouch!」</dialog>
-  <text>The girl tried to sit up, but she immediately cried out in pain.</text>
-  <text>The wounds from his battle with Ma Feima weren't light. At this moment, just moving a little was enough to make him feel unbearable pain all over</text>
+  <dialog chara="002">Ôi!</dialog>
+  <text>Cô gái cố gắng ngồi dậy, nhưng ngay lập tức cô ấy kêu lên vì đau.</text>
+  <text>Những vết thương từ trận chiến với Ma Feima không hề nhẹ. Lúc này, chỉ cần cử động một chút thôi cũng đủ khiến anh ta cảm thấy đau đớn không thể chịu nổi khắp người</text>
   <mono pageend="true">
     <p></p>
-    <p>Huh?</p>
+    <p>Hả?</p>
     <p></p>
     <p>Ma Feima?</p>
   </mono>
   <motion chara="002" action="img_trans" img="素裳-惊讶-普通-近景"></motion>
-  <dialog chara="002">「Ah!」</dialog>
-  <text>As if waking up from a dream, Sushang spoke hastily without paying any attention to the pain.</text>
+  <dialog chara="002">「À!」</dialog>
+  <text>Như vừa tỉnh dậy từ một giấc mơ, Sushang vội vàng nói mà không để ý đến cơn đau.</text>
   <motion chara="002" action="show" pos="left" img="素裳-严肃汗-背手-近景"></motion>
-  <dialog chara="002">「Master, there's trouble! Teacher and aunt are here.」</dialog>
+  <dialog chara="002">「Thưa thầy, có chuyện rồi! Cô giáo và dì đến rồi.」</dialog>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-近景"></motion>
   <motion chara="002" action="img_trans" img="素裳-疲惫无神-背手-近景"></motion>
-  <dialog chara="007">「What are you in such a hurry for? You're afraid of Lord Yanqingsama.」</dialog>
-  <text>Lingshuang spoke coldly.</text>
-  <dialog chara="007">「Who do you think sent us off? Don't worry. If I treat your wounds, we will kick that man out of the house!」</dialog>
-  <dialog chara="002">「Huh...?」</dialog>
-  <text>A violent pain assaulted the girl's head, and she couldn’t think carefully about it.</text>
+  <dialog chara="007">「Ngươi vội vàng làm gì vậy? Ngươi sợ Lãnh chúa Yanqingsama à?</dialog>
+  <text>Lingshuang nói lạnh lùng.</text>
+  <dialog chara="007">「Bạn nghĩ ai đã đuổi chúng ta đi? Đừng lo. Nếu tôi chữa trị vết thương cho bạn, chúng ta sẽ đuổi người đàn ông đó ra khỏi nhà!</dialog>
+  <dialog chara="002"> 「Hả...?」</dialog>
+  <text>Một cơn đau dữ dội ập đến đầu cô gái, và cô ấy không thể suy nghĩ kỹ về điều đó.</text>
   <motion chara="002" action="img_trans" img="素裳-惊讶2-背手-近景"></motion>
-  <dialog chara="002">「Ah—a Raksha?! Master, the blond one」</dialog>
+  <dialog chara="002">「À—một Raksha?! Thưa chủ nhân, người tóc vàng ấy」</dialog>
   <motion chara="007" action="img_trans" img="凌霜-嫌弃-标准-近景"></motion>
-  <dialog chara="007">「I'll be by your side.」</dialog>
+  <dialog chara="007">「Tôi sẽ ở bên cạnh bạn.」</dialog>
   <motion chara="007" action="hide"></motion>
   <motion chara="002" action="hide" img="素裳-疲惫无神-背手-近景"></motion>
   <cg img="CG_第二折_奥托与李素裳"></cg>
-  <text>Having been told that, Sushang looked to her side and saw a Raksha sleeping next door.</text>
-  <text>It was a little surprising, but this had been the first time I’d seen him close his eyes since we met.</text>
+  <text>Sau khi được kể điều đó, Sushang nhìn sang bên cạnh và thấy một Raksha đang ngủ ở phòng bên cạnh.</text>
+  <text>Hơi ngạc nhiên một chút, nhưng đây là lần đầu tiên tôi thấy anh ấy nhắm mắt kể từ khi chúng tôi gặp nhau.</text>
   <cg img="CG_第二折_奥托与李素裳" scale="2" origin="100%, 75%" duration="60"></cg>
   <mono>
     <p></p>
-    <p>...Sadness welled up in her innocent heart, like sympathy.</p>
+    <p>...Nỗi buồn dâng lên trong trái tim ngây thơ của cô, như một sự đồng cảm.</p>
   </mono>
   <mono>
     <p></p>
-    <p>The blond-haired man who was fast asleep had the grace of a god, clear as day.</p>
+    <p>Người đàn ông tóc vàng đang ngủ say có vẻ duyên dáng của một vị thần, rõ ràng như ban ngày.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>But right now, he seemed closer to flesh and blood than when she was awake.</p>
+    <p>Nhưng ngay lúc này, anh ấy dường như gần gũi với máu thịt hơn so với lúc cô ấy còn tỉnh táo.</p>
   </mono>
   <mono>
     <p></p>
-    <p>She didn’t try to gloss over it or hide, nor did she worry about the past and fixate on her future.</p>
+    <p>Cô ấy không cố che đậy hay giấu giếm điều đó, cũng không lo lắng về quá khứ và ám ảnh về tương lai của mình.</p>
   </mono>
   <mono>
     <p></p>
-    <p>The Raksha was simply sleeping. He slept, no different from any other normal person in the world...</p>
+    <p>Raksha chỉ đơn giản là đang ngủ. Hắn ngủ, không khác gì bất kỳ người bình thường nào khác trên thế giới...</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Maybe... this is his true form?</p>
+    <p>Có lẽ... đây là hình dạng thật của hắn?</p>
   </mono>
   <bgm></bgm>
-  <text>...Huh?</text>
-  <text>Where could he be?</text>
+  <text>...Hả?</text>
+  <text>Anh ta có thể ở đâu?</text>
   <motion chara="-4" action="shake" duration="0.5" range="50" direction="default"></motion>
   <bgm id="清晨赶集（轻快）"></bgm>
   <dialog chara="002">「Aaahh----」</dialog>
   <cg></cg>
   <motion chara="002" action="show" pos="left" img="素裳-撒娇哭-背手-近景"></motion>
   <se id="01-29下颚命中"></se>
-  <text>The girl instinctively pulled on the comforter and kicked a Raksha with her foot.</text>
-  <text>The blond outlander fell off the bed and toppled over, but he still didn’t wake up.</text>
+  <text>Cô gái theo bản năng kéo chăn bông và đá một con Raksha bằng chân.</text>
+  <text>Người lạ tóc vàng ngã khỏi giường và lăn lộn, nhưng anh ta vẫn không tỉnh dậy.</text>
   <motion chara="002" action="show" pos="left" img="素裳-撒娇哭-普通-近景"></motion>
   <motion chara="007" action="show" pos="right" img="凌霜-注视-标准-近景"></motion>
   <motion chara="002" action="shake" duration="0.5" range="3" direction="default"></motion>
-  <dialog chara="002">「Wh-why is this person standing next to me...?」</dialog>
-  <text>Her face turns bright red. Tears are welling up in her eyes, and she looks like they're about to fall out of them at any moment... But Lingshuang is completely unfazed by it all!</text>
+  <dialog chara="002">「Tại sao người này lại đứng cạnh tôi...?」</dialog>
+  <text>Mặt cô ấy đỏ bừng. Nước mắt trào ra, trông như sắp rơi xuống bất cứ lúc nào... Nhưng Lingshuang hoàn toàn không hề nao núng trước tất cả điều đó!</text>
   <motion chara="007" action="img_trans" img="凌霜-嫌弃-标准-近景"></motion>
-  <dialog chara="007">「There's only one bed, right? Where am I supposed to put her if she doesn’t sleep beside you. On the floor...」</dialog>
+  <dialog chara="007"> 「Chỉ có một cái giường thôi, phải không? Nếu cô ấy không ngủ cạnh anh thì tôi phải đặt cô ấy ở đâu? Dưới sàn nhà à...」</dialog>
   <motion chara="002" action="shake" duration="0.5" range="2" direction="default"></motion>
-  <dialog chara="002">「M-Master, there's a bed at your place too!」</dialog>
+  <dialog chara="002">「Thưa chủ nhân, ở chỗ ngài cũng có một cái giường!」</dialog>
   <motion chara="007" action="img_trans" img="凌霜-拒绝-标准-近景"></motion>
-  <dialog chara="007">「――If I put this person to sleep, where will i go?」</dialog>
-  <dialog chara="002">「I-I can't do that! Not yet...」</dialog>
+  <dialog chara="007">「――Nếu tôi ru người này ngủ, tôi sẽ đi đâu?」</dialog>
+  <dialog chara="002">「Tôi không thể làm điều đó! Chưa được...</dialog>
   <motion chara="002" action="img_trans" img="素裳-委屈-普通-近景"></motion>
-  <text>Unable to speak, Sushang sobbed.</text>
+  <text>Không nói nên lời, Sushang nức nở.</text>
   <motion chara="002" action="img_trans" img="素裳-撒娇哭-普通-近景"></motion>
-  <dialog chara="002">「Master—it’s not good for a man and woman to make direct contact!」</dialog>
-  <dialog chara="007">「Huh...?」</dialog>
-  <text>Master lowered her eyes and silently thought.</text>
+  <dialog chara="002">「Sư phụ—nam nữ không nên tiếp xúc trực tiếp với nhau!」</dialog>
+  <dialog chara="007">「Hừ...?」</dialog>
+  <text>Sư phụ cúi đầu và lặng lẽ suy nghĩ.</text>
   <motion chara="002" action="img_trans" img="素裳-委屈-抱手-近景"></motion>
-  <text>The girl sighed and suddenly realized something. It would be a little unreasonable to have her master understand this kind of common sense, wouldn't it?</text>
-  <text>After all—</text>
+  <text>Cô gái thở dài và đột nhiên nhận ra điều gì đó. Sẽ thật vô lý nếu chủ nhân của cô ấy hiểu được loại lẽ thường này, phải không?</text>
+  <text>Xét cho cùng—</text>
   <event action="goto" to="21"></event>
 </scene>

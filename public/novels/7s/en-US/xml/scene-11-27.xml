@@ -3,9 +3,9 @@
   <bg img="阶梯"></bg>
   <delay t="3"></delay>
   <bgm id="千年之羽"></bgm>
-  <text>The stone steps aren't long, but they are winding. 「Celestial Phoenix」 silently descends the stairs</text>
+  <text>Những bậc thang đá không dài nhưng quanh co. 「Phượng Hoàng Thiên Giới」 lặng lẽ bước xuống cầu thang</text>
   <event action="achievement" aid="96d0ac44fb43c563"></event>
-  <notification>伝記解放：「精衛」</notification>
+  <notification>伝記解放： 「精衛」</notification>
   <event action="hide_ui"></event>
   <motion chara="000" action="show" pos="center" img="赤鸢-标准-垂手-中景" duration="3"></motion>
   <delay t="3"></delay>
@@ -17,134 +17,134 @@
   <motion chara="099" action="show" pos="left" img="朝雨-标准-标准-中景" duration="3"></motion>
   <delay t="3"></delay>
   <event action="show_ui"></event>
-  <text>Right behind me is a cute little girl. She's nimbly following after Phoenix, sometimes close to her and other times far away</text>
+  <text>Ngay phía sau tôi là một bé gái dễ thương. Bé ấy nhanh nhẹn đi theo Phoenix, lúc thì sát bên, lúc thì xa</text>
   <dialog chara="099">「......」</dialog>
-  <text>The girl didn't say anything, either. Her silence was different from that of the Phoenix guardsmen—the girls were nonexistent people; every move she made had absolutely nothing to do with this world and her voice as well</text>
-  <text>Aside from Phoenix, her existence meant nothing to anyone.</text>
-  <text>And in this silent mountain, only Phoenix was able to hear the girl’s quiet whisper.</text>
+  <text>Cô gái cũng không nói gì. Sự im lặng của cô ấy khác với sự im lặng của những người lính canh Phượng Hoàng—các cô gái là những người không tồn tại; mọi hành động của cô ấy hoàn toàn không liên quan gì đến thế giới này và cả giọng nói của cô ấy nữa</text>
+  <text>Ngoài Phoenix ra, sự tồn tại của cô ấy chẳng có ý nghĩa gì với ai cả.</text>
+  <text>Và trên ngọn núi tĩnh lặng này, chỉ có Phượng Hoàng mới có thể nghe thấy tiếng thì thầm khe khẽ của cô gái.</text>
   <motion chara="099" action="img_trans" img="朝雨-悲伤-标准-中景"></motion>
-  <dialog chara="099">「Master, look—the mountain villa is on fire.」</dialog>
+  <dialog chara="099"> 「Thưa chủ nhân, hãy nhìn kìa—biệt thự trên núi đang cháy.」</dialog>
   <motion chara="000" action="hide"></motion>
   <motion chara="099" action="hide"></motion>
   <cg img="氛围_第二折_烟雾2"></cg>
-  <text>When Phoenix turned around, a line of long and thin black smoke rose up from deep in the mountains like flowers blooming with ink.</text>
+  <text>Khi Phượng Hoàng quay lại, một vệt khói đen dài và mỏng bốc lên từ sâu trong núi như những bông hoa nở bằng mực.</text>
   <motion chara="000" action="img_trans" img="赤鸢-疑惑-垂手-中景"></motion>
-  <dialog chara="000">[em italic]（Suyi...）[/em]</dialog>
-  <text>She puts strength into her feet. In an instant, she's moved over ten meters in length...</text>
-  <dialog chara="099">「...It's too late, Master.」</dialog>
+  <dialog chara="000">[em italic]（Suyi...)[/em]</dialog>
+  <text>Cô ấy dồn sức vào đôi chân. Trong nháy mắt, cô ấy đã di chuyển hơn mười mét...</text>
+  <dialog chara="099">...Đã quá muộn rồi, thưa chủ nhân.</dialog>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
   <motion chara="099" action="show" pos="right" img="朝雨-阴霾（F）-标准-中景"></motion>
   <motion chara="000" action="show" pos="left" img="赤鸢-认真-出招-中景"></motion>
   <text>
-    <p>The girl speaks in a quiet voice.</p>
-    <p>She appears before me and blocks Phoenix's path. Ink flowers are quietly circling in the sky above her</p>
+    <p>Cô gái nói bằng giọng nhỏ nhẹ.</p>
+    <p>Cô ấy xuất hiện trước mặt tôi và chặn đường Phượng Hoàng. Những bông hoa mực lặng lẽ bay lượn trên bầu trời phía trên cô ấy</p>
   </text>
   <motion chara="000" action="img_trans" img="赤鸢-悲伤-垂手-中景"></motion>
   <motion chara="099" action="img_trans" img="朝雨-冷漠（F）-标准-中景"></motion>
-  <text>Phoenix stopped in her tracks, only staring vacantly.</text>
+  <text>Phượng hoàng dừng lại, chỉ nhìn chằm chằm vô định.</text>
   <motion chara="000" action="img_trans" img="赤鸢-闭目（悲伤）-垂手-中景"></motion>
-  <dialog chara="099">「...Qin Suyi is dead, and the Sword Mountain Manor is destined to be with its master.」</dialog>
-  <text>The girl murmured.</text>
+  <dialog chara="099">「...Qin Suyi đã chết, và Kiếm Sơn Trang sẽ mãi ở bên chủ nhân của nó.」</dialog>
+  <text>Cô gái lẩm bẩm.</text>
   <motion chara="099" action="img_trans" img="朝雨-悲伤-标准-中景"></motion>
-  <dialog chara="099">「Master, there's no point in going back. When you show up it will bring ruin to the world and we cannot remove that from our minds!」</dialog>
-  <dialog chara="000">「They shouldn't have died.」</dialog>
+  <dialog chara="099">「Sư phụ, quay lại cũng chẳng ích gì. Khi người xuất hiện, thế giới sẽ bị hủy hoại và chúng ta không thể nào xóa bỏ điều đó khỏi tâm trí mình!</dialog>
+  <dialog chara="000">「Họ không đáng phải chết.」</dialog>
   <motion chara="099" action="img_trans" img="朝雨-温柔-标准-中景"></motion>
-  <dialog chara="099">「So who should have died? You've changed, Master. The previous master would never care about whether a human lives or dies in the first place!」</dialog>
+  <dialog chara="099">「Vậy ai đáng lẽ phải chết? Sư phụ đã thay đổi rồi. Sư phụ trước đây chẳng bao giờ quan tâm đến việc con người sống hay chết cả!</dialog>
   <motion chara="000" action="img_trans" img="赤鸢-疑惑-垂手-中景"></motion>
-  <dialog chara="000">「...You didn't mind?」</dialog>
+  <dialog chara="000">「...Bạn không phiền chứ?」</dialog>
   <motion chara="099" action="img_trans" img="朝雨-闭目-标准-中景"></motion>
   <dialog chara="099">
-    <p>「All my master cared about was how to live—in other words, 『Stampede of qi』.</p>
-    <p>Hehe. If a human falls into that trap, they might as well be dead!」</p>
+    <p>「Tất cả những gì sư phụ tôi quan tâm là cách sống—nói cách khác, 『Cuộc nổi loạn của khí』.</p>
+    <p>Hehe. Nếu một người rơi vào cái bẫy đó, họ coi như đã chết rồi!</p>
   </dialog>
   <motion chara="000" action="img_trans" img="赤鸢-悲伤-垂手-中景"></motion>
-  <text>The girl shrugged her shoulders, glanced at the black smoke far away and asked further.</text>
+  <text>Cô gái nhún vai, liếc nhìn làn khói đen ở xa rồi hỏi tiếp.</text>
   <motion chara="099" action="img_trans" img="朝雨-悲伤-标准-中景"></motion>
-  <dialog chara="099">「Where is 『Sumizomeka』?」</dialog>
-  <dialog chara="099">「No matter how hard I tried, Suyi wouldn't tell me where Sumizome Incense was. Ahh... She died and many things were lost forever—」</dialog>
+  <dialog chara="099"> 「Sumizomeka ở đâu?」</dialog>
+  <dialog chara="099">「Dù tôi có cố gắng thế nào đi nữa, Suyi cũng không chịu nói cho tôi biết Nhang Sumizome ở đâu. Ahh... Cô ấy đã chết và nhiều thứ đã mất đi mãi mãi—」</dialog>
   <motion chara="099" action="img_trans" img="朝雨-闭目-标准-中景"></motion>
-  <dialog chara="099">「But Master won't give up, will he? No matter how much time it takes to find all the 『Hekihan』 『Disciple』s and get them back.」</dialog>
+  <dialog chara="099">「Nhưng sư phụ sẽ không bỏ cuộc, phải không? Cho dù mất bao nhiêu thời gian để tìm tất cả các đệ tử Hekihan và đưa họ trở về.」</dialog>
   <motion chara="000" action="img_trans" img="赤鸢-疑惑-垂手-中景"></motion>
-  <text>Phoenix looked up at the sky and unconsciously nodded.</text>
+  <text>Phượng hoàng ngước nhìn lên trời và vô thức gật đầu.</text>
   <motion chara="099" action="img_trans" img="朝雨-笑容-标准-中景"></motion>
-  <dialog chara="099">「Haha, I believe you can do it.」</dialog>
+  <dialog chara="099">「Haha, tôi tin là bạn có thể làm được.」</dialog>
   <motion chara="000" action="img_trans" img="赤鸢-认真-垂手-中景"></motion>
-  <text>Phoenix was shocked by those words, and instinctively turned her gaze to the girl’s face.</text>
+  <text>Phượng hoàng bị sốc bởi những lời đó, và theo bản năng quay ánh mắt về phía khuôn mặt của cô gái.</text>
   <motion chara="000" action="hide"></motion>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="森林（白天）"></bg>
   <motion chara="099" action="show" pos="center" img="朝雨-温柔-标准-中景"></motion>
-  <text>The girl is looking straight at Phoenix.</text>
+  <text>Cô gái đang nhìn thẳng vào Phoenix.</text>
   <mono>
     <p></p>
-    <p>Her gaze was very sincere, and her smile brimmed with shame.</p>
-    <p>Her words were filled with passion, full of respect and trust.</p>
+    <p>Ánh mắt của cô ấy rất chân thành, và nụ cười của cô ấy tràn đầy sự xấu hổ.</p>
+    <p>Lời nói của cô ấy tràn đầy đam mê, đầy tôn trọng và tin tưởng.</p>
     <p></p>
-    <p>She's...</p>
+    <p>Cô ấy...</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>I feel like he knows her well.</p>
+    <p>Tôi cảm thấy anh ấy hiểu cô ấy rất rõ.</p>
   </mono>
   <mono>
     <p></p>
-    <p>I spent time with them long ago...</p>
+    <p>Tôi đã từng ở bên họ từ lâu rồi...</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>I've spent a very long time with them.</p>
+    <p>Tôi đã dành rất nhiều thời gian với họ.</p>
   </mono>
-  <text>Phoenix raises her brow, blinking. She was trying to get a clear look at the beautiful girl in front of them</text>
+  <text>Phượng Hoàng nhướng mày, chớp mắt. Cô ấy đang cố nhìn rõ cô gái xinh đẹp trước mặt họ</text>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
   <motion chara="099" action="img_trans" img="朝雨-标准-标准-近景"></motion>
-  <text>She looked to be about seventeen or eighteen years old. That wasn’t strange—time was frozen in her world, after all</text>
-  <text>The girl wasn't real, just one of the countless phantoms created by Phoenix’s wounded brain. But she was all that remained—the illusion appeared and disappeared; it faded away when brightly lit up</text>
-  <text>—The woman who once killed him with her own hands.</text>
-  <text>Would there be anyone who understood her more than the person responsible for killing him?</text>
+  <text>Cô ấy trông khoảng mười bảy hoặc mười tám tuổi. Điều đó không có gì lạ - dù sao thì thời gian dường như đã đóng băng trong thế giới của cô ấy</text>
+  <text>Cô gái không có thật, chỉ là một trong vô số ảo ảnh do bộ não bị tổn thương của Phoenix tạo ra. Nhưng cô ấy là tất cả những gì còn lại—ảo ảnh xuất hiện rồi biến mất; nó tan biến khi được chiếu sáng rực rỡ</text>
+  <text>—Người phụ nữ từng tự tay giết chết anh ta.</text>
+  <text>Liệu có ai hiểu cô ấy hơn người đã giết anh ta không?</text>
   <motion chara="099" action="hide"></motion>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="阶梯"></bg>
   <motion chara="000" action="show" pos="left" img="赤鸢-认真-垂手-中景"></motion>
   <motion chara="099" action="show" pos="right" img="朝雨-冷漠（F）-标准-中景"></motion>
-  <dialog chara="000">「Please tell me... What kind of person am I?」</dialog>
-  <dialog chara="099">「......」</dialog>
+  <dialog chara="000">「Hãy cho tôi biết... Tôi là người như thế nào?」</dialog>
+  <dialog chara="099"> 「......」</dialog>
   <motion chara="099" action="img_trans" img="朝雨-温柔-标准-中景"></motion>
-  <text>The seemingly nonexistent girl smiles gently.</text>
-  <dialog chara="099">「I'm sure you are well aware of this. It is merely a memory, and the answer to any question that may arise from it cannot be solved at all!」</dialog>
+  <text>Cô gái dường như không tồn tại mỉm cười dịu dàng.</text>
+  <dialog chara="099">「Tôi chắc chắn bạn biết rõ điều này. Nó chỉ là một ký ức, và câu trả lời cho bất kỳ câu hỏi nào có thể phát sinh từ nó đều không thể giải đáp được!</dialog>
   <motion chara="000" action="img_trans" img="赤鸢-悲伤-垂手-中景"></motion>
-  <dialog chara="099">「Perhaps it's simply the result of my master asking herself a question, or perhaps an introspection that is difficult to accept. Or maybe our casual conversation and letters...」</dialog>
-  <dialog chara="099">「My answer is etched deeply into my master's memory, but it will be very difficult to determine whether or not that was true.」</dialog>
+  <dialog chara="099">「Có lẽ đó chỉ đơn giản là kết quả của việc sư phụ tôi tự hỏi mình một câu hỏi, hoặc có lẽ là một sự tự vấn khó chấp nhận. Hoặc có thể là cuộc trò chuyện và những lá thư thông thường của chúng ta...</dialog>
+  <dialog chara="099">Câu trả lời của tôi đã khắc sâu vào ký ức của sư phụ, nhưng sẽ rất khó để xác định liệu điều đó có đúng hay không.</dialog>
   <motion chara="099" action="img_trans" img="朝雨-闭目-标准-中景"></motion>
-  <dialog chara="099">「Master, all of your current pain is nothing more than an obsession with the past—but that history no longer exists.」</dialog>
+  <dialog chara="099">「Sư phụ, tất cả nỗi đau hiện tại của người chẳng qua chỉ là nỗi ám ảnh về quá khứ—nhưng lịch sử đó không còn tồn tại nữa.」</dialog>
   <motion chara="000" action="img_trans" img="赤鸢-闭目（悲伤）-垂手-中景"></motion>
   <motion chara="099" action="img_trans" img="朝雨-悲伤-标准-中景"></motion>
-  <dialog chara="099">「Oblivion is a gift that removes all the burden of your past. And this world has such vastness to it, so you can go anywhere and do what needs doing—you're free as master!」</dialog>
-  <text>Phoenix said nothing. However, she knew this voice was coming from within her heart—her emotions hadn’t been murdered for an endless number of years; they were just buried alive and returned after the girl died</text>
+  <dialog chara="099">「Sự lãng quên là một món quà xóa bỏ mọi gánh nặng của quá khứ. Và thế giới này rộng lớn đến mức bạn có thể đi bất cứ đâu và làm những gì cần làm—bạn tự do như một bậc thầy!」</dialog>
+  <text>Phượng Hoàng không nói gì. Tuy nhiên, cô biết giọng nói này đến từ sâu thẳm trái tim mình—cảm xúc của cô không bị giết chết trong vô số năm; chúng chỉ bị chôn sống và trở lại sau khi cô gái chết</text>
   <motion chara="000" action="img_trans" img="赤鸢-认真-垂手-中景" duration="1"></motion>
-  <dialog chara="000">「――Please tell me.」</dialog>
-  <dialog chara="099">「You really want to know? Once you find out... once your decision is made, it will become Phoenix again. He'll be a person of the past and walk down his old path until he ends up with that same ending as before!」</dialog>
+  <dialog chara="000">「――Hãy nói cho tôi biết.」</dialog>
+  <dialog chara="099">「Bạn thực sự muốn biết sao? Một khi bạn tìm ra... một khi bạn đã quyết định, anh ta sẽ lại trở thành Phượng Hoàng. Anh ta sẽ là một người của quá khứ và bước đi trên con đường cũ cho đến khi kết thúc với cùng một kết cục như trước!」</dialog>
   <motion chara="000" action="img_trans" img="赤鸢-闭目（标准）-垂手-中景"></motion>
   <dialog chara="000">「......」</dialog>
-  <text>The silence felt very long, but when Phoenix opened her mouth to speak it also seemed extremely short. It was as if she had never existed or hesitated at all</text>
+  <text>Sự im lặng có vẻ rất dài, nhưng khi Phoenix mở miệng nói thì nó cũng có vẻ cực kỳ ngắn. Cứ như thể cô ấy chưa từng tồn tại hoặc do dự chút nào</text>
   <motion chara="000" action="img_trans" img="赤鸢-认真-垂手-中景"></motion>
-  <dialog chara="000">「I want to know.」</dialog>
-  <dialog chara="099">「...Yes, I understand.」</dialog>
+  <dialog chara="000">「Tôi muốn biết.」</dialog>
+  <dialog chara="099"> 「...Vâng, tôi hiểu.」</dialog>
   <motion chara="099" action="img_trans" img="朝雨-闭目-标准-中景"></motion>
-  <text>The girl closed her eyes.</text>
+  <text>Cô gái nhắm mắt lại.</text>
   <motion chara="000" action="img_trans" img="赤鸢-疑惑-垂手-中景"></motion>
-  <dialog chara="099">「You're Phoenix, and you are our seven masters. My mother died in your hands when I was six years old... She lost control of herself as a result—and ever since that day she has been following me around with her head held high!」</dialog>
-  <dialog chara="099">「You had a strong, firm conviction. Immortality and unparalleled martial arts skills — there's no one in this world who can match you—and the first time we met was when I thought that nobody would be less impressed with your abilities than yourself」</dialog>
-  <dialog chara="099">「You look like a god, but I think that's something humans can never reach.」</dialog>
+  <dialog chara="099">「Ngươi là Phượng Hoàng, và ngươi là bảy vị chủ nhân của chúng ta. Mẹ ta đã chết trong tay các ngươi khi ta sáu tuổi... Bà ấy đã mất kiểm soát bản thân vì điều đó—và kể từ ngày đó, bà ấy luôn đi theo ta với đầu ngẩng cao!</dialog>
+  <dialog chara="099">「Ngươi có một niềm tin mạnh mẽ, vững chắc. Bất tử và kỹ năng võ thuật vô song — không ai trên thế giới này có thể sánh được với ngươi — và lần đầu tiên chúng ta gặp nhau, ta đã nghĩ rằng sẽ không ai ít ấn tượng với khả năng của ngươi hơn chính ngươi」</dialog>
+  <dialog chara="099">Trông anh giống như một vị thần, nhưng tôi nghĩ đó là điều mà con người không bao giờ có thể đạt tới.</dialog>
   <motion chara="000" action="img_trans" img="赤鸢-标准-垂手-中景"></motion>
-  <dialog chara="099">「When we returned to the mountains with you, everyone rejoiced. The seven of us were all orphans and loved each other from our hearts—but as time went on for so long together...」</dialog>
-  <dialog chara="099">「That to you, we are temporary opponents and nothing more than pawns that can be thrown away once they're used.」</dialog>
+  <dialog chara="099">「Khi chúng tôi trở về núi cùng bạn, mọi người đều vui mừng. Bảy chúng tôi đều là trẻ mồ côi và yêu thương nhau từ tận đáy lòng—nhưng thời gian trôi qua khi ở bên nhau quá lâu...」</dialog>
+  <dialog chara="099">Đối với anh, chúng tôi chỉ là đối thủ tạm thời và không hơn gì những con tốt có thể bị vứt bỏ sau khi sử dụng.</dialog>
   <motion chara="000" action="img_trans" img="赤鸢-悲伤-垂手-中景"></motion>
-  <dialog chara="099">「You're the kind of person who, even if you are attracted to him at first... as time goes on and we spend together more often than not.」</dialog>
-  <text>Phoenix remained silent. A sadness like a summer rain poured down on her heart, unfettered by anything</text>
+  <dialog chara="099">「Bạn là kiểu người mà, dù ban đầu có bị thu hút bởi anh ấy đi chăng nữa... thì theo thời gian và khi chúng ta dành nhiều thời gian bên nhau hơn.」</dialog>
+  <text>Phượng hoàng vẫn im lặng. Nỗi buồn như cơn mưa mùa hè trút xuống trái tim nàng, không bị ràng buộc bởi bất cứ điều gì</text>
   <motion chara="000" action="img_trans" img="赤鸢-疑惑-垂手-中景"></motion>
-  <text>Finally, she voiced the question that had been weighing on her mind for over ten years.</text>
-  <dialog chara="000">「Zhaoyu, why did you try to kill me?」</dialog>
+  <text>Cuối cùng, cô ấy đã nói ra câu hỏi đã đè nặng trong tâm trí cô ấy hơn mười năm.</text>
+  <dialog chara="000">「Zhaoyu, tại sao cậu lại cố giết tôi?」</dialog>
   <motion chara="003" action="show" img="朝雨-悲伤-标准-中景" pos="right"></motion>
   <motion chara="099" action="hide"></motion>
   <text>The girl named Lin Zhaoyu opened her eyes wide and sighed.</text>

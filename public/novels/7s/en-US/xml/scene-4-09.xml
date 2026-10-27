@@ -1,183 +1,183 @@
 <scene id="09" prev="08" title="地下牢">
   <transition mode="fade" in="0" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
-  <text>Li Sushang had originally made up her mind to stay until late at night without making any noise. </text>
+  <text>Li Sushang ban đầu đã quyết định ở lại đến khuya mà không gây ra tiếng động nào.</text>
   <event action="hide_ui" duration="1.5"></event>
   <motion chara="002" action="show" pos="center" img="素裳-欸真的吗-普通-近景" duration="2"></motion>
   <delay t="1.5"></delay>
-  <dialog chara="002">Li Sushang:「……Will the plan go smoothly?」</dialog>
-  <text>Before a single incense of time has run out, she couldn’t help murmuring to herself, breaking the previous deal cleanly. </text>
+  <dialog chara="002">Li Sushang:「……Kế hoạch sẽ diễn ra suôn sẻ chứ?」</dialog>
+  <text>Trước khi một nốt hương thời gian nào kịp tắt, cô ấy không thể không lẩm bẩm với chính mình, phá vỡ thỏa thuận trước đó một cách dứt khoát.</text>
   <bgm id="佛心禅悟"></bgm>
   <motion chara="002" action="hide"></motion>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
-  <text>Thinking back, this whole deal was just a spur of the moment thing. </text>
+  <text>Nghĩ lại thì toàn bộ chuyện này chỉ là quyết định bột phát thôi.</text>
   <cg img="CG_第一折_李素裳1"></cg>
-  <text>An hour ago, Li Sushang defeated the four guards of the Golden Sand Gang and interrogated them. </text>
-  <dialog chara="002" inline="true">Li Sushang:「……A hundred and thirteen people? Coming back tonight? </dialog>
+  <text>Một giờ trước, Li Sushang đã đánh bại bốn tên lính canh của Băng đảng Cát Vàng và thẩm vấn chúng.</text>
+  <dialog chara="002" inline="true">Li Sushang:「……Một trăm mười ba người? Quay lại tối nay sao?</dialog>
   <dialog chara="002">
     <p></p>
-    <p>It’s more than I expected, really hard to handle…」</p>
+    <p>Nó vượt quá sự mong đợi của tôi, thực sự khó xử lý…</p>
   </dialog>
   <cg img="CG_第一折_李素裳2"></cg>
   <dialog chara="002">
-    <p>Li Sushang:「Hey, you know 「Eagle」 better than me…</p>
-    <p>say, if I want to fight him one on one, would he accept it?」</p>
+    <p>Li Sushang: 「Này, cậu biết 「Đại Bàng」 rõ hơn tôi đấy…</p>
+    <p>ví dụ, nếu tôi muốn đấu tay đôi với anh ta, liệu anh ta có chấp nhận không?</p>
   </dialog>
-  <dialog chara="095">Man:「Who, what kind of person are you?!?」</dialog>
-  <text>He didn’t answer her question. </text>
+  <dialog chara="095">Người đàn ông:「Anh là loại người gì vậy?!?」</dialog>
+  <text>Anh ấy không trả lời câu hỏi của cô ấy.</text>
   <cg img="CG_第一折_李素裳1"></cg>
   <dialog chara="002" inline="true">
-    <p>Li Sushang: 「Aye… </p>
-    <p>I’m Li Sushang, Eldest Disciple of『Wanderer’s House』.」</p>
+    <p>Li Sushang: 「Ừ...</p>
+    <p>Tôi là Li Sushang, đệ tử cả của 『Nhà Lang Thang』.」</p>
   </dialog>
   <dialog chara="002">
     <p></p>
-    <p>Don’t change the subject, you haven’t answered me yet.」</p>
+    <p>Đừng đổi chủ đề, anh vẫn chưa trả lời tôi.</p>
   </dialog>
   <dialog chara="095">
-    <p>Man:「What are you saying… Wanderer’s House… </p>
-    <p>Who the hell are you?!…」</p>
+    <p>Người đàn ông:「Anh đang nói gì vậy… Nhà của Kẻ Lang Thang… </p>
+    <p>Ngươi là ai vậy?!...</p>
   </dialog>
   <text>
-    <p>The man thought what the girl said was a bunch of crazy talk.</p>
-    <p>Li Sushang felt that she couldn’t communicate with this person at all, and simply ignored him.  </p>
+    <p>Người đàn ông nghĩ những gì cô gái nói toàn là chuyện vớ vẩn.</p>
+    <p>Li Sushang cảm thấy cô ấy hoàn toàn không thể giao tiếp với người này, và chỉ đơn giản là phớt lờ anh ta.</p>
   </text>
   <cg></cg>
   <bg img="BGDesert01" duration="1"></bg>
   <motion chara="002" action="show" pos="center" img="素裳-专注-抱手-近景" duration="1"></motion>
   <dialog chara="002">
-    <p>Li Sushang: (Over a hundred people, should I do it by the rules? …Too troublesome.</p>
-    <p>The purpose of the trip was just to fight 「Eagle」.)</p>
+    <p>Li Sushang: (Hơn một trăm người, mình có nên làm theo quy định không? …Rắc rối quá.</p>
+    <p>Mục đích của chuyến đi chỉ là để chiến đấu với 「Đại bàng」.</p>
   </dialog>
   <text>
-    <p>Master said casually [em color=#FAFAD2]「You know the Golden Sand Gang? Go beat their boss and come back.」[/em]</p>
-    <p>It was easy to say, but it gave this honest disciple a headache. </p>
+    <p>Sư phụ nói bâng quơ [em color=#FAFAD2]「Ngươi biết băng đảng Cát Vàng chứ? Đi đánh bại thủ lĩnh của chúng rồi quay lại.」[/em]</p>
+    <p>Nói thì dễ, nhưng điều đó khiến người đệ tử trung thực này đau đầu.</p>
   </text>
   <motion chara="002" action="img_trans" img="素裳-悲伤目下-普通-近景"></motion>
-  <text>The girl sighed and tried to come up with a plan.</text>
-  <dialog chara="002">Li Sushang:「Hmmm…」</dialog>
-  <text>She has very little experience, and the only things she could learn from were stories she had heard from her father, mother, and the storyteller in the village. </text>
+  <text>Cô gái thở dài và cố gắng nghĩ ra một kế hoạch.</text>
+  <dialog chara="002">Li Sushang: 「Hmmm…'</dialog>
+  <text>Cô ấy có rất ít kinh nghiệm, và những điều duy nhất cô ấy có thể học hỏi được là những câu chuyện cô ấy nghe được từ cha, mẹ và người kể chuyện trong làng.</text>
   <text>「True Celestial」 Empyrea Phoenix……[\s] 「Willowfoil」 Lin Zhaoyu……[\s] 「Tireless Courser」 Ma Feima…… </text>
   <text>
-    <p>The names that sounded thunderous in the Jianghu Society appeared one by one, and then she eliminated them one by one. </p>
-    <p>These were all well-known experts, and they have never landed themselves in a predicament like her. </p>
+    <p>Những cái tên vang dội trong Giang Hồ lần lượt xuất hiện, rồi cô ta lần lượt loại bỏ chúng.</p>
+    <p>Đây đều là những chuyên gia nổi tiếng, và họ chưa bao giờ rơi vào tình huống khó xử như cô ấy.</p>
   </text>
-  <dialog chara="002">Li Sushang:「What’s my trick…」</dialog>
+  <dialog chara="002">Li Sushang:「Mánh khóe của ta là gì…」</dialog>
   <text>
     <p>[em italic]Yan Shiluo……[/em][\s]</p>
-    <p>Like a ghost, the strange Martial Arts hero from 40 years ago appeared in the girl’s mind. </p>
+    <p>Giống như một bóng ma, vị anh hùng võ thuật kỳ lạ từ 40 năm trước hiện lên trong tâm trí cô gái.</p>
   </text>
-  <text>She had only heard the story once, but she remembered it unexpectedly and firmly: </text>
-  <text>『All the heroes of the Jianghu Society gathered at the Lotus Conference to discuss a plan to attack the Fire Cult.』</text>
-  <text>『Unexpectedly Angra Atar’s Ahura Yan Shiluo was lurking in disguise, and on the day of the conference he defeated the heads of three gathering sects Shao, Lian, and Hua, set fire to the Lotus Terrace, and went away laughing.』</text>
-  <text>Lurking in disguise…</text>
+  <text>Cô ấy chỉ nghe câu chuyện một lần, nhưng cô ấy nhớ nó một cách bất ngờ và chắc chắn: </text>
+  <text>『Tất cả các anh hùng của Giang Hồ tập trung tại Hội nghị Liên Hoa để bàn kế hoạch tấn công Hỏa Giáo.』</text>
+  <text>『Không ngờ Ahura Yan Shiluo của Angra Atar lại đang ẩn mình, vào ngày diễn ra hội nghị, hắn đã đánh bại các thủ lĩnh của ba môn phái Shao, Lian và Hua, đốt cháy Đài Liên Hoa rồi bỏ đi cười lớn.』</text>
+  <text>Ẩn nấp trong vỏ bọc…</text>
   <motion chara="002" action="img_trans" img="素裳-小恶魔-普通-近景"></motion>
-  <dialog chara="002">Li Sushang: (Got it!)</dialog>
-  <text>The girl finally concocted a worthy plan.</text>
+  <dialog chara="002">Li Sushang: (Đã hiểu!)</dialog>
+  <text>Cuối cùng cô gái cũng nghĩ ra một kế hoạch đáng giá.</text>
   <motion chara="002" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg img="CG_第一折_李素裳1"></cg>
-  <text>Li Sushang's finger pressed lightly against the back of the man's head, with extremely soft force, but the person under her took a nervous breath.</text>
-  <dialog chara="002">Li Sushang:「Hey, don't move, I won't kill you. I just want to make a deal with you.」</dialog>
-  <dialog chara="095">Man: [You crazy girl… you, what do you want to do?」</dialog>
-  <dialog chara="002">Li Sushang:「Your leader will be back soon. If you let him know that you were beaten like this by me, he will be furious and punish you severely, right?」</dialog>
-  <text>The man didn't speak, and Sushang took this as true, and went on happily.</text>
+  <text>Ngón tay của Li Sushang ấn nhẹ vào sau gáy người đàn ông, với lực cực kỳ nhẹ, nhưng người dưới cô ấy thở hổn hển.</text>
+  <dialog chara="002">Li Sushang: "Này, đừng động vào, ta sẽ không giết ngươi. Ta chỉ muốn thỏa thuận với ngươi thôi.")</dialog>
+  <dialog chara="095">Người đàn ông: [Cô gái điên này… cô, cô muốn làm gì?]</dialog>
+  <dialog chara="002">Li Sushang: "Thủ lĩnh của các ngươi sẽ sớm quay lại. Nếu các ngươi để cho ông ấy biết rằng các ngươi bị ta đánh như thế này, ông ấy sẽ nổi giận và trừng phạt các ngươi nặng nề, phải không?"</dialog>
+  <text>Người đàn ông không nói gì, Sushang cho rằng điều đó là đúng và tiếp tục vui vẻ.</text>
   <cg img="CG_第一折_李素裳2"></cg>
   <dialog chara="002">
-    <p>Li Sushang:「I have a suggestion. Follow my plan and make sure he doesn't know anything.</p>
-    <p>Go and call your companions. Let's make an agreement first…」</p>
+    <p>Li Sushang: 「Tôi có một đề nghị. Hãy làm theo kế hoạch của tôi và đảm bảo rằng hắn ta không biết gì cả.】</p>
+    <p>Hãy đi gọi các bạn của ngươi. Trước tiên chúng ta hãy thỏa thuận đã…</p>
   </dialog>
   <transition mode="shutter" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
   <bg img="牢房-暗"></bg>
-  <text>So, the girl「voluntarily」squatted in the Dark Dungeon.</text>
-  <text>『The Dark Dungeon』was originally the cellar of this Stop. Since the Golden Sand Gang took over this place, its function hadn’t changed, except the stored items were replaced by living people instead of food. </text>
-  <text>The bandits’ looted「goods」were thrown into here, and hundreds of slave merchants visited clean the dungeon and leave the equivalent worth of gold and silver. For several years, the operation of this「Stop」has been very smooth.</text>
+  <text>Vậy là cô gái 「tự nguyện」ngồi xổm trong Ngục Tối.</text>
+  <text>『Hầm ngục tối tăm』vốn dĩ là hầm rượu của Trạm dừng này. Kể từ khi Băng đảng Cát Vàng chiếm lấy nơi này, chức năng của nó vẫn không thay đổi, ngoại trừ các vật phẩm được lưu trữ đã được thay thế bằng người sống thay vì thức ăn.</text>
+  <text>Những 'hàng hóa' bị bọn cướp cướp được đã bị ném vào đây, và hàng trăm thương nhân buôn nô lệ đã đến dọn dẹp ngục tối và để lại số vàng bạc có giá trị tương đương. Trong vài năm, hoạt động của 'Trạm dừng chân' này diễn ra rất suôn sẻ.</text>
   <text>
-    <p>But to snuck into the dungeon and pretended to be「goods」uninvited,</p>
-    <p>Li Sushang was probably the first one who did it.</p>
+    <p>Nhưng lẻn vào ngục tối và giả vờ là 「hàng hóa」không được mời,</p>
+    <p>Li Sushang có lẽ là người đầu tiên làm điều đó.</p>
   </text>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="牢房-暗"></bg>
   <motion chara="002" action="show" pos="center" img="素裳-标准-抱手-近景"></motion>
-  <text>The dungeon was dark and damp, filled with a foul scent, occasionally there were low sobbing sounds from unknown cells, sometimes there were moments of silence. </text>
+  <text>Ngục tối tối tăm và ẩm ướt, bốc mùi hôi thối, thỉnh thoảng có tiếng nức nở khe khẽ từ những phòng giam không rõ danh tính, đôi khi lại có những khoảnh khắc im lặng.</text>
   <text>
-    <p>Sushang spread out a makeshift mat with only a few withered weeds,</p>
-    <p>sat down properly, and recited the『Blade Mantra Swara』to pass time.</p>
+    <p>Sushang trải một tấm chiếu tạm bợ chỉ với vài cọng cỏ khô,</p>
+    <p>ngồi xuống cho đúng tư thế và tụng niệm 『Thần chú Lưỡi kiếm』để giết thời gian.</p>
   </text>
   <motion chara="002" action="hide"></motion>
   <bg img="PureBlack" duration="2"></bg>
   <mono pageend="true">
     <p></p>
-    <p>The Blade Mantra Swara is the introductory mental method of『Edge of Taixuan』, </p>
-    <p>It was a unique skill highly coveted by everyone in the Jianghu Society.</p>
+    <p>Thần chú Kiếm Swara là phương pháp tâm lý nhập môn của 『Cạnh Thái Huyền』, </p>
+    <p>Đó là một kỹ năng độc đáo được mọi người trong xã hội Giang Hồ vô cùng thèm muốn.</p>
     <p></p>
-    <p>But unbeknownst to most, the true body of the Blade Mantra Swara were just strange and inexplicable syllables. </p>
+    <p>Nhưng hầu hết mọi người không biết rằng, bản chất thực sự của Thần chú Lưỡi kiếm Swara chỉ là những âm tiết kỳ lạ và khó hiểu.</p>
   </mono>
   <mono pageend="true" inline="true">
     <p></p>
-    <p>The syllables are formless, they are indescribable by words;</p>
-    <p>It teaches neither Ki movement, nor does it guide body training;</p>
-    <p>The so-called『Blade Mantra Swara』, was absolutely meaningless.</p>
+    <p>Các âm tiết không có hình dạng, chúng không thể được mô tả bằng lời;</p>
+    <p>Nó không dạy chuyển động Khí, cũng không hướng dẫn luyện tập thân thể;</p>
+    <p>Cái gọi là 『Thần chú Lưỡi kiếm』, hoàn toàn vô nghĩa.</p>
   </mono>
   <mono>
     <p></p>
-    <p>If you listened to the Blade Mantra Swara, you would treat it as the babble of an idiot in a dream. </p>
-    <p>It was impossible to think that this was the magnificent technique that reigned on top of the martial arts in Shenzhou for thousands of years.  </p>
+    <p>Nếu bạn nghe Thần chú Lưỡi kiếm Swara, bạn sẽ coi nó như lời lảm nhảm của một kẻ ngốc trong giấc mơ.</p>
+    <p>Không thể tin được rằng đây lại là kỹ thuật tuyệt vời đã thống trị võ thuật ở Thần Châu trong hàng ngàn năm.</p>
     <p></p>
-    <p>As everyone knows, the mystery lies in this:</p>
+    <p>Như mọi người đều biết, điều bí ẩn nằm ở chỗ này:</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Recitation, meditation, and listening were training of the mind.</p>
+    <p>Việc tụng niệm, thiền định và lắng nghe là rèn luyện tâm trí.</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
-  <dialog chara="002">Li Sushang:「…Mu… talali… mu… nokulo…」</dialog>
+  <dialog chara="002">Li Sushang: 「…Mu… talali… mu… nokulo…」</dialog>
   <text>
-    <p>The words have power. </p>
-    <p>Sushang may not understand it, but she did feel the transformation of her『Heart』. </p>
+    <p>Lời nói có sức mạnh.</p>
+    <p>Sushang có thể không hiểu, nhưng cô ấy đã cảm nhận được sự biến đổi của 『Trái tim』 của mình.</p>
   </text>
-  <text>With the reverberation of the words, the ups and downs of the rhythm, the Blade Mantra Swara seemed to seep through the blood, wandering in the eight strange channels of the meridian. </text>
-  <dialog chara="002">Li Sushang:「Mu, mali.」</dialog>
+  <text>Với sự vang vọng của những từ ngữ, những thăng trầm của nhịp điệu, Thần chú Lưỡi kiếm Swara dường như thấm vào máu, lang thang trong tám kênh kỳ lạ của kinh mạch.</text>
+  <dialog chara="002">Li Sushang: 「Mu, mali.」</dialog>
   <bg img="心湖（1）止水" duration="10"></bg>
   <text>
-    <p>The body became lighter and lighter, the mind no longer stirred.</p>
-    <p>The five senses converged into a single place, in a single Heart Lake.</p>
+    <p>Thân thể càng ngày càng nhẹ hơn, tâm trí không còn xáo trộn nữa.</p>
+    <p>Năm giác quan hội tụ về một nơi duy nhất, trong một Hồ Tâm duy nhất.</p>
   </text>
-  <dialog chara="002">Li Sushang:「Mu, Wuliute.」</dialog>
-  <text>The lake was clear and transparent, a few melancholy leaves fell on the lake surface, yet they didn’t make a ripple. </text>
-  <dialog chara="002">Li Sushang:「Mu, kabayisiliu.」</dialog>
-  <text>The waves are calm, the water silent. It calmly reflected the existence of [Li Sushang]. </text>
+  <dialog chara="002">Li Sushang: 「Mu, Wuliute.」</dialog>
+  <text>Mặt hồ trong vắt, vài chiếc lá buồn bã rơi xuống mặt hồ, nhưng chúng không hề tạo ra gợn sóng.</text>
+  <dialog chara="002">Li Sushang: 「Mu, kabayisiliu.」</dialog>
+  <text>Sóng êm đềm, nước lặng. Nó bình lặng phản chiếu sự tồn tại của [Li Sushang].</text>
   <text>
-    <p>This is the first out of the four stages of the Blade Mantra</p>
-    <p>-『Still Water』. </p>
+    <p>Đây là giai đoạn đầu tiên trong bốn giai đoạn của Chú Thuật Lưỡi Kiếm</p>
+    <p>-『Nước tĩnh』. </p>
   </text>
-  <dialog chara="002">Li Sushang: (Continue…)</dialog>
+  <dialog chara="002">Li Sushang: (Tiếp theo…)</dialog>
   <text>
-    <p>Sushang rid herself of trivial thoughts, transforming the Blade Mantra further.</p>
-    <p>Climbing the next level——</p>
+    <p>Sushang gạt bỏ những suy nghĩ tầm thường, chuyển hóa thêm Chú Kiếm.</p>
+    <p>Leo lên cấp độ tiếp theo——</p>
   </text>
   <event action="hide_ui" duration="5"></event>
   <bg img="心湖（2）无尘" duration="5"></bg>
   <delay t="4.5"></delay>
   <text>
-    <p>The Heart Lake condensed to ice,</p>
-    <p>Brushing away all irrelevant thoughts, without leaving a single trace. </p>
+    <p>Hồ Trái Tim đóng băng,</p>
+    <p>Xóa bỏ mọi suy nghĩ không liên quan, không để lại dấu vết nào.</p>
   </text>
-  <text>Second Stage -『Dustless』. </text>
-  <dialog chara="002">Li Sushang (Again…)</dialog>
+  <text>Giai đoạn thứ hai -『Không bụi』.</text>
+  <dialog chara="002">Li Sushang (Lại một lần nữa…)</dialog>
   <event action="hide_ui" duration="5"></event>
   <bg img="心湖（3）明镜" duration="5"></bg>
   <delay t="4.5"></delay>
   <text>
-    <p>The cracks of the hard ice disappear without a trace,</p>
-    <p>and the Heart Lake becomes almost infinitely transparent, its light illuminating all creations. </p>
+    <p>Những vết nứt trên lớp băng cứng biến mất không dấu vết,</p>
+    <p>và Hồ Tâm trở nên trong suốt gần như vô tận, ánh sáng của nó chiếu sáng mọi tạo vật.</p>
   </text>
-  <text>Third Stage -『Clear Mirror』</text>
-  <text>After ten years of training, this is the stage of the [Blade Mantra] that Li Sushang has cultivated. </text>
+  <text>Giai đoạn thứ ba -『Gương trong suốt』</text>
+  <text>Sau mười năm tu luyện, đây là giai đoạn của [Thần chú kiếm] mà Li Sushang đã tu tập.</text>
   <text>
-    <p>But above this, there is the Blade Mantra’s highest stage…</p>
-    <p>Only her Master had reached the fourth stage in the world… that is…</p>
+    <p>Nhưng trên hết, còn có giai đoạn cao nhất của Chú Kiếm…</p>
+    <p>Chỉ có Sư phụ của cô ấy mới đạt đến giai đoạn thứ tư trên thế giới… nghĩa là…</p>
   </text>
   <event action="hide_ui" duration="5"></event>
   <bg img="心湖（4）太虚" duration="5"></bg>
@@ -185,57 +185,57 @@
   <text>…………『Taixuan』…………</text>
   <bg img="PureBlack" duration="0"></bg>
   <motion chara="-4" action="shake" duration="0.2" range="40" direction="default"></motion>
-  <dialog chara="002">Li Sushang:「Ah——」</dialog>
+  <dialog chara="002">Li Sushang: 「A——'</dialog>
   <bgm looptimes="0"></bgm>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="牢房-暗"></bg>
   <motion chara="002" action="show" pos="center" img="素裳-疲惫无神-抱手-近景"></motion>
   <text>
-    <p>The ice surface suddenly shattered, the Heart Lake dispersed, Blade Mantra had also withdrawn from her mind. </p>
-    <p>Li Sushang sat there blankly, with a splitting headache, and realized her back was drenched with cold sweat. </p>
+    <p>Mặt băng đột nhiên vỡ vụn, Hồ Tâm tan biến, Chú Thuật Kiếm cũng rút khỏi tâm trí nàng.</p>
+    <p>Li Sushang ngồi đó ngơ ngác, đầu đau như búa bổ, và nhận ra lưng mình ướt đẫm mồ hôi lạnh.</p>
   </text>
   <motion chara="002" action="img_trans" img="素裳-绝望张嘴-抱手-近景"></motion>
-  <dialog chara="002">Li Sushang: [Failed again…」</dialog>
-  <text>Ever since she reached『Clear Mirror』, Sushang couldn’t make further progress with her Blade Mantra. </text>
-  <dialog chara="002">Li Sushang: […Why?」</dialog>
-  <text>Mother said that Master had been a teacher since she was two, she was the earliest one to get started, so her Blade Mantra stage was the highest. </text>
+  <dialog chara="002">Li Sushang: [Lại thất bại rồi…」</dialog>
+  <text>Kể từ khi đạt đến 『Gương Trong Suốt』, Sushang không thể tiến bộ hơn nữa với Chú Thuật Kiếm của mình.</text>
+  <dialog chara="002">Li Sushang: […Tại sao?」</dialog>
+  <text>Mẹ nói rằng Sư phụ đã làm giáo viên từ khi bà hai tuổi, bà là người bắt đầu sớm nhất nên giai đoạn Kiếm Thuật của bà là cao nhất.</text>
   <text>
-    <p>But ever since I was born, I have been hearing Mother chanting the Blade Mantra Swara day and night,</p>
-    <p>so shouldn’t I progress faster than Master?</p>
+    <p>Nhưng kể từ khi tôi sinh ra, tôi đã nghe Mẹ tụng niệm Thần chú Lưỡi kiếm Swara ngày đêm,</p>
+    <p>Vậy chẳng phải tôi nên tiến bộ nhanh hơn bậc thầy sao?</p>
   </text>
   <motion chara="002" action="img_trans" img="素裳-悲伤目前-普通-近景"></motion>
   <text>
-    <p>Master realized『Taixuan』when she was only thirteen,</p>
-    <p>and achieved『Eminence』at only fifteen. </p>
+    <p>Sư phụ giác ngộ 『Taixuan』khi mới mười ba tuổi,</p>
+    <p>và đạt được danh hiệu "Xuất chúng" khi mới chỉ mười lăm tuổi.</p>
   </text>
   <motion chara="002" action="img_trans" img="素裳-悲伤目下-普通-近景"></motion>
   <text>
-    <p>What about me? I’m also fifteen now…</p>
-    <p>I haven’t fully cultivated『Blade Mantra』yet,</p>
-    <p>And I have no clue where I should start with『Blade Sanction』. </p>
+    <p>Còn tôi thì sao? Tôi cũng mười lăm tuổi rồi…</p>
+    <p>Tôi chưa hoàn toàn tu luyện được 『Kiếm Thuật』,</p>
+    <p>Và tôi không biết nên bắt đầu từ đâu với 『Blade Sanction』.</p>
   </text>
   <text>
-    <p>Even after overcoming these two peaks, </p>
-    <p>There is still the essence of「Eminence」standing above them, shrouded by clouds, and wasn’t visibly real. </p>
+    <p>Ngay cả sau khi vượt qua hai đỉnh núi này,</p>
+    <p>Vẫn còn đó bản chất của 「Sự cao cả」đứng trên họ, bị mây che khuất, và không hiện hữu rõ ràng.</p>
   </text>
-  <dialog chara="002">Li Sushang:「…」</dialog>
-  <dialog chara="002">Li Sushang:「Aiya.」</dialog>
-  <text>Li Sushang froze, then suddenly smiled. </text>
+  <dialog chara="002">Li Sushang: 「…」</dialog>
+  <dialog chara="002">Li Sushang: 「Aiya.」</dialog>
+  <text>Li Sushang sững người lại, rồi đột nhiên mỉm cười.</text>
   <motion chara="002" action="img_trans" img="素裳-大笑-抱手-近景"></motion>
-  <dialog chara="002">Li Sushang:「Master is so amazing!」</dialog>
+  <dialog chara="002">Li Sushang:「Sư phụ thật tuyệt vời!」</dialog>
   <text>
-    <p>『Emotions』are the enemy of the『heart』. </p>
-    <p>If emotions are allowed to create waves in the Heart Lake, Blade Mantra may be damaged. </p>
-    <p>Sushang knew this since she has a Clear Mirror heart. </p>
+    <p>Cảm xúc là kẻ thù của trái tim.</p>
+    <p>Nếu cảm xúc được phép tạo ra sóng gió trong Hồ Tâm, Thần Chú Lưỡi Kiếm có thể bị hư hại.</p>
+    <p>Sushang biết điều này vì cô ấy có trái tim Gương Trong.</p>
   </text>
   <motion chara="002" action="img_trans" img="素裳-笑-普通-近景"></motion>
   <dialog chara="002">
-    <p>Li Sushang:「Don’t worry, setbacks~ they are always there.</p>
-    <p>The top priority is to prepare for the sword trial!」 </p>
+    <p>Li Sushang:「Đừng lo, khó khăn luôn luôn có.</p>
+    <p>Ưu tiên hàng đầu là chuẩn bị cho cuộc thử thách kiếm thuật!</p>
   </dialog>
   <text>
-    <p>Li Sushang took out her cloth bag from the side. </p>
-    <p>According to the plan, tonight is when the sword will be unsheathed. </p>
+    <p>Li Sushang lấy túi vải của mình ra từ bên cạnh.</p>
+    <p>Theo kế hoạch, tối nay thanh kiếm sẽ được rút ra.</p>
   </text>
   <event action="goto" to="10"></event>
 </scene>

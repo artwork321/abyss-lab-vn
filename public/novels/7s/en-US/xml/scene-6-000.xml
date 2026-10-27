@@ -4,7 +4,7 @@
   <bg img="PureBlack"></bg>
   <mono pageend="true">
     <p></p>
-    <p>Qin Suyi’s first memory was a sliver of blue.</p>
+    <p>Ký ức đầu tiên của Qin Suyi là một vệt màu xanh.</p>
   </mono>
   <se id="02-22海浪loop" looptimes="-1"></se>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
@@ -13,18 +13,18 @@
   <delay t="1.5"></delay>
   <mono pageend="true">
     <p></p>
-    <p>The blue sea made a sound as the waves brushed against her feet. A young Hata Sougoromo was standing by water's edge</p>
+    <p>Biển xanh rì rào khi những con sóng vỗ vào chân cô. Cô gái trẻ Hata Sougoromo đang đứng bên bờ nước</p>
     <p></p>
-    <p>I don't know why, but every time she remembers the sight makes her happy.</p>
+    <p>Tôi không biết tại sao, nhưng mỗi lần nhớ lại cảnh tượng đó, cô ấy lại cảm thấy hạnh phúc.</p>
   </mono>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <mono>
     <p></p>
-    <p>I lower my head to see soft sand and white waves. Looking up, there's a blue sky with clouds in the distance...</p>
+    <p>Tôi cúi đầu xuống nhìn bãi cát mềm mại và những con sóng trắng xóa. Ngước nhìn lên, bầu trời xanh với những đám mây ở phía xa...</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Someone seemed to be talking nearby, and I could hear their voices. But Qin Suyi didn't turn around</p>
+    <p>Hình như có ai đó đang nói chuyện gần đó, và tôi có thể nghe thấy giọng nói của họ. Nhưng Tần Suyi không quay lại</p>
   </mono>
   <text>
     <p>Sha----</p>
@@ -33,11 +33,11 @@
   </text>
   <mono>
     <p></p>
-    <p>A strange sound surprised the seagulls, and their wings slowly fell.</p>
+    <p>Một âm thanh lạ làm lũ mòng biển giật mình, và đôi cánh của chúng từ từ cụp xuống.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>My master came up behind me, lifted her to my feet and took us home.</p>
+    <p>Chủ tôi đi đến phía sau tôi, đỡ cô ấy dậy và đưa chúng tôi về nhà.</p>
   </mono>
   <se looptimes="0"></se>
   <event action="hide_ui"></event>
@@ -46,20 +46,20 @@
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>Master’s sleeve was dyed red, but his arm felt very warm.</p>
-    <p>Being in this person's arms makes me feel calm.</p>
+    <p>Tay áo của chủ nhân được nhuộm đỏ, nhưng cánh tay ông ấy cảm thấy rất ấm.</p>
+    <p>Được ở trong vòng tay người này khiến tôi cảm thấy bình tĩnh.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Qin Suyi no longer remembers what happened before that.</p>
+    <p>Qin Suyi không còn nhớ chuyện gì đã xảy ra trước đó nữa.</p>
   </mono>
   <mono>
     <p></p>
-    <p>That year, the Sacred Ancestor exterminated an unearthly beast from Liyue in Tokai.</p>
+    <p>Năm đó, Tổ Tiên đã tiêu diệt một con thú thần thoại từ Liyue ở Tokai.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>In the same year, Qin Suyi who was eight years old became a disciple of Taixuanzan and Celestial Phoenix to become his seventh apprentice.</p>
+    <p>Cùng năm đó, Tần Suyi, khi ấy tám tuổi, trở thành đệ tử của Thái Huyền Trang và Thiên Phượng, là người học trò thứ bảy của ông.</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
@@ -68,45 +68,45 @@
   <delay t="2"></delay>
   <mono>
     <p></p>
-    <p>His first disciple, Lin Zhaoyu was by Suyi’s side when he came to a place she didn't know and felt uneasy about it. He cleaned up the room in her stead so that they could get their daily necessities together</p>
+    <p>Đệ tử đầu tiên của ông, Lin Zhaoyu, đã ở bên cạnh Suyi khi ông đến một nơi mà cô ấy không biết và cảm thấy không thoải mái. Anh ấy đã dọn dẹp phòng thay cô ấy để họ có thể cùng nhau mua sắm những vật dụng cần thiết hàng ngày</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>At first, Qin Suyi had forgotten to say a word. But Lin Zhaoyu went along with each and every one of them</p>
+    <p>Lúc đầu, Tần Suyi quên không nói một lời. Nhưng Lâm Triệu Vũ lại hùa theo từng người trong số họ</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="太虚山3"></bg>
   <motion chara="003" action="show" pos="left" img="朝雨-标准-标准-中景"></motion>
   <motion chara="009" action="show" pos="right" img="秦素衣-标准-幼年-中景"></motion>
-  <dialog chara="003">「Home.」</dialog>
-  <dialog chara="009">「...Home...」</dialog>
-  <dialog chara="003">「That's right.」</dialog>
-  <text>The first disciple speaks gently.</text>
-  <dialog chara="003">「This is your home now.」</dialog>
-  <dialog chara="009">「My house...」</dialog>
-  <text>Qin Suyi repeated slowly.</text>
-  <dialog chara="009">「Thank you, Miss Zhaoyu...」</dialog>
+  <dialog chara="003">「Trang chủ.」</dialog>
+  <dialog chara="009">「...Nhà...」</dialog>
+  <dialog chara="003">「Đúng vậy.」</dialog>
+  <text>Người môn đệ đầu tiên nói năng nhẹ nhàng.</text>
+  <dialog chara="003">「Đây là nhà của bạn bây giờ.」</dialog>
+  <dialog chara="009">「Nhà tôi...」</dialog>
+  <text>Qin Suyi lặp lại chậm rãi.</text>
+  <dialog chara="009">「Cảm ơn cô Zhaoyu...」</dialog>
   <motion chara="003" action="img_trans" img="朝雨-傻笑-标准-中景"></motion>
-  <dialog chara="003">「Yes, you're welcome.」</dialog>
-  <text>Lin Zhaoyu applauded happily and smiled like a child.</text>
-  <text>Qin Suyi clapped and laughed just like she did.</text>
+  <dialog chara="003">「Vâng, không có gì.」</dialog>
+  <text>Lin Zhaoyu vỗ tay vui vẻ và cười như một đứa trẻ.</text>
+  <text>Qin Suyi vỗ tay và cười giống như cô ấy.</text>
   <motion chara="003" action="hide"></motion>
   <motion chara="009" action="hide"></motion>
   <mono pageend="true">
     <p></p>
-    <p>To her, it was the most fun time she had since being able to remember. Even after years of suffering and despairing more than anything else in life—she would often think back on those days</p>
+    <p>Đối với cô ấy, đó là khoảng thời gian vui vẻ nhất mà cô ấy từng có kể từ khi còn nhỏ. Ngay cả sau nhiều năm đau khổ và tuyệt vọng hơn bất cứ điều gì khác trong cuộc sống—cô ấy vẫn thường nhớ về những ngày đó</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="太虚山"></bg>
   <mono pageend="true">
     <p></p>
-    <p>After spending three days with her, Lin Zhaoyu said he would return to take care of his sixth disciple Lord UmaYanqing.</p>
+    <p>Sau khi ở bên cạnh cô ấy ba ngày, Lin Zhaoyu nói rằng anh sẽ quay lại chăm sóc đệ tử thứ sáu của mình, Lãnh chúa UmaYanqing.</p>
   </mono>
-  <dialog chara="003">「I can't be with him anymore. Lord Yanqing is still young, so if we stay this far away from each other for too long he will probably cry and go on a rampage—the second disciple cannot stop the boy」</dialog>
+  <dialog chara="003">Tôi không thể ở bên cạnh cậu ấy nữa. Lãnh chúa Yanqing vẫn còn trẻ, nếu chúng ta xa nhau quá lâu, cậu ấy có thể sẽ khóc lóc và nổi cơn thịnh nộ - đệ tử thứ hai không thể ngăn cản cậu bé được.</dialog>
   <mono pageend="true">
     <p></p>
-    <p>A disciple of the Taixuan school is determined by when he or she enters. Qin Suyi may have become his apprentice at last, but it's not as if they are youngest</p>
-    <p>She was the same age as his fifth disciple, and three years older than him.</p>
+    <p>Đệ tử của trường phái Taixuan được xác định bởi thời điểm người đó gia nhập. Qin Suyi cuối cùng có thể đã trở thành đệ tử của ông ta, nhưng không phải là người trẻ nhất</p>
+    <p>Cô ấy bằng tuổi với môn đệ thứ năm của ông ấy và hơn ông ấy ba tuổi.</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="太虚山1"></bg>
@@ -117,11 +117,11 @@
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>She knows about the sixth disciple. When she brought her to a mountain, six disciples—five women and five men — came out for one man: The oldest of them was not much older than him; there were children with lost expressions on their faces in his arms</p>
+    <p>Bà biết về môn đồ thứ sáu. Khi bà đưa bà ấy đến một ngọn núi, sáu môn đồ—năm phụ nữ và năm người đàn ông—đến tìm một người đàn ông: Người lớn tuổi nhất trong số họ không lớn hơn ông ấy nhiều; có những đứa trẻ với vẻ mặt ngơ ngác trong vòng tay ông ấy</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Qin Suyi had seen the child many times out of curiosity, but he couldn’t tell if it was a man or woman.</p>
+    <p>Qin Suyi đã nhiều lần nhìn thấy đứa trẻ vì tò mò, nhưng anh ta không thể phân biệt được đó là nam hay nữ.</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <motion chara="006" action="show" pos="-300,0" duration="3" img="江婉如-标准-幼年-远景"></motion>
@@ -130,7 +130,7 @@
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>Beside her were two girls with the same face. One was observing their bare robes, while another turned his eyes to one side and seemed hidden from something</p>
+    <p>Bên cạnh cô ấy là hai cô gái có khuôn mặt giống hệt nhau. Một người đang quan sát những bộ áo choàng mỏng manh của họ, trong khi người kia quay mắt sang một bên và dường như đang che giấu điều gì đó</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <motion chara="004" action="show" pos="-600,0" duration="3" img="苏湄-笑容-幼年-远景"></motion>
@@ -138,7 +138,7 @@
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>To the left of it was a red-haired girl. She put some sugary fruit in her mouth and closed one eye to face Suyi—a beautiful smile</p>
+    <p>Bên trái cô ấy là một cô gái tóc đỏ. Cô ấy cho một ít trái cây ngọt vào miệng và nhắm một mắt lại nhìn Suyi—một nụ cười xinh đẹp</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <motion chara="007" action="show" pos="700,0" duration="3" img="凌霜-标准-幼年-远景"></motion>
@@ -146,53 +146,53 @@
   <event action="show_ui"></event>
   <mono pageend="true">
     <p></p>
-    <p>I looked to the right and saw a girl standing behind everyone. She was holding her golden sword, expressionless</p>
+    <p>Tôi nhìn sang bên phải và thấy một cô gái đứng sau mọi người. Cô ấy đang cầm thanh kiếm vàng của mình, vẻ mặt không biểu cảm</p>
   </mono>
-  <dialog chara="093">「From now on, this will be your home. They'll become part of you family」</dialog>
-  <text>Master spoke in a low voice.</text>
-  <dialog chara="000">「Bad beasts have appeared in the North Wild, so we'll need to leave for a few months. Lin Zhaoyu! Please keep your empty rooms tidied up just as you will be wearing nothing but clothes...」</dialog>
-  <dialog chara="000">「I don't mind if you teach her the shape of a sword first, but do not read into it before your robes. When she gets back to me...」</dialog>
+  <dialog chara="093">「Từ nay trở đi, đây sẽ là nhà của các con. Họ sẽ trở thành một phần của gia đình các con」</dialog>
+  <text>Sư phụ nói nhỏ.</text>
+  <dialog chara="000">「Những con thú dữ đã xuất hiện ở Hoang dã phía Bắc, vì vậy chúng ta cần phải rời đi vài tháng. Lin Zhaoyu! Hãy giữ cho căn phòng trống của mình gọn gàng vì cậu sẽ chỉ mặc mỗi quần áo thôi...</dialog>
+  <dialog chara="000">「Ta không phiền nếu ngươi dạy cô ấy hình dạng của thanh kiếm trước, nhưng đừng suy diễn gì trước khi ngươi mặc áo choàng. Khi cô ấy quay lại với ta...</dialog>
   <motion chara="004" action="img_trans" img="苏湄-眨眼-幼年-远景"></motion>
-  <text>My first disciple and five children nod in unison. The red-haired girl turns to her bare robes again, closing one eye</text>
+  <text>Đệ tử đầu tiên của ta và năm đứa trẻ đồng loạt gật đầu. Cô gái tóc đỏ quay lại với bộ áo choàng trần của mình, nhắm một mắt lại</text>
   <motion chara="003" action="hide"></motion>
   <motion chara="004" action="hide"></motion>
   <motion chara="005" action="hide"></motion>
   <motion chara="006" action="hide"></motion>
   <motion chara="007" action="hide"></motion>
   <motion chara="011" action="hide"></motion>
-  <text>After telling her a few more things, the master hurried off. The children disbanded and his first apprentice handed over an attractive young man in their arms to one of them with red hair; then he took Suyi’s hands as they talked while guiding him into our backyard</text>
+  <text>Sau khi nói với cô ấy thêm vài điều nữa, người chủ vội vã rời đi. Bọn trẻ tản ra và người học việc đầu tiên của ông ta đưa một chàng trai trẻ hấp dẫn trong vòng tay cho một trong số chúng có mái tóc đỏ; sau đó anh ta nắm tay Suyi khi họ nói chuyện và dẫn anh ta vào sân sau của chúng tôi</text>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="太虚山4"></bg>
   <mono>
     <p></p>
-    <p>Three days passed in the blink of an eye, but my first disciple didn’t return.</p>
+    <p>Ba ngày trôi qua nhanh như chớp mắt, nhưng môn đệ đầu tiên của ta vẫn chưa trở về.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Perhaps because his body was weak or perhaps due to the lack of environment, Hata Sougoromo had fallen ill. At first he felt chills all over him but then came down with a fever so bad that it would burn up afterward—Lin Zhaoyu changed her clothes and took medicine; she spent an entire night taking care</p>
+    <p>Có lẽ vì cơ thể yếu ớt hoặc có lẽ do thiếu môi trường nên Hata Sougoromo đã bị ốm. Ban đầu anh ta cảm thấy ớn lạnh khắp người nhưng sau đó bị sốt cao đến mức nóng rát—Lin Zhaoyu đã thay quần áo và uống thuốc; cô ấy đã dành cả đêm để chăm sóc</p>
   </mono>
   <mono>
     <p></p>
-    <p>Hata Sougoromo didn't sleep all night, either. His high fever had left him hazy and his memory was fuzzy</p>
+    <p>Hata Sougoromo cũng không ngủ được cả đêm. Cơn sốt cao khiến ông ta đầu óc mơ hồ và trí nhớ cũng không rõ ràng</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>For some reason, she remembered that the red-haired girl had come to visit her with a pretty boy. She felt like they’d put something round under his pillow when he said it would exorcise evil spirits—but nothing happened after waking up</p>
+    <p>Vì lý do nào đó, cô nhớ rằng cô gái tóc đỏ đã đến thăm cô cùng một chàng trai đẹp trai. Cô cảm thấy như họ đã đặt thứ gì đó tròn dưới gối anh ta khi anh ta nói rằng nó sẽ xua đuổi tà ma—nhưng không có gì xảy ra sau khi cô tỉnh dậy</p>
   </mono>
   <mono>
     <p></p>
-    <p>I felt like those twin sisters had come, too. One of them was by my first apprentice's side and changed his hand towel for me; the other grabbed her hands as she wept sadly</p>
+    <p>Tôi cảm thấy như hai chị em sinh đôi ấy cũng đến. Một người ở bên cạnh người học việc đầu tiên của tôi và thay khăn tay cho tôi; người kia nắm lấy tay cô ấy khi cô ấy khóc nức nở</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>I was also curious about the expressionless girl with her golden sword, but didn’t know if she had come or not.</p>
+    <p>Tôi cũng tò mò về cô gái không biểu lộ cảm xúc với thanh kiếm vàng của mình, nhưng không biết cô ấy có đến hay không.</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <bg img="太虚山3" duration="3"></bg>
   <delay t="3"></delay>
   <mono>
     <p></p>
-    <p>It was noon the next day, and strong sunlight poured down on them. The heat of Hata Sougoromo had dropped; it felt as if he'd been reborn</p>
+    <p>Hôm sau là giữa trưa, ánh nắng mặt trời gay gắt chiếu xuống họ. Cái nóng của Hata Sougoromo đã dịu xuống; anh ta cảm thấy như thể mình được tái sinh</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <motion chara="099" action="show" pos="center" img="苏湄-认真-幼年-中景" duration="3"></motion>
@@ -200,74 +200,75 @@
   <event action="show_ui"></event>
   <mono pageend="true">
     <p></p>
-    <p>When Sougoromo sat up and looked around, he saw not the first disciple but a red-haired girl. She walked into her room with light steps unlike that of calm First Disciple; she circled about his robes before pulling candy out from underwear</p>
+    <p>Khi Sougoromo ngồi dậy và nhìn xung quanh, anh ta không thấy môn đệ cả mà là một cô gái tóc đỏ. Cô bước vào phòng với những bước chân nhẹ nhàng khác hẳn với sự điềm tĩnh của môn đệ cả; cô đi vòng quanh áo choàng của anh ta trước khi lấy kẹo ra từ trong quần lót</p>
   </mono>
   <motion chara="099" action="img_trans" img="苏湄-吃糖-幼年-中景"></motion>
-  <dialog chara="099">「Yes.」</dialog>
-  <text>I didn't take her clothes.</text>
-  <dialog chara="099">「Now, now. It's not poisoned at all!」</dialog>
+  <dialog chara="099">「Vâng.」</dialog>
+  <text>Tôi không lấy quần áo của cô ấy.</text>
+  <dialog chara="099">「Thôi nào, thôi nào. Nó hoàn toàn không bị tẩm độc đâu!」</dialog>
   <motion chara="099" action="img_trans" img="苏湄-笑-幼年-中景"></motion>
-  <text>The red-haired girl forcibly handed over the candy, took a step back and smiled.</text>
-  <dialog chara="099">「You've already cheered up. I get it!」</dialog>
-  <text>Qin Suyi nodded and unconsciously looked toward the door. He searched for Lin Zhaoyu</text>
+  <text>Cô gái tóc đỏ đưa mạnh kẹo cho người kia, lùi lại một bước và mỉm cười.</text>
+  <dialog chara="099">「Bạn đã vui lên rồi. Tôi hiểu rồi!」</dialog>
+  <text>Qin Suyi gật đầu và vô thức nhìn về phía cửa. Anh ta tìm kiếm Lin Zhaoyu</text>
   <motion chara="099" action="img_trans" img="苏湄-遗憾-幼年-中景"></motion>
-  <dialog chara="099">「There's no point in looking for her. She went back with Little Ma, after all!」</dialog>
-  <text>The red-haired girl laughed.</text>
-  <dialog chara="099">「Master entrusted you to Miss Zhaoyu, and Ms. Asatake left the rest of your life in my hands!」</dialog>
+  <dialog chara="099">「Không cần tìm cô ấy nữa. Dù sao thì cô ấy cũng đã về với Tiểu Mẫu rồi!</dialog>
+  <text>Cô gái tóc đỏ cười.</text>
+  <dialog chara="099">「Sư phụ đã giao phó cậu cho cô Zhaoyu, và cô Asatake đã để lại phần đời còn lại của cậu trong tay tôi!」</dialog>
   <motion chara="099" action="img_trans" img="苏湄-环视-幼年-中景"></motion>
-  <text>She spoke at a speed that made it sound like she was speaking quickly.</text>
-  <dialog chara="099">「Little Ma can't leave me, but Zhaoyu neesan cannot. But what about myself?」</dialog>
-  <text>The red-haired girl thought for a moment, then smiled as if she couldn’t tell whether it was regret or satisfaction.</text>
+  <text>Cô ấy nói với tốc độ khiến người ta có cảm giác như cô ấy đang nói nhanh.</text>
+  <dialog chara="099">「Tiểu Mã không thể rời bỏ ta, nhưng chị Triệu Vũ thì không thể. Nhưng còn ta thì sao?</dialog>
+  <text>Cô gái tóc đỏ suy nghĩ một lát, rồi mỉm cười như thể không biết đó là hối tiếc hay hài lòng.</text>
   <motion chara="099" action="img_trans" img="苏湄-遗憾-幼年-中景"></motion>
-  <dialog chara="099">「Looks like I don't have anyone who can leave me.」</dialog>
-  <dialog chara="099">「What about you? Is there someone like that in your life...」</dialog>
-  <dialog chara="009">「...I... don't have one.」</dialog>
-  <text>Qin Suyi answers slowly.</text>
+  <dialog chara="099">「Hình như tôi không có ai có thể rời bỏ tôi cả.」</dialog>
+  <dialog chara="099">「Còn bạn thì sao? Có ai như vậy trong cuộc sống của bạn không...」</dialog>
+  <dialog chara="009">「...Tôi... không có.</dialog>
+  <text>Qin Suyi trả lời chậm.</text>
   <motion chara="099" action="img_trans" img="苏湄-哀伤-幼年-中景"></motion>
-  <dialog chara="099">「I heard you forgot about the past.」</dialog>
+  <dialog chara="099">「Tôi nghe nói anh đã quên quá khứ rồi.」</dialog>
   <motion chara="099" action="img_trans" img="苏湄-凝视-幼年-中景"></motion>
-  <text>The red-haired girl approached her bare robe and looked into his eyes as she spoke.</text>
-  <dialog chara="099">「What does it feel like to forget everything? Unfettered and free, I suppose.」</dialog>
-  <text>Suyi also turned to look at the girl.</text>
+  <text>Cô gái tóc đỏ tiến lại gần chiếc áo choàng mỏng của mình và nhìn vào mắt anh ta khi cô ấy nói.</text>
+  <dialog chara="099">「Cảm giác quên hết mọi thứ là như thế nào? Tự do và không bị ràng buộc, tôi đoán vậy.」</dialog>
+  <text>Suyi cũng quay lại nhìn cô gái.</text>
   <dialog chara="009">
-    <p>「...I forgot...everything.</p>
-    <p>...It's so... sad.」</p>
+    <p>「...Tôi quên hết mọi thứ rồi.</p>
+    <p>...Thật là... buồn.</p>
   </dialog>
-  <dialog chara="009">「I'm... not free. My freedom is gone!」</dialog>
-  <dialog chara="009">「...I... want to remember it.」</dialog>
-  <text>She says each word with difficulty.</text>
-  <text>The red-haired girl didn't rush, nor did she urge him on. She was just looking at her quietly and calmly</text>
-  <dialog chara="009">「...I... want to remember it.」</dialog>
+  <dialog chara="009">「Tôi... không tự do. Tự do của tôi đã mất rồi!」</dialog>
+  <dialog chara="009">「...Tôi... muốn nhớ điều đó.」</dialog>
+  <text>Cô ấy nói từng từ một cách khó khăn.</text>
+  <text>Cô gái tóc đỏ không vội vàng, cũng không thúc giục anh ta. Cô ấy chỉ lặng lẽ và bình tĩnh nhìn anh ta</text>
+  <dialog chara="009">「...Tôi... muốn nhớ điều đó.」</dialog>
   <motion chara="099" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#ffffff"></transition>
   <bg img="BGPureWhite00"></bg>
-  <text>Tears fell from her eyes, and everything in front of Suyi turned white.</text>
+  <text>Nước mắt rơi từ mắt cô ấy, và mọi thứ trước mặt Suyi đều trở nên trắng xóa.</text>
   <bg img="BGIntel3" duration="3"></bg>
-  <mono>And then, something unexpected happened.</mono>
+  <mono>Và sau đó, một điều bất ngờ đã xảy ra.</mono>
   <mono>
     <p></p>
-    <p>The red-haired girl held her shoulders. She felt as if something had fallen into their clothes</p>
+    <p>Cô gái tóc đỏ ôm lấy vai. Cô cảm thấy như có thứ gì đó rơi vào quần áo của họ</p>
   </mono>
   <bg img="BGIntel1" duration="3"></bg>
   <mono pageend="true">
     <p></p>
-    <p>This was the second time Qin Suyi had been embraced by someone. Unlike her master's warm warmth, she felt cold on his arm—as if crushing him until he became a dot of nothingness</p>
+    <p>Đây là lần thứ hai Tần Suyi được ai đó ôm. Không giống như hơi ấm áp của chủ nhân, cô cảm thấy lạnh lẽo trên cánh tay anh ta - như thể đang đè bẹp anh ta cho đến khi anh ta trở thành một chấm nhỏ không đáng kể</p>
   </mono>
   <motion chara="099" action="show" img="苏湄-宿命-幼年-近景" pos="center"></motion>
-  <dialog chara="099">「Master never does meaningless things. So you don't have to remember it, and do not」</dialog>
-  <text>The red-haired girl whispers into my ear.</text>
+  <dialog chara="099">「Sư phụ không bao giờ làm những việc vô nghĩa. Vì vậy, con không cần phải nhớ điều đó, và đừng làm vậy」</dialog>
+  <text>Cô gái tóc đỏ thì thầm vào tai tôi.</text>
   <motion chara="099" action="img_trans" img="苏湄-哀伤-幼年-近景"></motion>
-  <dialog chara="099">「I just have to remember. What happened now, and what will happen from here on out... Take good care of your memories so that you won't forget them forever」</dialog>
-  <dialog chara="009">「...I'll remember... I won’t forget.」</dialog>
+  <dialog chara="099">「Tôi chỉ cần nhớ. Những gì đã xảy ra và những gì sẽ xảy ra từ giờ trở đi... Hãy giữ gìn ký ức của mình thật tốt để không bao giờ quên chúng」</dialog>
+  <dialog chara="009">「...Tôi sẽ nhớ... Tôi sẽ không quên.」</dialog>
   <motion chara="099" action="img_trans" img="苏湄-笑-幼年-近景"></motion>
-  <dialog chara="099">「That's right.」</dialog>
+  <dialog chara="099"> 「Đúng vậy.」</dialog>
   <bg img="太虚山3"></bg>
-  <text>The girl gently pulled away and wiped her tears.</text>
-  <dialog chara="099" inline="true">「From now on, let's remember our memories. Start with my name—</dialog>
+  <text>Cô gái nhẹ nhàng lùi lại và lau nước mắt.</text>
+  <dialog chara="099" inline="true">Từ giờ trở đi, chúng ta hãy nhớ về những kỷ niệm. Hãy bắt đầu với tên của tôi—</dialog>
   <motion chara="099" action="img_trans" img="苏湄-认真-幼年-近景"></motion>
-  <dialog chara="004">I'm Su Mei.」</dialog>
+  <dialog chara="004">Tôi là Su Mei.</dialog>
   <delay t="2"></delay>
   <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
   <event action="callback" name="end"></event>
 </scene>
-scripts>
+
+bản ghi&gt;

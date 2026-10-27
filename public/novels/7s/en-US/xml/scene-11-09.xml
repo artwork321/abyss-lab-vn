@@ -8,209 +8,210 @@
   <delay t="1.5"></delay>
   <mono>
     <p></p>
-    <p>The two best horses of the Golden Sand Gang pulled a cart along the desert. </p>
+    <p>Hai con ngựa tốt nhất của Băng đảng Cát Vàng kéo một chiếc xe dọc sa mạc.</p>
     <p></p>
-    <p>Li Sushang leaned against the edge and began humming a tune in high spirits.</p>
+    <p>Li Sushang dựa vào mép vực và bắt đầu ngân nga một giai điệu với tâm trạng phấn khởi.</p>
   </mono>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[Raksha! You should stop your sorceries. It’s very refreshing to feel the wind blow across your face every once in a while.]</p>
+    <p>[Raksha! Ngươi nên ngừng phù phép đi. Thỉnh thoảng được cảm nhận gió thổi qua mặt thật sảng khoái.]</p>
   </mono>
   <mono>
     <p></p>
-    <p>The fast moving cart drew up a strong wind, leaving Sushang’s braids flowing through the air like two dark rivers. </p>
+    <p>Chiếc xe ngựa di chuyển nhanh tạo ra một cơn gió mạnh, khiến bím tóc của Sushang bay phấp phới trong không trung như hai dòng sông đen.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>On the other side, the Raksha shielded himself with an invisible air barrier. [\s]</p>
-    <p>In the domain created by the relic [Void Archives], the man’s hair remained unmoved, as was his expression.</p>
+    <p>Ở phía bên kia, Raksha tự bảo vệ mình bằng một rào cản không khí vô hình. [\s]</p>
+    <p>Trong lãnh địa được tạo ra bởi di vật [Kho Lưu Trữ Hư Không], mái tóc của người đàn ông vẫn không hề lay chuyển, cũng như nét mặt của anh ta.</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘2" duration="1"></cg>
   <delay t="1"></delay>
-  <mono chara="001">[Are you not hot?] </mono>
+  <mono chara="001">[Bạn không thấy nóng sao?] </mono>
   <mono chara="002">
     <p></p>
-    <p>[Yep! But that’s how deserts are.]</p>
+    <p>[Đúng vậy! Nhưng sa mạc là như thế đấy.]</p>
   </mono>
   <mono chara="001">
     <p></p>
-    <p>[...Mhm.]</p>
+    <p>[...Ừm.]</p>
   </mono>
-  <mono chara="-3" pageend="true">The Raksha was about to shield the girl too, but stopped as he heard her response.</mono>
+  <mono chara="-3" pageend="true">Raksha cũng định che chở cho cô gái, nhưng dừng lại khi nghe thấy câu trả lời của cô ấy.</mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘3" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[Are you mad? Oh sorry. It’s just… That carriage you conjured was a bit...] </p>
+    <p>[Bạn điên à? Ồ xin lỗi. Chỉ là… Cái xe ngựa mà bạn triệu hồi hơi…]</p>
   </mono>
   <cg></cg>
   <text>
-    <p>While Sushang wasn’t so shocked by the tricks the Raksha pulled the day before, </p>
-    <p>she couldn’t say the same now. </p>
+    <p>Trong khi Sushang không quá sốc trước những trò lừa bịp mà Raksha đã giở trò ngày hôm trước,</p>
+    <p>Bây giờ cô ấy không thể nói như vậy nữa.</p>
   </text>
   <text>
-    <p>The carriage was round and bumpy, and the bright orange color stuck out like a sore thumb. </p>
-    <p>The Raksha had said that this was a western specialty called a [pumpkin] as he grinned at it.</p>
+    <p>Chiếc xe ngựa tròn trịa và gập ghềnh, màu cam sáng chói nổi bật một cách khó coi.</p>
+    <p>Raksha đã nói rằng đây là một món đặc sản phương Tây gọi là [bí ngô] khi hắn cười toe toét nhìn nó.</p>
   </text>
-  <text>Li Sushang was embarrassed. She’d rather walk than ride that kind of carriage.</text>
+  <text>Li Sushang cảm thấy xấu hổ. Cô ấy thà đi bộ còn hơn là đi loại xe ngựa đó.</text>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘1" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[Besides, aren’t you injured? You probably shouldn’t be casting magic right now… </p>
-    <p>Just sit tight!]</p>
+    <p>[Hơn nữa, chẳng phải cậu bị thương sao? Có lẽ cậu không nên dùng phép thuật lúc này… </p>
+    <p>Cứ ngồi yên đó!</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Sushang was truly concerned for the remnants of the Raksha’s Ki.</p>
+    <p>Sushang thực sự lo lắng cho những gì còn sót lại của Ki của Raksha.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>However, the Raksha appeared to harbor a heavy grudge against the wind. </p>
+    <p>Tuy nhiên, Raksha dường như có mối thù sâu sắc với gió.</p>
     <p></p>
-    <p>Even if he agreed to ride this scrappy carriage, he was determined to remain as elegant as possible, his hair undeterred from its place.</p>
+    <p>Ngay cả khi anh ta đồng ý đi chiếc xe ngựa cũ kỹ này, anh ta vẫn quyết tâm giữ vẻ ngoài thanh lịch nhất có thể, mái tóc vẫn giữ nguyên vị trí.</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘4" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="002">
     <p></p>
-    <p>[...If you’re so powerful, how were you captured? </p>
-    <p>I don’t get it.]</p>
+    <p>[...Nếu anh quyền lực đến vậy, làm sao anh bị bắt? </p>
+    <p>Tôi không hiểu.</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘5" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="001">
     <p></p>
-    <p>[Captured? I was invited to be that Eagle’s guest.]</p>
+    <p>[Bị bắt? Tôi được mời làm khách của con Đại bàng đó.]</p>
   </mono>
   <mono chara="002">
     <p></p>
     <p></p>
-    <p>[...As a guest?]</p>
+    <p>[...Với tư cách là khách mời?]</p>
   </mono>
-  <text>Li Sushang blinked.</text>
-  <mono chara="002" pageend="true">[...A guest in jail?]</mono>
+  <text>Li Sushang chớp mắt.</text>
+  <mono chara="002" pageend="true">[...Một vị khách trong tù?]</mono>
   <mono chara="001">
     <p></p>
-    <p>[It’s a strange place indeed.]</p>
+    <p>[Quả thật đây là một nơi kỳ lạ.]</p>
   </mono>
-  <text>The Raksha stroked his chin, deep in thought.</text>
-  <mono chara="001">[But that Eagle told me: [Everything here is mine, and you can give everything that is yours to me. Please, come out of the carriage and follow my servants. No need for formalities.] …Is that not an invitation?]</mono>
+  <text>Raksha vuốt cằm, trầm ngâm suy nghĩ.</text>
+  <mono chara="001">[Nhưng con Đại bàng đó nói với tôi: [Mọi thứ ở đây đều là của ta, và ngươi có thể trao tất cả những gì thuộc về ngươi cho ta. Xin hãy ra khỏi xe ngựa và đi theo những người hầu của ta. Không cần khách sáo.] …Đó chẳng phải là một lời mời sao?]</mono>
   <mono chara="002" pageend="true">
     <p></p>
     <p></p>
     <p></p>
     <p></p>
-    <p>[...You seem to have a misunderstanding with the Shenzhou language.]</p>
+    <p>[...Hình như bạn đang hiểu sai về tiếng Thần Châu.]</p>
   </mono>
   <mono>
     <p></p>
-    <p>Li Sushang scratched her head.</p>
+    <p>Li Sushang gãi đầu.</p>
   </mono>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[Who talks like that normally? What’d he actually say?]</p>
+    <p>[Ai lại nói chuyện như thế chứ? Anh ta thực sự đã nói gì?]</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘10" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="001" pageend="true">
-    <p>[This place is mine. </p>
-    <p>You’re mine too. </p>
-    <p>Get out </p>
-    <p>and follow them. </p>
-    <p>Don’t try anything funny.]</p>
+    <p>[Nơi này là của tôi.</p>
+    <p>Em cũng là của anh.</p>
+    <p>Cút đi</p>
+    <p>và hãy theo họ.</p>
+    <p>Đừng có giở trò gì kỳ quặc.</p>
   </mono>
-  <text>The Raksha imitated “Eagle’s” voice with frightening accuracy.</text>
+  <text>Raksha bắt chước giọng nói của “Đại bàng” với độ chính xác đáng sợ.</text>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘6" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="002">
     <p></p>
-    <p>[... Raksha, your interpretation was quite… kind.]</p>
+    <p>[... Raksha, cách giải thích của bạn khá… tử tế.]</p>
   </mono>
   <mono chara="001" pageend="true">
     <p></p>
-    <p>[That’s not my problem… Your language is too complicated.]</p>
+    <p>[Đó không phải vấn đề của tôi… Ngôn ngữ của bạn quá phức tạp.]</p>
   </mono>
-  <text>Li Sushang stared at the man, raising an eyebrow. Was he playing her for a fool? </text>
-  <text>He’s pretty and all, but he didn’t seem like one to play by the rules.</text>
+  <text>Li Sushang nhìn chằm chằm vào người đàn ông, nhướng mày. Hắn ta đang đùa giỡn với cô sao?</text>
+  <text>Anh ấy đẹp trai đấy, nhưng có vẻ anh ấy không phải là người thích chơi theo luật.</text>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘7" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="002">
     <p></p>
-    <p>[Geez, it’s so dangerous to talk to you. </p>
-    <p>It’s like everything you say is a trap waiting for me to embarrass myself.]</p>
+    <p>[Trời ơi, nói chuyện với anh nguy hiểm thật.</p>
+    <p>Cứ như thể mọi điều anh nói đều là một cái bẫy chờ tôi làm mình xấu hổ vậy.</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘8"></cg>
   <delay t="1"></delay>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[Why don’t you tell me more about the Schicksal Sect?]</p>
+    <p>[Sao anh không kể cho tôi nghe thêm về giáo phái Schicksal?]</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘9" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="001" pageend="true">
     <p></p>
-    <p>[Huh?]</p>
+    <p>[Hả?]</p>
   </mono>
-  <text>The Raksha’s pretty face slid off his palms and hit his wrist with a dull thud, causing him to shoot up and rub his eyes:</text>
+  <text>Khuôn mặt xinh đẹp của Raksha trượt khỏi lòng bàn tay anh ta và đập vào cổ tay anh ta với một tiếng thịch trầm đục, khiến anh ta bật dậy và dụi mắt:</text>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘6" duration="1"></cg>
   <delay t="1"></delay>
   <mono chara="001">
     <p></p>
-    <p>[No no… That takes too much brain power.]</p>
+    <p>[Không không… Việc đó tốn quá nhiều trí óc.]</p>
   </mono>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[Aye.]</p>
+    <p>[Vâng.]</p>
   </mono>
-  <text>Li Sushang’s face was full of disappointment.</text>
+  <text>Khuôn mặt của Li Sushang đầy vẻ thất vọng.</text>
   <cg img="CG_第二折_风中奇缘12" duration="1"></cg>
   <mono chara="001">
     <p></p>
-    <p>[Then give me a few days to think it over… </p>
-    <p>and then I’ll tell you about it.]</p>
+    <p>[Vậy thì hãy cho tôi vài ngày để suy nghĩ kỹ… </p>
+    <p>và sau đó tôi sẽ kể cho bạn nghe về điều đó.]</p>
   </mono>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[But it’ll be a while before we get home. It’d be so boring if we didn’t say anything.]</p>
+    <p>[Nhưng sẽ mất một lúc nữa chúng ta mới về đến nhà. Sẽ thật nhàm chán nếu chúng ta không nói gì.]</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘5" duration="1"></cg>
   <delay t="1"></delay>
-  <text>The Raksha fell silent for a few moments:</text>
+  <text>Raksha im lặng trong vài khoảnh khắc:</text>
   <mono chara="001">
     <p></p>
-    <p>[Why don’t you tell me a story? How about that Celestial? </p>
-    <p>I remember you saying that: you were well established with Phoenix?]</p>
+    <p>[Sao bạn không kể cho tôi nghe một câu chuyện? Thế còn Thiên Thần thì sao?</p>
+    <p>Tôi nhớ anh từng nói rằng: anh đã có vị thế vững chắc với Phoenix phải không?]</p>
   </mono>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>[That’d be my mom and my master. I… I haven’t actually seen the Celestial before.]</p>
+    <p>[Đó là mẹ tôi và sư phụ tôi. Tôi… tôi chưa từng thực sự nhìn thấy Thiên Thần trước đây.]</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="CG_第二折_风中奇缘13" duration="1"></cg>
   <delay t="1"></delay>
   <mono>
     <p></p>
-    <p>Sushang tried to remember.</p>
+    <p>Sushang cố gắng nhớ lại.</p>
   </mono>
   <mono chara="002" pageend="true">
-    <p>[Really, I’ve never seen her before. Neither my parents nor my master brings her up very often. </p>
-    <p>Everything I know about Master Phoenix comes from my wet nurse.]</p>
+    <p>[Thật ra, tôi chưa từng gặp cô ấy bao giờ. Cả bố mẹ tôi lẫn chủ tôi đều không thường xuyên nhắc đến cô ấy.</p>
+    <p>Tất cả những gì tôi biết về Sư phụ Phượng Hoàng đều đến từ vú nuôi của tôi.]</p>
   </mono>
   <bgm id="清晨赶集（轻快）" looptimes="0"></bgm>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <event action="goto" to="10"></event>
 </scene>
-scripts>
+
+bản ghi&gt;

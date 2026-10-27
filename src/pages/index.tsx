@@ -9,11 +9,11 @@ import Footer from '../components/v2/Footer'
 const IndexPage = () => {
   return (
     <Box>
-      <Head title="Abyss Lab - Unofficial Honkai3rd Wiki" />
+      <Head title="Abyss Lab VN - Visual Novel Honkai Impact 3rd Việt hóa" />
       <RootNavigator />
       <Box sx={{ p: 3 }}>
         <Box mb={4}>
-          <PageLink href="/honkai3rd">
+          <PageLink href="/honkai3rd/media">
             <Box sx={{ position: 'relative' }}>
               <Image
                 alt="Honkai 3rd Wallpaper"
@@ -22,7 +22,7 @@ const IndexPage = () => {
                 height={360}
               />
             </Box>
-            <Text sx={{ fontSize: 3 }}>Honkai 3rd</Text>
+            <Text sx={{ fontSize: 3 }}>Visual Novels</Text>
           </PageLink>
         </Box>
         <Footer />

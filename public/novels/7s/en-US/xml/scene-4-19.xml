@@ -1,7 +1,7 @@
 <scene id="19" type="block" prev="18" title="帰還2">
   <bg></bg>
   <cg img="CG_第一折_夺剑_SWORD" duration="10"></cg>
-  <text>The treasured sword leaves "Eagle"'s hand and flies through the air.</text>
+  <text>Thanh kiếm quý giá rời khỏi tay "Đại Bàng" và bay vút lên không trung.</text>
   <event action="hide_ui" duration="2"></event>
   <motion action="show" pos="center" chara="096" img="老鹰-特写-惊讶"></motion>
   <cg></cg>
@@ -10,7 +10,7 @@
   <bg img="BGBlood1"></bg>
   <se id="01-28胸口命中"></se>
   <delay t="1"></delay>
-  <text>"Eagle" was furious. She flicked off Sushang with a palm strike, then ran to catch the sword</text>
+  <text>"Đại bàng" tức giận. Cô ta hất Sushang bằng một cú đánh lòng bàn tay, rồi chạy tới bắt lấy thanh kiếm</text>
   <motion chara="096" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg img="CG_第一折_夺剑_SWORD"></cg>
@@ -18,7 +18,7 @@
   <motion chara="096" action="show" img="老鹰-动作-夺剑" pos="-250,0"></motion>
   <delay t="0.1"></delay>
   <motion chara="096" action="move" pos="0,0" duration="30"></motion>
-  <text>This time, he seemed to underestimate the girl's Hienko.</text>
+  <text>Lần này, có vẻ như anh ta đã đánh giá thấp Hienko của cô gái.</text>
   <event action="hide_ui" duration="2.5"></event>
   <motion chara="096" action="hide"></motion>
   <cg></cg>
@@ -29,7 +29,7 @@
   <delay t="0.5"></delay>
   <se id="01-60吐血小"></se>
   <delay t="1"></delay>
-  <text>The girl fell to the stone floor and coughed up blood from her mouth, but she immediately spun around after being hit by a recoil.</text>
+  <text>Cô gái ngã xuống sàn đá và ho ra máu từ miệng, nhưng cô ấy lập tức quay người lại sau khi bị lực phản hồi đánh trúng.</text>
   <event action="hide_ui" duration="2"></event>
   <motion chara="002" action="hide"></motion>
   <se id="01-22女孩轻功whoosh_01"></se>
@@ -38,7 +38,7 @@
   <bg img="CG_第一折_夺剑_BG"></bg>
   <delay t="1"></delay>
   <motion chara="097" action="show" pos="300,0" duration="1" img="素裳-动作-夺剑"></motion>
-  <text>The next moment, she leapt into the air.</text>
+  <text>Ngay sau đó, cô ấy nhảy lên không trung.</text>
   <bgm looptimes="0"></bgm>
   <event action="hide_ui" duration="2"></event>
   <se id="01-30女孩轻功whoosh_02"></se>
@@ -47,21 +47,21 @@
   <motion chara="100" action="move" pos="0,-50" duration="30"></motion>
   <delay t="1"></delay>
   <text>
-    <p>Their objective is the old sword 「Hekihan」.[\s]</p>
-    <p>The one who gets it wins, and the ones that can't die.</p>
+    <p>Mục tiêu của họ là thanh kiếm cổ 「Hekihan」.[\s]</p>
+    <p>Kẻ nào giành được nó sẽ thắng, còn những kẻ không giành được sẽ chết.</p>
   </text>
   <mono chara="002">
     <p></p>
-    <p>（...You're going to help me, right?）</p>
+    <p>(...Bạn sẽ giúp tôi chứ, phải không?)</p>
   </mono>
   <mono>
     <p></p>
-    <p>I completely let my instincts control the movement of her body.</p>
-    <p>「A girl.」's Li Sushang consciousness murmured.</p>
+    <p>Tôi hoàn toàn để bản năng điều khiển chuyển động cơ thể của cô ấy.</p>
+    <p>Ý thức của Li Sushang lẩm bẩm: "Một cô gái.</p>
   </mono>
   <mono chara="002" pageend="true">
     <p></p>
-    <p>「You're my sword...」</p>
+    <p>「Ngươi là thanh kiếm của ta...</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <motion chara="100" action="move" pos="-25,100" duration="30"></motion>
@@ -70,11 +70,11 @@
   <delay t="3"></delay>
   <mono>
     <p></p>
-    <p>The kenjou reached its highest position and stopped for a moment, then immediately fell.</p>
+    <p>Kiếm đạt đến vị trí cao nhất và dừng lại trong giây lát, rồi lập tức rơi xuống.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Suddenly, a very nostalgic feeling welled up inside Li Sushang.</p>
+    <p>Đột nhiên, một cảm giác hoài niệm dâng trào trong lòng Li Sushang.</p>
   </mono>
   <mono pageend="true">
     <p></p>
@@ -83,7 +83,7 @@
     <p>Why is the sword falling in front of me so friendly?[\s]</p>
     <p></p>
     <p>…………</p>
-    <p>Years ago.</p>
+    <p>Nhiều năm trước.</p>
     <p>…………</p>
   </mono>
   <motion chara="096" action="hide"></motion>
@@ -95,15 +95,15 @@
   <cg img="CG_第一折_抢剑_李ONLY" scale="3" pos="-50,200" duration="20"></cg>
   <delay t="1"></delay>
   <text>
-    <p>My fingers moved closer to the hilt of my sword.</p>
-    <p>It was as if the sound of clashing swords rang in her head.</p>
-    <p>At that very moment, Li Sushang was convinced she had mastered 「Ken'i」.</p>
+    <p>Ngón tay tôi tiến gần hơn đến chuôi kiếm.</p>
+    <p>Cứ như thể tiếng kiếm va chạm vang vọng trong đầu cô ấy.</p>
+    <p>Ngay lúc đó, Li Sushang tin chắc rằng cô đã thành thạo 「Ken'i」.</p>
   </text>
   <transition mode="dissolve" in="0.5" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
   <bg img="PureBlack"></bg>
   <se id="01-21轩辕剑氛围声"></se>
-  <text>Clang----</text>
+  <text>Tiếng leng keng----</text>
   <se id="01-21轩辕剑氛围声" looptimes="0"></se>
   <event action="hide_ui" duration="7"></event>
   <cg img="CG_第一折_抢剑_鹰WIN" scale="3" pos="100,150"></cg>
@@ -119,15 +119,15 @@
   <motion chara="096" action="hide"></motion>
   <motion chara="097" action="hide"></motion>
   <delay t="2"></delay>
-  <text>However, it wasn’t she who gripped the hilt of her sword</text>
+  <text>Tuy nhiên, không phải cô ấy là người nắm lấy chuôi kiếm của mình</text>
   <event action="hide_ui" duration="0.8"></event>
   <motion chara="096" action="show" pos="0,-1080" img="老鹰-特写-狞笑（带血）"></motion>
   <delay t="0.1"></delay>
   <motion chara="096" action="move" pos="center" duration="0.3"></motion>
   <delay t="0.3"></delay>
-  <dialog chara="015">「I won!」</dialog>
-  <text>What reached my ears were words declaring death.</text>
-  <dialog chara="015">「Die, girl-」</dialog>
+  <dialog chara="015">「Tôi thắng rồi!」</dialog>
+  <text>Những gì đến tai tôi là những lời tuyên bố về cái chết.</text>
+  <dialog chara="015">「Chết đi, cô gái-」</dialog>
   <event action="hide_ui" duration="1"></event>
   <motion chara="097" action="show" pos="center" img="李素裳-特写-濒死" duration="1"></motion>
   <delay t="1"></delay>
@@ -137,13 +137,13 @@
   <delay t="2"></delay>
   <mono pageend="true">
     <p></p>
-    <p>The despair and disappointment at this moment was greater than ever before.[\s]</p>
+    <p>Nỗi tuyệt vọng và thất vọng lúc này lớn hơn bao giờ hết.[\s]</p>
     <p></p>
     <p>The girl is not afraid to die.[\s]</p>
     <p></p>
-    <p>However, he had gained hope and lost it. He’d experienced the agony of climbing up to a peak before falling down</p>
-    <p>Along with a great regret that seemed to sink into my body.</p>
-    <p>The screams and trembling never ceased.</p>
+    <p>Tuy nhiên, anh ta đã có được hy vọng rồi lại đánh mất nó. Anh ta đã trải qua nỗi đau đớn khi leo lên đỉnh núi trước khi rơi xuống</p>
+    <p>Cùng với một nỗi tiếc nuối lớn lao dường như thấm vào cơ thể tôi.</p>
+    <p>Tiếng la hét và run rẩy không bao giờ dứt.</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <motion chara="097" action="img_trans" img="李素裳-特写-坚定" duration="1"></motion>
@@ -152,7 +152,7 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>「—No!」</p>
+    <p>「—Không!」</p>
   </mono>
   <transition mode="fade" in="0.5" stop="0.2" out="0.5" color="#FFFFFF"></transition>
   <bgm id="传奇诞生"></bgm>
@@ -161,22 +161,22 @@
   <motion chara="097" action="hide" duration="0"></motion>
   <cg img="CG_第一折_抢剑_鹰挥刀" scale="4" origin="99%,10%"></cg>
   <text>
-    <p>The next moment, even if she was about to be cut in half with a single slash...</p>
-    <p>My instincts refused to admit defeat.</p>
+    <p>Ngay sau đó, dù cô ấy sắp bị chém làm đôi chỉ bằng một nhát chém...</p>
+    <p>Bản năng của tôi không chịu thừa nhận thất bại.</p>
   </text>
   <event action="hide_ui" duration="1"></event>
   <cg duration="0.5" origin="99%,10%" img="CG_第一折_抢剑_鹰挥刀"></cg>
   <delay t="0.5"></delay>
   <text>
-    <p>Her extremely hazy consciousness pushed out her bare palm sword</p>
-    <p>He desperately attacked the enemy, intending to strike a mutual blow.</p>
+    <p>Ý thức cực kỳ mơ hồ của cô ấy đẩy ra thanh kiếm bằng lòng bàn tay trần của cô ấy</p>
+    <p>Anh ta tấn công kẻ thù một cách tuyệt vọng, với ý định giáng một đòn trả đũa.</p>
   </text>
   <cg duration="5"></cg>
   <text>
-    <p>In this moment, the girl who understood and accepted 「Death.」...</p>
-    <p>Finally, one step too late...</p>
+    <p>Vào khoảnh khắc này, cô gái đã hiểu và chấp nhận 「Cái chết.」...</p>
+    <p>Cuối cùng, đã quá muộn một bước...</p>
   </text>
-  <text>「Prepare yourself.」.</text>
+  <text>「Hãy chuẩn bị sẵn sàng.」.</text>
   <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="20"></event>
 </scene>

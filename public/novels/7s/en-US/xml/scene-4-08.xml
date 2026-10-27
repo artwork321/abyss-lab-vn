@@ -2,122 +2,122 @@
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="BGDesert00"></bg>
   <text>
-    <p>Therefore, when meeting the Raksha,</p>
-    <p>the「Eagle」suddenly had the illusion of time recurring.</p>
+    <p>Do đó, khi gặp Raksha,</p>
+    <p>con đại bàng đột nhiên có ảo giác về thời gian lặp lại.</p>
   </text>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <bgm id="神秘东方"></bgm>
   <text>
-    <p>At first sight of this person, the「Eagle」's back went abruptly cold, </p>
-    <p>The alarm bell sounded instinctively, telling him that this was a 「scourge」.</p>
+    <p>Vừa nhìn thấy người này, lưng của 'Đại Bàng' đột ngột lạnh ngắt,</p>
+    <p>Chuông báo động vang lên theo bản năng, báo hiệu cho anh ta rằng đây là một 「tai họa」.</p>
   </text>
   <text>
-    <p>At the time,「Scourge」stayed in the caravan's carriage and enjoyed a small cabin exclusively.</p>
-    <p>Among the dozens of caravans, he is the only one who had this extraordinary treatment.</p>
+    <p>Vào thời điểm đó, 「Scourge」ở trong toa xe của đoàn lữ hành và được tận hưởng một căn nhà nhỏ riêng biệt.</p>
+    <p>Trong số hàng chục đoàn lữ hành, ông ấy là người duy nhất được đối xử đặc biệt như vậy.</p>
   </text>
   <event action="hide_ui" duration="4"></event>
   <cg img="CG_第一折_奥托出场1" duration="5"></cg>
   <delay t="4"></delay>
-  <text>When「Eagle」's sword brushed up the screen, Raksha was talking to something.</text>
-  <dialog chara="001">Raksha:「Mach dir keine sorgen」(Don't worry)</dialog>
+  <text>Khi thanh kiếm của 「Đại bàng」 lướt qua màn hình, Raksha đang nói chuyện với thứ gì đó.</text>
+  <dialog chara="001">Raksha: 「Mach dir keine sorgen」(Đừng lo lắng)</dialog>
   <text>
-    <p>The man knelt on one knee. His tone was calm and easy-going, as if he was asking a close travel companion, but he looked around:</p>
-    <p>There was no one else in the compartment, only a coffin.</p>
+    <p>Người đàn ông quỳ một gối. Giọng điệu của ông bình tĩnh và thoải mái, như thể đang hỏi một người bạn đồng hành thân thiết, nhưng ông nhìn xung quanh:</p>
+    <p>Không có ai khác trong khoang, chỉ có một chiếc quan tài.</p>
   </text>
-  <text>Only him, and a coffin.</text>
+  <text>Chỉ có anh ấy và một chiếc quan tài.</text>
   <cg img="CG_第一折_奥托出场2"></cg>
-  <dialog chara="001">Raksha:「Ich werde lösen」(I'll resolve.)</dialog>
+  <dialog chara="001">Raksha: 「Ich werde lösen」(Tôi sẽ giải quyết.)</dialog>
   <text>
-    <p>This person wasn't speaking in Raksha language,「Eagle」couldn't understand it.</p>
-    <p>But this strange and terrifying scene had him sweating bullets.</p>
+    <p>Người này không nói tiếng Raksha, nên "Đại bàng" không hiểu được.</p>
+    <p>Nhưng cảnh tượng kỳ lạ và đáng sợ này khiến anh ta toát mồ hôi hột.</p>
   </text>
-  <text>He couldn't help but look up at the weird man who was talking to the coffin:</text>
+  <text>Anh ta không thể không ngước nhìn người đàn ông kỳ lạ đang nói chuyện với quan tài:</text>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg img="CG_第一折_奥托出场2" scale="3" origin="40%,80%"></cg>
   <delay t="0.1"></delay>
   <cg img="CG_第一折_奥托出场2" scale="3" pos="0,500" origin="45%,80%" duration="30"></cg>
   <text>
-    <p>The Raksha person was about twenty years old, tall and not strong looking.</p>
-    <p>He obviously had some skills, but he was definitely not a master.</p>
+    <p>Người Raksha khoảng hai mươi tuổi, cao và trông không mạnh mẽ.</p>
+    <p>Rõ ràng là anh ta có một số kỹ năng, nhưng chắc chắn anh ta không phải là bậc thầy.</p>
   </text>
-  <text>Just by observing his appearance and shape, you can know a little about how martial arts a person has.</text>
+  <text>Chỉ cần quan sát vẻ ngoài và hình dáng của anh ta, bạn có thể biết được một chút về trình độ võ thuật của người đó.</text>
   <text>
-    <p>If you have bulging muscles, you are a martial artist who practices Waijiaquan.</p>
-    <p>This type of manpower sinks his shoulders and arms, strikes fists and feet that can break gold and gravel, and it was no problem to resist ordinary blunt weapons.</p>
+    <p>Nếu bạn có cơ bắp cuồn cuộn, bạn là một võ sĩ luyện tập Waijiaquan.</p>
+    <p>Loại nhân lực này hạ thấp vai và tay, tung ra những cú đấm và đá có thể phá vỡ vàng và sỏi, và không có vấn đề gì khi chống lại vũ khí cùn thông thường.</p>
   </text>
-  <text>But the「Eagle」doesn't see this kind of person in their eyes.</text>
+  <text>Nhưng 「Đại bàng」không nhìn thấy loại người này trong mắt họ.</text>
   <text>
-    <p>The smart foreign kung fu emphasizes balance and permeates the whole body. Blindly insisting on fierce effort has lost flexibility.</p>
-    <p>A person of both speed and strength, Fang is a middle-to-higher person.</p>
+    <p>Võ thuật nước ngoài thông minh nhấn mạnh sự cân bằng và thấm nhuần toàn bộ cơ thể. Việc mù quáng khăng khăng vào nỗ lực mạnh mẽ đã làm mất đi sự linh hoạt.</p>
+    <p>Một người vừa nhanh nhẹn vừa mạnh mẽ, Fang là một người tầm trung đến cao cấp.</p>
   </text>
-  <text>The master of the inner family has another set of tricks.</text>
+  <text>Người đứng đầu gia tộc có một bộ mánh khóe khác.</text>
   <text>
-    <p>Inner Kung fu exercises inner strength, that is, meridians and 「Zhen Qi」.</p>
-    <p>This kind of person is introverted in appearance, and appears everywhere. Observe the expression in his eyes and listen to the expressions, and you can know the depth.</p>
+    <p>Nội công võ thuật rèn luyện sức mạnh nội tại, tức là kinh mạch và 「Zhen Qi」.</p>
+    <p>Loại người này bề ngoài có vẻ hướng nội, nhưng lại xuất hiện ở khắp mọi nơi. Hãy quan sát biểu cảm trong mắt và lắng nghe những lời nói, bạn sẽ hiểu được chiều sâu của họ.</p>
   </text>
-  <text>Needless to say, the「Eagle」glanced away, and it was known that this Raksha man's outside martial arts could be described as mediocre; from his chaotic breathing rhythm, he also knew that this man had never learned superior internal skills.</text>
+  <text>Khỏi phải nói, "Đại Bàng" liếc nhìn đi chỗ khác, và ai cũng biết rằng võ công bên ngoài của người đàn ông Raksha này có thể được mô tả là tầm thường; từ nhịp thở hỗn loạn của hắn, hắn cũng biết rằng người đàn ông này chưa bao giờ học được những kỹ năng nội công thượng thừa.</text>
   <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="left" custom="default"></transition>
   <cg></cg>
   <bg img="BGDesert02"></bg>
   <motion chara="015" action="show" pos="center" img="老鹰-专注-拔刀预备-远景"></motion>
-  <dialog chara="015">Eagle:「Come out.」</dialog>
-  <text>「Eagle」 said, his hand dropped on the handle of the scimitar.</text>
-  <text>The Raksha hates him the most, and it is even more unlucky to hit the coffin in the daytime. The two taboos merge into one, and the 「Eagle」 has an impulse to sacrifice blood.</text>
+  <dialog chara="015">Đại bàng:「Ra đây.」</dialog>
+  <text> 「Đại bàng」 nói, tay anh ta buông xuống cán của thanh kiếm cong.</text>
+  <text>Raksha ghét hắn nhất, và càng xui xẻo hơn nếu đánh vào quan tài vào ban ngày. Hai điều cấm kỵ hợp nhất thành một, và 「Đại bàng」 có thôi thúc hiến tế máu.</text>
   <text>
-    <p>He was already full of blood debts, so why not add another life?</p>
-    <p>But... the scimitar was not out of its sheath.</p>
+    <p>Hắn đã đầy rẫy những món nợ máu rồi, vậy sao không thêm một mạng sống nữa?</p>
+    <p>Nhưng... thanh kiếm cong vẫn chưa được rút ra khỏi vỏ.</p>
   </text>
   <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="left" custom="default"></transition>
   <motion chara="015" action="hide"></motion>
   <cg img="CG_第一折_奥托出场1" scale="3" origin="40%,10%"></cg>
   <delay t="0.1"></delay>
-  <text inline="true">The Raksha sighed, then whispered a few words to the coffin, </text>
+  <text inline="true">Raksha thở dài, rồi thì thầm vài lời với quan tài, </text>
   <event action="hide_ui" duration="4"></event>
   <cg img="CG_第一折_奥托出场1" scale="3" origin="40%,10%" duration="4" pos="-205,0"></cg>
   <delay t="4"></delay>
   <text>
     <p></p>
-    <p>and then glanced at the leader of the gang.</p>
+    <p>và sau đó liếc nhìn thủ lĩnh băng đảng.</p>
   </text>
   <event action="hide_ui" duration="2"></event>
   <cg img="CG_第一折_奥托出场2" scale="3" origin="56%,10%" duration="2"></cg>
   <delay t="1.5"></delay>
-  <text>His eyes are green like jade, like two carefully polished emeralds.</text>
-  <dialog chara="015">Eagle:「……」</dialog>
-  <text>Somehow, the intuition called "sharp" sounded in my heart again.</text>
+  <text>Đôi mắt anh ấy xanh như ngọc bích, như hai viên ngọc lục bảo được đánh bóng cẩn thận.</text>
+  <dialog chara="015">Đại bàng:「……」</dialog>
+  <text>Bằng cách nào đó, trực giác được gọi là "sắc bén" lại vang lên trong tim tôi.</text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg img="CG_第一折_奥托出场2"></cg>
-  <text>The people of Raksha calmly asked in a lame but clear Chinese dialect:</text>
-  <dialog chara="001">Raksha:「Arrive?」</dialog>
-  <text>This question had no background and was too inexplicable, but the 「Eagle」 nodded.</text>
+  <text>Người dân Raksha bình tĩnh hỏi bằng một giọng tiếng Trung Quốc khó nghe nhưng rõ ràng:</text>
+  <dialog chara="001">Raksha:「Đến chưa?」</dialog>
+  <text>Câu hỏi này không có cơ sở và quá khó hiểu, nhưng "Đại bàng" gật đầu.</text>
   <cg img="CG_第一折_奥托出场1"></cg>
-  <text>The Raksha man pointedly:</text>
-  <dialog chara="001">Raksha:「Here, yours?」</dialog>
-  <dialog chara="015">「Eagle」:「This is mine, and you are mine. Come out .」</dialog>
+  <text>Người đàn ông Raksha nói rõ:</text>
+  <dialog chara="001">Raksha:「Đây, của anh à?」</dialog>
+  <dialog chara="015">「Đại bàng」:「Đây là của ta, và ngươi cũng là của ta. Ra đây đi.」</dialog>
   <cg img="CG_第一折_奥托出场1"></cg>
-  <dialog chara="001">Raksha:「Well……」</dialog>
-  <text>The Raksha didn't say anything, but slowly stretched out, struggling to support his knees with his hands, as if to get up.</text>
+  <dialog chara="001">Raksha:「Ừm……」</dialog>
+  <text>Raksha không nói gì, nhưng từ từ duỗi người ra, cố gắng chống đỡ đầu gối bằng tay, như thể muốn đứng dậy.</text>
   <text>
-    <p>[em italic]The Raksha with a pose.[/em]</p>
-    <p>「Eagle」couldn't help cursing in his heart. </p>
-    <p>[em italic]When a hundred times people buy you away, it depends on how you look.[/em]</p>
+    <p>[em italic]Raksha với một tư thế.[/em]</p>
+    <p>「Đại bàng」không khỏi thầm rủa trong lòng.</p>
+    <p>[em italic]Khi người ta mua chuộc bạn hàng trăm lần, điều đó phụ thuộc vào vẻ ngoài của bạn.[/em]</p>
   </text>
-  <text>He suddenly missed the past. If ten years ago, he would have already taken the scimitar out and chopped off this beautiful head. </text>
+  <text>Anh ta đột nhiên nhớ về quá khứ. Nếu mười năm trước, anh ta đã rút thanh kiếm cong ra và chặt đứt cái đầu xinh đẹp này rồi.</text>
   <text>
-    <p>Dead Rakshas are worthless, but the living Rakshas are rare goods.</p>
-    <p>A hundred slave traders prefer this bite, and they can always give a good price.</p>
+    <p>Rakshas đã chết thì vô giá trị, nhưng Rakshas còn sống thì quý hiếm.</p>
+    <p>Một trăm thương nhân buôn nô lệ thích miếng cắn này, và họ luôn có thể trả giá cao.</p>
   </text>
-  <text>「Eagle」looked at the obedient Raksha, suddenly a little curious.</text>
+  <text>「Đại bàng」nhìn Raksha ngoan ngoãn, đột nhiên hơi tò mò.</text>
   <text>
-    <p>Why did he speak to the coffin?</p>
-    <p>This person occupies a whole room alone, mysterious...</p>
-    <p>Yes, he doesn't want people to know what was in the coffin.</p>
+    <p>Tại sao anh ta lại nói chuyện với quan tài?</p>
+    <p>Người này chiếm trọn một căn phòng một mình, bí ẩn...</p>
+    <p>Vâng, anh ấy không muốn mọi người biết trong quan tài có gì.</p>
   </text>
-  <text>Then…… what's in it?</text>
+  <text>Vậy thì…… bên trong có gì?</text>
   <text>
     <p></p>
-    <p>……What would it be? ?</p>
+    <p>……Nó sẽ là gì? ?</p>
   </text>
   <cg></cg>
   <event action="hide_ui" duration="1.1"></event>
@@ -128,73 +128,73 @@
   <motion chara="-5" action="hide" delay="0.3"></motion>
   <motion chara="015" action="img_trans" img="老鹰-狞笑-拔刀-中景" reversex="true"></motion>
   <delay t="0.3"></delay>
-  <text>The scimitar flashed and landed on the Raksha's neck. 「Eagle」 pointed at the coffin in front of him:</text>
+  <text>Thanh kiếm cong lóe lên và đáp xuống cổ Raksha. 「Đại bàng」 chỉ vào chiếc quan tài trước mặt hắn:</text>
   <motion chara="015" action="img_trans" img="老鹰-微笑-单举刀-中景" reversex="true"></motion>
-  <dialog chara="015">「Eagle」:「Open.」</dialog>
+  <dialog chara="015">「Đại bàng」:「Mở.」</dialog>
   <transition mode="move" in="0.5" stop="0.3" out="0.5" color="#000000" direction="left" custom="default"></transition>
   <motion chara="015" action="hide"></motion>
   <cg img="CG_第一折_奥托出场2"></cg>
-  <text>He gave a simple order and got an unexpected answer.</text>
+  <text>Anh ta đưa ra một mệnh lệnh đơn giản và nhận được một câu trả lời bất ngờ.</text>
   <event action="hide_ui" duration="2.5"></event>
   <cg img="CG_第一折_奥托出场3" duration="3"></cg>
   <delay t="2.5"></delay>
-  <dialog chara="001">Raksha:「Do not.」</dialog>
-  <text>The deep green eyes glanced at him very slowly.</text>
-  <dialog chara="015">「Eagle」:「——!」</dialog>
+  <dialog chara="001">Raksha:「Đừng.」</dialog>
+  <text>Đôi mắt xanh thẳm nhìn anh ta rất chậm rãi.</text>
+  <dialog chara="015">「Đại bàng」:「——!」</dialog>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
   <bg img="PureBlack"></bg>
   <text>
-    <p>「Eagle」has seen countless people in his life,</p>
-    <p>And the eyes he has seen are countless.</p>
+    <p>「Đại bàng」đã nhìn thấy vô số người trong đời,</p>
+    <p>Và số mắt mà ông ấy đã thấy là vô số.</p>
   </text>
   <text>
-    <p>Fear, hatred, anger, unwillingness, pain…… </p>
-    <p>He has not only seen it, but was often the source of all these emotions.</p>
+    <p>Sợ hãi, thù hận, giận dữ, không muốn, đau đớn……</p>
+    <p>Ông ấy không chỉ nhìn thấy nó mà còn thường là nguồn gốc của tất cả những cảm xúc này.</p>
   </text>
   <text>
-    <p>A blade on a neck is the best Verita serum in the world, </p>
-    <p>it can completely expose a person's deepest heart.</p>
+    <p>Một lưỡi dao trên cổ là loại huyết thanh Verita tốt nhất trên thế giới,</p>
+    <p>nó có thể phơi bày hoàn toàn tấm lòng sâu kín nhất của một người.</p>
   </text>
   <text>
-    <p>The「Eagle」was numb to his dying eyes, </p>
-    <p>and was indifferent to his dying emotions.</p>
-    <p>He had seen too many of those.</p>
+    <p>Con đại bàng đã tê liệt trước đôi mắt đang hấp hối của anh ta,</p>
+    <p>và thờ ơ với cảm xúc lúc hấp hối của mình.</p>
+    <p>Anh ta đã thấy quá nhiều thứ đó rồi.</p>
   </text>
   <cg img="CG_第一折_奥托出场3" scale="4" origin="50%,20%"></cg>
   <delay t="0.1"></delay>
   <cg img="CG_第一折_奥托出场3" scale="4" duration="10" pos="-100,100" origin="50%,20%"></cg>
   <text>
-    <p>However, there had never been a look like the one in the eyes of this Raksha, </p>
-    <p>Mixed with determination, madness, cruelty, pleasure, compassion and...</p>
+    <p>Tuy nhiên, chưa từng có ánh nhìn nào giống như ánh nhìn trong mắt của Raksha này,</p>
+    <p>Pha trộn giữa quyết tâm, điên rồ, tàn ác, khoái lạc, lòng thương cảm và...</p>
   </text>
-  <text>[em bold]…… Contempt[/em] ?</text>
+  <text>[em bold]…… Khinh thường[/em] ?</text>
   <cg></cg>
   <motion chara="015" action="show" pos="center" img="老鹰-心虚-单举刀-近景"></motion>
   <text>
-    <p>[em italic]Is that.[/em]</p>
-    <p>「Eagle」gave a chuckle in his heart and swallowed and spit.</p>
+    <p>[em italic]Đó là.[/em]</p>
+    <p>「Đại bàng」cười thầm trong lòng rồi nuốt nước bọt.</p>
   </text>
   <text>
-    <p>This Raksha man didn't see him in his eyes at all.</p>
-    <p>In the eyes of this person, the「Eagle」, leader of the Golden Sand Gang , was no different than a grain of sand in the desert.</p>
-    <p>It had neither value nor meaning.</p>
+    <p>Người đàn ông Raksha này hoàn toàn không nhìn vào mắt anh ta.</p>
+    <p>Trong mắt người này, "Đại bàng", thủ lĩnh của Băng đảng Cát Vàng, chẳng khác gì một hạt cát trong sa mạc.</p>
+    <p>Nó không có giá trị cũng chẳng có ý nghĩa gì.</p>
   </text>
   <text>
-    <p>He even had the illusion that in the next second, the Rakshas would walk over this grain of sand,</p>
-    <p>And it would be as natural as a stroll.</p>
+    <p>Hắn thậm chí còn có ảo tưởng rằng trong giây tiếp theo, lũ Rakshas sẽ bước qua hạt cát này,</p>
+    <p>Và nó sẽ tự nhiên như một cuộc dạo chơi.</p>
   </text>
   <event action="hide_ui" duration="1"></event>
   <motion chara="015" action="img_trans" img="老鹰-恐惧-普通NO刀-近景" duration="1"></motion>
-  <text>So he put down the scimitar.</text>
+  <text>Vậy là anh ta đặt thanh kiếm cong xuống.</text>
   <text>
-    <p>Not afraid,「Eagle」told himself:</p>
-    <p>He would never be afraid of a Raksha.</p>
+    <p>Không sợ hãi,「Đại bàng」tự nhủ:</p>
+    <p>Anh ta sẽ không bao giờ sợ Raksha.</p>
   </text>
-  <text>But the emotion in his heart made him more ashamed than fear, and made him want to run away from the person in front of him.</text>
+  <text>Nhưng cảm xúc trong lòng khiến anh ta xấu hổ hơn là sợ hãi, và khiến anh ta muốn chạy trốn khỏi người trước mặt.</text>
   <motion chara="015" action="img_trans" img="老鹰-普通-普通NO刀-近景"></motion>
-  <dialog chara="015">「Eagle」:「……Follow us, don't play tricks.」</dialog>
-  <text>Leaving this sentence aside,「Eagle」turned and walked away.</text>
+  <dialog chara="015">「Đại bàng」:「……Hãy theo chúng tôi, đừng giở trò.」</dialog>
+  <text>Bỏ qua câu này,「Đại bàng」quay lưng bỏ đi.</text>
   <bgm looptimes="0"></bgm>
   <motion chara="015" action="hide"></motion>
   <event action="achievement" aid="4ce232f70dd2d920"></event>
@@ -202,8 +202,8 @@
   <bg img="BGDesert_Smoke"></bg>
   <bgm id="竹林伏兵"></bgm>
   <text>
-    <p>In the distance, a wisp of smoke rose slowly.</p>
-    <p>This is the signal to guide the Golden Sand Gang’s return journey.</p>
+    <p>Ở phía xa, một làn khói mỏng từ từ bốc lên.</p>
+    <p>Đây là tín hiệu để hướng dẫn băng đảng Cát Vàng trở về.</p>
   </text>
   <event action="hide_ui" duration="5.5"></event>
   <bg img="BGDesert02" duration="2"></bg>
@@ -216,37 +216,37 @@
   <delay t="0.1"></delay>
   <motion chara="095" action="show" pos="right" duration="1" img="砂匪2-远-惊慌"></motion>
   <delay t="1"></delay>
-  <dialog chara="095">man:「What--」</dialog>
+  <dialog chara="095">người đàn ông:「Cái gì--」</dialog>
   <motion chara="095" action="img_trans" img="砂匪2-远-微笑"></motion>
   <delay t="0.1"></delay>
-  <dialog chara="095">man:「Leader!」</dialog>
-  <dialog chara="015">「Eagle」:「……Thanks for your hard work.」</dialog>
+  <dialog chara="095">người đàn ông:「Lãnh đạo!」</dialog>
+  <dialog chara="015">「Đại bàng」:「……Cảm ơn vì sự nỗ lực của bạn.」</dialog>
   <motion chara="015" action="move" pos="center" duration="1"></motion>
   <motion chara="015" action="hide" delay="0.5"></motion>
-  <text>「Eagle」 was full of thought and didn’t say much to them, and went straight into the post</text>
+  <text> 「Đại bàng」 đang suy nghĩ rất nhiều và không nói nhiều với họ, rồi đi thẳng đến bưu điện</text>
   <motion chara="095" action="move" pos="left" duration="1"></motion>
   <delay t="1"></delay>
   <motion chara="095" action="img_trans" reversex="true" img="砂匪2-远-普通"></motion>
   <motion chara="094" action="show" pos="right" img="砂匪1-远-普通"></motion>
-  <text>The sand bandits who guarded the house exchanged glances and breathed a sigh of relief at the same time.</text>
-  <dialog chara="095">man:「Call……」</dialog>
-  <text>But before this breath reached his throat, a majestic voice rang in his ears:</text>
+  <text>Những tên cướp cát canh giữ ngôi nhà trao đổi ánh mắt và đồng thời thở phào nhẹ nhõm.</text>
+  <dialog chara="095">người đàn ông:「Gọi……」</dialog>
+  <text>Nhưng trước khi hơi thở này chạm đến cổ họng anh ta, một giọng nói hùng tráng vang lên bên tai anh ta:</text>
   <motion chara="094" action="move" pos="-200,0" duration="1"></motion>
   <motion chara="094" action="img_trans" reversex="true"></motion>
   <motion chara="015" action="show" pos="right" img="老鹰-普通-抱胸有刀-远景"></motion>
-  <dialog chara="015">「Eagle」:「……When I was on the expedition,」</dialog>
-  <text>The leader of the Golden Sand Gang put his arms around his chest, his eyes as sharp as an eagle.</text>
-  <dialog chara="015">「Eagle」:「What's the situation at home?」</dialog>
+  <dialog chara="015">「Đại bàng」:「……Khi tôi tham gia cuộc thám hiểm,」</dialog>
+  <text>Thủ lĩnh của Băng đảng Cát Vàng khoanh tay trước ngực, ánh mắt sắc bén như chim ưng.</text>
+  <dialog chara="015">「Đại bàng」:「Tình hình ở nhà thế nào?」</dialog>
   <motion chara="015" action="img_trans" img="老鹰-悲伤-扭头-远景"></motion>
   <text>
-    <p>He looked up and down at the two people in front of him,</p>
-    <p>glanced at the sand not far away,</p>
-    <p>and cast a meaningful look at the station.</p>
+    <p>Anh ta nhìn lên nhìn xuống hai người trước mặt,</p>
+    <p>liếc nhìn bãi cát không xa lắm,</p>
+    <p>và nhìn nhà ga với ánh mắt đầy ý nghĩa.</p>
   </text>
   <event action="hide_ui" duration="1"></event>
   <motion chara="015" action="img_trans" duration="1" img="老鹰-狞笑-扭头-远景"></motion>
-  <text>The「Eagle」showed an unpleasant smile.</text>
-  <dialog chara="015">「Eagle」:「……It seems to be there.」</dialog>
+  <text>Con đại bàng nở một nụ cười khó chịu.</text>
+  <dialog chara="015">「Đại bàng」:「……Hình như nó ở đó.」</dialog>
   <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="09"></event>
 </scene>

@@ -1,69 +1,69 @@
 <scene id="10" type="block" prev="09" title="伝剣">
   <se id="01-20拿出轩辕剑"></se>
   <motion chara="002" action="img_trans" img="素裳-专注-持剑-近景"></motion>
-  <text>The girl slowly opened the old cloth, took out the family sword, and examined it carefully. </text>
+  <text>Cô gái chậm rãi mở tấm vải cũ, lấy thanh kiếm gia truyền ra và xem xét kỹ lưỡng.</text>
   <motion chara="002" action="hide"></motion>
   <se id="01-21轩辕剑氛围声"></se>
   <cg img="氛围_通用_轩辕剑"></cg>
-  <text>Ancient Sword - Xuanyuan. </text>
-  <text>The sword was two feet long, had a golden yellow body, was double edged, and adorned with dark gray patterns. </text>
-  <text>The material was unknown, made with neither refined iron nor cold steel, but it was light as air, blew and broke hair, spoke of sharpness and hardness, and was fully worthy of the standards of a famous sword. </text>
+  <text>Kiếm cổ - Huyền Nguyên.</text>
+  <text>Thanh kiếm dài hai thước, có thân màu vàng kim, hai lưỡi và được trang trí bằng các họa tiết màu xám đậm.</text>
+  <text>Chất liệu này không rõ nguồn gốc, không được làm từ sắt tinh luyện cũng không phải thép nguội, nhưng nó nhẹ như không khí, thổi bay tóc, nói lên sự sắc bén và cứng cáp, và hoàn toàn xứng đáng với tiêu chuẩn của một thanh kiếm nổi tiếng.</text>
   <cg></cg>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bgm id="久远时光中"></bgm>
   <bg img="忆剑山庄"></bg>
-  <text>When her mother passed the sword to her, she warned: </text>
+  <text>Khi mẹ cô trao thanh kiếm cho cô, bà cảnh báo: </text>
   <dialog chara="009">
-    <p>[This sword was passed down by your Taixuan Grandmaster, and it’s my most cherished family heirloom. </p>
-    <p>You must put it away, keep it close to your body, and never let this sword leave your side.]</p>
+    <p>[Thanh kiếm này được truyền lại từ Đại sư Taixuan của các ngươi, và nó là bảo vật gia truyền quý giá nhất của ta.</p>
+    <p>Ngươi phải cất nó đi, giữ nó sát bên người và không bao giờ để thanh kiếm này rời khỏi bên hông ngươi.</p>
   </dialog>
   <dialog chara="009">
-    <p>[The true secret of [Edge of Taixuan] lies not in the techniques nor the tricks, but in this sword. </p>
-    <p>After you understand Blade Sanction, you will understand what your mother means.]</p>
+    <p>[Bí mật thực sự của [Cạnh Thái Huyền] không nằm ở kỹ thuật hay mánh khóe, mà nằm ở thanh kiếm này.</p>
+    <p>Sau khi hiểu được Lệnh Trừng Phạt Lưỡi Kiếm, con sẽ hiểu ý mẹ con muốn nói gì.</p>
   </dialog>
-  <text>Qin Suyi said, while squishing her cheeks, then gently spoke: </text>
-  <dialog chara="009">[...But if you can’t comprehend it, it doesn’t matter. [\s]Blade Sanction is unpredictable, only your master never cultivated this Essence out of the seven of us; but in terms of martial art prowess, who of us could compare?]</dialog>
-  <text>Her mother sighed suddenly: </text>
-  <dialog chara="009">[Lingshuang has always been indifferent, and had contempt for profit… but after ten years, people can change.]</dialog>
+  <text>Qin Suyi vừa nói vừa véo má cô ấy, rồi nhẹ nhàng nói: </text>
+  <dialog chara="009">[...Nhưng nếu ngươi không thể hiểu được thì cũng không sao. [\s]Phán quyết Lưỡi kiếm rất khó lường, chỉ có sư phụ của ngươi là chưa bao giờ tu luyện được Tinh hoa này trong số bảy người chúng ta; nhưng xét về võ công, ai trong chúng ta có thể sánh được?]</dialog>
+  <text>Mẹ cô ấy đột nhiên thở dài: </text>
+  <dialog chara="009">[Lingshuang luôn thờ ơ và khinh thường lợi nhuận… nhưng sau mười năm, con người có thể thay đổi.]</dialog>
   <dialog chara="009">
-    <p>[Sushang, you can’t hand the Xuanyuan Sword to her, even if she asks you to. [\s]</p>
-    <p>If she asks why, you just say it was me.]</p>
+    <p>[Sushang, ngươi không thể đưa thanh kiếm Huyền Nguyên cho cô ta, dù cô ta có yêu cầu đi nữa. [\s]</p>
+    <p>Nếu cô ấy hỏi tại sao, bạn chỉ cần nói là do tôi.</p>
   </dialog>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="BGDesert03"></bg>
   <mono inline="true">
     <p></p>
-    <p>Sushang was noisy at first, but when she arrived at the desert, she cried symbolically, and soon was swayed by curiosity</p>
+    <p>Sushang ban đầu rất ồn ào, nhưng khi đến sa mạc, cô ấy đã khóc một cách tượng trưng, và chẳng mấy chốc đã bị sự tò mò chi phối</p>
   </mono>
   <bg img="BGDesertWU"></bg>
   <mono inline="true">
     <p></p>
     <p></p>
-    <p>The little kid couldn’t hide the words lodged in her throat, without two words, the Xuanyuan Sword topic already tumbled out of her mouth.</p>
+    <p>Đứa trẻ không thể giấu được những lời nghẹn lại trong cổ họng, chỉ nói được hai câu, chủ đề về Thanh kiếm Huyền Nguyên đã tuôn ra khỏi miệng nó.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
     <p>Her mother’s expectations were right, Master really asked her for the Xuanyuan Sword.[\s]</p>
-    <p>Sushang was honest in nature, after thinking about it, she still handed over the ancient sword with both hands. </p>
+    <p>Sushang vốn là người trung thực, sau khi suy nghĩ kỹ, cô vẫn tự nguyện trao thanh kiếm cổ.</p>
   </mono>
   <text>
     <p>Master will never bully a five year old girl, and steal something right?[\s]</p>
-    <p>She presented the Xuanyuan Sword to her Master, excitement filling up her heart, like a girl excitedly showing off her new clothes. </p>
+    <p>Cô ấy dâng thanh kiếm Huyền Nguyên cho sư phụ, lòng tràn đầy phấn khích, giống như một cô gái hào hứng khoe bộ quần áo mới của mình.</p>
   </text>
   <bg img="PureBlack"></bg>
   <event action="hide_ui" duration="3"></event>
   <bg img="回忆-弹剑" duration="3" pos="0,80"></bg>
   <delay t="3"></delay>
   <dialog chara="007">[...]</dialog>
-  <text>Master laid the Xuanyuan Sword down flat on her knees, gently caressed the blade with her fingers, and after a while, she spoke:</text>
-  <dialog chara="007">[This is Old Seventh’s [Ebonstyle]?]</dialog>
+  <text>Sư phụ đặt thanh kiếm Huyền Nguyên nằm phẳng trên đầu gối, nhẹ nhàng vuốt ve lưỡi kiếm bằng các ngón tay, và sau một lúc, bà ấy nói:</text>
+  <dialog chara="007">[Đây là [Ebonstyle] của Old Seventh?]</dialog>
   <text>
-    <p>Old Seventh… Sushang was startled, before remembering that she and her mother came from the same sect, ranking seventh. [\s]</p>
-    <p>[Ebonstyle] is the name of the Xuanyuan Sword used by her mother. </p>
+    <p>Lão Thất… Sushang giật mình, rồi nhớ ra rằng cô và mẹ cô cùng xuất thân từ một môn phái, đều xếp hạng thứ bảy. [\s]</p>
+    <p>[Ebonstyle] là tên của thanh kiếm Xuanyuan mà mẹ cô ấy sử dụng.</p>
   </text>
-  <text>After Master mentioned something, she remembered she never saw her mother take any action, nor use a weapon. </text>
-  <dialog chara="002">[I don’t know, it should be~ My mother said it’s a family heirloom.]</dialog>
+  <text>Sau khi Sư phụ nhắc đến điều gì đó, cô ấy nhớ ra rằng mình chưa bao giờ thấy mẹ mình hành động hay sử dụng vũ khí.</text>
+  <dialog chara="002">[Tôi không biết, chắc là~ Mẹ tôi nói đó là vật gia truyền của gia đình.]</dialog>
   <event action="hide_ui" duration="3.5"></event>
   <bg img="回忆-弹剑" duration="0.5" pos="0,900"></bg>
   <delay t="0.5"></delay>
@@ -71,80 +71,80 @@
   <delay t="0.1"></delay>
   <bg img="回忆-程凌霜" duration="4" pos="0,80"></bg>
   <delay t="2"></delay>
-  <dialog chara="007">[Oh… heirloom.]</dialog>
+  <dialog chara="007">[Ồ… đồ gia truyền.]</dialog>
   <bg img="回忆-弹剑" pos="0,80"></bg>
-  <text>Master said coldly, looked at the sword on her lap again, and lightly flicked her slender finger on the blade. </text>
+  <text>Sư phụ lạnh lùng nói, nhìn lại thanh kiếm trên đùi mình, rồi nhẹ nhàng búng ngón tay thon thả lên lưỡi kiếm.</text>
   <bg img="PureBlack"></bg>
-  <text>Sushang was startled, the sword rose into the air.</text>
+  <text>Sushang giật mình, thanh kiếm bay lên không trung.</text>
   <event action="hide_ui" duration="5"></event>
   <se id="01-21轩辕剑氛围声" looptimes="-1"></se>
   <bg img="轩辕剑-上升" pos="0,300"></bg>
   <delay t="0.1"></delay>
   <bg img="轩辕剑-上升" duration="30" pos="0,-900"></bg>
   <delay t="4.5"></delay>
-  <text>It rose slowly, very slowly, and when it reached the peak, it paused for a moment.</text>
+  <text>Nó từ từ trồi lên, rất chậm rãi, và khi lên đến đỉnh, nó dừng lại một lát.</text>
   <bg img="轩辕剑-光华"></bg>
-  <text>A beam of sunlight shone on the golden sword body, as if absorbed by the strange gray pattern, it suddenly bursted into the sky with colorful brilliance. </text>
-  <dialog chara="002">[Ah…]</dialog>
-  <text>Li Sushang looked completely captivated.</text>
-  <text>Thinking about it carefully, the sword flying up and down only took around a second. </text>
+  <text>Một tia nắng chiếu vào thân kiếm vàng, như thể bị hấp thụ bởi hoa văn màu xám kỳ lạ, nó đột nhiên bùng lên bầu trời với ánh sáng rực rỡ đầy màu sắc.</text>
+  <dialog chara="002">[À…]</dialog>
+  <text>Li Sushang trông hoàn toàn bị mê hoặc.</text>
+  <text>Suy nghĩ kỹ lại thì thanh kiếm bay lên bay xuống chỉ mất khoảng một giây.</text>
   <text>
-    <p>But to Sushang’s eyes, that was an infinitely long second. [\s]</p>
-    <p>She had been with the sword since childhood, but she never thought that it was such a beautiful thing before. </p>
+    <p>Nhưng đối với mắt của Sushang, đó là một giây dài vô tận. [\s]</p>
+    <p>Cô ấy đã ở bên thanh kiếm từ nhỏ, nhưng trước đây cô ấy chưa bao giờ nghĩ rằng nó lại đẹp đến thế.</p>
   </text>
   <cg img="氛围_通用_轩辕剑下落"></cg>
   <text>
-    <p>During the time that slowed down, the Xuanyuan shone brightly, slowly descending, [\s]</p>
-    <p>and when it landed in front of her, the sword’s blade had sunk into the ground without making a sound. </p>
+    <p>Trong khoảng thời gian chậm lại, Huyền Nguyên tỏa sáng rực rỡ, từ từ hạ xuống, [\s]</p>
+    <p>và khi nó rơi xuống trước mặt cô, lưỡi kiếm đã chìm xuống đất mà không phát ra tiếng động nào.</p>
   </text>
   <se looptimes="0"></se>
   <cg></cg>
   <bg img="回忆-程凌霜" pos="0,80"></bg>
-  <text>Her master stood up, and shook her robe:</text>
+  <text>Chủ nhân của cô đứng dậy và rũ áo choàng của cô:</text>
   <bg img="PureBlack" duration="1"></bg>
-  <dialog chara="007">[From tomorrow and on, you will work on cultivating your Blade Mantra; after the Blade Mantra has been studied, you practice your Blade Form; once you master your Blade Form, then you can wield this sword.]</dialog>
+  <dialog chara="007">[Từ ngày mai trở đi, ngươi sẽ tập trung tu luyện Chú Kiếm; sau khi đã học xong Chú Kiếm, ngươi sẽ luyện tập Quyền Kiếm; khi đã thành thạo Quyền Kiếm, ngươi có thể sử dụng thanh kiếm này.]</dialog>
   <transition mode="clock" in="0.5" stop="0.5" out="0.5" color="#000000"></transition>
   <cg img="氛围_通用_轩辕剑"></cg>
   <bgm looptimes="0"></bgm>
   <bg img="牢房-暗"></bg>
   <text>
-    <p>Sushang smiled at the memory. [\s]</p>
-    <p>Now she was qualified to wield Xuanyuan. </p>
+    <p>Sushang mỉm cười khi nhớ lại. [\s]</p>
+    <p>Giờ cô ấy đã đủ điều kiện để sử dụng Xuanyuan.</p>
   </text>
-  <text>Looking down at the sword in her hand, Sushang suddenly felt a ping of excitement. </text>
+  <text>Nhìn xuống thanh kiếm trong tay, Sushang đột nhiên cảm thấy một sự phấn khích dâng trào.</text>
   <text>
-    <p>Before her rationality intervened, instinctive reactions took control. [\s]</p>
-    <p>The girl caressed the sword, imitating what her master did years ago, and flicked her finger on the blade. </p>
+    <p>Trước khi lý trí can thiệp, phản ứng bản năng đã chiếm quyền kiểm soát. [\s]</p>
+    <p>Cô gái vuốt ve thanh kiếm, bắt chước những gì sư phụ cô đã làm nhiều năm trước, và búng ngón tay lên lưỡi kiếm.</p>
   </text>
   <cg></cg>
   <event action="hide_ui" duration="1"></event>
   <se id="01-32铁剑掷出"></se>
   <bg img="轩辕剑-弹飞"></bg>
   <delay t="1"></delay>
-  <text>The sword flew up in the air, whistling, when it reached mid-air, the golden light was dazzling, and shone brightly. </text>
+  <text>Thanh kiếm bay vút lên không trung, rít lên, khi lên đến giữa không trung, ánh sáng vàng chói lóa và tỏa sáng rực rỡ.</text>
   <bg img="PureBlack"></bg>
   <motion chara="-4" action="shake" duration="0.5" range="40" direction="default"></motion>
   <se id="01-41轩辕剑撞击声"></se>
   <delay t="1"></delay>
   <se id="01-40轩辕剑掉落声"></se>
-  <text>—The next moment, Xuanyuan hit the ceiling, before falling to the ground.</text>
+  <text>—Ngay sau đó, Xuanyuan đập vào trần nhà, rồi rơi xuống đất.</text>
   <bg img="牢房-亮"></bg>
   <motion chara="002" action="show" pos="center" img="素裳-惊讶-普通-近景"></motion>
-  <dialog chara="002">[...Oh no.]</dialog>
+  <dialog chara="002">[...Ôi không.]</dialog>
   <motion chara="002" action="hide"></motion>
   <motion chara="094" action="show" pos="right" img="砂匪1-远-普通"></motion>
-  <text>The door of the dungeon suddenly opened, light shot inside from the top, and a figure walked down the steps. </text>
+  <text>Cánh cửa ngục tối đột nhiên mở ra, ánh sáng chiếu vào từ trên xuống, và một bóng người bước xuống cầu thang.</text>
   <motion chara="094" action="show" img="砂匪1-中-轻笑" pos="center"></motion>
-  <text>The man ignored the commotion all around, and walked straight towards her cell. </text>
-  <text>Li Sushang recognized this Sand bandit:</text>
-  <dialog chara="002">[Sorry, my hand slipped… should it be okay? Did I bother him?]</dialog>
+  <text>Người đàn ông phớt lờ sự ồn ào xung quanh và đi thẳng về phía phòng giam của cô ấy.</text>
+  <text>Li Sushang nhận ra tên cướp cát này:</text>
+  <dialog chara="002">[Xin lỗi, tay tôi lỡ trượt… liệu có ổn không? Tôi có làm phiền anh ấy không?]</dialog>
   <motion chara="094" action="img_trans" img="砂匪1-中-坏笑"></motion>
-  <text>The Sand bandit fixedly stared at her through the iron bars, and suddenly grinned, his laugh was hideousness:</text>
-  <dialog chara="094">[The Boss wants to see you.]</dialog>
+  <text>Tên cướp cát nhìn chằm chằm vào cô qua song sắt, rồi đột nhiên cười toe toét, tiếng cười của hắn thật gớm ghiếc:</text>
+  <dialog chara="094">[Ông chủ muốn gặp bạn.]</dialog>
   <motion chara="094" action="hide"></motion>
-  <dialog chara="002">[Aiya… I knew it.]</dialog>
+  <dialog chara="002">[Aiya… Tôi biết mà.]</dialog>
   <motion chara="002" action="show" pos="center" img="素裳-嘟嘴-抱手-近景"></motion>
-  <text>Li Sushang sighed, knowing that she had been betrayed.</text>
+  <text>Li Sushang thở dài, biết rằng mình đã bị phản bội.</text>
   <transition mode="fade" in="2" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="11"></event>
 </scene>

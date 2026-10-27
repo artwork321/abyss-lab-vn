@@ -4,27 +4,27 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>In the endless darkness, [\s]the dead Celestial's consciousness awakened.</p>
+    <p>Trong bóng đem, [\s]the dead Celestial's consciousness awakened.</p>
   </mono>
   <se id="01-01白光转场"></se>
   <delay t="0.15"></delay>
   <transition in="1" stop="0.5" out="1.5" color="#ffffff" mode="fade"></transition>
   <mono>
     <p></p>
-    <p>In the beginning, the new consciousness was like the birth of the world:[\s]</p>
-    <p>just a spot of light in the universe.</p>
+    <p>Thuở ban đầu, ý thức mới sinh ra như buổi khai thiên lập địa:[\s]</p>
+    <p>chỉ là một đốm sáng nhỏ giữa vũ trụ.</p>
   </mono>
   <se id="01-01恢复意识" looptimes="-1"></se>
   <bg img="BGIntel1" duration="3"></bg>
   <mono>
     <p></p>
-    <p>『Its』power was still limited. [\s] It could neither receive signals from the senses, nor send them to the nerves.</p>
+    <p>『Nó』vẫn còn yếu ớt. [\s] Nó không thể nhận tín hiệu từ giác quan, cũng không thể truyền chúng đến dây thần kinh.</p>
   </mono>
   <bg img="BGIntel3" duration="5"></bg>
   <mono pageend="true">
     <p></p>
-    <p>In that chaos, the weak consciousness followed its ancient instincts.[\s]</p>
-    <p>Blindly but firmly, it awakened and started growing.</p>
+    <p>Trong hỗn mang đó, ý thức yếu ớt đi theo bản năng nguyên thủy của mình.[\s]</p>
+    <p>Mù quáng nhưng kiên định, nó thức tỉnh và bắt đầu lớn lên.</p>
   </mono>
   <delay t="0.2"></delay>
   <mono pageend="true">
@@ -33,8 +33,8 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>It has not realized its own death yet.[\s]</p>
-    <p>The girl refused to acknowledge her own death.</p>
+    <p>Nó vẫn chưa nhận ra cái chết của chính mình.[\s]</p>
+    <p>Người con gái từ chối thừa nhận cái chết của mình.</p>
   </mono>
   <se id="01-01恢复意识" looptimes="0"></se>
   <transition in="2" stop="0" out="0" color="#ffffff" mode="dissolve"></transition>
@@ -46,52 +46,52 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>Judging by common sense, the immortal Celestial was indeed dead.</p>
+    <p>Theo lẽ thường, vị Thiên Thần bất tử kia đã thực sự chết rồi.</p>
   </mono>
   <event action="hide_ui"></event>
   <cg img="CG_第一折_赤鸢碎片1"></cg>
   <delay t="0.5"></delay>
   <event action="show_ui"></event>
-  <mono>Her right leg had been cut off from the ankle down.</mono>
+  <mono>Chân phải của cô đã bị chặt đứt từ mắt cá trở xuống.</mono>
   <event action="hide_ui"></event>
   <cg img="CG_第一折_赤鸢碎片2"></cg>
   <delay t="0.5"></delay>
   <event action="show_ui"></event>
-  <mono>Her hands were crippled.</mono>
+  <mono>Đôi tay cô đã bị tàn phế.</mono>
   <event action="hide_ui"></event>
   <cg img="CG_第一折_赤鸢碎片3"></cg>
   <delay t="0.5"></delay>
   <event action="show_ui"></event>
-  <mono>All her internal organs were destroyed.</mono>
+  <mono>Tất cả nội tạng của cô đều bị hủy hoại.</mono>
   <event action="hide_ui"></event>
   <cg img="CG_第一折_赤鸢碎片4"></cg>
   <delay t="0.5"></delay>
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>Her chest had taken more than a dozen blows.</p>
+    <p>Lồng ngực cô đã hứng chịu hơn một chục nhát đánh.</p>
   </mono>
   <cg duration="0.5"></cg>
   <mono pageend="true">
     <p></p>
-    <p>However, the deadliest wound was on her head.</p>
+    <p>Tuy nhiên, vết thương nguy hiểm nhất lại nằm ở đầu cô.</p>
   </mono>
   <transition in="0.6" stop="0" out="0" color="#8b0000" mode="dissolve"></transition>
   <transition mode="fade" in="0" stop="0.2" out="0.15" color="#8b0000"></transition>
   <se id="01-02大剑命中"></se>
   <motion chara="-4" action="shake" duration="0.1" range="80" direction="horizontal"></motion>
   <bg img="BGBlood1"></bg>
-  <mono>It was wounded by a sword.</mono>
+  <mono>Nó đã bị thương bởi một thanh kiếm.</mono>
   <mono inline="true">
     <p></p>
-    <p>The sword struck her forehead,</p>
+    <p>Thanh kiếm đâm thẳng vào trán cô,</p>
   </mono>
-  <mono inline="true"> destroyed her brain</mono>
-  <mono> and passed through to the back of her head.</mono>
-  <mono>If it were for any other person, they would have died with just one of those injuries.</mono>
+  <mono inline="true"> xuyên phá não bộ</mono>
+  <mono> và xuyên qua phía sau đầu cô.</mono>
+  <mono>Nếu là người bình thường, chỉ một trong những vết thương đó cũng đã đủ để giết chết họ.</mono>
   <mono pageend="true">
     <p></p>
-    <p>But the「Celestial」wasn't ordinary.</p>
+    <p>Nhưng「Thiên Thần」không phải người thường.</p>
   </mono>
   <transition mode="eye" in="2" stop="0" out="2" color="#000000"></transition>
   <se id="01-03野外小屋loop" looptimes="-1"></se>
@@ -99,22 +99,22 @@
   <delay t="2.2"></delay>
   <bg></bg>
   <event action="show_ui"></event>
-  <mono pageend="true">The Celestial is an immortal being that never died.</mono>
+  <mono pageend="true">Thiên Thần là một sinh linh bất tử, chưa từng chịu cái chết.</mono>
   <event action="show_ui"></event>
   <mono>
-    <p>Her body wouldn't die even after thousands of years,[\s]</p>
-    <p>neither would her soul, even after tens of thousands of years.[\s]</p>
+    <p>Thân xác cô sẽ không tàn lụi dù qua hàng ngàn năm,[\s]</p>
+    <p>linh hồn cô cũng vậy, dù đã trải qua hàng vạn năm.[\s]</p>
     <p></p>
-    <p>She completely overthrew the laws of nature,[\s]</p>
-    <p>she was the one and only Celestial of Shenzhou.</p>
+    <p>Cô đã hoàn toàn phá vỡ quy luật của tạo hóa,[\s]</p>
+    <p>cô là vị Thiên Thần duy nhất của Thần Châu.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
     <p></p>
-    <p>This was the very essence of the body that was now lying still in the stone chamber.</p>
+    <p>Đây chính là bản chất của thân xác đang nằm yên trong căn phòng đá đó.</p>
   </mono>
-  <mono>And so,</mono>
+  <mono>Và vì thế,</mono>
   <event action="show_ui"></event>
   <se id="01-03野外小屋loop" looptimes="0"></se>
   <se id="01-04痊愈loop" looptimes="-1"></se>
@@ -122,12 +122,12 @@
   <event action="show_ui"></event>
   <mono pageend="true">
     <p></p>
-    <p>starting from each braincell,[\s]</p>
-    <p>the Celestial's mind and body began a long period of repair and reconstruction.</p>
+    <p>bắt đầu từ từng tế bào não,[\s]</p>
+    <p>tâm trí và thân xác của Thiên Thần bắt đầu một giai đoạn hồi phục và tái tạo dài lâu.</p>
   </mono>
   <event action="show_ui"></event>
   <delay t="7"></delay>
-  <mono pageend="true">Drawing on every breath from her surroundings,</mono>
+  <mono pageend="true">Hấp thụ từng hơi thở của vạn vật xung quanh,</mono>
   <event action="hide_ui" duration="2"></event>
   <cg img="CG_第一折_赤鸢沉睡2" duration="2"></cg>
   <delay t="2"></delay>
@@ -135,7 +135,7 @@
   <se id="01-05痊愈"></se>
   <mono>
     <p></p>
-    <p>patching up the torn skin,</p>
+    <p>vá lại làn da bị rách,</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <cg img="CG_第一折_赤鸢沉睡3" duration="2"></cg>
@@ -143,7 +143,7 @@
   <se id="01-06痊愈"></se>
   <mono>
     <p></p>
-    <p>healing the broken bones,</p>
+    <p>chữa lành xương gãy,</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <cg img="CG_第一折_赤鸢沉睡4" duration="2"></cg>
@@ -151,7 +151,7 @@
   <se id="01-07痊愈"></se>
   <mono>
     <p></p>
-    <p>tying up the crumbling muscles,</p>
+    <p>nối lại những cơ bắp đang vụn vỡ,</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <cg img="CG_第一折_赤鸢沉睡5" duration="2"></cg>
@@ -160,7 +160,7 @@
   <se id="01-05痊愈"></se>
   <mono pageend="true">
     <p></p>
-    <p>repairing the damaged organs…</p>
+    <p>sửa chữa các nội tạng bị tổn thương…</p>
   </mono>
   <delay t="2"></delay>
   <transition in="3" stop="0.5" out="0" color="#ffffff" mode="halo"></transition>
@@ -174,41 +174,41 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>Gradually, the Celestial's 『consciousness』started perceiving its surroundings.</p>
+    <p>Dần dần, 『ý thức』của Thiên Thần bắt đầu cảm nhận được thế giới xung quanh.</p>
   </mono>
   <transition mode="move" in="1" stop="0.5" out="0.5" color="#000000" direction="left" custom="thick"></transition>
   <letterbox action="show_letterbox" height="400" duration="0"></letterbox>
   <se id="01-03野外小屋loop" looptimes="-1"></se>
   <bg img="BGSky00"></bg>
-  <mono>She saw the line of light and shadow going from east to west and from west to east through the little window of the chamber.</mono>
+  <mono>Qua ô cửa nhỏ của căn phòng, cô nhìn thấy đường viền sáng tối di chuyển từ đông sang tây rồi từ tây sang đông.</mono>
   <letterbox action="show_letterbox" height="300" duration="1"></letterbox>
   <bg img="BGSky01"></bg>
   <mono>
     <p></p>
-    <p>She could smell the odor of the withering plants mixing with rotting insects.</p>
+    <p>Cô ngửi thấy mùi cỏ cây héo úa hòa lẫn với mùi côn trùng thối rữa.</p>
   </mono>
   <letterbox action="show_letterbox" height="200" duration="1"></letterbox>
   <bg img="BGSky02"></bg>
   <mono>
     <p></p>
-    <p>She heard the sound of falling leaves, welcoming the autumn, and the snow-covered branches swaying.</p>
+    <p>Cô nghe thấy tiếng lá rụng đón thu về, và tiếng cành cây phủ tuyết đung đưa.</p>
   </mono>
   <letterbox action="show_letterbox" duration="1" height="100"></letterbox>
   <bg img="BGSky04"></bg>
   <mono pageend="true">
-    <p>Then, she felt pain,[\s] numbness,[\s] swelling,[\s] itching…[\s] every part of her body was screaming.[\s]</p>
-    <p>An endless torment took her over…</p>
+    <p>Rồi, cô cảm thấy đau,[\s] tê liệt,[\s] sưng phù,[\s] ngứa ngáy…[\s] từng bộ phận trên cơ thể đều đang kêu la.[\s]</p>
+    <p>Một cơn đau dày vò vô tận bao trùm lấy cô…</p>
   </mono>
   <se id="01-03野外小屋loop" looptimes="0"></se>
   <letterbox action="hide_letterbox" duration="0"></letterbox>
   <bg img="PureBlack" duration="3"></bg>
   <mono>
     <p></p>
-    <p>…an endless recovery,[\s] an endless pain.</p>
+    <p>…hồi phục vô tận,[\s] đau đớn vô tận.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The Celestial remained silent.</p>
+    <p>Thiên Thần vẫn im lặng.</p>
   </mono>
   <se id="01-08扰乱心神杂音loop" looptimes="-1"></se>
   <bg img="BGNeuron03" duration="3"></bg>
@@ -217,30 +217,30 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>「     Who         am         I         ?      」</p>
+    <p>「     Ta         là         ai         ?      」</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Her mind was still confused. [\s]</p>
-    <p>She remembered some things but forgot more and more.</p>
+    <p>Tâm trí cô vẫn còn hỗn loạn. [\s]</p>
+    <p>Cô nhớ được một số điều nhưng càng lúc càng quên nhiều hơn.</p>
   </mono>
   <mono chara="000" pageend="true">
     <p></p>
     <p></p>
     <p></p>
     <p></p>
-    <p>「     Where         is         this         ?      」</p>
+    <p>「     Đây         là         nơi         nào         ?      」</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>With just fragments in her memory, she couldn't put together the answer she seeked.</p>
+    <p>Chỉ với những mảnh ký ức vụn vỡ, cô không thể ghép nối được câu trả lời mình đang tìm kiếm.</p>
   </mono>
   <mono chara="000" pageend="true">
     <p></p>
     <p></p>
     <p></p>
     <p></p>
-    <p>「     …          wh-          ?      」</p>
+    <p>「     …          cái-          ?      」</p>
   </mono>
   <bgm id="千年之羽" looptimes="0"></bgm>
   <se id="01-08扰乱心神杂音loop" looptimes="0"></se>
@@ -251,32 +251,32 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>Suddenly[\s]</p>
-    <p>thinking of that made long abandoned emotions swell up in her chest.</p>
+    <p>Bỗng nhiên[\s]</p>
+    <p>việc nghĩ đến điều đó khiến những cảm xúc bị bỏ quên từ lâu dâng trào trong lòng cô.</p>
   </mono>
   <se id="01-09心跳loop" looptimes="-1"></se>
   <event action="hide_ui" duration="0.5"></event>
   <motion action="shake" chara="-4" range="30" direction="default" duration="0.1" delay="0.1"></motion>
   <mono>
     <p></p>
-    <p>Seven…</p>
+    <p>Bảy…</p>
   </mono>
   <delay t="0.2"></delay>
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>The Seven people closest to her.</p>
+    <p>Bảy người thân cận nhất với cô.</p>
   </mono>
   <mono>
     <p></p>
-    <p>The Seven Swords that stayed by her side for the longest time.</p>
+    <p>Bảy Thanh Kiếm đã ở bên cô lâu nhất.</p>
   </mono>
   <motion chara="-4" action="shake" duration="0.1" range="30" direction="default" looptimes="1"></motion>
   <mono pageend="true" inline="true">
     <p></p>
-    <p>Seven people that conspired, lured her to doom.[\s]</p>
+    <p>Bảy kẻ đã âm mưu, dẫn dụ cô vào chỗ diệt vong.[\s]</p>
     <p></p>
-    <p>Seven Swords that trapped her and killed her.</p>
+    <p>Bảy Thanh Kiếm đã giăng bẫy và giết chết cô.</p>
   </mono>
   <se id="01-09心跳loop" looptimes="0"></se>
   <transition mode="dissolve" in="1" stop="0.5" out="1" color="#000000"></transition>
@@ -287,34 +287,34 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>「       …              Why         ?      」</p>
+    <p>「       …              Tại         sao         ?      」</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="BGNeuron01"></bg>
   <cg img="CG_第一折_赤鸢沉睡end"></cg>
   <mono pageend="true" inline="true">
-    <p>Many emotions swelled up endlessly:[\s]</p>
+    <p>Vô vàn cảm xúc dâng lên không ngừng:[\s]</p>
     <p></p>
     <p></p>
-    <p>anger,[\s]</p>
-    <p>doubt,[\s]</p>
-    <p>resentment,[\s]</p>
-    <p>fury,[\s]</p>
+    <p>tức giận,[\s]</p>
+    <p>nghi hoặc,[\s]</p>
+    <p>oán hận,[\s]</p>
+    <p>phẫn nộ,[\s]</p>
     <p></p>
     <p></p>
-    <p>and sadness, at the end.</p>
+    <p>và cuối cùng là nỗi buồn.</p>
   </mono>
   <mono chara="000">
     <p></p>
     <p></p>
-    <p>「 …why? 」</p>
+    <p>「 …tại sao? 」</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
     <p></p>
     <p></p>
-    <p>There was no answer, only the desire to find one.</p>
+    <p>Không có câu trả lời, chỉ có khao khát tìm được một câu trả lời.</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <cg img="CG_第一折_赤鸢苏醒end" duration="3"></cg>
@@ -324,55 +324,55 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>…the Celestial decided to wait.</p>
+    <p>…Thiên Thần quyết định chờ đợi.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
     <p></p>
-    <p>She has protected this land for countless years.[\s]</p>
-    <p>Time didn't matter for her anymore.</p>
+    <p>Cô đã bảo vệ mảnh đất này suốt vô số năm tháng.[\s]</p>
+    <p>Thời gian không còn quan trọng với cô nữa.</p>
   </mono>
   <mono pageend="true" inline="true">
     <p></p>
     <p></p>
     <p></p>
-    <p>She would keep waiting until her body and mind are fully healed,[\s]</p>
+    <p>Cô sẽ tiếp tục chờ đợi cho đến khi thân xác và tâm trí hồi phục hoàn toàn,[\s]</p>
     <p></p>
-    <p>then she would find those Seven[\s]</p>
+    <p>rồi cô sẽ tìm lại Bảy người đó[\s]</p>
     <p></p>
-    <p>and ask them why they killed her.</p>
+    <p>và hỏi tại sao họ giết cô.</p>
   </mono>
   <mono>
-    <p>A strong desire was branded deep into her consciousness,[\s]</p>
+    <p>Một khao khát mãnh liệt in sâu vào ý thức cô,[\s]</p>
     <p></p>
-    <p>urging her,[\s]</p>
-    <p>pushing her,[\s]</p>
-    <p>changing her.[\s]</p>
+    <p>thôi thúc cô,[\s]</p>
+    <p>đẩy cô về phía trước,[\s]</p>
+    <p>thay đổi cô.[\s]</p>
     <p></p>
-    <p>The wait became a habit[\s]</p>
-    <p>and the pain became natural.</p>
+    <p>Sự chờ đợi trở thành thói quen[\s]</p>
+    <p>và nỗi đau trở thành điều tự nhiên.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>And then…</p>
+    <p>Và rồi…</p>
   </mono>
   <transition mode="clock" in="2" stop="0.5" out="0" color="#000000"></transition>
   <transition mode="fade" in="0" stop="0" out="2" color="#000000"></transition>
   <cg></cg>
   <mono>
-    <p>Pain[\s]</p>
+    <p>Đau[\s]</p>
     <p></p>
-    <p>       Pain[\s]</p>
+    <p>       Đau[\s]</p>
     <p></p>
-    <p>              Pain[\s]</p>
+    <p>              Đau[\s]</p>
     <p></p>
-    <p>                     Pain[\s]</p>
+    <p>                     Đau[\s]</p>
     <p></p>
-    <p>Endless recovery and endless pain.</p>
+    <p>Hồi phục vô tận và đau đớn vô tận.</p>
   </mono>
   <mono pageend="true">
-    <p>The Celestial remained silent.</p>
+    <p>Thiên Thần vẫn im lặng.</p>
   </mono>
   <transition in="1" stop="0.1" out="1" color="#000000" mode="dissolve"></transition>
   <bg img="PureBlack"></bg>
@@ -380,11 +380,11 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>She had been enduring this for a long time,</p>
+    <p>Cô đã chịu đựng điều này từ rất lâu rồi,</p>
     <p></p>
   </mono>
   <mono pageend="true">
-    <p>she could still endure it.</p>
+    <p>cô vẫn có thể tiếp tục chịu đựng.</p>
   </mono>
   <bgm looptimes="0"></bgm>
   <event action="hide_ui"></event>

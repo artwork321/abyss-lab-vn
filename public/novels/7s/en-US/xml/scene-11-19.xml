@@ -7,38 +7,38 @@
   <delay t="2"></delay>
   <mono>
     <p></p>
-    <p>Ma Feima’s smile froze.</p>
+    <p>Nụ cười của Ma Feima đông cứng lại.</p>
   </mono>
-  <mono>His eyes opened slowly, and his mouth opened unconsciously.</mono>
-  <mono pageend="true">This is the exact expression of someone completely bewildered.</mono>
+  <mono>Mắt anh ta từ từ mở ra, và miệng anh ta vô thức mở ra.</mono>
+  <mono pageend="true">Đây chính xác là biểu hiện của một người hoàn toàn bối rối.</mono>
   <mono>
     <p></p>
-    <p>[em italic]Why?[/em]</p>
-    <p>He hasn’t experienced a shock like this for many years.</p>
+    <p>[em italic]Tại sao?[/em]</p>
+    <p>Anh ấy đã không trải qua cú sốc nào như thế này trong nhiều năm rồi.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>[em italic]How could it be possible?[/em]</p>
-    <p>Certain feelings that had been buried for a long time surged once again.</p>
+    <p>[em italic]Làm sao điều đó có thể xảy ra?[/em]</p>
+    <p>Một số cảm xúc đã bị chôn vùi từ lâu lại trỗi dậy.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>There was envy,</p>
-    <p>Jealousy,</p>
-    <p>Self hatred,</p>
-    <p>Ecstasy,</p>
-    <p>Regret…</p>
-    <p>…And also nostalgia.</p>
+    <p>Có sự ghen tị,</p>
+    <p>Ghen tị,</p>
+    <p>Tự ghét bản thân,</p>
+    <p>Trạng thái ngây ngất,</p>
+    <p>Hối tiếc…</p>
+    <p>...Và cả nỗi nhớ nữa.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>[em italic]How… could it be possible?[/em]</p>
-    <p>All kinds of emotions, as a flaming sword materialized in the Raksha’s hand rushed into his heart, shattering his Blade Mantra of Still Water and Dustless. </p>
+    <p>[em italic]Làm sao… có thể như vậy?[/em]</p>
+    <p>Mọi loại cảm xúc, như một thanh kiếm rực lửa hiện ra trong tay Raksha, ùa vào tim hắn, phá vỡ Thần chú Kiếm Nước Tĩnh và Không Bụi của hắn.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Ma Feima couldn’t believe his eyes:</p>
-    <p>What was happening everywhere in his vision, was definitely not like one of [Redsweord]’s illusions.</p>
+    <p>Ma Feima không thể tin vào mắt mình:</p>
+    <p>Những gì đang xảy ra khắp nơi trong tầm nhìn của anh ấy chắc chắn không giống như một trong những ảo ảnh của [Redswoodr].</p>
   </mono>
   <motion chara="008" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
@@ -47,68 +47,68 @@
   <delay t="2"></delay>
   <mono>
     <p></p>
-    <p>A sword of flames.</p>
+    <p>Một thanh kiếm lửa.</p>
   </mono>
   <mono pageend="true">
-    <p>A few moments ago, there was definitely nothing in the Raksha’s hands, definitely!</p>
-    <p>If so… where did this flaming sword condensed by Ki come from?</p>
+    <p>Vừa nãy, chắc chắn không có gì trong tay Raksha cả, chắc chắn là không!</p>
+    <p>Nếu vậy… thanh kiếm rực lửa được ngưng tụ bởi Khí này đến từ đâu?</p>
   </mono>
   <mono chara="008">
     <p></p>
-    <p>[Eminence…]</p>
+    <p>[Đức Hồng Y…]</p>
   </mono>
   <mono pageend="true">
-    <p>Ma Feima murmured,</p>
-    <p>Such martial arts, Ma Feima only knew one such technique in his life.</p>
+    <p>Ma Feima lẩm bẩm,</p>
+    <p>Ma Feima chỉ biết một kỹ thuật võ thuật như vậy trong đời.</p>
   </mono>
   <mono>
     <p></p>
-    <p>Edge of Taixuan’s Fifth Essence: Eminence.</p>
-    <p>Creating a blade with one’s spirit, with Ki born from themself.</p>
-    <p>Only Master Phoenix and Fifth Senior Sister mastered such peerless sword skills.</p>
-    <p>At this moment, it appeared in the hands of the blond Raksha.</p>
+    <p>Cạnh của Tinh hoa thứ năm của Taixuan: Sự ưu việt.</p>
+    <p>Tạo ra một thanh kiếm bằng tinh thần của chính mình, với Ki sinh ra từ chính mình.</p>
+    <p>Chỉ có Sư phụ Phượng Hoàng và Ngũ sư tỷ mới nắm vững được những kỹ năng kiếm pháp vô song như vậy.</p>
+    <p>Vào lúc này, nó xuất hiện trong tay của Raksha tóc vàng.</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <bg img="心湖（1）止水" duration="1"></bg>
   <delay t="1"></delay>
   <mono pageend="true">
     <p></p>
-    <p>Absolute shock shattered Ma Feima’s Blade Mantra. </p>
-    <p>Then his boiling fighting spirit reforged another Blade Mantra.</p>
+    <p>Cú sốc tột độ đã phá vỡ câu thần chú kiếm của Ma Feima.</p>
+    <p>Rồi tinh thần chiến đấu sôi sục của anh ta lại rèn nên một câu thần chú kiếm khác.</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <bg img="心湖（5）止水" duration="2"></bg>
   <delay t="2"></delay>
   <mono>
     <p></p>
-    <p>Water no longer stilled, dust no longer settled. </p>
-    <p>It is called</p>
+    <p>Nước không còn tĩnh lặng, bụi không còn lắng xuống.</p>
+    <p>Nó được gọi là</p>
   </mono>
   <mono pageend="true">
-    <p>Joy</p>
-    <p>Excitement</p>
-    <p>Happiness</p>
-    <p>Satisfaction </p>
-    <p>Longing</p>
-    <p>Yearning</p>
-    <p>Pleasure…</p>
+    <p>Niềm vui</p>
+    <p>Sự phấn khích</p>
+    <p>Hạnh phúc</p>
+    <p>Sự hài lòng</p>
+    <p>Nỗi nhớ</p>
+    <p>Khao khát</p>
+    <p>Niềm vui…</p>
   </mono>
   <mono chara="001">
     <p></p>
-    <p>[You, are you ready?]</p>
+    <p>[Bạn, bạn đã sẵn sàng chưa?]</p>
   </mono>
   <mono pageend="true">
-    <p>The Raksha asked.</p>
+    <p>Raksha hỏi.</p>
     <p></p>
-    <p>The blond man held a scarlet sword in his hand, the sword blazing with flames. </p>
-    <p>The hand holding the sword was engulfed by flames, completely scorched to a black color.</p>
+    <p>Người đàn ông tóc vàng cầm một thanh kiếm màu đỏ tươi trong tay, thanh kiếm bốc cháy.</p>
+    <p>Bàn tay cầm thanh kiếm bị bao trùm bởi ngọn lửa, hoàn toàn bị cháy thành màu đen.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>[You, are you ready?]</p>
-    <p>——This man, he’s like an apostle from the underworld.</p>
+    <p>[Bạn, bạn đã sẵn sàng chưa?]</p>
+    <p>——Người đàn ông này, ông ta giống như một sứ đồ từ thế giới ngầm.</p>
     <p></p>
-    <p>Ma Feima nodded, he had forgotten how to speak.</p>
+    <p>Ma Feima gật đầu, anh ta đã quên cách nói.</p>
   </mono>
   <mono pageend="true">
     <p></p>
@@ -116,19 +116,19 @@
     <p></p>
     <p>He had never faced any scarier threat, and he had never been any closer to the underworld![\s]</p>
     <p></p>
-    <p>Never again, he had faced such a desperate situation whilst on the verge of exhaustion!</p>
+    <p>Không bao giờ nữa, anh ấy đã phải đối mặt với tình huống tuyệt vọng như vậy khi đang trên bờ vực kiệt sức!</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Come on, come on!</p>
-    <p>Come on, Raksha demon!</p>
-    <p>I’ll use all my strength to take this blade!</p>
+    <p>Thôi nào, thôi nào!</p>
+    <p>Nào, quỷ Raksha!</p>
+    <p>Tôi sẽ dùng hết sức mình để lấy được lưỡi kiếm này!</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The Ki surrounding Ma Feima poured into every major orifice of his body, </p>
-    <p>Not caring whether his body could bear the corruption, not caring about about the physical damage, </p>
-    <p>Just waiting for this sword to come, a sword coming!</p>
+    <p>Khí bao quanh Ma Feima tràn vào mọi lỗ hổng chính trên cơ thể anh ta,</p>
+    <p>Không quan tâm liệu cơ thể mình có chịu đựng được sự mục nát hay không, không quan tâm đến những tổn thương về thể chất,</p>
+    <p>Chỉ chờ thanh kiếm này đến, một thanh kiếm sắp đến!</p>
   </mono>
   <transition mode="halo" in="1" stop="0.5" out="1" color="#ffffff"></transition>
   <event action="hide_ui" duration="2"></event>
@@ -137,31 +137,31 @@
   <delay t="2.5"></delay>
   <mono pageend="true">
     <p></p>
-    <p>The Raksha swung the sword, the light of his sword slashed the air, sizzling.[\s]</p>
+    <p>Raksha vung kiếm, ánh sáng từ thanh kiếm của hắn chém vào không khí, xèo xèo.[\s]</p>
     <p></p>
-    <p>Guard Form, Switch Form… Edge of Taixuan’s strongest defensive moves passed one by one through Ma Feima’s mind. </p>
+    <p>Thế phòng thủ, Thế chuyển đổi… Những chiêu thức phòng thủ mạnh nhất của Taixuan lần lượt lướt qua tâm trí Ma Feima.</p>
     <p></p>
-    <p>Then, unsurprisingly, </p>
-    <p>Ma Feima knew that this sword of unstoppable might, this force of absolute destructive power, </p>
-    <p>All forms of defense are meaningless.</p>
+    <p>Rồi, không có gì đáng ngạc nhiên, </p>
+    <p>Ma Feima biết rằng thanh kiếm có sức mạnh không thể ngăn cản này, sức mạnh hủy diệt tuyệt đối này, </p>
+    <p>Mọi hình thức phòng thủ đều vô nghĩa.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>It turns out, the sword is such a terrible object,</p>
-    <p>Just like a crimson reaper.</p>
+    <p>Hóa ra, thanh kiếm là một vật thể khủng khiếp như vậy,</p>
+    <p>Giống như một thần chết đỏ thẫm.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>It turns out, life is such a fragile thing, </p>
-    <p>just like a spark.</p>
+    <p>Hóa ra, cuộc sống thật mong manh,</p>
+    <p>giống như một tia lửa.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>It turns out, today’s the day of death, not too late nor too soon.</p>
-    <p>However, being defeated by Eminence’s hands, what regrets would there be?</p>
+    <p>Hóa ra, hôm nay là ngày chết, không quá muộn cũng không quá sớm.</p>
+    <p>Tuy nhiên, bị đánh bại bởi tay của Đức Vua thì có gì phải hối tiếc?</p>
   </mono>
   <transition mode="fade" in="2" stop="1" out="2" color="#000000"></transition>
   <event action="hide_ui" duration="2"></event>
@@ -182,19 +182,19 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>Su Mei’s smile flashed before Ma Feima’s eyes.</p>
+    <p>Nụ cười của Tô Mỹ thoáng qua trước mắt Mã Phi Ma.</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="氛围_第二折_余火" duration="1"></cg>
   <delay t="1"></delay>
   <mono>
     <p></p>
-    <p>And then came the fire, the burning fire.[\s]</p>
-    <p>It burned, then burned, then burned.</p>
+    <p>Và rồi ngọn lửa bùng lên, ngọn lửa đang cháy.[\s]</p>
+    <p>Nó cháy, rồi cháy, rồi cháy.</p>
   </mono>
   <mono>
     <p></p>
-    <p>——————————————And then,</p>
+    <p>——————————————Và sau đó,</p>
   </mono>
   <mono pageend="true">
     <p>————————————</p>
@@ -211,7 +211,7 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>The fire went out, the flame extinguished.</p>
+    <p>Ngọn lửa đã tắt, ngọn lửa đã tắt hẳn.</p>
   </mono>
   <transition mode="fade" in="3" stop="0.5" out="0" color="#ffffff"></transition>
   <event action="goto" to="20"></event>

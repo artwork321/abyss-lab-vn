@@ -20,7 +20,7 @@ const Footer = ({}: FooterProps) => {
               mb: 2
             }}
           >
-            About Abyss Lab
+            About Original Abyss Lab
           </Link>
         </NextLink>
         <Link

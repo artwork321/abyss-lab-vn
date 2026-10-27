@@ -6,28 +6,28 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>﻿One step!</p>
+    <p>\ufeffMột bước!</p>
   </mono>
   <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="left" custom="default"></transition>
-  <mono pageend="true">For a warrior: within a single step is the distance to fight for one’s life. </mono>
+  <mono pageend="true">Đối với một chiến binh: chỉ trong một bước chân là khoảng cách để chiến đấu giành giật sự sống.</mono>
   <event action="hide_ui" duration="2.5"></event>
   <motion chara="-5" action="show" pos="center" img="男子举刀"></motion>
   <motion chara="-5" action="hide" delay="2.3"></motion>
   <delay t="2.5"></delay>
   <event action="show_ui"></event>
   <bg img="男子举刀2"></bg>
-  <mono pageend="true">The brute swung his greatsword and was about to chop off the little girl’s head, but he saw a flash of a shadow. </mono>
+  <mono pageend="true">Tên hung bạo vung thanh đại kiếm và sắp sửa chặt đầu cô bé, nhưng hắn nhìn thấy một cái bóng vụt qua.</mono>
   <se id="01-22女孩轻功whoosh_01"></se>
   <transition mode="move" in="0.1" stop="0.1" out="0.1" color="#FFFFFF" direction="left" custom="default"></transition>
   <bg img="PureBlack"></bg>
   <motion chara="-4" action="shake" duration="0.1" range="50" direction="horizontal" looptimes="1"></motion>
-  <mono pageend="true">……The girl disappeared. </mono>
+  <mono pageend="true">……Cô gái biến mất.</mono>
   <motion action="show" pos="center" chara="094" img="砂匪-大叫-远景"></motion>
-  <dialog chara="094">「-What?!」</dialog>
+  <dialog chara="094">「-Cái gì?!」</dialog>
   <mono pageend="true">
-    <p>He instinctively looked down,</p>
+    <p>Anh ta theo bản năng nhìn xuống,</p>
     <p></p>
-    <p>only to suddenly feel pain on his left calf;</p>
+    <p>chỉ để đột nhiên cảm thấy đau ở bắp chân trái;</p>
   </mono>
   <bgm looptimes="0"></bgm>
   <motion chara="094" action="hide" duration="0"></motion>
@@ -45,16 +45,16 @@
   <bg img="氛围_第一折_烈阳2"></bg>
   <mono>
     <p></p>
-    <p>The brute was just looking down at the ground, but he saw the sun instead of the ground. </p>
+    <p>Tên thô lỗ chỉ nhìn xuống đất, nhưng hắn lại nhìn thấy mặt trời thay vì mặt đất.</p>
   </mono>
   <se id="01-24-2男空中旋转衣服"></se>
   <mono chara="094" pageend="true">
     <p></p>
-    <p>(How did…)</p>
+    <p>(Làm thế nào mà…)</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>He hadn't realized that he was kicked into the air, and that something cool poked him on his temple.</p>
+    <p>Anh ta không nhận ra mình bị đá lên không trung, và có thứ gì đó mát lạnh chọc vào thái dương anh ta.</p>
   </mono>
   <se id="01-24-1男空中旋转" looptimes="0"></se>
   <se id="01-31颈部命中"></se>
@@ -62,30 +62,30 @@
   <bg img="PureBlack"></bg>
   <mono pageend="true">
     <p></p>
-    <p>——The sun was swallowed by darkness.</p>
+    <p>——Mặt trời bị bóng tối nuốt chửng.</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bgm id="竹林伏兵"></bgm>
   <bg img="BGDesert02"></bg>
-  <mono>When he was in the air, the brute had fainted.</mono>
+  <mono>Khi đang ở trên không, con thú đã ngất xỉu.</mono>
   <mono pageend="true">
     <p></p>
-    <p>From the flashing of the greatsword, to kicking the brute with surprising strength, and then knocking him out with a finger. It only took Sushang less than a blink of an eye.</p>
+    <p>Từ lúc thanh đại kiếm lóe sáng, đến lúc đá tên hung bạo với sức mạnh đáng kinh ngạc, rồi hạ gục hắn bằng một ngón tay. Sushang chỉ mất chưa đến một cái chớp mắt.</p>
   </mono>
   <event action="hide_ui" duration="0.1"></event>
   <cg img="CG_通用_李素裳战斗-1"></cg>
   <delay t="0.1"></delay>
   <event action="show_ui"></event>
   <mono>
-    <p>Her spirit has been focused like never before.</p>
+    <p>Tinh thần của cô ấy đã tập trung hơn bao giờ hết.</p>
     <p></p>
-    <p>In addition to knocking down the enemy in front of her, there was no more thought in Sushang's mind.</p>
+    <p>Ngoài việc hạ gục kẻ thù trước mặt, Sushang không còn suy nghĩ gì khác nữa.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>It was the「Blade Mantra」of the Five Essences of Edge of Taixuan.</p>
+    <p>Đó là 「Thần chú Kiếm」của Ngũ Tinh của Cạnh Thái Huyền.</p>
     <p></p>
-    <p>The foundational Essence, yet it was also the most difficult Essence to master. </p>
+    <p>Bản chất nền tảng, nhưng cũng là Bản chất khó nắm vững nhất.</p>
   </mono>
   <bg img="PureBlack"></bg>
   <cg></cg>
@@ -94,23 +94,23 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>『Blade Mantra - Still Water』!</p>
+    <p>『Thần chú Lưỡi kiếm - Nước tĩnh lặng』!</p>
   </mono>
   <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="left" custom="default"></transition>
   <bgm id="竹林伏兵"></bgm>
   <bg img="BGDesert02"></bg>
   <motion chara="095" action="show" pos="left" img="砂匪2-中-普通" reversex="true"></motion>
   <dialog chara="095">「※!」 </dialog>
-  <text>The man took a step late, but Rong’s body blocked and luckily separated him from the girl. </text>
+  <text>Người đàn ông bước chậm một bước, nhưng thân thể của Rong đã chặn lại và may mắn ngăn cách anh ta với cô gái.</text>
   <motion chara="094" action="show" pos="right" img="山贼4号近景"></motion>
   <motion chara="099" action="show" pos="center" img="山贼3号中景"></motion>
-  <text>The three remaining people quickly readjusted their formation. </text>
+  <text>Ba người còn lại nhanh chóng điều chỉnh lại đội hình.</text>
   <motion chara="095" action="img_trans" img="砂匪2-中-微笑" reversex="true"></motion>
-  <dialog chara="095">「This girl is a trained fighter!」</dialog>
-  <text>The other two remained silent.</text>
+  <dialog chara="095">「Cô gái này là một võ sĩ được đào tạo bài bản!」</dialog>
+  <text>Hai người kia vẫn im lặng.</text>
   <text>
-    <p>There was no answer from either side.</p>
-    <p>The experienced Sand bandits didn’t care about this, because in their eyes, the girl was already a dying person.</p>
+    <p>Không có câu trả lời từ cả hai phía.</p>
+    <p>Những tên cướp cát dày dạn kinh nghiệm không quan tâm đến điều này, bởi vì trong mắt chúng, cô gái đã là người sắp chết rồi.</p>
   </text>
   <motion chara="099" action="hide" duration="1"></motion>
   <motion chara="094" action="hide" duration="1"></motion>
@@ -118,41 +118,41 @@
   <delay t="1"></delay>
   <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="right" custom="default"></transition>
   <bg img="PureBlack"></bg>
-  <mono inline="true">At the other end, Sushang laid on the sand, suddenly jumped in a split second, </mono>
+  <mono inline="true">Ở đầu kia, Sushang nằm trên cát, đột nhiên nhảy lên trong tích tắc,</mono>
   <se id="01-25沙子飞溅"></se>
   <motion chara="-5" action="show" pos="center" img="砂石如瀑"></motion>
   <motion chara="-5" action="hide" delay="0.8"></motion>
   <bg img="飞沙走石2"></bg>
-  <mono>her left foot kicked the sand towards the men, arousing the sand and rocks like a waterfall.</mono>
+  <mono>chân trái của cô ấy đá cát về phía những người đàn ông, làm tung cát và đá như thác nước.</mono>
   <mono>
     <p></p>
-    <p>Use sand to cover the enemy’s sight in exchange for a valuable time advantage.</p>
+    <p>Sử dụng cát để che khuất tầm nhìn của kẻ địch nhằm đổi lấy lợi thế thời gian quý báu.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Use every point of the venue factor to maximize the possibility of winning.</p>
+    <p>Sử dụng mọi điểm của yếu tố địa điểm để tối đa hóa khả năng chiến thắng.</p>
     <p></p>
-    <p>This was Sushang's way of thinking. </p>
+    <p>Đây là cách suy nghĩ của Sushang.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>But this was also what the enemy expected.</p>
-  </mono>
-  <mono>
-    <p></p>
-    <p>Due to many years in the Northern Desert, the bandits have long been familiar with this style of tricks. </p>
-  </mono>
-  <mono pageend="true">
-    <p></p>
-    <p>It’s better to say that they were the most proficient in these same tactics.</p>
+    <p>Nhưng đây cũng là điều kẻ thù mong đợi.</p>
   </mono>
   <mono>
     <p></p>
-    <p>Girl kicked up the sand, which was not surprise, as the enemies they faced in the past always did the same.</p>
+    <p>Do sống nhiều năm ở sa mạc phía Bắc, bọn cướp đã quen thuộc với kiểu thủ đoạn này từ lâu.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>But if she thought they would be in a hurry because of this, then she was underestimating the Sand bandits.</p>
+    <p>Nói đúng hơn là họ là những người thành thạo nhất trong những chiến thuật này.</p>
+  </mono>
+  <mono>
+    <p></p>
+    <p>Cô gái đá tung cát lên, điều này không có gì đáng ngạc nhiên, vì những kẻ thù mà họ từng đối mặt trong quá khứ luôn làm như vậy.</p>
+  </mono>
+  <mono pageend="true">
+    <p></p>
+    <p>Nhưng nếu cô ấy nghĩ rằng họ sẽ vội vàng vì điều này thì cô ấy đã đánh giá thấp bọn cướp cát.</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="3" color="#000000"></transition>
   <cg img="氛围_第一折_金沙帮众"></cg>
@@ -160,16 +160,16 @@
   <mono>
     <p></p>
     <p></p>
-    <p>——The「Golden Sand Gang」of the Northern Desert has been operating on Shenzhou, Ingush, and Bahai’s border for over six years. </p>
+    <p>——Băng đảng Cát Vàng của sa mạc phía Bắc đã hoạt động trên biên giới Shenzhou, Ingush và Bahai trong hơn sáu năm.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>What they did was the work of bandits: robbing caravans that went to and from countries, snatching precious goods, killing men and old people, and selling women and children into slavery.</p>
+    <p>Những gì họ làm là công việc của bọn cướp: cướp bóc các đoàn lữ hành đi đến và đi từ các quốc gia, cướp đoạt những vật phẩm quý giá, giết đàn ông và người già, và bán phụ nữ và trẻ em làm nô lệ.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>But compared to other bandits, the Sand bandits were more disciplined.</p>
+    <p>Nhưng so với những tên cướp khác, bọn cướp Cát có kỷ luật hơn.</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bgm looptimes="0"></bgm>
@@ -178,35 +178,35 @@
   <delay t="1"></delay>
   <bgm id="传奇诞生"></bgm>
   <text>
-    <p>Legend has it that the leader of the Golden Sand Gang,「Eagle」, was of military background.</p>
-    <p>However, he was relegated for unjust crimes, and the whole clan was implicated.</p>
+    <p>Truyền thuyết kể rằng thủ lĩnh của Băng đảng Cát Vàng, "Đại Bàng", xuất thân từ quân đội.</p>
+    <p>Tuy nhiên, ông ta bị giáng chức vì những tội ác bất công, và cả gia tộc đều bị liên lụy.</p>
   </text>
   <bg img="PureBlack"></bg>
   <motion chara="015" action="show" pos="center" img="老鹰-悲伤-扭头-远景"></motion>
-  <text>「Eagle」came to the Northern Desert and out of rage, became a bandit, and joined the gang. </text>
-  <text>It only took him a day, a knife and an intelligent mind to ascend the position of the leader.</text>
+  <text>「Đại bàng」đến sa mạc phía Bắc và vì tức giận nên đã trở thành một tên cướp và gia nhập băng đảng.</text>
+  <text>Chỉ cần một ngày, một con dao và một trí óc thông minh là anh ta đã leo lên vị trí lãnh đạo.</text>
   <motion chara="015" action="img_trans" img="老鹰-狞笑-扭头-远景"></motion>
-  <text>No one dared to mention the name of the previous bandit leader since then.</text>
-  <notification>Biography unlocked：「Eagle」</notification>
+  <text>Kể từ đó không ai dám nhắc đến tên của thủ lĩnh băng cướp trước nữa.</text>
+  <notification>Tiểu sử được mở khóa:「Đại bàng」</notification>
   <event action="achievement" aid="c6045ef06bed0a3f"></event>
   <text>
-    <p>The gang feared「Eagle」because he was ruthless; </p>
-    <p>The gang respected「Eagle」, because he always won and was undefeated.</p>
+    <p>Băng đảng sợ "Đại bàng" vì hắn ta tàn nhẫn; </p>
+    <p>Băng đảng kính trọng "Đại bàng" vì anh ta luôn thắng và bất bại.</p>
   </text>
   <text>
-    <p>After becoming the new boss, he brought about earth-shaking changes to the Golden Sand Gang. </p>
+    <p>Sau khi trở thành ông trùm mới, ông ta đã mang đến những thay đổi chấn động cho Băng đảng Cát Vàng.</p>
   </text>
   <text>
-	<p>The gang went from former bandits to becoming a small disciplined group, the overlord of the land along the border of the Northern Desert.</p>
+	<p>Băng nhóm này từ những tên cướp trước đây đã trở thành một nhóm nhỏ có kỷ luật, là chúa tể của vùng đất dọc biên giới Sa mạc phía Bắc.</p>
   </text>
   <motion chara="015" action="hide" img="老鹰-普通-玩玉-远景"></motion>
   <text>
-    <p>The bandits must have practiced martial arts at one point or another, and practiced diligently. </p>
-    <p>After martial arts training was completed, they were trained in military arts.</p>
+    <p>Bọn cướp chắc hẳn đã từng luyện võ thuật vào lúc nào đó, và luyện tập rất chăm chỉ.</p>
+    <p>Sau khi hoàn thành khóa huấn luyện võ thuật, họ được huấn luyện về nghệ thuật quân sự.</p>
   </text>
   <text>
-    <p>「Eagle」tirelessly taught formation, changes, coordination, and various signals and commands. </p>
-    <p>What「Eagle」wanted was not a sloppy bandit group, but an army.</p>
+    <p>「Đại bàng」không ngừng dạy về đội hình, sự thay đổi, sự phối hợp và các tín hiệu và mệnh lệnh khác nhau.</p>
+    <p>Điều mà "Đại bàng" muốn không phải là một nhóm cướp lộn xộn, mà là một đội quân.</p>
   </text>
   <bgm looptimes="0"></bgm>
   <event action="goto" to="05"></event>

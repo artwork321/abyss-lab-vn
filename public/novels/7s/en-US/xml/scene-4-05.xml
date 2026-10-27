@@ -3,57 +3,57 @@
   <bgm id="原始武士"></bgm>
   <bg img="BGDesert02"></bg>
   <motion chara="002" action="show" pos="center" img="素裳-笑-普通-远景"></motion>
-  <text>Because of this, when the three of them faced the strange girl in front of them, they didn’t even look down on her.</text>
+  <text>Vì điều này, khi cả ba người họ đối mặt với cô gái lạ mặt trước mặt, họ thậm chí không hề coi thường cô ấy.</text>
   <motion chara="002" action="hide" delay="1"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <motion chara="015" action="show" pos="center" img="老鹰-普通-单举刀-远景"></motion>
-  <dialog chara="015">[The enemy is the enemy. There is no distinction between men and women, old or young, only you. Anyone can take your life. Treat the target as the last opponent in your life and use all means to kill them.]  </dialog>
-  <text>Eagle warned them repeatedly.</text>
+  <dialog chara="015">[Kẻ thù là kẻ thù. Không có sự phân biệt giữa nam và nữ, già hay trẻ, chỉ có bạn. Bất cứ ai cũng có thể lấy mạng bạn. Hãy coi mục tiêu như đối thủ cuối cùng trong đời bạn và dùng mọi cách để tiêu diệt chúng.]</dialog>
+  <text>Đại bàng đã nhiều lần cảnh báo họ.</text>
   <motion chara="015" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="BGDesert02"></bg>
   <motion chara="002" action="show" pos="center" img="素裳-笑-普通-远景"></motion>
-  <text>Therefore, the three of them didn’t panic at all when they saw that their companion was knocked out.</text>
+  <text>Vì vậy, cả ba người họ đều không hề hoảng sợ khi thấy người bạn của mình bị đánh bất tỉnh.</text>
   <motion chara="002" action="hide" delay="1"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <motion chara="015" action="show" pos="center" img="老鹰-普通-抱胸有刀-远景"></motion>
-  <dialog chara="015">[You must protect your companions on the battlefield, but fallen companions are not comrades in arms, but burdens. Don’t treat them as standing people. Only soldiers who know when to give them up can live longer.] </dialog>
-  <text>Eagle reminded them repeatedly.</text>
+  <dialog chara="015">[Bạn phải bảo vệ đồng đội của mình trên chiến trường, nhưng những đồng đội đã ngã xuống không còn là đồng đội chiến đấu nữa, mà là gánh nặng. Đừng đối xử với họ như những người còn sống. Chỉ những người lính biết khi nào nên từ bỏ họ mới có thể sống lâu hơn.]</dialog>
+  <text>Đại bàng nhắc nhở họ nhiều lần.</text>
   <motion chara="015" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="BGDesert02"></bg>
   <motion chara="002" action="show" pos="center" img="素裳-笑-普通-远景"></motion>
-  <text>Similarly, the three of them didn’t hesitate after seeing Sushang had kicked up a sand storm into the sky.</text>
+  <text>Tương tự, cả ba người họ đều không ngần ngại sau khi thấy Sushang đã tạo ra một cơn bão cát trên bầu trời.</text>
   <motion chara="002" action="hide" delay="1"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <motion chara="015" action="show" pos="center" img="老鹰-微笑-持刀-远景"></motion>
-  <dialog chara="015">[Follow my plan, and everything will be fine.]</dialog>
+  <dialog chara="015">[Hãy làm theo kế hoạch của tôi, mọi việc sẽ ổn thôi.]</dialog>
   <text>
-    <p>This was the guarantee of "Eagle". </p>
-    <p>They believe in "Eagle".</p>
+    <p>Đây là sự đảm bảo của "Đại bàng".</p>
+    <p>Họ tin vào "Đại bàng".</p>
   </text>
-  <text>After all, for five years, "Eagle"’s instructions have never been wrong.</text>
+  <text>Xét cho cùng, trong năm năm qua, chỉ thị của "Đại bàng" chưa bao giờ sai.</text>
   <motion chara="015" action="hide"></motion>
-  <text>Not once.</text>
+  <text>Không một lần nào.</text>
   <bgm looptimes="0"></bgm>
   <mono>
     <p></p>
-    <p>The three quickly closed their eyes.</p>
+    <p>Ba người nhanh chóng nhắm mắt lại.</p>
   </mono>
   <mono>
     <p></p>
-    <p>Compared with the loss of vision, the pain and conditioned reflexes caused by sand in the eyes were more dangerous.</p>
+    <p>So với việc mất thị lực, cơn đau và phản xạ có điều kiện do cát vào mắt gây ra nguy hiểm hơn.</p>
   </mono>
   <mono>
     <p></p>
-    <p>The moment they closed their eyes, the three had already memorized each other's and the enemy's location.</p>
+    <p>Ngay khi nhắm mắt lại, cả ba người đã ghi nhớ vị trí của nhau và của kẻ thù.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The steps they took next and the direction of their swords strictly followed the “Cormorant Wings Formation”. </p>
+    <p>Các bước họ thực hiện tiếp theo và hướng kiếm của họ tuân thủ nghiêm ngặt theo “Đội hình cánh chim cốc”.</p>
   </mono>
   <se id="01-26大刀向下挥"></se>
   <motion chara="-5" action="show" pos="center" img="竖劈"></motion>
@@ -61,7 +61,7 @@
   <bg img="竖劈1-黑底"></bg>
   <mono pageend="true">
     <p></p>
-    <p>The bandit in the center took the lead with a greatsword, launching a heavy strike from above.</p>
+    <p>Tên cướp ở giữa dẫn đầu với thanh đại kiếm, tung ra một đòn đánh mạnh từ trên cao.</p>
   </mono>
   <se id="01-27大刀横挥"></se>
   <motion chara="-5" action="show" pos="center" img="横劈"></motion>
@@ -69,40 +69,40 @@
   <bg img="横劈1-黑底"></bg>
   <mono pageend="true">
     <p></p>
-    <p>The bandit on the left took a step, slashed horizontally, and attacked the target’s lower half.</p>
+    <p>Tên cướp bên trái bước một bước, chém ngang và tấn công phần thân dưới của mục tiêu.</p>
   </mono>
   <bg img="PureBlack"></bg>
   <mono pageend="true">
     <p></p>
-    <p>The intention of these two swords was not to kill the enemy, but to bait the enemy.</p>
+    <p>Mục đích của hai thanh kiếm này không phải là để giết kẻ thù, mà là để dụ kẻ thù.</p>
   </mono>
   <se id="01-26大刀向下挥"></se>
   <se id="01-27大刀横挥"></se>
   <bg img="叠加1-黑底"></bg>
   <mono>
     <p></p>
-    <p>"Eagle" carefully designed formations and swordsmanship to guide the enemy to dodge according to a pre-established route.</p>
+    <p>"Đại bàng" đã cẩn thận thiết kế đội hình và kiếm thuật để hướng dẫn kẻ địch né tránh theo một lộ trình đã được định sẵn.</p>
   </mono>
   <mono>
     <p></p>
-    <p>If the target can dodge these two blades, then she must be in the pre-calculated position at this moment.</p>
+    <p>Nếu mục tiêu có thể né được hai lưỡi kiếm này, thì cô ấy phải đang ở vị trí đã được tính toán trước vào lúc này.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>At this time, it was the turn of the bandit on the right to execute a mortal blow.</p>
+    <p>Lúc này, đến lượt tên cướp bên phải ra đòn chí mạng.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>They're confident that even if they couldn’t see the enemy, they could kill the enemy with this three-man formation!</p>
+    <p>Họ tự tin rằng ngay cả khi không thể nhìn thấy kẻ thù, họ vẫn có thể tiêu diệt kẻ thù bằng đội hình ba người này!</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <mono>
     <p></p>
-    <p>There was nothing wrong with the formation, but the Sands bandits underestimated Sushang.</p>
+    <p>Không có gì sai với đội hình, nhưng bọn cướp Cát đã đánh giá thấp Sushang.</p>
   </mono>
-  <mono pageend="true">Underestimated her odd speed.</mono>
+  <mono pageend="true">Đánh giá thấp tốc độ kỳ lạ của cô ấy.</mono>
   <se id="01-25沙子飞溅"></se>
   <bg img="飞沙走石2"></bg>
   <bgm id="火燃"></bgm>
@@ -110,18 +110,18 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>As soon as the sand specks flew up, Sushang had already sprung forward.</p>
+    <p>Ngay khi những hạt cát bay lên, Sushang đã lao tới.</p>
   </mono>
   <cg img="CG_通用_李素裳战斗-2"></cg>
   <mono>
     <p></p>
     <p></p>
     <p></p>
-    <p>Just as the Sand bandits were convinced of Eagle's formation, she also had absolute confidence in her martial arts.</p>
+    <p>Cũng giống như bọn cướp cát tin tưởng vào đội hình của Đại Bàng, cô ấy cũng hoàn toàn tin tưởng vào võ công của mình.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>With a clear Blade Heart, she didn’t feel that the slow sword technique of the big man was necessary to dodge.</p>
+    <p>Với một trái tim sắc bén, cô ấy không cảm thấy cần phải né tránh kỹ thuật kiếm chậm chạp của gã đàn ông to lớn.</p>
   </mono>
   <bg img="PureBlack"></bg>
   <cg></cg>
@@ -135,7 +135,7 @@
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>When the middle swordsman raised the greatsword, the girl was already within arms reach.</p>
+    <p>Khi kiếm sĩ ở giữa giơ thanh đại kiếm lên, cô gái đã ở trong tầm với.</p>
   </mono>
   <event action="hide_ui" duration="1.2"></event>
   <motion chara="-5" action="show" pos="center" img="击打下颚"></motion>
@@ -148,15 +148,15 @@
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>Before he even had time to react, he received a heavy blow on the lower jaw.</p>
+    <p>Trước khi anh ta kịp phản ứng, anh ta đã nhận một cú đánh mạnh vào hàm dưới.</p>
     <p></p>
-    <p>The impact passed through his skull directly to the brain. The violent concussion immediately made him faint.</p>
+    <p>Cú va chạm xuyên qua hộp sọ của anh ta trực tiếp đến não. Chấn động mạnh ngay lập tức khiến anh ta bất tỉnh.</p>
   </mono>
   <motion chara="-4" action="shake" duration="0.1" range="30" direction="default"></motion>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>Therefore, the swordsman failed to feel the heavy kick that hit his knee afterwards, and collapsed to the ground.</p>
+    <p>Do đó, kiếm sĩ không cảm thấy cú đá mạnh vào đầu gối sau đó và ngã xuống đất.</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <motion chara="-5" action="show" pos="center" img="飞燕归巢"></motion>
@@ -170,7 +170,7 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>With the help of a kick, Sushang made a beautiful "Swallow’s Return", and in a flash, she landed behind the big man on the left.</p>
+    <p>Nhờ một cú đá, Sushang thực hiện một "Đòn phản công én" tuyệt đẹp, và trong nháy mắt, cô ấy đáp xuống phía sau người đàn ông to lớn bên trái.</p>
   </mono>
   <motion chara="-5" action="hide"></motion>
   <transition mode="fade" in="0.1" stop="0.1" out="0.1" color="#000000"></transition>
@@ -182,53 +182,53 @@
   <mono inline="true">
     <p></p>
     <p></p>
-    <p>She hit the back of the big man with her palm,</p>
+    <p>Cô ấy đánh vào lưng người đàn ông to lớn bằng lòng bàn tay,</p>
   </mono>
   <se id="01-32铁剑掷出"></se>
   <motion chara="-5" action="hide"></motion>
   <motion chara="-5" action="show" img="速度线左右1" pos="center"></motion>
-  <mono pageend="true">grabbed the sword with the other hand, and threw it at the last enemy.</mono>
+  <mono pageend="true">cầm thanh kiếm bằng tay kia và ném nó vào kẻ thù cuối cùng.</mono>
   <mono>
     <p></p>
     <p></p>
-    <p>In an instant, she calculated the strength and speed to the right, and put it into action correctly.</p>
+    <p>Ngay lập tức, cô ấy tính toán sức mạnh và tốc độ sang phải, và thực hiện nó một cách chính xác.</p>
   </mono>
   <bgm looptimes="0"></bgm>
   <mono pageend="true">
     <p></p>
-    <p>The "Blade Mantra" of Taixuan’s Five Essences</p>
-    <p>It was just such a profound mental method that maximizes the potential of the brain.</p>
+    <p>“Thần chú kiếm” của Ngũ Tinh Thái Huyền</p>
+    <p>Đó thực sự là một phương pháp tinh thần sâu sắc giúp tối đa hóa tiềm năng của não bộ.</p>
   </mono>
   <motion chara="-5" action="hide"></motion>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="氛围_第一折_烈阳"></bg>
   <se id="01-33男气声受击"></se>
   <remark>
-    <p>ㅤ</p>
-    <p>『Swordsmanship』:</p>
-    <p>ㅤ</p>
-    <p>It was one of the parts that made up swords.</p>
-    <p>ㅤ</p>
-    <p>The core of the sword was a kensen (sword spinal cord) at its center, and on either side were two sides.</p>
-    <p>ㅤ</p>
-    <p>Sword spinal cord and sword back are combined to form a kenja.</p>
+    <p> ㅤ </p>
+    <p>『Kiếm thuật』:</p>
+    <p> ㅤ </p>
+    <p>Đó là một trong những bộ phận cấu thành nên thanh kiếm.</p>
+    <p> ㅤ </p>
+    <p>Lõi của thanh kiếm là một kensen (xương sống kiếm) ở trung tâm, và ở hai bên là hai mặt.</p>
+    <p> ㅤ </p>
+    <p>Cột sống kiếm và lưng kiếm được kết hợp để tạo thành kenja.</p>
   </remark>
-  <text>Sushang accurately hit the man's abdominal cavity with the sword, the sudden pain made him open his mouth and let out a short hiss.</text>
+  <text>Sushang đâm chính xác vào bụng người đàn ông bằng thanh kiếm, cơn đau đột ngột khiến hắn há miệng và phát ra một tiếng rít ngắn.</text>
   <bg img="氛围_第一折_烈阳2" duration="0.3"></bg>
-  <text>At this moment, the world was spinning, and the sense of balance disappeared instantly.</text>
+  <text>Vào lúc này, thế giới quay cuồng, và cảm giác cân bằng biến mất ngay lập tức.</text>
   <se id="01-34男沙地重摔"></se>
   <transition mode="eye" in="1" stop="0.5" out="3" color="#000000"></transition>
   <bgm id="佛心禅悟"></bgm>
   <cg img="CG_第一折_李素裳1"></cg>
-  <text>Something hot was on his right cheek and it was too hot for him to bear.</text>
-  <text>The man opened his eyes and saw the hot sand that was almost jet black.</text>
-  <text>It turned out that something was not pressing against his cheeks, but his face was pressed tightly against the ground.</text>
-  <dialog chara="002">[...You guys are a little bit scarce.]</dialog>
-  <text>Sushang sat on his back, tapping the back of his head with her slender fingers:</text>
-  <dialog chara="002">[Why are there only four of you? Where did the others go?]</dialog>
-  <text>Her voice was clear and crisp, very nice, like an innocent girl.</text>
+  <text>Có thứ gì đó nóng trên má phải của anh ấy và nó quá nóng đến nỗi anh ấy không thể chịu đựng được.</text>
+  <text>Người đàn ông mở mắt ra và nhìn thấy cát nóng gần như đen kịt.</text>
+  <text>Hóa ra không phải thứ gì đó đang ấn vào má anh ta, mà là mặt anh ta đang áp sát xuống đất.</text>
+  <dialog chara="002">[...Các bạn hơi ít người đấy.]</dialog>
+  <text>Sushang ngồi trên lưng anh, dùng những ngón tay thon thả gõ nhẹ vào sau gáy anh:</text>
+  <dialog chara="002">[Tại sao chỉ có bốn người? Những người khác đi đâu rồi?]</dialog>
+  <text>Giọng cô ấy trong trẻo và rõ ràng, rất hay, giống như một cô gái ngây thơ.</text>
   <cg img="CG_第一折_李素裳2" duration="1"></cg>
-  <dialog chara="002">[I want to hear the truth.]</dialog>
+  <dialog chara="002">[Tôi muốn nghe sự thật.]</dialog>
   <event action="hide_ui" duration="4"></event>
   <delay t="1"></delay>
   <bgm looptimes="0"></bgm>

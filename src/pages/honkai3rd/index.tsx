@@ -1,5 +1,5 @@
 /** @jsxImportSource theme-ui */
-import { Box, Heading, Paragraph, NavLink, Flex, Label, Switch, Text } from '@theme-ui/components'
+import { Box, Heading, Paragraph, Flex, Label, Switch } from '@theme-ui/components'
 import { BattlesuitData } from '../../lib/honkai3rd/battlesuits'
 import { WeaponData } from '../../lib/honkai3rd/weapons'
 import { VersionData } from '../../lib/honkai3rd/versions'
@@ -9,10 +9,6 @@ import { useTranslation } from '../../lib/i18n'
 import Head from '../../components/atoms/Head'
 import { StigmataSet } from '../../lib/honkai3rd/stigmata'
 import NavItem from '../../components/atoms/NavItem'
-import NextLink from 'next/link'
-import Icon from '@mdi/react'
-import { useRouter } from 'next/router'
-import { mdiMenuSwap } from '@mdi/js'
 import { useColorMode } from 'theme-ui'
 import PageLink from '../../components/atoms/PageLink'
 import Footer from '../../components/v2/Footer'
@@ -25,11 +21,8 @@ interface VersionIndexPageProps {
   currentVersionNewStigmataSets: StigmataSet[]
 }
 
-const HomePage = ({}: VersionIndexPageProps) => {
+const HomePage = ({ }: VersionIndexPageProps) => {
   const { t } = useTranslation()
-
-  const router = useRouter()
-  const { pathname, asPath, query, locale } = router
 
   const [colorMode, setColorMode] = useColorMode()
   return (
@@ -47,29 +40,13 @@ const HomePage = ({}: VersionIndexPageProps) => {
         <Paragraph mb={3}>Welcome, Captain!</Paragraph>
 
         <Box sx={{ mb: 3 }}>
-          <NavItem target="battlesuits" size="lg" />
+          {/* <NavItem target="battlesuits" size="lg" />
           <NavItem target="weapons" size="lg" />
           <NavItem target="stigmata" size="lg" />
           <NavItem target="elfs" size="lg" />
-          <NavItem target="elysian-realm" size="lg" />
+          <NavItem target="elysian-realm" size="lg" /> */}
           <NavItem target="media" size="lg" />
         </Box>
-        <NextLink href={{ pathname, query }} locale={locale === 'en-US' ? 'ko-KR' : 'en-US'} as={asPath} passHref>
-          <NavLink
-            sx={{
-              overflow: 'hidden',
-              textOverflow: 'ellipsis',
-              whiteSpace: 'nowrap',
-              display: 'flex',
-              alignItems: 'center',
-              px: 2,
-              mb: 2
-            }}
-          >
-            <Text>{locale === 'en-US' ? '🇺🇸 English(US)' : '🇰🇷 한국어'}</Text>
-            <Icon path={mdiMenuSwap} size="20px" />
-          </NavLink>
-        </NextLink>
         <Box>
           <Flex
             sx={{

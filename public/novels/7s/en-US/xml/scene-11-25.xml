@@ -3,58 +3,58 @@
   <bgm id="侠女之声（女抒情）"></bgm>
   <bg img="凌霜小屋室内"></bg>
   <delay t="2"></delay>
-  <text>Li Sushang took a lot of effort to put the unconscious Raksha into the bed.</text>
+  <text>Li Sushang đã rất cố gắng để đặt Raksha đang bất tỉnh lên giường.</text>
   <cg img="CG_第二折_奥托重伤" duration="2"></cg>
-  <text>Her head was still groggy, and her whole body was in pain when she moved her fingers. This is so, she still relied on perseverance to just accomplish this great cause.</text>
-  <text>After covering the Raksha with the quilt, she sat aside and sang a song that was out of tune.</text>
+  <text>Đầu óc cô vẫn còn mơ màng, toàn thân đau nhức mỗi khi cử động ngón tay. Vì vậy, cô vẫn phải dựa vào sự kiên trì để hoàn thành nhiệm vụ vĩ đại này.</text>
+  <text>Sau khi đắp chăn lên người Raksha, cô ấy ngồi sang một bên và hát một bài hát lạc điệu.</text>
   <dialog chara="002">[Yiyaziyamejiegeya... Haliya…]</dialog>
-  <text>This tune suddenly appeared in her mind, like a dead leaf drifting to the shore.</text>
+  <text>Giai điệu này đột nhiên hiện lên trong tâm trí cô, như một chiếc lá khô trôi dạt vào bờ.</text>
   <dialog chara="002">[Eryaziyame...Haliyajieyajieya…]</dialog>
-  <text>Ah, when did she hear this song and who sang it?</text>
-  <text>Inexplicably, Sushang remembered the appearance of her mother, Qin Suyi.</text>
+  <text>À, cô ấy nghe bài hát này khi nào và ai hát vậy?</text>
+  <text>Không hiểu sao, Sushang lại nhớ ra diện mạo của mẹ mình, Qin Suyi.</text>
   <event action="hide_ui"></event>
   <cg img="CG_回忆篇_李素裳" duration="3"></cg>
   <delay t="3"></delay>
   <event action="show_ui"></event>
-  <text>Suyi, in white garments, squatted in front of her to reach out and stroke her hair gently.</text>
-  <dialog chara="009">[At such a young age, it's really hard for you to go to learn martial arts outside the Great Wall for your mother. But Mommy will arrange everything. In the future, when you are successful in mastering swordsmanship, no one in this world will dare to bully us.]</dialog>
-  <dialog chara="009" inline="true">[Mommy has a lot of hardships, and if I told you now, you wouldn't understand. In this world, many things are beyond your control. But…]</dialog>
-  <dialog chara="009">“You have to live, Sushang, you have to live… promise me."</dialog>
+  <text>Suyi, mặc áo trắng, ngồi xổm trước mặt cô ấy và vươn tay vuốt nhẹ mái tóc cô ấy.</text>
+  <dialog chara="009">[Ở độ tuổi còn nhỏ như vậy, việc con đi học võ thuật bên ngoài Vạn Lý Trường Thành vì mẹ quả thực rất khó. Nhưng mẹ sẽ lo liệu mọi thứ. Sau này, khi con thành thạo kiếm thuật, trên đời này sẽ không ai dám bắt nạt chúng ta nữa.]</dialog>
+  <dialog chara="009" inline="true">[Mẹ đã trải qua rất nhiều khó khăn, và nếu mẹ kể cho con nghe bây giờ, con sẽ không hiểu. Trên đời này, nhiều điều nằm ngoài tầm kiểm soát của con. Nhưng…]</dialog>
+  <dialog chara="009">Sushang à, con phải sống, con phải sống… hứa với ta nhé.</dialog>
   <event action="hide_ui"></event>
   <cg duration="2"></cg>
   <delay t="2"></delay>
   <event action="show_ui"></event>
-  <text>The girl's crisp singing came to an abrupt end.</text>
+  <text>Tiếng hát trong trẻo của cô gái đột ngột kết thúc.</text>
   <dialog chara="002">[……]</dialog>
-  <text>For no reason, Li Sushang activated Blade Mantra, freezing the Mind Lake into a huge piece of ice.</text>
+  <text>Không rõ lý do, Li Sushang kích hoạt Chú Kiếm, đóng băng Hồ Tâm thành một khối băng khổng lồ.</text>
   <bg img="心湖（3）明镜"></bg>
-  <text>Thoughts sank below the water, like thousands of turbulent undercurrents.</text>
-  <text>The Mind Lake above was as clear as a mirror, illuminating everything.</text>
-  <text>Sushang suddenly felt as if she could predict the future. She knew that the door of the house was about to open, and the master walked towards her with the same indifference as before—</text>
+  <text>Những suy nghĩ chìm xuống dưới mặt nước, như hàng ngàn dòng chảy ngầm hỗn loạn.</text>
+  <text>Hồ Tâm Trí phía trên trong vắt như gương, soi sáng mọi thứ.</text>
+  <text>Sushang đột nhiên cảm thấy như thể cô có thể đoán trước tương lai. Cô biết rằng cánh cửa nhà sắp mở ra, và chủ nhân bước về phía cô với vẻ thờ ơ như trước—</text>
   <event action="hide_ui"></event>
   <se id="01-71开门声"></se>
   <bg img="凌霜小屋室内" duration="3"></bg>
   <motion chara="007" action="show" pos="center" img="凌霜-标准-标准-远景"></motion>
   <delay t="3"></delay>
   <event action="show_ui"></event>
-  <text>Everything's going according to plan.</text>
+  <text>Mọi việc đang diễn ra theo đúng kế hoạch.</text>
   <event action="hide_ui"></event>
   <motion chara="007" action="hide"></motion>
   <motion chara="007" action="show" img="凌霜-标准-标准-近景" duration="1" pos="center"></motion>
   <delay t="1"></delay>
   <event action="show_ui"></event>
   <text>
-    <p>Lingshuang dragged her dull steps and walked slowly to Sushang's side. </p>
-    <p>There was no expression on her face, as if she was not interested in anything.</p>
+    <p>Lingshuang lê bước nặng nề và chậm rãi tiến đến bên cạnh Sushang.</p>
+    <p>Trên mặt cô ấy không có biểu cảm gì, như thể cô ấy không quan tâm đến điều gì cả.</p>
   </text>
-  <text>Li Sushang looked at the master and smiled instinctively, as if driving away a lingering haze.</text>
+  <text>Li Sushang nhìn sư phụ và mỉm cười theo bản năng, như thể xua tan đi một làn sương mờ còn vương lại.</text>
   <dialog chara="007">[……]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-厌烦-标准-近景"></motion>
-  <text>Lingshuang paused, blinking her eyes seemingly bored, and said:</text>
-  <dialog chara="007">[Your mother is dead.]</dialog>
+  <text>Lingshuang dừng lại, chớp mắt có vẻ chán nản, rồi nói:</text>
+  <dialog chara="007">[Mẹ của bạn đã chết.]</dialog>
   <delay t="1"></delay>
   <event action="achievement" aid="f264952df7ffa72c"></event>
-  <notification>伝記解放：「秦素衣」</notification>
+  <notification>伝記解放： 「秦素衣」</notification>
   <delay t="2"></delay>
   <motion chara="007" action="hide" delay="2"></motion>
   <transition mode="fade" in="3" stop="0.5" out="1" color="#000000"></transition>

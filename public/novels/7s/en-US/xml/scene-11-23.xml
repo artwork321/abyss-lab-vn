@@ -4,70 +4,70 @@
   <motion chara="008" action="hide" duration="0"></motion>
   <cg img="CG_第二折_马非马分身1"></cg>
   <se id="01-21轩辕剑氛围声"></se>
-  <text>As he finished talking,【Redsweord】began to glow vibrantly. In an instant, the entire courtyard was as if it were shrouded by fog, flickering between light and darkness.</text>
+  <text>Khi anh ta nói xong, [Redswood] bắt đầu phát sáng rực rỡ. Trong nháy mắt, toàn bộ sân như bị bao phủ bởi sương mù, chập chờn giữa ánh sáng và bóng tối.</text>
   <bg img="凌霜小屋室外"></bg>
-  <dialog chara="007">[Hmph]</dialog>
-  <text>Lingshuang muttered, picking up the sheath with her pointer and middle finger.</text>
-  <dialog chara="007">[You’re only getting one hit in, so give me all you got.]</dialog>
-  <dialog chara="008">[Here it is!]</dialog>
+  <dialog chara="007">[Hừm]</dialog>
+  <text>Lingshuang lẩm bẩm, dùng ngón trỏ và ngón giữa nhặt vỏ kiếm lên.</text>
+  <dialog chara="007">[Bạn chỉ được đánh một phát thôi, nên hãy dốc hết sức mình.]</dialog>
+  <dialog chara="008">[Đây rồi!]</dialog>
   <event action="hide_ui"></event>
   <se id="01-25沙子飞溅"></se>
   <cg img="CG_第二折_马非马分身2" duration="2"></cg>
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>With a roar, a second Ma Feima appeared. </p>
+    <p>Với một tiếng gầm, Ma Feima thứ hai xuất hiện.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>This was the Taixuan Sixth Disciple’s Blade Sanction: 【Redsweord】]!</p>
+    <p>Đây là hình phạt kiếm của đệ tử thứ sáu Taixuan: 【Kiếm đỏ】]!</p>
   </mono>
   <mono>
     <p></p>
-    <p>By filling the Xuanyuan Sword with Ki, and using Taixuan Blade Sanction to bend light. </p>
+    <p>Bằng cách truyền Ki vào Thanh Kiếm Huyền Nguyên và sử dụng Trừng phạt Kiếm Thái Huyền để bẻ cong ánh sáng.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The current Ma Feima had studied and practiced for decades, could now create mirror images at will.</p>
+    <p>Ma Feima hiện tại đã học tập và luyện tập hàng chục năm, giờ có thể tạo ra ảnh phản chiếu theo ý muốn.</p>
   </mono>
   <event action="hide_ui"></event>
   <cg img="CG_第二折_马非马分身3" duration="3"></cg>
   <delay t="3"></delay>
   <event action="show_ui"></event>
-  <text>And so, two became four, four became eight; eight became hundreds, and hundreds became millions, innumerable as they were.</text>
+  <text>Và như vậy, hai trở thành bốn, bốn trở thành tám; tám trở thành hàng trăm, và hàng trăm trở thành hàng triệu, vô số kể như vậy.</text>
   <mono>
     <p></p>
-    <p>In this abandoned courtyard of high noon, there were an infinite number of [Tireless Courser] Ma Feimas…</p>
+    <p>Trong sân hoang vắng giữa trưa này, có vô số [Người chạy đua không mệt mỏi] Ma Feimas…</p>
   </mono>
   <mono>
     <p></p>
-    <p>The same Ma Feima, the same Redsweord.</p>
+    <p>Ma Feima vẫn vậy, Redswood vẫn vậy.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>It was as if a mirror shattered in this courtyard, all of their shards reflecting the figure of the Sixth Disciple of Taixuan.</p>
+    <p>Cứ như thể một chiếc gương vỡ tan trong sân này, tất cả các mảnh vỡ đều phản chiếu hình bóng của Đệ tử thứ sáu của Taixuan.</p>
   </mono>
   <bg img="凌霜小屋室外"></bg>
-  <text>The man held his invisible greatsword, unable to contain his excitement.</text>
+  <text>Người đàn ông cầm thanh đại kiếm vô hình của mình, không thể kìm nén được sự phấn khích.</text>
   <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="left" custom="default"></transition>
   <motion chara="007" action="show" pos="center" img="凌霜-思考-标准-远景"></motion>
   <cg></cg>
   <delay t="0.1"></delay>
-  <dialog chara="007">[This is just a friendly sparring session,]</dialog>
-  <text>She said with annoyance,</text>
+  <dialog chara="007">[Đây chỉ là một buổi tập luyện giao hữu,]</dialog>
+  <text>Cô ấy nói với vẻ khó chịu,</text>
   <motion chara="007" action="img_trans" img="凌霜-拒绝-标准-远景"></motion>
-  <dialog chara="007">[Why am I playing a guessing game with you?]</dialog>
-  <dialog chara="008">[Well it’s up to you to guess where I am then.]</dialog>
-  <text>Ma Feima’s voice came from far away.</text>
+  <dialog chara="007">[Tại sao tôi lại chơi trò đoán mò với bạn?]</dialog>
+  <dialog chara="008">[Vậy thì tùy bạn đoán xem tôi đang ở đâu.]</dialog>
+  <text>Giọng nói của Ma Feima vọng đến từ phương xa.</text>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
-  <dialog chara="007">[You’re too young. Some riddles are pointless, so why should I guess?]</dialog>
+  <dialog chara="007">[Bạn còn quá nhỏ. Một số câu đố thật vô nghĩa, vậy tại sao tôi phải đoán?]</dialog>
   <bgm></bgm>
   <motion chara="007" action="hide" duration="0"></motion>
   <cg img="CG_第二折_刃不破1" duration="0.5" pos="0,0" scale="2" origin="30%,10%"></cg>
   <delay t="1"></delay>
   <cg img="CG_第二折_刃不破1" duration="1" pos="0,0" scale="1" origin="30%,10%"></cg>
   <delay t="1"></delay>
-  <text>As she spoke, she raised her sheath towards the sky.</text>
+  <text>Khi nói, nàng giơ vỏ kiếm lên trời.</text>
   <se id="01-26大刀向下挥"></se>
   <cg img="CG_第二折_刃不破1" duration="0.2" pos="0,-800"></cg>
   <dialog chara="007">[Hah!]</dialog>
@@ -78,10 +78,10 @@
   <delay t="0.1"></delay>
   <se id="01-80雷电 轰隆"></se>
   <text>
-    <p>With a clear ring, the sheath【Sternsheath】shot forward, </p>
-    <p>lighting the air along its path in the courtyard in a thunderous boom.</p>
+    <p>Với một tiếng vang rõ ràng, vỏ kiếm [Sternsheath] bắn về phía trước, </p>
+    <p>chiếu sáng không khí dọc theo đường đi của nó trong sân với tiếng nổ vang dội.</p>
   </text>
-  <text>The fog that surrounded the two dissipated instantly and the air was shattered like a mirror.</text>
+  <text>Sương mù bao quanh hai người tan biến ngay lập tức và không khí vỡ vụn như gương.</text>
   <event action="hide_ui"></event>
   <cg img="CG_第二折_马非马分身3" duration="1"></cg>
   <delay t="1"></delay>
@@ -90,57 +90,57 @@
   <se id="01-55手指弹剑"></se>
   <delay t="2"></delay>
   <event action="show_ui"></event>
-  <text>All of the Ma Feima’s disappeared into thin air.</text>
+  <text>Tất cả những người nhà Ma Feima đều biến mất không dấu vết.</text>
   <cg img="CG_第二折_刃不破2"></cg>
-  <text>Under the shimmering mirror shards, Lingshuang stood stoically.</text>
-  <dialog chara="007">[Truth among lies, not bad, you’re truly Master’s good junior disciple.]</dialog>
+  <text>Dưới những mảnh gương lấp lánh, Lingshuang đứng vững vàng.</text>
+  <dialog chara="007">[Sự thật giữa những lời dối trá, không tệ, con quả là một đệ tử nhỏ ngoan ngoãn của Sư phụ.]</dialog>
   <bgm id="原始武士"></bgm>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
   <motion chara="007" action="show" pos="left" img="凌霜-注视-标准-远景"></motion>
   <motion chara="008" action="show" pos="right" img="马非马-闭目-收剑"></motion>
-  <dialog chara="008">[...So strong, heh… Junior Brother admits defeat.]</dialog>
-  <text>The tip of the 【Sternsheath】was a mere inch away from his throat.</text>
-  <text>The 【Redsweord】that he raised up high was now dangling toward the ground. Ma Feima looked at it and laughed bitterly.</text>
+  <dialog chara="008">[...Mạnh mẽ thật đấy, hừm… Tiểu đệ thừa nhận thất bại.]</dialog>
+  <text>Đầu của 【Sternsheath】chỉ cách cổ họng anh ta một inch.</text>
+  <text>Thanh kiếm đỏ mà hắn giơ cao giờ đang treo lơ lửng xuống đất. Ma Feima nhìn nó và cười cay đắng.</text>
   <motion chara="008" action="img_trans" img="马非马-苦笑-标准-远景"></motion>
-  <dialog chara="008">[I knew I was no match for you, but how’d you do it? I haven’t even…]</dialog>
+  <dialog chara="008">[Tôi biết mình không phải là đối thủ của anh, nhưng anh làm thế nào vậy? Tôi thậm chí còn chưa…]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-看戏-标准-远景"></motion>
-  <dialog chara="007">[There were three weak points in your strike.]</dialog>
-  <text>Lingshuang said, clearly disinterested:</text>
+  <dialog chara="007">[Có ba điểm yếu trong đòn tấn công của bạn.]</dialog>
+  <text>Lingshuang nói, rõ ràng là không quan tâm:</text>
   <motion chara="007" action="img_trans" img="凌霜-免了-标准-远景"></motion>
-  <dialog chara="007">[First is that water mirror. All of your copies mirror the original’s movements, so it wasn’t hard to pinpoint your location.]</dialog>
+  <dialog chara="007">[Đầu tiên là tấm gương nước đó. Tất cả các bản sao của bạn đều phản chiếu chuyển động của bản gốc, vì vậy không khó để xác định vị trí của bạn.]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-嫌弃-标准-远景"></motion>
-  <dialog chara="007">[Second is sound. You shouldn’t have answered me during battle. The Xuanyuan Sword can control light, but it can’t change the source of your sound.]</dialog>
+  <dialog chara="007">[Thứ hai là âm thanh. Ngươi không nên trả lời ta trong lúc giao chiến. Thanh kiếm Huyền Nguyên có thể điều khiển ánh sáng, nhưng nó không thể thay đổi nguồn âm thanh của ngươi.]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
-  <dialog chara="007">[Third was the Ki Flow. I don’t even need to look at you to tell how the Ki is flowing around where you are.]</dialog>
+  <dialog chara="007">[Thứ ba là Dòng chảy Khí. Tôi thậm chí không cần nhìn bạn cũng biết Khí đang lưu chuyển xung quanh nơi bạn đang ở.]</dialog>
   <bgm looptimes="0"></bgm>
   <motion chara="008" action="img_trans" img="马非马-悲伤-标准-远景"></motion>
-  <dialog chara="008">[Ha, that’s what Second Senior Sister says too.]</dialog>
+  <dialog chara="008">[Ha, chị Hai cũng nói thế.]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-小恶魔-标准-远景"></motion>
-  <dialog chara="007">[Obviously. If I could see three weak points, she’d probably be able to see more than ten.]</dialog>
+  <dialog chara="007">[Rõ ràng rồi. Nếu tôi có thể thấy ba điểm yếu, thì có lẽ cô ấy sẽ thấy nhiều hơn mười điểm.]</dialog>
   <dialog chara="008">[...]</dialog>
   <motion chara="008" action="img_trans" img="马非马-笑-标准-远景"></motion>
   <bgm id="秋恋古道（慢抒情）"></bgm>
   <motion chara="007" action="img_trans" img="凌霜-标准-标准-远景"></motion>
-  <dialog chara="008">[Ha, fuck, looks like I wasn’t good enough after all.]</dialog>
+  <dialog chara="008">[Ha, chết tiệt, có vẻ như cuối cùng mình vẫn không đủ giỏi.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-闭目-标准-远景"></motion>
-  <dialog chara="008">[I was gonna lose to you anyway, but to think that a sheath destroyed my Blade Sanction…]</dialog>
+  <dialog chara="008">[Dù sao thì ta cũng sẽ thua ngươi, nhưng nghĩ mà xem, một cái vỏ kiếm đã phá hủy Quyền năng Lưỡi kiếm của ta…]</dialog>
   <motion chara="007" action="img_trans" img="凌霜-哼-标准-远景"></motion>
-  <dialog chara="007">[Don’t go too hard on yourself. You could only do parlor tricks before, but now you can make copies of yourself using Blade Sanction. That’s tremendous growth from practice already. </dialog>
-  <dialog chara="007">I’ll bet that anyone besides me, or Second, will have a hard time defeating you.]</dialog>
+  <dialog chara="007">[Đừng quá khắt khe với bản thân. Trước đây bạn chỉ có thể làm những trò ảo thuật, nhưng giờ bạn có thể tạo ra bản sao của chính mình bằng Blade Sanction. Đó là sự tiến bộ vượt bậc nhờ luyện tập. </dialog>
+  <dialog chara="007">Tôi cá rằng bất cứ ai ngoài tôi hoặc Thứ Hai đều sẽ khó mà đánh bại được anh.</dialog>
   <motion chara="007" action="img_trans" img="凌霜-对吧-标准-远景"></motion>
-  <dialog chara="007">[But since you came all this way to spar, I’ll indulge you. If I won with a trick, that’d be no fun. I want to break your strike with brute force— </dialog>
+  <dialog chara="007">[Nhưng vì anh đã đi một quãng đường dài đến đây để đấu tập, tôi sẽ chiều lòng anh. Nếu tôi thắng bằng mánh khóe thì sẽ chẳng vui vẻ gì. Tôi muốn phá vỡ đòn đánh của anh bằng sức mạnh thô bạo— </dialog>
   <motion chara="007" action="img_trans" img="凌霜-微笑-标准-远景"></motion>
-  <dialog chara="007">Since you decided to hurt my disciple. Don’t you know the saying “You have to watch its master before you hit the dog”?]</dialog>
+  <dialog chara="007">Vì ngươi đã quyết định làm hại đệ tử của ta. Ngươi không biết câu tục ngữ "Phải xem chủ trước khi đánh chó" sao?</dialog>
   <motion chara="008" action="img_trans" img="马非马-苦笑-标准-远景"></motion>
   <motion chara="007" action="img_trans" img="凌霜-厌烦-标准-远景"></motion>
-  <dialog chara="007">[Also,]</dialog>
+  <dialog chara="007">[Ngoài ra,]</dialog>
   <se id="01-57接住剑柄"></se>
-  <text>She flourished 【Sternsheath】in the air.</text>
+  <text>Cô ấy tung bay 【Sternsheath】trong không trung.</text>
   <motion chara="007" action="img_trans" img="凌霜-标准-标准-远景"></motion>
   <dialog chara="007">
-    <p>[This is just a regular old wooden sheath. I probably couldn’t use it again after this anyway. </p>
-    <p>You were not defeated by [Ascension], but by [Eminence], understand? Feel a bit better about your loss now?]</p>
+    <p>[Đây chỉ là một cái vỏ gỗ cũ bình thường thôi. Chắc là sau này tôi cũng không dùng được nữa.</p>
+    <p>Ngươi không bị đánh bại bởi [Sự Thăng Thiên], mà bởi [Sự Cao Cả], hiểu chưa? Giờ ngươi cảm thấy đỡ hơn một chút về thất bại của mình chưa?]</p>
   </dialog>
   <event action="goto" to="24"></event>
 </scene>

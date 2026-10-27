@@ -5,37 +5,37 @@
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>The yellow sands roared under the fiery sun.</p>
+    <p>Những bãi cát vàng gầm rú dưới ánh mặt trời rực lửa.</p>
   </mono>
   <mono>
     <p></p>
     <p></p>
-    <p>Waves of air bellowed across the land, bringing with it an unbearable heat.</p>
+    <p>Những đợt gió mạnh thổi qua mặt đất, mang theo cái nóng không thể chịu nổi.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>However, Sushang felt like she was freezing from the murderous aura that emanated from the man.</p>
+    <p>Tuy nhiên, Sushang cảm thấy như mình đang bị lạnh cóng bởi sát khí tỏa ra từ người đàn ông.</p>
   </mono>
   <event action="hide_ui"></event>
   <motion chara="008" action="show" pos="center" duration="1" img="马非马-邪恶-标准-中景"></motion>
   <delay t="1"></delay>
   <event action="show_ui"></event>
-  <text>The man was of an unknown age and kept a stubble. A striking scar scrawled across his face like a crimson lightning bolt, only to abruptly end at his lower jaw… It was as if it were falling forever.</text>
-  <text>If one looked closely, the man had an innumerable number of scars on his body.</text>
-  <text>Without them, he would surely be a handsome man, but those red branches that spread across his body didn’t leave him as a frightening demon. On the contrary, it added to a sort of nobleness about him.</text>
+  <text>Người đàn ông không rõ tuổi và để râu lưa thưa. Một vết sẹo nổi bật ngoằn ngoèo trên khuôn mặt như một tia sét đỏ thẫm, rồi đột ngột kết thúc ở hàm dưới… Cứ như thể nó sẽ rơi xuống mãi mãi.</text>
+  <text>Nếu nhìn kỹ, người đàn ông đó có vô số vết sẹo trên cơ thể.</text>
+  <text>Nếu không có chúng, chắc chắn anh ta sẽ là một người đàn ông đẹp trai, nhưng những cành cây màu đỏ trải khắp cơ thể anh ta không khiến anh ta trông giống một con quỷ đáng sợ. Ngược lại, nó làm tăng thêm vẻ cao quý cho anh ta.</text>
   <transition mode="shutter" in="1" stop="0.5" out="1" color="#000000"></transition>
   <motion chara="008" action="show" pos="400,0" img="马非马-苦笑-标准-远景"></motion>
   <motion chara="001" action="show" pos="-500,0" img="奥托-严肃-标准-远景（棺材）"></motion>
   <motion chara="002" action="show" pos="-200,0" img="素裳-愤怒-持剑-远景" duration="1"></motion>
-  <dialog chara="001">[Sushang, be careful.]</dialog>
+  <dialog chara="001">[Sushang, hãy cẩn thận.]</dialog>
   <se id="01-39踏在木板的脚步声"></se>
-  <text>The Raksha slowly came down from the carriage and carefully placed the coffin on the sand.</text>
+  <text>Raksha từ từ bước xuống khỏi xe ngựa và cẩn thận đặt quan tài xuống cát.</text>
   <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-远景（棺材）" duration="0"></motion>
-  <dialog chara="001">[He wants your sword.]</dialog>
+  <dialog chara="001">[Hắn muốn thanh kiếm của ngươi.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-惊讶-持剑-远景"></motion>
-  <dialog chara="002">[What? My Xuanyuan?]</dialog>
+  <dialog chara="002">[Cái gì? Huyền Nguyên của tôi sao?]</dialog>
   <motion chara="002" action="img_trans" img="素裳-标准-持剑-远景"></motion>
-  <text>She was confused at first, but quickly connected the dots.</text>
+  <text>Ban đầu cô ấy bối rối, nhưng nhanh chóng hiểu ra vấn đề.</text>
   <event action="hide_ui" duration="2"></event>
   <motion chara="002" action="move" img="素裳-严肃汗-持剑-近景" pos="right" duration="2"></motion>
   <motion chara="008" action="hide"></motion>
@@ -43,44 +43,44 @@
   <delay t="1.9"></delay>
   <motion chara="002" action="img_trans" img="素裳-标准-持剑-中景"></motion>
   <motion chara="008" action="show" pos="left" img="马非马-瞥目-标准-中景" duration="1"></motion>
-  <text>Sushang stared at the strange man and noticed that his glowing eyes were focused on the Raksha.</text>
+  <text>Sushang nhìn chằm chằm vào người đàn ông lạ mặt và nhận thấy đôi mắt phát sáng của hắn đang tập trung vào Raksha.</text>
   <event action="hide_ui" duration="1"></event>
   <motion chara="008" action="img_trans" img="马非马-微笑-标准-中景"></motion>
   <delay t="1"></delay>
-  <text>Suddenly, the man laughed.</text>
+  <text>Đột nhiên, người đàn ông bật cười.</text>
   <text>
-    <p>The corners of his mouth turned upwards, moving along with that red scar of his. It looked a little unnatural, but he let out a hearty laugh. </p>
-    <p>By the time he was finished, the man somehow looked gentle:</p>
+    <p>Khóe miệng anh ta cong lên, chuyển động theo vết sẹo đỏ trên mặt. Trông có vẻ hơi không tự nhiên, nhưng anh ta bật cười sảng khoái.</p>
+    <p>Đến khi anh ta làm xong, người đàn ông trông có vẻ hiền lành:</p>
   </text>
   <motion chara="008" action="img_trans" img="马非马-笑-标准-中景"></motion>
-  <dialog chara="008">[Hey little girl! Are you Lingshuang’s disciple?]</dialog>
+  <dialog chara="008">[Này cô bé! Cô là đệ tử của Linh Hoàng phải không?]</dialog>
   <motion chara="002" action="img_trans" img="素裳-愤怒-持剑-中景"></motion>
-  <dialog chara="002">[I’m not telling you!]</dialog>
-  <text>Her anger widened her eyes to the size of saucers:</text>
-  <dialog chara="002">[What’s with you?! Can’t give me a heads up before you wanna talk?!]</dialog>
+  <dialog chara="002">[Tôi sẽ không nói cho bạn biết!]</dialog>
+  <text>Cơn giận của cô ấy khiến đôi mắt mở to như cái đĩa:</text>
+  <dialog chara="002">[Sao cậu lại thế?! Không báo trước cho tớ biết trước khi muốn nói chuyện à?!]</dialog>
   <motion chara="008" action="img_trans" img="马非马-疯狂-标准-中景"></motion>
-  <dialog chara="008">[Looks like it.]</dialog>
-  <text>Instead of getting angry, the man laughed. He reached out his hand and pointed at the Raksha.</text>
-  <dialog chara="008">[Apologies, I have a couple things to say, and then I’ll get right to the fighting— mhm, I want to fight that Raksha demon.]</dialog>
-  <dialog chara="002">[Huh… Huhhhhhh… What are you trying to do?!]</dialog>
-  <text>Sushang quickly returned to the Raksha’s side.</text>
-  <dialog chara="002">[He’s not going to fight you, he… What are you trying to do? Why are you trying to fight?]</dialog>
+  <dialog chara="008">[Có vẻ là vậy.]</dialog>
+  <text>Thay vì tức giận, người đàn ông cười. Anh ta đưa tay ra và chỉ vào Raksha.</text>
+  <dialog chara="008">[Xin lỗi, tôi có vài điều muốn nói, rồi tôi sẽ bắt đầu chiến đấu ngay— ừm, tôi muốn chiến đấu với con quỷ Raksha đó.]</dialog>
+  <dialog chara="002">[Hừ… Hừ… Cậu đang cố làm gì vậy?!]</dialog>
+  <text>Sushang nhanh chóng quay lại bên cạnh Raksha.</text>
+  <dialog chara="002">[Anh ta sẽ không đánh nhau với bạn đâu, anh ta… Bạn đang cố gắng làm gì vậy? Tại sao bạn lại muốn đánh nhau?]</dialog>
   <motion chara="008" action="img_trans" img="马非马-笑-标准-中景"></motion>
   <dialog chara="008">
-    <p>[I’m sorry, little girl, for breaking your carriage. </p>
-    <p>As compensation, I’ll let Erebus take you the rest of the way.]</p>
+    <p>[Tôi xin lỗi, bé gái, vì đã làm hỏng xe ngựa của cháu.</p>
+    <p>Để bù lại, ta sẽ để Erebus đưa ngươi đi hết quãng đường còn lại.</p>
   </dialog>
-  <text>The man cracked his joints as he spoke to Sushang:</text>
-  <dialog chara="008">[The Raksha demon’s actually not wrong. Yes, I want your Xuanyuan sword, but I won’t take it from you by force… At least not right now. Tell me, little girl, that is your sword, yes?]</dialog>
-  <dialog chara="002">[Of course it’s mine!]</dialog>
-  <dialog chara="008">[Heh, no wonder you looked familiar, you’re Lingshuang’s disciple after all. Very well. By seniority, you should call me Senior Uncle. </dialog>
-  <dialog chara="008">After I get done with goldie over here we can catch up. I was just on my way to see your Master too.]</dialog>
-  <dialog chara="002">[He won’t fight you.]</dialog>
+  <text>Người đàn ông bẻ khớp xương khi nói chuyện với Sushang:</text>
+  <dialog chara="008">[Tên quỷ Raksha nói không sai. Đúng vậy, ta muốn thanh kiếm Xuanyuan của ngươi, nhưng ta sẽ không lấy nó bằng vũ lực… Ít nhất là không phải bây giờ. Nói cho ta biết, cô bé, đó là thanh kiếm của ngươi, phải không?]</dialog>
+  <dialog chara="002">[Tất nhiên là của tôi rồi!]</dialog>
+  <dialog chara="008">[Hừ, không trách trông cậu quen quen, dù sao cậu cũng là đệ tử của Lingshuang mà. Được rồi. Theo thâm niên, cậu nên gọi tôi là Sư cô. </dialog>
+  <dialog chara="008">Sau khi tôi xong việc với Goldie ở đây, chúng ta có thể nói chuyện sau. Tôi cũng đang trên đường đến gặp Sư phụ của anh.</dialog>
+  <dialog chara="002">[Anh ấy sẽ không đánh nhau với bạn.]</dialog>
   <motion chara="008" action="img_trans" img="马非马-邪恶-标准-中景"></motion>
-  <dialog chara="008">[Aye, he’ll fight cause that’s all he will know how to do.]</dialog>
-  <text>The man looked the Raksha up and down:</text>
-  <dialog chara="008">[Cause I want to.]</dialog>
-  <dialog chara="002">[You—]</dialog>
+  <dialog chara="008">[Phải, anh ta sẽ chiến đấu vì đó là tất cả những gì anh ta biết làm.]</dialog>
+  <text>Người đàn ông nhìn Raksha từ trên xuống dưới:</text>
+  <dialog chara="008">[Vì tôi muốn.]</dialog>
+  <dialog chara="002">[Bạn—]</dialog>
   <motion chara="002" action="hide" duration="0"></motion>
   <motion chara="008" action="hide" duration="0"></motion>
   <event action="hide_ui"></event>
@@ -92,80 +92,80 @@
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>—Suddenly</p>
+    <p>—Đột nhiên</p>
   </mono>
   <motion chara="008" action="show" pos="center" img="马非马-闭目-标准-远景"></motion>
   <text>
-    <p>The sky was encompassed by killing intent, but disappeared just as quickly. [\s]</p>
-    <p>There didn’t seem to be any traces of the man left in the world.</p>
+    <p>Bầu trời bị bao trùm bởi sát ý, nhưng biến mất nhanh chóng. [\s]</p>
+    <p>Dường như không còn dấu vết nào của người đàn ông đó trên thế giới này nữa.</p>
   </text>
   <bg img="PureBlack" duration="2"></bg>
-  <text>Li Sushang looked at the Raksha, who was as calm as ever.</text>
-  <text>That’s right, the Raksha wouldn’t understand. Only she knew that this meant their opponent had entered the Blade Mantra state.</text>
+  <text>Li Sushang nhìn Raksha, hắn vẫn bình tĩnh như mọi khi.</text>
+  <text>Đúng vậy, Raksha sẽ không hiểu. Chỉ có cô ta mới biết điều này có nghĩa là đối thủ của họ đã bước vào trạng thái Thần chú Lưỡi kiếm.</text>
   <motion chara="008" action="hide"></motion>
   <bg img="心湖（1）止水"></bg>
   <mono>
     <p></p>
     <p></p>
-    <p>The abandonment of all useless emotions. The abandonment of all meaningless thoughts.</p>
+    <p>Từ bỏ mọi cảm xúc vô ích. Từ bỏ mọi suy nghĩ vô nghĩa.</p>
   </mono>
   <mono>
     <p></p>
-    <p>With no greed or anger, no obsessions or hate, still like water with no dust, like a clear mirror and nothingness.</p>
+    <p>Không tham lam hay giận dữ, không ám ảnh hay thù hận, vẫn như nước không bụi, như gương trong veo và hư vô.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>This is the Taixuan Blade Mantra, created from Empyrea Phoenix's legendary arts!</p>
+    <p>Đây là Chú thuật Kiếm Thái Huyền, được tạo ra từ thuật huyền thoại của Phượng Hoàng Thiên Giới!</p>
   </mono>
   <event action="hide_ui"></event>
   <motion chara="008" action="show" pos="center" img="马非马-认真-标准-近景" duration="1"></motion>
   <delay t="1"></delay>
   <event action="show_ui"></event>
-  <text inline="true">There’s no doubt about it: the strange man in front of them was the disciple to the Celestial herself, the sole man in the Seven Disciples of Taixuan: </text>
+  <text inline="true">Không còn nghi ngờ gì nữa: người đàn ông lạ mặt trước mặt họ chính là đệ tử của Thiên nữ, người đàn ông duy nhất trong Thất đệ tử của Thái Huyền: </text>
   <text>
     <p></p>
-    <p>[Tireless Courser] Ma Feima.</p>
+    <p>[Người chạy đua không mệt mỏi] Ma Feima.</p>
   </text>
-  <text>Sushang remembered meeting him at the Issen Villa when she was younger. The way he carried himself as a peerless co-leader of the School of Taixuan was unforgettable.</text>
-  <text>[em italic]…… Did she have a chance against someone on the level of the Six Great Sects?[/em]</text>
+  <text>Sushang nhớ lại lần gặp gỡ với ông ấy tại Biệt thự Issen khi cô còn trẻ. Cách ông ấy thể hiện bản thân với tư cách là người đồng lãnh đạo vô song của Trường phái Taixuan thật khó quên.</text>
+  <text>[em italic]…… Liệu cô ấy có cơ hội nào chống lại một người ở cấp độ của Lục Đại Tông phái không?[/em]</text>
   <motion chara="008" action="hide"></motion>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="BGDesert03"></bg>
   <motion chara="008" action="show" pos="400,0" img="马非马-标准-标准-远景" duration="1"></motion>
   <motion chara="001" action="show" pos="-500,0" img="奥托-标准-标准-远景（棺材）" duration="1"></motion>
   <motion chara="002" action="show" pos="-200,0" duration="1" img="素裳-愤怒-持剑-远景"></motion>
-  <dialog chara="002">[Raksha… Step back, let me handle this.]</dialog>
-  <text>Sometime in between, the girl had been overwhelmed by the man’s presence, leaving her voice as quiet as a mosquito.</text>
+  <dialog chara="002">[Raksha… Lùi lại, để tôi lo việc này.]</dialog>
+  <text>Vào một thời điểm nào đó giữa chừng, cô gái đã bị sự hiện diện của người đàn ông làm cho choáng ngợp, khiến giọng nói của cô nhỏ như tiếng muỗi.</text>
   <motion chara="001" action="hide"></motion>
-  <dialog chara="001">[Okay.]</dialog>
-  <text>The Raksha nodded since he had no intention of fighting to begin with.</text>
+  <dialog chara="001">[Được rồi.]</dialog>
+  <text>Raksha gật đầu vì ngay từ đầu hắn không có ý định chiến đấu.</text>
   <motion chara="001" action="show" pos="-700,0"></motion>
   <text>
-    <p>He took a couple of steps back and looked at Ma Feima. </p>
-    <p>He said nothing but looked at Ma Feima with an empty stare.</p>
+    <p>Anh ta lùi lại vài bước và nhìn Ma Feima.</p>
+    <p>Anh ta không nói gì mà chỉ nhìn Ma Feima với ánh mắt trống rỗng.</p>
   </text>
   <motion chara="008" action="img_trans" img="马非马-闭目-标准-远景"></motion>
-  <dialog chara="008">[...Pussy.]</dialog>
-  <text>The man sighed and said to Sushang:</text>
-  <dialog chara="008">[You’re not going to kill him?]</dialog>
-  <dialog chara="008">[Hasn’t Lingshuang taught you that the duty of the Taixuan lineage is to slaughter any and all demons?]</dialog>
-  <dialog chara="002">[He hasn’t fallen to that point yet.]</dialog>
-  <dialog chara="008">[Haha, it’s bound to happen. By the way he’s doing things, he’ll become much more evil than a demon. Aye, why are you trying to cover for him? The powers that this Raksha demon’s hiding… Heh, it’s far more than anything you can imagine.]</dialog>
-  <dialog chara="008">[...Oh well, who am I to tell you what to do.]</dialog>
+  <dialog chara="008">[...Âm đạo.]</dialog>
+  <text>Người đàn ông thở dài và nói với Sushang:</text>
+  <dialog chara="008">[Bạn sẽ không giết anh ta chứ?]</dialog>
+  <dialog chara="008">[Chẳng phải Linh Hoàng đã dạy ngươi rằng nhiệm vụ của dòng dõi Thái Huyền là phải tiêu diệt tất cả yêu quái sao?]</dialog>
+  <dialog chara="002">[Anh ấy chưa rơi đến mức đó.]</dialog>
+  <dialog chara="008">[Haha, chuyện đó chắc chắn sẽ xảy ra. Với cách hắn ta làm mọi việc, hắn sẽ trở nên độc ác hơn cả một con quỷ. Phải, tại sao ngươi lại cố gắng bao che cho hắn? Sức mạnh mà con quỷ Raksha này đang che giấu… Hừ, nó còn hơn cả những gì ngươi có thể tưởng tượng.]</dialog>
+  <dialog chara="008">[...Ồ, tôi là ai mà dám bảo bạn phải làm gì chứ.]</dialog>
   <dialog chara="002">[...]</dialog>
-  <text>Li Sushang looked at the towering man and held her ground.</text>
-  <dialog chara="008">[Aye, it’d be way easier if you just killed him]</dialog>
-  <text>Ma Feima shrugged.</text>
+  <text>Li Sushang nhìn người đàn ông cao lớn và giữ vững lập trường.</text>
+  <dialog chara="008">[Ừ, sẽ dễ hơn nhiều nếu anh giết hắn ta]</dialog>
+  <text>Ma Feima nhún vai.</text>
   <dialog chara="008">
-    <p>[Fine. If you’re so intent on protecting him… Then I’ll let you start. </p>
-    <p>Not ready? I’ll let you take as long as you want to get back to prime condition. </p>
-    <p>Remember, fight this battle with the resolve to kill me. I won’t hold back.]</p>
+    <p>[Được thôi. Nếu anh thực sự muốn bảo vệ anh ấy… Vậy thì tôi sẽ để anh bắt đầu.</p>
+    <p>Chưa sẵn sàng? Tôi sẽ cho bạn thời gian tùy thích để lấy lại phong độ tốt nhất.</p>
+    <p>Hãy nhớ, hãy chiến đấu trận này với quyết tâm giết chết ta. Ta sẽ không nương tay.</p>
   </dialog>
-  <dialog chara="002">[Why do we have to fight?!]</dialog>
+  <dialog chara="002">[Tại sao chúng ta phải chiến đấu?!]</dialog>
   <dialog chara="008">[...]</dialog>
-  <text>He stared at her and smiled.</text>
-  <text>That’s it. He’d said everything already, so why say anything else? Ma Feima had already decided, and whatever he decided, he will do.</text>
-  <text>The girl bit her lip and despite being unsatisfied, complied with his instructions.</text>
+  <text>Anh ta nhìn chằm chằm vào cô ấy và mỉm cười.</text>
+  <text>Thế thôi. Anh ta đã nói hết mọi thứ rồi, vậy tại sao phải nói thêm nữa? Ma Feima đã quyết định rồi, và bất cứ điều gì anh ta quyết định, anh ta sẽ làm.</text>
+  <text>Cô gái cắn môi và mặc dù không hài lòng, cô vẫn làm theo chỉ dẫn của anh ta.</text>
   <motion chara="001" action="hide"></motion>
   <motion chara="002" action="hide"></motion>
   <motion chara="008" action="hide"></motion>
@@ -173,42 +173,42 @@
   <bg img="心湖（1）止水"></bg>
   <mono>
     <p></p>
-    <p>This wasn’t some common rabble.</p>
-    <p>There was very little chance of winning even if she gave her all. </p>
+    <p>Đây không phải là đám người tầm thường.</p>
+    <p>Ngay cả khi cô ấy cố gắng hết sức thì cơ hội chiến thắng cũng rất thấp.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>After all— he was the Sixth Sword of Taixuan, an expert who could rival her master!</p>
+    <p>Xét cho cùng thì anh ta là Lục Kiếm Thái Huyền, một cao thủ có thể sánh ngang với sư phụ của cô ấy!</p>
   </mono>
   <bg img="心湖（2）无尘" duration="3"></bg>
   <mono chara="-3">
     <p></p>
-    <p>[em color=#FAFAD2](Aiya, I have to duel again only a couple of days after dueling for the first time in my life?)[/em]</p>
+    <p>[em color=#FAFAD2](Ôi trời, mình lại phải đấu tay đôi chỉ vài ngày sau khi đấu tay đôi lần đầu tiên trong đời sao?)[/em]</p>
   </mono>
   <mono chara="-3">
     <p></p>
-    <p>Even worse, her opponent was one of the strongest seven in these lands …</p>
+    <p>Tệ hơn nữa, đối thủ của cô ấy là một trong bảy người mạnh nhất vùng đất này…</p>
   </mono>
   <mono pageend="true" chara="-3">
     <p></p>
-    <p>[em color=#FAFAD2](It’s like the books say. Once you enter these lands, there’s no getting out.)[/em]</p>
+    <p>[em color=#FAFAD2](Giống như sách đã nói. Một khi đã đặt chân đến vùng đất này, sẽ không có đường thoát ra.)[/em]</p>
   </mono>
   <bg img="心湖（3）明镜" duration="3"></bg>
   <mono>
     <p></p>
-    <p>Li Sushang felt all of those thoughts flow through her and turned them into her will for fighting.</p>
+    <p>Li Sushang cảm nhận tất cả những suy nghĩ đó tuôn chảy qua cô và biến chúng thành ý chí chiến đấu của mình.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Her Mind Lake was calm and waveless, it was clean and clear like a mirror.</p>
+    <p>Hồ Tâm Trí của Nàng tĩnh lặng và không có sóng, trong veo và sạch sẽ như gương.</p>
   </mono>
   <mono>
     <p></p>
-    <p>This was a state even higher than Ma Feima’s [Still Water]:</p>
+    <p>Đây là một trạng thái thậm chí còn cao hơn cả Ma Feima [Nước Tĩnh]:</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Blade Mantra · Clear Mirror.</p>
+    <p>Thần chú lưỡi kiếm · Gương trong suốt.</p>
   </mono>
   <event action="goto" to="13"></event>
 </scene>

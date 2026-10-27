@@ -4,8 +4,8 @@
   <cg img="CG_第一折_老鹰战姿_拳血"></cg>
   <bg img="PureBlack"></bg>
   <text>
-    <p>"Eagle" was also looking for an opportunity, </p>
-    <p>He intends to take the initiative to expose openings.</p>
+    <p>“Eagle” cũng đang tìm kiếm cơ hội, “</p>
+    <p>Anh ấy dự định chủ động vạch trần những sơ hở.</p>
   </text>
   <cg></cg>
   <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="right" custom="default"></transition>
@@ -13,86 +13,86 @@
   <event action="hide_ui" duration="1"></event>
   <motion chara="096" action="show" pos="center" img="老鹰-特写-微笑（带血）" duration="1"></motion>
   <delay t="1"></delay>
-  <text>The openings were also easy to find, just on his own cheeks.</text>
+  <text>Những lỗ hở cũng dễ tìm thấy, ngay trên má của anh ấy.</text>
   <event action="hide_ui" duration="1"></event>
   <motion chara="097" action="show" pos="center" img="李素裳-特写-睁眼" duration="1"></motion>
   <delay t="1"></delay>
   <text>
-    <p>"Eagle" had already figured out the girl's temperament, </p>
-    <p>and if she didn't ask for that "slap", the girl's target of attack would never turn elsewhere.</p>
+    <p>"Đại bàng" đã hiểu rõ tính khí của cô gái, </p>
+    <p>và nếu cô ấy không yêu cầu "cú tát" đó, mục tiêu tấn công của cô gái sẽ không bao giờ chuyển hướng sang nơi khác.</p>
   </text>
   <text>
-    <p>If the enemy's intention was known, </p>
-    <p>the intention was no longer a life gate, but a life-saving talisman.</p>
+    <p>Nếu biết được ý định của kẻ thù, </p>
+    <p>ý định không còn là cánh cổng sự sống nữa, mà là bùa hộ mệnh cứu mạng.</p>
   </text>
   <motion chara="096" action="hide"></motion>
   <motion chara="097" action="hide"></motion>
   <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="left" custom="default"></transition>
   <cg img="CG_第一折_老鹰战姿_掌血"></cg>
   <text>
-    <p>While attacking with full force, "Eagle" only needs to guard the top of the shoulder. </p>
-    <p>At the same time, he was struggling with life and death, but his pressure was much lighter than Li Sushang.</p>
+    <p>Khi tấn công toàn lực, "Đại bàng" chỉ cần bảo vệ phần trên của vai.</p>
+    <p>Đồng thời, anh ta đang vật lộn với sự sống và cái chết, nhưng áp lực của anh ta nhẹ hơn nhiều so với Li Sushang.</p>
   </text>
   <cg img="CG_第一折_老鹰战姿_拳血" duration="1"></cg>
   <text>
-    <p>Of course, he didn't plan to fulfill any "gambling contract", </p>
-    <p>Xuanyuan would stay, and Li Sushang's life would be forfeit. [\s]</p>
-    <p>For this reason, what’s one more slap?</p>
+    <p>Dĩ nhiên, anh ta không có ý định thực hiện bất kỳ "hợp đồng đánh bạc" nào,</p>
+    <p>Xuanyuan sẽ ở lại, và Li Sushang sẽ mất mạng. [\s]</p>
+    <p>Vì lý do này, thêm một cái tát nữa thì có sao?</p>
   </text>
-  <text>From the beginning, this was an unequal battle.</text>
+  <text>Ngay từ đầu, đây đã là một trận chiến không cân sức.</text>
   <cg duration="1"></cg>
   <bg img="PureBlack"></bg>
   <delay t="1"></delay>
   <text>
-    <p>"Eagle" did everything possible and exhausted his housekeeping skills. The purpose was not to injure the enemy, </p>
-    <p>but to get close to the place where the ancient sword [Xuanyuan] was located.</p>
+    <p>“Đại bàng” đã làm mọi thứ có thể và dốc hết khả năng quản lý nhà cửa của mình. Mục đích không phải là làm tổn thương kẻ thù</p>
+    <p>nhưng để đến gần nơi thanh kiếm cổ [Xuanyuan] tọa lạc.</p>
   </text>
   <event action="hide_ui" duration="2"></event>
   <cg img="CG_第一折_夺剑_SWORD" duration="2" pos="-100,250" scale="2"></cg>
   <delay t="2"></delay>
   <mono>
     <p></p>
-    <p>As soon as the two sides fought, "Eagle" knew that this girl was young but her skills were appallingly deep.</p>
+    <p>Ngay khi hai bên giao chiến, "Đại bàng" biết rằng cô gái này còn trẻ nhưng kỹ năng của cô ấy vô cùng xuất sắc.</p>
   </mono>
   <mono>
     <p></p>
-    <p>Not to mention strength and speed, but this was the skill of changing moves freely under Roaring Tiger, and it could be counted as a first-class player in the martial arts.</p>
+    <p>Chưa kể đến sức mạnh và tốc độ, nhưng đây là kỹ năng thay đổi động tác tự do dưới sự hướng dẫn của Hổ Gầm, và có thể được coi là một võ sĩ hạng nhất.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>For this alone, he was far from matching against her.</p>
+    <p>Chỉ riêng điều này thôi, anh ta đã không thể nào sánh được với cô ấy.</p>
   </mono>
   <mono>
     <p></p>
-    <p>If you continue to fight for a long time, you will undoubtedly lose.</p>
-    <p> ——If you follow the rules.</p>
+    <p>Nếu bạn tiếp tục chiến đấu lâu dài, chắc chắn bạn sẽ thua.</p>
+    <p> —Nếu bạn tuân theo các quy tắc.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>"Eagle" wasn’t a person who obeys the rules. [\s]</p>
-    <p>What he wants is not to win, but to conquer.</p>
+    <p>"Đại bàng" không phải là người tuân thủ luật lệ. [\s]</p>
+    <p>Điều anh ta muốn không phải là chiến thắng, mà là chinh phục.</p>
   </mono>
   <mono>
     <p></p>
     <p></p>
-    <p>This was the third advantage: "purpose." The same was "victory." </p>
+    <p>Đây là lợi thế thứ ba: "mục đích." Tương tự như vậy là "chiến thắng."</p>
     <p></p>
-    <p>The "victory" of "Eagle" was completely different from the "victory" of Li Sushang.</p>
+    <p>Chiến thắng của "Đại bàng" hoàn toàn khác với chiến thắng của Li Sushang.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>What the girl pursued was the victory of the "match." </p>
-    <p>What "Eagle" wants is the victory of the "war."</p>
+    <p>Điều mà cô gái theo đuổi là chiến thắng trong "trận đấu."</p>
+    <p>Điều mà "Đại bàng" muốn là chiến thắng trong "cuộc chiến".</p>
   </mono>
   <mono pageend="true">
-    <p>"Victory of the war"... means getting what you want, destroying what you want to destroy. </p>
+    <p>"Chiến thắng trong chiến tranh"... có nghĩa là đạt được điều mình muốn, phá hủy những gì mình muốn phá hủy.</p>
     <p></p>
-    <p>Li Sushang obeyed the rules. </p>
-    <p>But "Eagle" uses rules. </p>
+    <p>Li Sushang tuân thủ luật lệ.</p>
+    <p>Nhưng "Đại bàng" sử dụng luật lệ.</p>
     <p></p>
-    <p>Use the opponent's "target" to protect oneself, </p>
-    <p>use one’s own "flaws" to lure the enemy, </p>
-    <p>and then use that sharp "sword" to kill.</p>
+    <p>Sử dụng "mục tiêu" của đối thủ để tự bảo vệ mình, </p>
+    <p>sử dụng "khuyết điểm" của chính mình để dụ kẻ thù, </p>
+    <p>và sau đó dùng "thanh kiếm" sắc bén đó để giết.</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <cg duration="1"></cg>
@@ -101,10 +101,10 @@
   <delay t="1"></delay>
   <motion chara="096" action="move" pos="0,0" duration="1"></motion>
   <text>
-    <p>This was the trap set by "Eagle". [\s]</p>
-    <p>So far, every step has met his expectations,</p>
+    <p>Đây là cái bẫy do "Đại bàng" giăng ra. [\s]</p>
+    <p>Cho đến nay, mọi bước đều đáp ứng được kỳ vọng của anh ấy,</p>
   </text>
-  <text>The layout is perfect.</text>
+  <text>Bố cục hoàn hảo.</text>
   <motion chara="096" action="hide" duration="0"></motion>
   <event action="hide_ui" duration="1"></event>
   <delay t="0.1"></delay>
@@ -117,9 +117,9 @@
   <delay t="0.6"></delay>
   <motion chara="-5" action="hide"></motion>
   <delay t="0.1"></delay>
-  <text>Sushang receded slowly, but from the lighter movements and expressions, he judged that the girl had become accustomed to her own boxing.</text>
-  <text>The scale of victory and defeat won’t always lean towards one side, and the weight that symbolizes superiority changes all the time.</text>
-  <text>The result of this battle must be determined within a few seconds.</text>
+  <text>Sushang lùi lại chậm rãi, nhưng từ những cử động và biểu cảm nhẹ nhàng hơn, anh ta nhận thấy rằng cô gái đã quen với việc tập đấm bốc của chính mình.</text>
+  <text>Cán cân chiến thắng và thất bại sẽ không phải lúc nào cũng nghiêng về một phía, và trọng lượng tượng trưng cho sự vượt trội luôn thay đổi.</text>
+  <text>Kết quả của trận chiến này phải được xác định trong vòng vài giây.</text>
   <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="left" custom="default"></transition>
   <cg img="CG_第一折_夺剑_SWORD" pos="-100,250" scale="2"></cg>
   <event action="hide_ui" duration="1.6"></event>
@@ -130,23 +130,23 @@
   <motion chara="-4" action="shake" duration="0.1" range="699" direction="vertical"></motion>
   <delay t="0.8"></delay>
   <se id="01-66战斗-拳打3"></se>
-  <text>The tiger's roar never stopped.</text>
+  <text>Tiếng gầm của hổ không bao giờ ngừng.</text>
   <bg img="PureBlack"></bg>
   <cg img="CG_第一折_夺剑_SWORD" duration="0.5" pos="0,250" scale="2"></cg>
   <delay t="0.5"></delay>
-  <text>He kept pushing, approaching the "Xuanyuan"...</text>
+  <text>Anh ta tiếp tục đẩy, tiến về phía "Xuanyuan"...</text>
   <cg duration="0.5" pos="-200,250" scale="2" img="CG_第一折_夺剑_SWORD"></cg>
   <delay t="0.5"></delay>
   <text>
-    <p>The sword was inserted on the bluestone ground beside him. [\s]</p>
-    <p>At his fingertips…</p>
+    <p>Thanh kiếm được cắm trên nền đá xanh bên cạnh anh ta. [\s]</p>
+    <p>Trong tầm tay anh ấy…</p>
   </text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg duration="1"></cg>
   <motion chara="096" action="show" img="老鹰-特写-胜利（带血）" duration="1" pos="center"></motion>
   <text>
-    <p>"Eagle" released his left hand. [\s]</p>
-    <p>The layout has been completed and the net is ready to be closed.</p>
+    <p>"Đại bàng" buông tay trái ra. [\s]</p>
+    <p>Việc bố trí đã hoàn tất và lưới đã sẵn sàng để đóng.</p>
   </text>
   <transition mode="fade" in="1" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="18"></event>

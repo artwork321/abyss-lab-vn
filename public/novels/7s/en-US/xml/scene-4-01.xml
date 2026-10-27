@@ -18,37 +18,37 @@
   </mono>
   <mono inline="true">
     <p></p>
-    <p>300 years later, a caravan from the Yan Kingdom passed this place.</p>
+    <p>300 năm sau, một đoàn lữ hành từ Vương quốc Yan đi ngang qua nơi này.</p>
   </mono>
   <mono inline="true">
     <p></p>
-    <p>The caravan carried jewelry, jade, cotton and silk brocade, accompanied by a diplomatic envoy.</p>
-    <p>The value of this person was worth more than the sum of the caravan’s goods, because he shouldered the important mission of traveling to the Western Regions, communicating and building alliances.</p>
+    <p>Đoàn lữ hành chở đồ trang sức, ngọc bích, bông và gấm lụa, đi cùng với một phái viên ngoại giao.</p>
+    <p>Giá trị của người này còn lớn hơn tổng giá trị hàng hóa của đoàn lữ hành, bởi vì ông ấy đã gánh vác nhiệm vụ quan trọng là đi đến các Vùng phía Tây, giao tiếp và xây dựng liên minh.</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>The merchants rested at this stop, and took off the next day.</p>
-    <p>But they never made it out of the Northern Desert and no one knew their whereabouts.</p>
+    <p>Các thương nhân nghỉ ngơi tại điểm dừng này và khởi hành vào ngày hôm sau.</p>
+    <p>Nhưng họ không bao giờ thoát khỏi Sa mạc phía Bắc và không ai biết tung tích của họ.</p>
   </mono>
   <mono inline="true">
     <p></p>
-    <p>740 years ago, the Banyu nomads set up a camp here.</p>
+    <p>Cách đây 740 năm, những người du mục Banyu đã dựng trại ở đây.</p>
     <p></p>
-    <p>The patriarch told her people: 「Because of this water source, the Banyu people shall never have to wander again.」</p>
+    <p>Tộc trưởng nói với dân chúng: 「Nhờ nguồn nước này, người dân Banyu sẽ không bao giờ phải lang thang nữa.」</p>
   </mono>
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>100 years later, the Huns came from the north. They swept the Banyu village, killed all the old and middle-aged men, took all the women and young children, and went to the remote Western Regions.</p>
+    <p>100 năm sau, người Hung từ phương Bắc đến. Họ càn quét làng Banyu, giết hết đàn ông già và trung niên, bắt hết phụ nữ và trẻ em, rồi đi đến vùng Tây Vực xa xôi.</p>
     <p></p>
-    <p>…The oasis was left behind by the Huns, forgotten once more by the world.</p>
+    <p>...Ốc đảo bị người Hun bỏ lại, một lần nữa bị thế giới lãng quên.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Years passed by like flowing water, and the world changed rapidly.[\s]</p>
+    <p>Năm tháng trôi qua như dòng nước chảy, và thế giới thay đổi nhanh chóng.[\s]</p>
     <p></p>
-    <p>Civilizations rose and fell; humans came and went, but they all sunk into the endless sands of the long river of history.</p>
+    <p>Các nền văn minh trỗi dậy rồi sụp đổ; con người đến rồi đi, nhưng tất cả đều chìm vào cát vô tận của dòng sông lịch sử dài vô tận.</p>
   </mono>
   <bgm looptimes="0"></bgm>
   <transition mode="fade" in="2" stop="1" out="2" color="#000000"></transition>
@@ -58,7 +58,7 @@
   <bg img="氛围_第一折_烈阳" duration="3" scale="1.2" origin="80%,20%"></bg>
   <delay t="3.2"></delay>
   <bgm id="神秘东方"></bgm>
-  <text>Looking up, the great sun was burning high above, its bright rays illuminating the earth.</text>
+  <text>Nhìn lên, mặt trời rực rỡ đang chiếu sáng trên cao, những tia sáng chói lọi rọi xuống trái đất.</text>
   <se id="01-12沙漠环境（无风沙）" looptimes="-1"></se>
   <event action="hide_ui" duration="9"></event>
   <bg img="BGDesert01" duration="3"></bg>
@@ -69,139 +69,139 @@
   <delay t="3"></delay>
   <event action="show_ui"></event>
   <se id="01-12沙漠环境（无风沙）" looptimes="0"></se>
-  <text>Looking around in the steaming heat, layers of sand dunes were like waves rippling endlessly.</text>
+  <text>Nhìn xung quanh trong cái nóng hầm hập, những lớp cồn cát giống như những con sóng lăn tăn vô tận.</text>
   <event action="hide_ui" duration="2"></event>
   <motion chara="095" action="show" pos="right" img="砂匪2-中-普通" duration="2"></motion>
   <delay t="2"></delay>
   <event action="show_ui"></event>
   <se id="01-14男气声哎"></se>
-  <dialog chara="095">*sigh*</dialog>
+  <dialog chara="095">*thở dài*</dialog>
   <text>
-    <p>The inhabitant of the oasis sighed beneath the shadows of the ancient wall.[\s]</p>
-    <p>He had seen the scene of this dull and sunbathed desert for three months now.</p>
+    <p>Cư dân của ốc đảo thở dài dưới bóng bức tường cổ.[\s]</p>
+    <p>Anh ta đã nhìn thấy cảnh tượng sa mạc buồn tẻ và ngập nắng này trong ba tháng nay.</p>
   </text>
   <se id="01-13男气声哎"></se>
-  <dialog chara="095">*sigh*</dialog>
+  <dialog chara="095">*thở dài*</dialog>
   <text>
-    <p>The man sighed again.</p>
-    <p>The desert’s heat and desolation were agitating him.</p>
+    <p>Người đàn ông lại thở dài.</p>
+    <p>Cái nóng và sự hoang vắng của sa mạc khiến anh ta bồn chồn.</p>
   </text>
   <text>
-    <p>Looking around, everything in his vision remained the same;</p>
-    <p>the sun, the sky, the yellow sand… were all immobile and motionless.</p>
-    <p>Even the air was stiff, there was not a breeze around him.</p>
+    <p>Nhìn xung quanh, mọi thứ trong tầm mắt anh vẫn không thay đổi;</p>
+    <p>mặt trời, bầu trời, cát vàng… đều bất động và không chuyển động.</p>
+    <p>Ngay cả không khí cũng cứng nhắc, không có một làn gió nào xung quanh anh ta.</p>
   </text>
   <motion chara="095" action="img_trans" img="砂匪2-中-惊慌"></motion>
-  <dialog chara="095">「Rong… how’s it going over there?」</dialog>
+  <dialog chara="095">「Rong… bên đó thế nào rồi?」</dialog>
   <motion chara="095" action="hide"></motion>
   <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="right" custom="default"></transition>
   <bg img="BGDesert02"></bg>
   <motion chara="094" action="show" pos="left" img="砂匪1-远-普通"></motion>
   <dialog chara="094">「……」</dialog>
-  <text>In the distance, his companion responded by simply shaking his head, signaling nothing out of the ordinary was spotted.</text>
+  <text>Từ xa, người bạn đồng hành của anh ta chỉ lắc đầu, ra hiệu rằng không có gì bất thường được phát hiện.</text>
   <text>
-    <p>The other man knew very well that the man was just starting a conversation to alleviate his boredom.</p>
-    <p>But in this desert, hot as an oven, talking was a luxury.</p>
+    <p>Người đàn ông kia biết rất rõ rằng người đàn ông kia chỉ bắt chuyện để giải tỏa sự buồn chán của mình.</p>
+    <p>Nhưng ở sa mạc này, nóng như lò nướng, nói chuyện là một điều xa xỉ.</p>
   </text>
   <text>
-    <p>Opening his mouth would be a waste of saliva.</p>
-    <p>It wouldn't be worth the effort for the 「Golden Sand Gang」.</p>
+    <p>Mở miệng ra sẽ lãng phí nước bọt.</p>
+    <p>Việc đó sẽ không đáng công sức của 「Băng đảng Cát Vàng」.</p>
   </text>
   <motion chara="094" action="hide"></motion>
   <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="left" custom="default"></transition>
   <bg img="BGDesert01"></bg>
   <motion chara="095" action="show" pos="right" img="砂匪2-中-普通"></motion>
   <remark>
-    <p>ㅤ</p>
+    <p> ㅤ </p>
     <p>NB:</p>
-    <p>ㅤ</p>
-    <p>『*』represent swear words. To avoid adverse effects, they are represented here with these asterisks. The contents are left to your imagination. Or please ignore it.</p>
-    <p>ㅤ</p>
-    <p>Characters in the story may utter curse words due to factors such as their origins, environment, and education. However, in order to respect the characters' personalities, some of these words are hidden in the novel. We hope that you understand.</p>
+    <p> ㅤ </p>
+    <p>『*』đại diện cho những từ chửi thề. Để tránh những tác dụng phụ, chúng được biểu thị ở đây bằng dấu sao. Nội dung được để cho bạn tự tưởng tượng. Hoặc vui lòng bỏ qua.</p>
+    <p> ㅤ </p>
+    <p>Các nhân vật trong truyện có thể thốt ra những lời chửi rủa do các yếu tố như nguồn gốc, môi trường và trình độ học vấn của họ. Tuy nhiên, để tôn trọng tính cách của các nhân vật, một số từ ngữ này đã được giấu đi trong tiểu thuyết. Chúng tôi hy vọng bạn hiểu.</p>
   </remark>
-  <dialog chara="095">「Fine, okay… **, I got it.」</dialog>
-  <text>He touched the closed door and licked his lips sadly.</text>
-  <text>He was still a newcomer. It had only been a few months since he joined the 「Golden Sand Gang」, he had yet to learn all the rules. If he did, he would’ve known the value of water, would’ve spoken less, and would have stood still by the shadow of the ancient wall until the Boss comes back.</text>
+  <dialog chara="095">「Được rồi, ổn thôi… **, tôi hiểu rồi.」</dialog>
+  <text>Anh ta chạm vào cánh cửa đóng kín và liếm môi buồn bã.</text>
+  <text>Hắn vẫn còn là người mới. Mới chỉ vài tháng kể từ khi hắn gia nhập 「Băng đảng Cát Vàng」, hắn vẫn chưa học hết luật lệ. Nếu biết hết, hắn đã biết giá trị của nước, đã ít nói hơn, và đã đứng im dưới bóng bức tường cổ cho đến khi Ông chủ quay lại.</text>
   <motion chara="095" action="img_trans" img="砂匪2-中-微笑"></motion>
   <remark>
-    <p>ㅤ</p>
+    <p> ㅤ </p>
     <p>NB:</p>
-    <p>ㅤ</p>
-    <p>『*』represent swear words. To avoid adverse effects, they are represented here with these asterisks. The contents are left to your imagination. Or please ignore it.</p>
-    <p>ㅤ</p>
-    <p>Characters in the story may utter curse words due to factors such as their origins, environment, and education. However, in order to respect the characters' personalities, some of these words are hidden in the novel. We hope that you understand.</p>
+    <p> ㅤ </p>
+    <p> 『*』đại diện cho những từ chửi thề. Để tránh những tác dụng phụ, chúng được biểu thị ở đây bằng dấu sao. Nội dung được để cho bạn tự tưởng tượng. Hoặc vui lòng bỏ qua.</p>
+    <p> ㅤ </p>
+    <p>Các nhân vật trong truyện có thể thốt ra những lời chửi thề do các yếu tố như nguồn gốc, môi trường và trình độ học vấn của họ. Tuy nhiên, để tôn trọng tính cách của các nhân vật, một số từ ngữ này đã được giấu đi trong tiểu thuyết. Chúng tôi hy vọng bạn hiểu.</p>
   </remark>
-  <dialog chara="095">「*, it’s supposed to be a big deal.」</dialog>
+  <dialog chara="095">「*, nó được cho là một vấn đề lớn.」</dialog>
   <text>
-    <p>The man swore out of frustration.</p>
-    <p>His voice was so low, his companion couldn’t make out what he said.</p>
+    <p>Người đàn ông chửi thề vì bực bội.</p>
+    <p>Giọng anh ấy nhỏ đến nỗi người bạn đồng hành không nghe rõ anh ấy nói gì.</p>
   </text>
   <motion chara="095" action="img_trans" img="砂匪2-中-普通"></motion>
   <text>
-    <p>…He knew very well that the Boss didn’t take him lightly just because he was new.</p>
-    <p>Normally, gang members take turns looking after their base, it just so happened that today was his turn.</p>
+    <p>...Anh ta biết rất rõ rằng Sếp không coi thường anh ta chỉ vì anh ta là người mới.</p>
+    <p>Thông thường, các thành viên băng đảng thay phiên nhau trông coi căn cứ, hôm nay tình cờ là đến lượt anh ta.</p>
   </text>
-  <text>Even though the Golden Sand Gang would still reward him all the same, despite him staying back to protect the base.</text>
+  <text>Mặc dù Băng đảng Cát Vàng vẫn sẽ thưởng cho anh ta, bất chấp việc anh ta ở lại để bảo vệ căn cứ.</text>
   <text>
-    <p>But- he was a fighter, a real killer.</p>
-    <p>Robbing, looting, kidnapping, murdering… These were what he signed up to do.</p>
-    <p>The clashes of blades and the slicing of flesh… Those were the real rewards he sought.</p>
+    <p>Nhưng anh ta là một chiến binh, một sát thủ thực thụ.</p>
+    <p>Cướp bóc, cướp phá, bắt cóc, giết người… Đó là những việc hắn đã cam kết làm.</p>
+    <p>Những tiếng va chạm của lưỡi kiếm và tiếng chém thịt… Đó mới là phần thưởng thực sự mà anh ta tìm kiếm.</p>
   </text>
   <text>
-    <p>[em bold color=#ff0000]Battling[/em] and [em bold color=#ff0000]Killing[/em]; these were the things that the man valued.[\s]</p>
+    <p>[em bold color=#ff0000]Đánh nhau[/em] và [em bold color=#ff0000]Giết chóc[/em]; đó là những điều mà người đàn ông coi trọng.[\s]</p>
     <p>No doubt about it, this man was the evil amongst the evil.[\s]</p>
-    <p>Not only did he bear no shame in this, he prided himself with this as proof of who he really was.</p>
+    <p>Không những anh ta không hề xấu hổ về điều này, anh ta còn tự hào về điều này như một bằng chứng cho con người thật của mình.</p>
   </text>
   <text>
-    <p>As a result, being left out of such a 「Big Fish」 made the man feel extremely</p>
-    <p>humiliated and angry.[\s]</p>
-    <p>It was this anger that frustrated him and made him talkative.</p>
+    <p>Do đó, việc bị loại khỏi một 「Cá lớn」 như vậy khiến người đàn ông cảm thấy vô cùng</p>
+    <p>bị sỉ nhục và tức giận.[\s]</p>
+    <p>Chính sự tức giận này đã khiến anh ta bực bội và nói nhiều.</p>
   </text>
   <motion chara="095" action="hide"></motion>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <se id="01-15喝水"></se>
-  <dialog chara="095">「Gulp——」</dialog>
-  <text>The frustrated man picked up his water pouch and drank without stopping.</text>
-  <dialog chara="095">「Hm——」</dialog>
+  <dialog chara="095"> 「Nuốt chửng——」</dialog>
+  <text>Người đàn ông bực bội nhặt túi nước của mình lên và uống không ngừng.</text>
+  <dialog chara="095">「Hừm——」</dialog>
   <bg img="氛围-1-素裳过曝-1" duration="5"></bg>
   <event action="hide_ui" duration="4"></event>
   <delay t="4"></delay>
   <event action="show_ui"></event>
-  <text>The man blinked.</text>
+  <text>Người đàn ông chớp mắt.</text>
   <event action="hide_ui" duration="3"></event>
   <bg img="氛围-1-素裳过曝-2" duration="3"></bg>
   <delay t="3"></delay>
   <event action="show_ui"></event>
-  <text>In front of him, a girl was walking towards them.</text>
+  <text>Trước mặt anh ta, một cô gái đang đi về phía họ.</text>
   <text>
     <p>The man wasn’t hallucinating, this isn’t one of those "mirages" that appear in the desert.[\s]</p>
-    <p>The girl… she was walking slowly towards them from the other end of the desert.</p>
+    <p>Cô gái… cô ấy đang chậm rãi bước về phía họ từ phía bên kia sa mạc.</p>
   </text>
   <dialog chara="095">「R-Rong——!」</dialog>
   <text>
-    <p>His whisper quickly dissipated in the heat.</p>
-    <p>Without realizing, he had already made several big mistakes.</p>
+    <p>Tiếng thì thầm của anh ta nhanh chóng tan biến trong cái nóng.</p>
+    <p>Không nhận ra, anh ta đã phạm phải một số sai lầm lớn.</p>
   </text>
   <text>
-    <p>First: He lost his composure.</p>
-    <p>Second: He moved by himself.</p>
-    <p>If this was the Big Boss, he wouldn’t have made such a big deal out of this.</p>
+    <p>Đầu tiên: Anh ta mất bình tĩnh.</p>
+    <p>Thứ hai: Anh ta tự di chuyển.</p>
+    <p>Nếu đây là Sếp Lớn, ông ấy sẽ không làm lớn chuyện như vậy.</p>
   </text>
   <text>
-    <p>But, the 「Golden Sand Gang」 are the feared leaders of the Northern Desert.</p>
-    <p>They had never met a girl that walked up to them like this.</p>
+    <p>Nhưng, 「Băng đảng Cát Vàng」 là những thủ lĩnh đáng sợ của Sa mạc phía Bắc.</p>
+    <p>Họ chưa từng gặp một cô gái nào tiến đến chỗ họ như thế này.</p>
   </text>
-  <text>「Who is this girl?」</text>
-  <text>「Is she crazy? This place belongs to the 「Golden Sand Gang」!」</text>
-  <text>「Who dares look for trouble here? And crosses the path of the 「Golden Sand Gang」 path?」</text>
-  <text>…Questions after questions flashed across his mind like lightning.</text>
+  <text>「Cô gái này là ai?」</text>
+  <text>「Cô ta điên à? Nơi này thuộc về 「Băng đảng Cát Vàng」!」</text>
+  <text>「Ai dám gây sự ở đây? Và dám đụng độ với băng đảng 「Golden Sand Gang」?」</text>
+  <text>...Hàng loạt câu hỏi vụt qua tâm trí anh như tia chớp.</text>
   <event action="hide_ui" duration="3"></event>
   <se id="01-17女孩沙漠行走loop" looptimes="-1"></se>
   <bg img="氛围-1-素裳过曝-3" duration="3"></bg>
   <delay t="3"></delay>
   <event action="show_ui"></event>
-  <dialog chara="095">「This girl… who the hell is she?」</dialog>
+  <dialog chara="095">「Cô gái này… rốt cuộc cô ta là ai?」</dialog>
   <bgm looptimes="0"></bgm>
   <transition mode="fade" in="3" stop="2" out="0" color="#000000"></transition>
   <event action="goto" to="02"></event>

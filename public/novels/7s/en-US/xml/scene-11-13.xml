@@ -1,40 +1,40 @@
 <scene id="13" type="block" prev="12" title="天•地•螺旋2">
   <cg img="CG_通用_李素裳战斗-1" duration="1"></cg>
-  <text>She raised her hands, placing them in the formation of the starting strike of Edge of Taixuan’s [Opening Form · Onslaught].</text>
+  <text>Cô ấy giơ hai tay lên, đặt chúng vào tư thế chuẩn bị cho đòn tấn công khai cuộc của [Hình thức khai cuộc · Tấn công] của Cạnh Taixuan.</text>
   <bgm id="太鼓乱舞（战斗）"></bgm>
   <dialog chara="008">[Heh].</dialog>
-  <text>Ma Feima scoffed, either in joy or disgust:</text>
-  <dialog chara="008">[Come then!]</dialog>
+  <text>Ma Feima cười khẩy, có thể vì vui mừng hoặc vì ghê tởm:</text>
+  <dialog chara="008">[Vậy thì hãy đến đây!]</dialog>
   <cg img="氛围_通用_烟雾" duration="1" scale="1"></cg>
   <se id="01-30女孩轻功whoosh_02"></se>
-  <text>His form disappeared even before he finished his sentence.</text>
-  <text>No, it wasn’t gone, just so fast to the point that not even the eye could detect it.</text>
-  <text>There was only the sudden breeze, the vibrating air, and the impending killing intent that indicated his presence.</text>
+  <text>Hình dáng của anh ta biến mất ngay cả trước khi anh ta nói xong câu.</text>
+  <text>Không, nó không biến mất, chỉ là biến mất quá nhanh đến nỗi ngay cả mắt thường cũng không nhận ra.</text>
+  <text>Chỉ có cơn gió bất chợt, không khí rung động và ý định giết người sắp xảy ra mới cho thấy sự hiện diện của hắn.</text>
   <motion chara="-4" action="shake" duration="0.1" range="400" direction="horizontal"></motion>
   <cg img="CG_第二折_马非马战斗"></cg>
   <bg img="轩辕VS掌4" duration="2" pos="200,0" scale="1.5"></bg>
   <se id="01-24-1男空中旋转"></se>
-  <text>In an instant, Ma Feima appeared in front of the Raksha and Sushang. He pushed his palm outward, a strike so ordinary but was one of the opening strikes of the Edge of Taixuan —</text>
-  <text>Wrath Form · Roiling Gale!</text>
+  <text>Trong nháy mắt, Ma Feima xuất hiện trước mặt Raksha và Sushang. Anh ta đẩy lòng bàn tay ra ngoài, một đòn đánh rất bình thường nhưng lại là một trong những đòn đánh mở màn của Thái Huyền Vũ —</text>
+  <text>Hình dạng Cơn thịnh nộ · Cơn gió cuộn trào!</text>
   <mono>
     <p></p>
-    <p>If it were the Sushang from three days ago, she may not have reacted in time. </p>
+    <p>Nếu đó là Sushang của ba ngày trước, có lẽ cô ấy đã không phản ứng kịp.</p>
   </mono>
-  <mono pageend="true">However, she has since improved a lot.</mono>
+  <mono pageend="true">Tuy nhiên, kể từ đó cô ấy đã tiến bộ rất nhiều.</mono>
   <mono pageend="true">
     <p></p>
-    <p>A mirrored heart, illuminates all.</p>
+    <p>Một trái tim phản chiếu, soi sáng tất cả.</p>
     <p></p>
-    <p>Ma Feima’s actions fell into her mirrored heart, shimmering and shaking, and all of sudden, they slowed down. </p>
+    <p>Hành động của Ma Feima rơi vào trái tim phản chiếu của cô ấy, lung linh và rung động, rồi đột nhiên, chúng chậm lại.</p>
     <p></p>
-    <p>In the split second of emptiness, she could not only detect his moves, but also formulate the most optimal counterattack.</p>
+    <p>Trong khoảnh khắc trống rỗng ấy, cô không chỉ có thể phát hiện ra động thái của anh ta mà còn vạch ra được phương án phản công tối ưu nhất.</p>
   </mono>
   <cg></cg>
   <bg img="刀光与剑影"></bg>
   <se id="01-22女孩轻功whoosh_01"></se>
   <mono>
     <p></p>
-    <p>Without a second thought, Sushang struck with her right hand. </p>
+    <p>Không do dự, Sushang vung tay phải đánh.</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <bg img="轩辕VS掌1"></bg>
@@ -43,35 +43,35 @@
   <bg img="轩辕VS掌1" scale="1.5" duration="3"></bg>
   <mono pageend="true">
     <p></p>
-    <p>The cloth bag with the Xuanyuan sword bounced into the air, </p>
+    <p>Chiếc túi vải đựng thanh kiếm Huyền Nguyên nảy lên không trung,</p>
     <p></p>
-    <p>twisting until it faced the man’s incoming palm.</p>
+    <p>xoay tròn cho đến khi nó hướng về phía lòng bàn tay đang tiến tới của người đàn ông.</p>
   </mono>
   <mono>
     <p></p>
-    <p>[em italic]Stop your attack![/em]</p>
+    <p>[em italic]Dừng cuộc tấn công của bạn lại![/em]</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>That’s what Li Sushang hoped.</p>
+    <p>Đó là điều Li Sushang mong muốn.</p>
   </mono>
   <event action="hide_ui"></event>
   <bg img="轩辕VS掌1" duration="10" pos="-300,0" scale="1.5"></bg>
   <event action="show_ui"></event>
-  <text>If not, then this legendary armament will surely slice his hand in half.</text>
+  <text>Nếu không, thì vũ khí huyền thoại này chắc chắn sẽ chém đôi tay hắn.</text>
   <event action="hide_ui" duration="1"></event>
   <bg img="轩辕VS掌1" duration="0.5" scale="1"></bg>
   <delay t="1"></delay>
   <text>
-    <p>However, the man’s strike didn’t slow a single bit. </p>
-    <p>It was as if he wasn’t facing a legendary weapon, but a bamboo stick.</p>
+    <p>Tuy nhiên, cuộc tấn công của người đàn ông không hề chậm lại chút nào.</p>
+    <p>Cứ như thể anh ta không đối mặt với một vũ khí huyền thoại, mà là một cây gậy tre.</p>
   </text>
   <dialog chara="008">
-    <p>[Remember, the Wrath Form and Switch Form are alike. </p>
-    <p>You are the one striking, not your sword, so do not be so insistent on the form!]</p>
+    <p>[Hãy nhớ rằng, Dạng Cơn Thịnh Nộ và Dạng Chuyển Đổi giống nhau. </p>
+    <p>Chính ngươi là người ra đòn, chứ không phải thanh kiếm của ngươi, vậy nên đừng quá khăng khăng về hình thức!</p>
   </dialog>
   <bg img="轩辕VS掌2" duration="3" reset="true"></bg>
-  <text inline="true">The man lifted his pinky and stopped the Xuanyuan. </text>
+  <text inline="true">Người đàn ông giơ ngón út lên và chặn Xuanyuan.</text>
   <event action="hide_ui" duration="1.5"></event>
   <bg img="轩辕VS掌3-1"></bg>
   <se id="01-55手指弹剑"></se>
@@ -81,13 +81,13 @@
   <bg img="轩辕VS掌3-3"></bg>
   <se id="01-32铁剑掷出"></se>
   <delay t="0.5"></delay>
-  <text>With three fingers, he deflected the blade behind him.</text>
+  <text>Với ba ngón tay, anh ta gạt lưỡi kiếm ra phía sau.</text>
   <motion chara="097" action="show" pos="center" img="李素裳-特写-惊讶"></motion>
-  <text>[em italic color=#FAFAD2](Switch Form [Selene’s Heron]... how is that possible?)[/em]</text>
-  <text>How was it so fast and precise….</text>
-  <text>How was it possible to use it like that…?</text>
+  <text>[em italic color=#FAFAD2](Chuyển đổi dạng [Chim diệc Selene]... làm sao có thể?)[/em]</text>
+  <text>Sao lại nhanh và chính xác đến thế….</text>
+  <text>Làm sao có thể sử dụng nó như vậy…?</text>
   <motion chara="008" action="show" pos="center" img="马非马-头像-严肃"></motion>
-  <dialog chara="008">[Learn and adapt! Why are you still on Opening Form? Too slow!]</dialog>
+  <dialog chara="008">[Học hỏi và thích nghi! Sao bạn vẫn còn ở Hình thức Khai mạc? Chậm quá!]</dialog>
   <motion chara="008" action="hide" duration="0"></motion>
   <motion chara="097" action="hide" duration="0"></motion>
   <event action="hide_ui"></event>
@@ -95,8 +95,8 @@
   <motion chara="-4" action="shake" duration="0.2" range="400" direction="horizontal"></motion>
   <delay t="0.5"></delay>
   <event action="show_ui"></event>
-  <text>In an instant, that hand became a palm strike once again, flying towards her!</text>
-  <text>The girl raised her arm to guard, but it was too late.</text>
+  <text>Trong nháy mắt, bàn tay ấy lại trở thành một cú đánh bằng lòng bàn tay, bay về phía cô ấy!</text>
+  <text>Cô gái giơ tay lên để phòng thủ, nhưng đã quá muộn.</text>
   <event action="hide_ui"></event>
   <se id="01-28胸口命中"></se>
   <cg img="CG_第二折_马非马战斗"></cg>
@@ -106,33 +106,33 @@
   <cg></cg>
   <delay t="1"></delay>
   <event action="show_ui"></event>
-  <dialog chara="002">[Hngh—!]</dialog>
-  <text>A force, both soft and hard, struck her. She opened her mouth, the air around her compressing into a sonic wave propelling her backwards.</text>
-  <text>That strike was still Wrath Form — [Roiling Gale]!</text>
+  <dialog chara="002">[Hừ—!]</dialog>
+  <text>Một lực vừa mềm vừa cứng ập vào cô. Cô mở miệng, không khí xung quanh cô bị nén lại thành sóng âm đẩy cô lùi về phía sau.</text>
+  <text>Đòn tấn công đó vẫn là Dạng Cơn Thịnh Nộ — [Cơn Gió Cuộn]!</text>
   <transition mode="halo" in="2" stop="0.5" out="2" color="#ff0000"></transition>
   <bg img="BGDesert03"></bg>
   <se id="01-34男沙地重摔"></se>
-  <text>Her young body slammed to the sand, and even though the soft ground had absorbed the brunt of the impact, Sushang still let out a tiny cry.</text>
+  <text>Thân thể non nớt của cô ấy ngã xuống cát, và mặc dù mặt đất mềm đã hấp thụ phần lớn lực tác động, Sushang vẫn phát ra một tiếng kêu nhỏ.</text>
   <event action="hide_ui"></event>
   <motion chara="002" action="show" pos="center" img="素裳-战损-虚弱-空手-中景" duration="4"></motion>
   <delay t="4"></delay>
   <event action="show_ui"></event>
-  <text>Blood flowed out of her orifices, and her head was spinning — The place that he struck her wasn’t hurting, but she was in no condition to fight any longer.</text>
+  <text>Máu chảy ra từ các lỗ trên cơ thể cô ấy, và đầu cô ấy quay cuồng — Chỗ anh ta đánh cô ấy không đau, nhưng cô ấy không còn đủ sức để chống cự nữa.</text>
   <mono pageend="true">
     <p></p>
-    <p>To turn strength into weakness by using the object of highest defense against their opponent.</p>
+    <p>Biến sức mạnh thành điểm yếu bằng cách sử dụng vật dụng phòng thủ cao nhất chống lại đối thủ của họ.</p>
     <p></p>
-    <p>— Edge of Taixuan, Wrath Form [Roiling Gale] , it was a strange strike that used Ki to induce a strong vibration.</p>
+    <p>— Cạnh Thái Huyền, Hình thái Cuồng nộ [Cơn lốc cuộn xoáy] , đó là một đòn tấn công kỳ lạ sử dụng Khí để tạo ra rung động mạnh.</p>
   </mono>
   <mono>
     <p></p>
-    <p>Having taken the full force of the blast, Sushang’s body wasn’t harmed, but her insides were scrambled. </p>
+    <p>Sau khi hứng chịu toàn bộ sức mạnh của vụ nổ, cơ thể của Sushang không bị tổn hại, nhưng nội tạng của cô ấy bị xáo trộn.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The brunt of the damage was in her brain, where Sushang could still feel the vibrations.</p>
+    <p>Phần lớn thiệt hại tập trung ở não cô ấy, nơi Sushang vẫn có thể cảm nhận được những rung động.</p>
   </mono>
-  <dialog chara="002">[Ah… Ahhhh]</dialog>
+  <dialog chara="002">[À… Àhhh]</dialog>
   <event action="hide_ui"></event>
   <motion action="move" chara="002" img="素裳-战损-虚弱-单手-近景" duration="7" pos="0,300"></motion>
   <motion chara="002" action="shake" duration="2" range="2" direction="horizontal"></motion>
@@ -141,26 +141,26 @@
   <delay t="5"></delay>
   <motion chara="002" action="shake" direction="default" looptimes="0"></motion>
   <event action="show_ui"></event>
-  <text>Sushang tried to stand but felt the world spinning.</text>
+  <text>Sushang cố gắng đứng dậy nhưng cảm thấy thế giới quay cuồng.</text>
   <motion chara="002" action="hide"></motion>
   <transition mode="eye" in="3" stop="0.5" out="3" color="#000000"></transition>
   <delay t="1"></delay>
   <cg img="天地螺旋"></cg>
-  <text>The sky and the Earth, and the blue and the yellow all converged into a swirl.</text>
-  <text>Swirl —</text>
+  <text>Bầu trời và Trái đất, màu xanh và màu vàng đều hội tụ thành một vòng xoáy.</text>
+  <text>Xoáy —</text>
   <bg img="BGBlood1"></bg>
   <cg></cg>
-  <text>Thud.</text>
-  <text>The girl kneeled on the ground, blood flowing out of her eyes, blurring her vision.</text>
-  <text>She tried to look in front of her, </text>
+  <text>Rầm.</text>
+  <text>Cô gái quỳ trên mặt đất, máu chảy ra từ mắt, làm mờ tầm nhìn của cô.</text>
+  <text>Cô ấy cố gắng nhìn về phía trước, </text>
   <transition mode="eye" in="0.5" stop="0.3" out="0.5" color="#000000"></transition>
   <bg img="奥托的眼睛1"></bg>
   <delay t="1.5"></delay>
   <bg img="奥托的眼睛2" duration="5"></bg>
   <delay t="5"></delay>
   <text>
-    <p>but inside the twisted world, </p>
-    <p>the only thing she caught were those emerald eyes of the Raksha.</p>
+    <p>nhưng bên trong thế giới méo mó, </p>
+    <p>thứ duy nhất cô ấy bắt được là đôi mắt màu ngọc lục bảo của Raksha.</p>
   </text>
   <transition mode="fade" in="2" stop="1.5" out="0" color="#000000"></transition>
   <event action="goto" to="14"></event>

@@ -1,313 +1,313 @@
 <scene id="13" type="block" prev="12" title="悪い羅刹人2">
-  <text>The girl began rambling again:</text>
+  <text>Cô gái lại bắt đầu nói lan man:</text>
   <motion chara="001" action="img_trans" img="奥托-标准-标准-中景（棺材）"></motion>
   <motion chara="002" action="img_trans" img="素裳-元气-背手-中景"></motion>
   <dialog chara="002">
-    <p>[You know those people up there are called the Golden Sand Gang right? </p>
-    <p>They’re a bunch of bad people who do everything evil that you can imagine.]</p>
+    <p>[Bạn biết những người ở trên đó được gọi là Băng đảng Cát Vàng phải không?</p>
+    <p>Chúng là một lũ người xấu xa, làm đủ mọi điều ác mà bạn có thể tưởng tượng.</p>
   </dialog>
   <motion chara="002" action="img_trans" img="素裳-浅笑-背手-中景"></motion>
   <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-中景（棺材）"></motion>
-  <dialog chara="002">[By the orders of my master, I have come to eradicate these nuisances. Those who are heroes shall fight for the righteous and weed out evil to grant justice to the people and peace to this land… Uh, that’s what all those storytellers say, anyway.]</dialog>
+  <dialog chara="002">[Theo lệnh của chủ nhân, ta đến đây để diệt trừ những kẻ gây rối này. Những anh hùng sẽ chiến đấu vì lẽ phải và diệt trừ cái ác để mang lại công lý cho nhân dân và hòa bình cho vùng đất này… Ừm, dù sao thì tất cả những người kể chuyện đều nói vậy.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目前-背手-中景"></motion>
-  <text>She cleared her throat, looking shyly at the Raksha. She saw the latter staring at her intently, and she suddenly felt tiny sparks of joy inside her. She straightened her back, and her tone became more serious.</text>
+  <text>Cô ấy hắng giọng, nhìn Raksha một cách rụt rè. Cô ấy thấy Raksha đang nhìn mình chăm chú, và đột nhiên cô ấy cảm thấy những tia vui nhỏ nhoi trong lòng. Cô ấy thẳng lưng, và giọng nói trở nên nghiêm túc hơn.</text>
   <motion chara="002" action="img_trans" duration="1" img="素裳-愤怒-背手-中景"></motion>
   <dialog chara="002">
-    <p>[The Golden Sand Gang was inconsequential, </p>
-    <p>but now, a man called “Eagle” has become their ringleader.]</p>
+    <p>[Băng đảng Cát Vàng không có tầm quan trọng gì, </p>
+    <p>nhưng giờ đây, một người đàn ông tên là “Đại bàng” đã trở thành kẻ cầm đầu của chúng.]</p>
   </dialog>
-  <dialog chara="002">[He is not someone to be taken lightly, as my master has informed me that he is a practitioner of the martial arts, a skilled one at that. Otherwise, my master would not have sent me here.]</dialog>
+  <dialog chara="002">[Không phải người dễ bị xem thường, vì sư phụ tôi đã nói với tôi rằng ông ta là một người luyện võ thuật, lại còn rất giỏi nữa. Nếu không thì sư phụ tôi đã không phái tôi đến đây.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-笑-背手-中景"></motion>
   <dialog chara="002">
-    <p>[I’ve come here first to take care of an evil that’s been pestering the good folk of the Northern Desert; </p>
-    <p>Second, I’m here to test my mettle.]</p>
+    <p>[Tôi đến đây trước tiên để giải quyết một điều ác đang quấy rầy những người dân tốt bụng ở Sa mạc phía Bắc; </p>
+    <p>Thứ hai, tôi đến đây để thử thách bản lĩnh của mình.</p>
   </dialog>
   <motion chara="002" action="img_trans" img="素裳-欸真的吗-背手-中景"></motion>
-  <text>Sushang felt a bit guilty being so boastful, </text>
-  <text>but seeing as the Raksha was listening to her carefully with no other comments, the girl’s mood improved drastically. She believed the golden-haired stranger was an exceptional person to chat with.</text>
+  <text>Sushang cảm thấy hơi áy náy vì đã khoe khoang như vậy,</text>
+  <text>nhưng thấy Raksha đang chăm chú lắng nghe cô mà không nói thêm gì, tâm trạng của cô gái đã cải thiện đáng kể. Cô tin rằng người lạ tóc vàng là một người đặc biệt để trò chuyện cùng.</text>
   <motion chara="002" action="img_trans" img="素裳-标准-背手-中景"></motion>
   <motion chara="001" action="img_trans" img="奥托-思索-中景（棺材）"></motion>
-  <dialog chara="002">[Our martial arts at the Wanderer’s House is called the [Edge of Taixuan], the one-of-a-kind martial arts belonging to the legendary Phoenix. It is the most complex martial arts across the lands.]</dialog>
+  <dialog chara="002">[Võ thuật của chúng tôi tại Nhà Lang Thang được gọi là [Cạnh Thái Huyền], một loại võ thuật độc nhất vô nhị thuộc về Phượng Hoàng huyền thoại. Đây là môn võ thuật phức tạp nhất trên khắp các vùng đất.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-小恶魔-背手-中景"></motion>
-  <dialog chara="002">[The Edge of Taixuan has five essences: Mantra, Form, Sanction, Ascension, and Eminence. </dialog>
-  <dialog chara="002" inline="true">To be honest with you, I’ve made progress in the Mantra, Form, and Ascension ~</dialog>
+  <dialog chara="002">[Mép Thái Huyền có năm tinh túy: Chú, Hình thức, Trừng phạt, Thăng thiên và Uy thế.</dialog>
+  <dialog chara="002" inline="true">Thành thật mà nói, tôi đã tiến bộ trong Thần chú, Hình thức và Thăng thiên ~</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目下-背手-中景"></motion>
   <dialog chara="002">
     <p></p>
-    <p>... But I’ve been stuck at the Xuanyuan Sanction phase for a while now.]</p>
+    <p>... Nhưng tôi đã bị kẹt ở giai đoạn Trừng phạt Huyền Nguyên một thời gian rồi.]</p>
   </dialog>
   <motion chara="002" action="img_trans" img="素裳-嘟嘴-背手-中景"></motion>
-  <dialog chara="002">[Not even my master knows how to train the Sanction Essence, but my mom can; she said 【When you heart has connected with the Xuanyuan, the Sanction essence will come as naturally as night to day.】But it’s just a sword, what kind of thoughts does it even have? </dialog>
-  <dialog chara="002">I’ve talked to it for more than a decade, but it’s never done a thing, not even a yep. Aye, I really want to get it straight, but I haven’t been home for a while now…]</dialog>
+  <dialog chara="002">[Ngay cả sư phụ của tôi cũng không biết cách tu luyện Tinh Hoa Trừng Phạt, nhưng mẹ tôi thì có thể; bà ấy nói 【Khi trái tim con kết nối với Huyền Nguyên, Tinh Hoa Trừng Phạt sẽ đến một cách tự nhiên như ngày lẫn đêm.】Nhưng nó chỉ là một thanh kiếm, nó có suy nghĩ gì chứ?</dialog>
+  <dialog chara="002">Tôi đã nói chuyện với nó hơn một thập kỷ rồi, nhưng nó chẳng làm gì cả, thậm chí không một tiếng "ừ". Phải, tôi thực sự muốn hiểu rõ vấn đề, nhưng tôi đã không về nhà một thời gian rồi…]</dialog>
   <motion chara="002" action="img_trans" img="素裳-浅笑-背手-中景"></motion>
-  <dialog chara="002">[Ah, I haven’t told you yet, the Xuanyuan Sword is… Uh, never mind… </dialog>
-  <dialog chara="002">Those bandits stole my sword, but don’t worry, I’ll get it back in no time. As for how —]</dialog>
+  <dialog chara="002">[À, tôi chưa nói với anh, thanh kiếm Huyền Nguyên là… Ờ, thôi bỏ đi… </dialog>
+  <dialog chara="002">Những tên cướp đó đã lấy trộm thanh kiếm của ta, nhưng đừng lo, ta sẽ lấy lại được ngay thôi. Còn về cách thức —]</dialog>
   <motion chara="002" action="img_trans" duration="1" img="素裳-大笑潇洒-背手-中景"></motion>
-  <dialog chara="002">[I have my ways!]</dialog>
+  <dialog chara="002">[Ta có cách của riêng ta!]</dialog>
   <text>
-    <p>The girl said with excitement, her eyes shining. [\s]</p>
-    <p>Although she seemed way too eccentric and all over the place, the Raksha enjoyed listening to her.</p>
+    <p>Cô gái nói với vẻ phấn khích, mắt sáng long lanh. [\s]</p>
+    <p>Mặc dù cô ấy có vẻ quá lập dị và lộn xộn, nhưng Raksha vẫn thích nghe cô ấy nói.</p>
   </text>
   <motion chara="002" action="img_trans" img="素裳-元气-背手-中景"></motion>
   <dialog chara="002">
-    <p>[I’ve learnt the ways of the blade for ten years with my master now. </p>
-    <p>It’s kind of embarrassing to say this, but I haven’t fought any other experts besides my master. </p>
+    <p>[Tôi đã học cách sử dụng kiếm trong mười năm với sư phụ của mình.</p>
+    <p>Thật hơi xấu hổ khi phải nói điều này, nhưng tôi chưa từng đấu với bất kỳ chuyên gia nào khác ngoài sư phụ của mình.</p>
   </dialog>
-  <dialog chara="002">Mom always said that practice is different from real life, but I don’t think it’s as mysterious as she likes to put it.]</dialog>
+  <dialog chara="002">Mẹ luôn nói rằng thực hành khác với đời thực, nhưng con không nghĩ nó bí ẩn như mẹ vẫn nói.</dialog>
   <motion chara="002" action="img_trans" img="素裳-笑-背手-中景"></motion>
-  <dialog chara="002">[Don’t underestimate me just because I’m young, I’m actually pretty powerful. I’ll tell you this, I defeated four men just now with no blood shed at all. </dialog>
-  <dialog chara="002">It’s not that simple, you have to be really careful with how you control your strength~]</dialog>
-  <dialog chara="001">[How did you defeat the Golden Menace Gang if you didn’t kill anyone?]</dialog>
-  <text>The Raksha’s question seemed to come at just the right moment, even if his Shenzhounese wasn’t the most accurate, but Sushang didn’t mind.</text>
+  <dialog chara="002">[Đừng đánh giá thấp tôi chỉ vì tôi còn trẻ, thực ra tôi khá mạnh đấy. Tôi nói cho anh biết, vừa nãy tôi đã đánh bại bốn người mà không đổ một giọt máu nào cả.</dialog>
+  <dialog chara="002">Mọi chuyện không đơn giản như vậy đâu, bạn phải thật cẩn thận khi kiểm soát sức mạnh của mình~]</dialog>
+  <dialog chara="001">[Làm thế nào bạn đánh bại Băng đảng Mối đe dọa Vàng nếu bạn không giết ai?]</dialog>
+  <text>Câu hỏi của Raksha dường như đến đúng lúc, dù tiếng Shenzhou của hắn không chính xác lắm, nhưng Sushang không bận tâm.</text>
   <motion chara="002" action="img_trans" img="素裳-悲伤目下-背手-中景" duration="1"></motion>
   <dialog chara="002">
-    <p>[Um, well, you do have to kill if you have to. </p>
-    <p>If you can save 100 by killing one, then that’s a good thing… I think.]</p>
+    <p>[Ừm, nếu cần thì bạn phải giết thôi.</p>
+    <p>Nếu bạn có thể cứu 100 người bằng cách giết một người, thì đó là điều tốt… tôi nghĩ vậy.</p>
   </dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目前-背手-中景"></motion>
-  <dialog chara="002">[But I haven’t killed anyone before, so there’s always this… Thought in the back of my mind. That’s a whole life! If I could, I’d rather not kill anyone…]</dialog>
+  <dialog chara="002">[Nhưng tôi chưa từng giết ai trước đây, nên luôn có… Suy nghĩ này trong đầu tôi. Đó là cả một cuộc đời! Nếu có thể, tôi thà không giết ai cả…]</dialog>
   <dialog chara="002">
-    <p>[So my hope is to defeat that “Eagle” guy. </p>
-    <p>With him gone, the gang will be no more. There’s no point in dealing with the rabble.]</p>
+    <p>[Vậy hy vọng của tôi là đánh bại gã “Đại bàng” đó.</p>
+    <p>Khi hắn ta đi rồi, băng đảng sẽ không còn nữa. Chẳng còn lý do gì để giao du với đám người hỗn tạp đó nữa.</p>
   </dialog>
   <dialog chara="001">[Mhm.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-大笑-背手-中景"></motion>
-  <text>He answered, but Sushang mistook it for his desire for her to continue the conversation, so she became excited.</text>
+  <text>Anh ấy trả lời, nhưng Sushang hiểu nhầm đó là mong muốn của anh ấy muốn cô tiếp tục cuộc trò chuyện, nên cô trở nên phấn khích.</text>
   <motion chara="002" action="img_trans" img="素裳-撒娇哭-背手-中景"></motion>
-  <dialog chara="002">[Let me tell you — Ow!]</dialog>
+  <dialog chara="002">[Để tôi nói cho bạn biết — Ôi!]</dialog>
   <motion chara="001" action="hide" duration="0"></motion>
   <motion chara="002" action="hide" duration="0"></motion>
-  <text>She forgot that she was still cuffed, so her attempt to separate her arms only hurt her.</text>
-  <text>The [Ki Suppressant Pill] that the Golden Sand Gang had given her was quite the poison indeed. She could feel the Ki in her lower Dantian Sea, but it refused to flow into her veins. She had all the Ki she needed, but no way to use it.</text>
-  <text inline="true">— However, the girl had learned the [Edge of Taixuan]. </text>
+  <text>Cô ấy quên mất rằng mình vẫn đang bị còng tay, nên việc cố gắng tách hai tay ra chỉ khiến cô ấy đau hơn.</text>
+  <text>Viên thuốc [Ức chế Khí] mà Băng đảng Cát Vàng đưa cho cô quả là một loại độc. Cô có thể cảm nhận được Khí ở Biển Đan Điền dưới, nhưng nó không chịu chảy vào tĩnh mạch. Cô có đủ Khí cần thiết, nhưng không có cách nào để sử dụng nó.</text>
+  <text inline="true">— Tuy nhiên, cô gái đã học được [Cạnh Thái Huyền].</text>
   <text>
     <p></p>
-    <p>Phoenix’s martial arts were different from the thousands of others in these lands.</p>
+    <p>Võ thuật của Phượng Hoàng khác với hàng ngàn môn võ khác ở vùng đất này.</p>
   </text>
   <text>
-    <p>Normally, the arts would train the Dantian to store the Qi, </p>
-    <p>but the [Edge of Taixuan] wasn’t so strict about that.</p>
+    <p>Thông thường, các môn võ thuật sẽ luyện đan điền để tích trữ khí,</p>
+    <p>nhưng [Cạnh Thái Huyền] không quá khắt khe về điều đó.</p>
   </text>
   <text>
-    <p>The one who had learned the [Blade Mantra] </p>
-    <p>could see the world as their Dantian Sea and their body as the veins. </p>
-    <p>The [Ki] that was the origin point of martial arts had no need to be buried within oneself.</p>
+    <p>Người đã học được [Thần chú Lưỡi kiếm]</p>
+    <p>có thể nhìn thế giới như Biển Đan Điền và cơ thể như các mạch máu.</p>
+    <p>Khí là điểm khởi nguồn của võ thuật không cần phải chôn giấu bên trong bản thân.</p>
   </text>
-  <text>That’s why to Li Sushang, her lower Dantian Sea being blocked was a bit uncomfortable, but it was nothing too serious.</text>
+  <text>Đó là lý do tại sao đối với Li Sushang, việc biển Đan Điền dưới của cô bị tắc nghẽn hơi khó chịu, nhưng không có gì quá nghiêm trọng.</text>
   <motion chara="002" action="show" duration="1" img="素裳-嘟嘴-背手-中景" pos="right"></motion>
-  <dialog chara="002">[Oh wait, it’s a hassle talking like this, so let me get these cuffs off first —]</dialog>
+  <dialog chara="002">[Chờ đã, nói chuyện kiểu này phiền phức quá, để tôi tháo còng tay ra trước đã —]</dialog>
   <motion chara="001" action="show" duration="1" img="奥托-微笑自信-单十字-中景（棺材）" pos="left"></motion>
-  <dialog chara="001">[Allow me.]</dialog>
+  <dialog chara="001">[Cho phép tôi.]</dialog>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <event action="hide_ui" duration="1.5"></event>
   <se id="01-46铁镣铐撒地"></se>
   <delay t="1"></delay>
   <text>
-    <p>Sushang felt her limbs lighten as soon as his voice faded. The two pairs of thick steel cuffs had already shattered into pieces on the ground. [\s]</p>
-    <p>She was not injured in the slightest either.</p>
+    <p>Sushang cảm thấy chân tay mình nhẹ đi ngay khi giọng nói của anh ta tắt hẳn. Hai cặp còng thép dày đã vỡ thành từng mảnh trên mặt đất. [\s]</p>
+    <p>Cô ấy cũng không bị thương chút nào.</p>
   </text>
   <motion chara="002" action="img_trans" duration="2" img="素裳-呆滞刺激-普通-中景"></motion>
-  <dialog chara="002">[You… You…]</dialog>
-  <text>Li Sushang couldn’t figure out what to say. She’d already seen so many strange things from the moment she laid eyes on this Raksha beauty. </text>
+  <dialog chara="002">[Bạn… Bạn…]</dialog>
+  <text>Li Sushang không biết nói gì. Cô đã chứng kiến quá nhiều điều kỳ lạ kể từ lúc nhìn thấy mỹ nhân Raksha này.</text>
   <text>
-    <p>If he could use his sorcery to disappear the chair and the glass cup, then it would be reasonable that he could shatter those steel cuffs… [\s]</p>
-    <p>...my ass!!!!</p>
+    <p>Nếu anh ta có thể dùng phép thuật của mình để làm biến mất chiếc ghế và chiếc cốc thủy tinh, thì việc anh ta có thể đập vỡ những chiếc còng thép đó là điều hợp lý… [\s]</p>
+    <p>...đồ ngu!!!!</p>
   </text>
   <text>
-    <p>She began to reconsider the strange coffin carrying man standing in front of her. [\s]</p>
-    <p>Was [he] actually a master in disguise? </p>
+    <p>Cô bắt đầu suy nghĩ lại về người đàn ông lạ mặt đang khiêng quan tài đứng trước mặt mình. [\s]</p>
+    <p>Có phải [ông ta] thực sự là một bậc thầy cải trang không?</p>
   </text>
-  <text>She didn’t believe it.</text>
+  <text>Cô ấy không tin điều đó.</text>
   <text>
-    <p>The experts and masters in her eyes were ones like her master, her mother, or herself in the future, </p>
-    <p>and the Raksha seemed way too far from what she thought of as an expert.</p>
+    <p>Trong mắt cô, các chuyên gia và bậc thầy giống như sư phụ, mẹ cô, hoặc chính cô trong tương lai,</p>
+    <p>và Raksha có vẻ quá xa so với những gì cô ấy nghĩ về một chuyên gia.</p>
   </text>
   <motion chara="002" action="img_trans" img="素裳-惊讶2-抱手-中景"></motion>
-  <text>[em italic]But he can do some pretty unnatural stuff….[/em]</text>
-  <text>She was lost in her thoughts when the Raksha suddenly spoke:</text>
+  <text>[em italic]Nhưng anh ta có thể làm một số việc khá phi tự nhiên….[/em]</text>
+  <text>Cô ấy đang chìm đắm trong suy nghĩ thì Raksha đột nhiên lên tiếng:</text>
   <motion chara="001" action="img_trans" img="奥托-微笑奸-单空手-中景（棺材）"></motion>
-  <dialog chara="001">[What is this plan of yours?]</dialog>
+  <dialog chara="001">[Kế hoạch của bạn là gì?]</dialog>
   <motion chara="002" action="img_trans" img="素裳-惊讶-普通-中景"></motion>
   <dialog chara="002">[Mmm, mmm… Hmm?]</dialog>
-  <dialog chara="001">[Your plan.]</dialog>
+  <dialog chara="001">[Kế hoạch của bạn.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目下-抱手-中景"></motion>
-  <dialog chara="002">[Oh, I…]</dialog>
-  <text>For some reason, she had a little less confidence in herself after the Raksha did his thing just now.</text>
+  <dialog chara="002">[Ồ, tôi…]</dialog>
+  <text>Vì lý do nào đó, cô ấy cảm thấy tự tin hơn một chút sau khi Raksha vừa làm xong việc của hắn.</text>
   <motion chara="002" action="img_trans" img="素裳-悲伤目下-抱手-中景"></motion>
   <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-中景（棺材）"></motion>
-  <dialog chara="002">[I… I was going to sneak into the bandit’s camp and find a chance to challenge “Eagle”.]</dialog>
-  <dialog chara="002">[But… Sigh, I lied, things weren’t going so well. I was trying to break out of my cuffs, go find my sword, and then… cross the bridge when I get to it. </dialog>
-  <dialog chara="002">There’s no elaborate scheme. I just don’t want to… I… I can’t say.]</dialog>
-  <text>The girl’s voice got quieter and quieter.</text>
+  <dialog chara="002">[Tôi… Tôi định lẻn vào trại cướp và tìm cơ hội thách đấu “Đại Bàng”.]</dialog>
+  <dialog chara="002">[Nhưng… Thở dài, tôi đã nói dối, mọi chuyện không suôn sẻ lắm. Tôi đang cố gắng thoát khỏi còng tay, đi tìm thanh kiếm của mình, và sau đó… sẽ vượt qua cây cầu khi đến nơi. </dialog>
+  <dialog chara="002">Không có kế hoạch phức tạp nào cả. Tôi chỉ không muốn… Tôi… Tôi không thể nói.</dialog>
+  <text>Giọng cô gái càng lúc càng nhỏ dần.</text>
   <motion chara="001" action="img_trans" img="奥托-思索-中景（棺材）"></motion>
-  <dialog chara="001">[Can you win?]</dialog>
+  <dialog chara="001">[Bạn có thể thắng không?]</dialog>
   <motion chara="002" action="img_trans" img="素裳-惊讶2-普通-中景"></motion>
   <dialog chara="002">[Ha?]</dialog>
   <motion chara="001" action="img_trans" img="奥托-标准-单空手-中景（棺材）"></motion>
-  <dialog chara="001">[You said you were going to challenge that eagle.]</dialog>
+  <dialog chara="001">[Bạn nói bạn sẽ thách đấu với con đại bàng đó.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-严肃-抱手-中景"></motion>
-  <dialog chara="002">[... Hmm, I think so.]</dialog>
+  <dialog chara="002">[... Ừm, tôi nghĩ vậy.]</dialog>
   <motion chara="001" action="img_trans" img="奥托-微笑自信-单空手-中景（棺材）"></motion>
-  <dialog chara="001">[Good, let’s go.]</dialog>
+  <dialog chara="001">[Tốt, đi thôi.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-呆滞刺激-抱手-中景"></motion>
-  <dialog chara="002">[R-Right now?]</dialog>
+  <dialog chara="002">[R-Ngay bây giờ?]</dialog>
   <motion chara="001" action="img_trans" img="奥托-苦笑-摊手-中景（棺材）"></motion>
-  <dialog chara="001">[Wasn’t that your plan?]</dialog>
-  <dialog chara="002">[I mean, yeah, but…]</dialog>
+  <dialog chara="001">[Đó không phải là kế hoạch của anh sao?]</dialog>
+  <dialog chara="002">[Ý tôi là, vâng, nhưng…]</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目下-抱手-中景"></motion>
   <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-中景（棺材）"></motion>
-  <text>She lowered her head and spoke hurriedly and sadly:</text>
-  <dialog chara="002">[It’s midnight right now… What kind of hero challenges someone to a duel in the dark? That’s not righteous at all…]</dialog>
+  <text>Cô ấy cúi đầu và nói vội vàng và buồn bã:</text>
+  <dialog chara="002">[Bây giờ là nửa đêm rồi… Anh hùng kiểu gì lại thách đấu tay đôi với người khác trong bóng tối chứ? Chẳng có gì chính nghĩa cả…]</dialog>
   <motion chara="001" action="img_trans" img="奥托-思索-中景（棺材）"></motion>
-  <dialog chara="001">[Righteous…]</dialog>
-  <text>The Raksha considered that term.</text>
-  <dialog chara="001">[Are you talking about the day? You want to challenge that eagle when everyone’s present?]</dialog>
+  <dialog chara="001">[Chính trực…]</dialog>
+  <text>Raksha đã xem xét thuật ngữ đó.</text>
+  <dialog chara="001">[Bạn đang nói về ngày hôm đó à? Bạn muốn thách đấu con đại bàng đó khi mọi người đều có mặt sao?]</dialog>
   <motion chara="002" action="img_trans" img="素裳-元气-普通-中景"></motion>
-  <dialog chara="002">[Yes!]</dialog>
-  <text>She answered with gusto.</text>
-  <dialog chara="001">[There’s one thing though.]</dialog>
-  <dialog chara="002">[Please.]</dialog>
-  <dialog chara="001">[During the day, that Eagle is going to have hundreds of his minions protecting him, will he actually accept your challenge?]</dialog>
+  <dialog chara="002">[Vâng!]</dialog>
+  <text>Cô ấy trả lời một cách hào hứng.</text>
+  <dialog chara="001">[Tuy nhiên, có một điều.]</dialog>
+  <dialog chara="002">[Làm ơn.]</dialog>
+  <dialog chara="001">[Ban ngày, con đại bàng đó sẽ có hàng trăm tay sai bảo vệ nó, liệu nó có thực sự chấp nhận thử thách của bạn không?]</dialog>
   <motion chara="002" action="img_trans" img="素裳-欸真的吗-抱手-中景"></motion>
-  <dialog chara="002">[Of course he will! That’s the laws of the land! He…]</dialog>
+  <dialog chara="002">[Tất nhiên là anh ta sẽ làm vậy! Đó là luật pháp của đất nước! Anh ta…]</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目下-抱手-中景"></motion>
-  <text>Li Sushang thought about it and sighed.</text>
-  <dialog chara="002">[You have a point.]</dialog>
+  <text>Li Sushang suy nghĩ một lát rồi thở dài.</text>
+  <dialog chara="002">[Bạn nói đúng.]</dialog>
   <motion chara="001" action="img_trans" img="奥托-微笑奸-摊手-中景（棺材）"></motion>
   <dialog chara="001">
-    <p>[So it’s impossible, in the day. </p>
-    <p>If you want to win, the night is your best chance.]</p>
+    <p>[Vậy nên điều đó là không thể, vào ban ngày.</p>
+    <p>Nếu bạn muốn thắng, đêm nay là cơ hội tốt nhất của bạn.</p>
   </dialog>
   <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-中景（棺材）"></motion>
   <dialog chara="002">[Mhm…]</dialog>
   <dialog chara="001">
-    <p>[I heard that Shenzhou has an ancient proverb:</p>
-    <p>【 I desire fish, yet I also desire a bear’s paw】. </p>
-    <p>That is to say that the two are conflicting things, and it's hard to pick between them.</p>
+    <p>[Tôi nghe nói Thần Châu có một câu tục ngữ cổ:</p>
+    <p>【 Tôi thèm cá, nhưng tôi cũng thèm cả chân gấu.</p>
+    <p>Điều đó có nghĩa là hai điều này mâu thuẫn nhau và khó có thể chọn lựa giữa chúng.</p>
   </dialog>
   <motion chara="001" action="img_trans" img="奥托-微笑自信-摊手-中景（棺材）"></motion>
   <dialog chara="001">
-    <p>[【Righteousness】is the fish. </p>
-    <p>【Exacting Justice】is the bear’s paw.]</p>
+    <p>[【Sự công chính】là con cá.</p>
+    <p>【Công lý nghiêm minh】là bàn chân của gấu.]</p>
   </dialog>
   <dialog chara="001">
-    <p>[If you want to be righteous, then you won’t be able to exact justice. </p>
-    <p>【The two are mutually exclusive. Those who give up the fish will get the bear’s paw.】</p>
-    <p>You can’t have everything in this world. You will always lose something, so you have to choose.]</p>
+    <p>[Nếu bạn muốn trở nên chính trực, thì bạn sẽ không thể đòi hỏi công lý.</p>
+    <p>【Hai điều này loại trừ lẫn nhau. Ai từ bỏ con cá sẽ nhận được bàn chân gấu.】</p>
+    <p>Bạn không thể có tất cả mọi thứ trên thế giới này. Bạn sẽ luôn mất đi một thứ gì đó, vì vậy bạn phải lựa chọn.</p>
   </dialog>
   <dialog chara="002">[....]</dialog>
   <event action="hide_ui" duration="0.5"></event>
   <se id="01-06痊愈"></se>
   <motion chara="001" action="img_trans" img="奥托-微笑自信-单十字-中景（棺材）" duration="0.5"></motion>
   <delay t="0.5"></delay>
-  <text>The Raksha’s hands danced across the air with elegance.</text>
-  <dialog chara="001">[Well let’s go then, milady?]</dialog>
-  <dialog chara="002" inline="true">[Oh… </dialog>
+  <text>Đôi tay của Raksha lướt nhẹ nhàng trong không trung.</text>
+  <dialog chara="001">[Vậy chúng ta đi thôi, thưa tiểu thư?]</dialog>
+  <dialog chara="002" inline="true">[Ồ… </dialog>
   <motion chara="002" action="img_trans" img="素裳-嘟嘴-抱手-中景"></motion>
-  <dialog chara="002">Fine.]</dialog>
+  <dialog chara="002">Tốt.]</dialog>
   <bgm looptimes="0"></bgm>
   <motion chara="002" action="hide"></motion>
   <motion chara="001" action="hide"></motion>
   <se id="01-47火熄灭"></se>
   <bg img="牢房-暗" duration="2"></bg>
   <text>
-    <p>The Raksha smiled lightly, and the fire suddenly disappeared from the air.[\s]</p>
-    <p>… No, the fire was still there. </p>
+    <p>Raksha mỉm cười nhẹ, và ngọn lửa đột nhiên biến mất khỏi không trung.[\s]</p>
+    <p>… Không, ngọn lửa vẫn còn đó.</p>
   </text>
   <text>
-    <p>That ball of fire seemed to have teleported beside the Raksha’s hand, burning brighter and brighter… [\s]</p>
-    <p>It was like…</p>
+    <p>Quả cầu lửa đó dường như đã dịch chuyển tức thời đến bên cạnh bàn tay của Raksha, cháy sáng hơn và sáng hơn… [\s]</p>
+    <p>Nó giống như…</p>
   </text>
-  <text>A sword?</text>
+  <text>Một thanh kiếm?</text>
   <se id="01-48火燃烧"></se>
   <transition mode="move" in="0.5" stop="1" out="0.5" color="#000000" direction="left" custom="default"></transition>
   <bg img="牢房-亮"></bg>
   <text>
-    <p>Sushang watched, dumbfounded by the Raksha’s [sorcery]. [\s]</p>
-    <p>By the time she snapped out of it, the fire was gone and the doors were open, leaving only a charred scent lingering around her nose.</p>
+    <p>Sushang quan sát, sững sờ trước [phép thuật] của Raksha. [\s]</p>
+    <p>Đến lúc cô ấy tỉnh lại thì lửa đã tắt và cửa đã mở, chỉ còn lại mùi khét vương vấn quanh mũi cô.</p>
   </text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <motion chara="001" action="show" pos="center" duration="1.5" img="奥托-微笑奸-单空手-近景（棺材）"></motion>
   <delay t="1"></delay>
-  <dialog chara="001">[Please.]</dialog>
+  <dialog chara="001">[Làm ơn.]</dialog>
   <dialog chara="002">[....]</dialog>
   <motion chara="001" action="img_trans" img="奥托-标准-标准-近景（棺材）"></motion>
-  <text>Li Sushang moved forward obediently but suddenly stopped after taking a few steps, turning her head and said with a pout:</text>
-  <dialog chara="002">[You just told me to do bad things. You… You’re a bad Raksha.]</dialog>
-  <dialog chara="001">[Oh,]</dialog>
+  <text>Li Sushang ngoan ngoãn tiến lên nhưng đột nhiên dừng lại sau vài bước, quay đầu lại và nói với vẻ hờn dỗi:</text>
+  <dialog chara="002">[Ngươi vừa bảo ta làm những điều xấu xa. Ngươi… Ngươi là một Raksha xấu xa.]</dialog>
+  <dialog chara="001">[Ồ,]</dialog>
   <event action="hide_ui" duration="1"></event>
   <se id="01-51奥托叹气2"></se>
   <motion chara="001" action="show" pos="center" img="奥托-悲伤-标准-近景（棺材）"></motion>
   <delay t="1"></delay>
   <bg img="PureBlack" duration="5"></bg>
   <motion chara="001" action="hide" duration="5"></motion>
-  <text>He sighed, not a hint of guilt in his voice.</text>
-  <dialog chara="001">[Perhaps.]</dialog>
-  <text>Sushang couldn’t make out his expression in the darkness, but she sensed that his voice had an intangible sadness to it.</text>
-  <dialog chara="001">[There is no right or wrong to what I do.]</dialog>
+  <text>Anh ta thở dài, không một chút áy náy nào trong giọng nói.</text>
+  <dialog chara="001">[Có lẽ.]</dialog>
+  <text>Sushang không thể nhìn rõ biểu cảm của anh trong bóng tối, nhưng cô cảm nhận được giọng nói của anh có một nỗi buồn khó tả.</text>
+  <dialog chara="001">[Không có đúng hay sai trong những gì tôi làm.]</dialog>
   <transition mode="fade" in="3" stop="0.5" out="1" color="#000000"></transition>
   <bg img="PureBlack"></bg>
   <mono>
     <p></p>
-    <p>Earlier, there were two guards outside of the cell.</p>
+    <p>Trước đó, có hai lính canh bên ngoài phòng giam.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>One of them escorted the Raksha in the dungeon respectfully, then immediately called in sick; the other was delivering a meal when he was scared out of his mind and refused to reenter the dungeon.</p>
+    <p>Một người trong số họ kính cẩn hộ tống Raksha vào ngục tối, rồi lập tức xin nghỉ ốm; người kia đang mang bữa ăn thì sợ chết khiếp và từ chối quay lại ngục tối.</p>
   </mono>
   <mono>
     <p></p>
-    <p>[Is that person even human? That’s a demon! Have you ever seen a talking lantern? I won’t go. You can’t make me.]</p>
+    <p>[Người đó thậm chí có phải là người không? Đó là một con quỷ! Bạn đã bao giờ nhìn thấy một chiếc đèn lồng biết nói chưa? Tôi sẽ không đi. Bạn không thể ép tôi.]</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>It’s almost as if the outlander in the cell was even scarier than “Eagle”.</p>
+    <p>Gần như thể người lạ mặt trong phòng giam còn đáng sợ hơn cả “Đại bàng”.</p>
   </mono>
   <mono>
     <p></p>
-    <p>The even stranger thing was that “Eagle” was not angry at all, like he usually would be.</p>
+    <p>Điều kỳ lạ hơn nữa là “Đại bàng” hoàn toàn không tức giận, trái ngược với thường lệ.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>[We’ll have plenty of people in a couple of days, so just send some more help.]</p>
+    <p>[Chúng ta sẽ có đủ người trong vài ngày nữa, vậy nên cứ gửi thêm người đến giúp.]</p>
     <p></p>
-    <p>He sent about 10 people or so, all armed.</p>
+    <p>Ông ta cử khoảng 10 người, tất cả đều có vũ khí.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The newcomers carefully entered the cell but came out fine, so their fear disappeared pretty quickly and instead began to mock the two guards before them.</p>
+    <p>Những người mới đến cẩn thận bước vào phòng giam nhưng ra ngoài an toàn, vì vậy nỗi sợ hãi của họ nhanh chóng biến mất và thay vào đó họ bắt đầu chế nhạo hai người lính canh trước mặt.</p>
     <p></p>
-    <p>But either way, the bandits didn’t underestimate the man and split into day and night guards to ensure that there would always be at least five people guarding the cell.</p>
+    <p>Nhưng dù sao thì bọn cướp cũng không đánh giá thấp người đàn ông đó và chia thành lính canh ngày đêm để đảm bảo luôn có ít nhất năm người canh gác phòng giam.</p>
     <p></p>
-    <p>Of course, those five unlucky few hadn’t the slightest clue of what happened inside the dungeon.</p>
+    <p>Dĩ nhiên, năm người bất hạnh đó chẳng hề hay biết chuyện gì đã xảy ra bên trong ngục tối.</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="BGSky04"></bg>
   <mono>
     <p></p>
-    <p>It’s strange. There was no sound at all coming out of the cell that we threw the girl who angered our leader in.</p>
+    <p>Lạ thật. Chẳng có tiếng động nào phát ra từ phòng giam mà chúng ta đã nhốt cô gái làm phật lòng thủ lĩnh của chúng ta cả.</p>
     <p></p>
-    <p>An all-encompassing silence— A deathly calmness.</p>
+    <p>Một sự im lặng bao trùm tất cả - Một sự tĩnh lặng chết chóc.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>No voices, no random noises, nothing.</p>
+    <p>Không có giọng nói, không có tiếng động ngẫu nhiên, không có gì cả.</p>
   </mono>
   <bg img="PureBlack"></bg>
   <mono pageend="true">
     <p></p>
-    <p>The guards didn’t hear anything strange, but they smelled something weird: something was burning.</p>
+    <p>Những người lính canh không nghe thấy điều gì lạ, nhưng họ ngửi thấy mùi gì đó kỳ lạ: có thứ gì đó đang cháy.</p>
     <p></p>
-    <p>That scent grew stronger and stronger as the five of them picked up their blades and gathered at the entrance.</p>
+    <p>Mùi hương ấy càng lúc càng nồng nặc hơn khi cả năm người họ cầm kiếm lên và tụ tập ở lối vào.</p>
   </mono>
   <mono>
     <p></p>
-    <p>[You wanna go down there?]</p>
-    <p>A guard asked the others quietly.</p>
+    <p>[Bạn muốn xuống đó không?]</p>
+    <p>Một người lính canh hỏi những người khác một cách lặng lẽ.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The door exploded before the others could answer.</p>
+    <p>Cánh cửa nổ tung trước khi những người khác kịp trả lời.</p>
   </mono>
   <se id="01-52爆破"></se>
   <motion chara="-5" action="show" pos="center" img="爆炸"></motion>
@@ -315,7 +315,7 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>The last thing that the five of them saw was the crimson tendril of fire.</p>
+    <p>Điều cuối cùng mà năm người họ nhìn thấy là ngọn lửa đỏ rực.</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="14"></event>

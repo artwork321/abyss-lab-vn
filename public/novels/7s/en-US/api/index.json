@@ -10,7 +10,7 @@
     "chapters": [
       {
         "id": 6,
-        "name": "回想編：秦素衣",
+        "name": "Hồi tưởng: Tần Tố Y",
         "order": 111,
         "type": 1,
         "start_time": "2021-06-30 17:00:52",
@@ -23,7 +23,7 @@
             "order": 1,
             "background_url": "",
             "intro": "",
-            "name": "回想編：秦素衣",
+            "name": "Hồi tưởng: Tần Tố Y",
             "status": 2,
             "is_newest": 0
           }
@@ -32,7 +32,7 @@
       },
       {
         "id": 7,
-        "name": "回想編：李素裳",
+        "name": "Hồi tưởng: Lý Tố Thường",
         "order": 110,
         "type": 1,
         "start_time": "2021-06-30 19:25:16",
@@ -45,7 +45,7 @@
             "order": 1,
             "background_url": "",
             "intro": "",
-            "name": "回想編：李素裳",
+            "name": "Hồi tưởng: Lý Tố Thường",
             "status": 2,
             "is_newest": 0
           }
@@ -54,7 +54,7 @@
       },
       {
         "id": 11,
-        "name": "第二折「神剣」",
+        "name": "Hồi thứ hai: “Thần Kiếm”",
         "order": 2,
         "type": 0,
         "start_time": "2021-10-12 21:28:50",
@@ -66,8 +66,8 @@
             "scene_id": "27",
             "order": 19,
             "background_url": "",
-            "intro": "師匠は自由です。世界はとても広いですから、行きたいところに行き、やりたいことをやればいいのです。",
-            "name": "終わり",
+            "intro": "Sư phụ được tự do. Thế giới rất rộng lớn, nên người muốn đi đâu thì đi, muốn làm gì thì làm.",
+            "name": "Kết thúc",
             "status": 2,
             "is_newest": 1
           },
@@ -76,8 +76,8 @@
             "scene_id": "25",
             "order": 18,
             "background_url": "",
-            "intro": "李素裳は師匠を見て、拭い去れない影を追い払うかのように本能的に微笑んだ。",
-            "name": "生きて",
+            "intro": "Lý Tố Thường nhìn sư phụ rồi mỉm cười theo bản năng, như thể muốn xua đi cái bóng không thể gột bỏ.",
+            "name": "Sống sót",
             "status": 2,
             "is_newest": 0
           },
@@ -86,8 +86,8 @@
             "scene_id": "22",
             "order": 17,
             "background_url": "",
-            "intro": "凌霜は馬非馬の巨剣を冷静に見つめている。その目には輝きが映り、心の奥にたくさんの言葉を秘めているかのようだった。",
-            "name": "刃不破",
+            "intro": "Lăng Sương bình tĩnh nhìn thanh cự kiếm của Mã Phi Mã. Ánh sáng phản chiếu trong mắt nàng, như thể sâu trong lòng đang chất chứa rất nhiều lời muốn nói.",
+            "name": "Lưỡi kiếm bất hoại",
             "status": 2,
             "is_newest": 0
           },
@@ -96,8 +96,8 @@
             "scene_id": "20",
             "order": 16,
             "background_url": "",
-            "intro": "凌霜はこれまでの三十七年間の人生において、ひたすら剣を持ち続け、本当の意味で世間に足を踏み入れたことはなかった。",
-            "name": "太虚の五番弟子",
+            "intro": "Trong suốt ba mươi bảy năm cuộc đời, Lăng Sương chỉ luôn cầm kiếm, chưa từng thực sự bước chân vào thế tục.",
+            "name": "Đệ tử thứ năm của Thái Hư",
             "status": 2,
             "is_newest": 0
           },
@@ -106,8 +106,8 @@
             "scene_id": "19",
             "order": 15,
             "background_url": "",
-            "intro": "炎が、消えた。",
-            "name": "消える炎",
+            "intro": "Ngọn lửa đã tắt.",
+            "name": "Ngọn lửa lụi tàn",
             "status": 2,
             "is_newest": 1
           },
@@ -116,8 +116,8 @@
             "scene_id": "18",
             "order": 14,
             "background_url": "",
-            "intro": "開剣対開剣――気が剣から放たれ、躊躇いもなく相手に向かっていく！",
-            "name": "炎と氷",
+            "intro": "Khai Kiếm đối đầu Khai Kiếm — kiếm khí bùng ra khỏi lưỡi kiếm, không chút do dự lao thẳng về phía đối thủ!",
+            "name": "Lửa và băng",
             "status": 2,
             "is_newest": 0
           },
@@ -126,8 +126,8 @@
             "scene_id": "17",
             "order": 13,
             "background_url": "",
-            "intro": "開剣・山崩だけと告げた以上、放つ技は開剣・山崩だけなのだ！",
-            "name": "一剣・弐",
+            "intro": "Đã tuyên bố chỉ dùng Khai Kiếm · Sơn Băng, vậy thì chiêu thức tung ra cũng chỉ có thể là Khai Kiếm · Sơn Băng!",
+            "name": "Nhất Kiếm · Nhị",
             "status": 2,
             "is_newest": 0
           },
@@ -136,8 +136,8 @@
             "scene_id": "16",
             "order": 12,
             "background_url": "",
-            "intro": "まるで、太虚四形二十一式が手の中で自由に声をあげ、呼べばいつでも出てくるかのようだった。",
-            "name": "一剣・壱",
+            "intro": "Cứ như thể hai mươi mốt thức của Tứ Hình Thái Hư có thể tự do vang lên trong tay, chỉ cần gọi là lập tức xuất hiện.",
+            "name": "Nhất Kiếm · Nhất",
             "status": 2,
             "is_newest": 0
           },
@@ -146,8 +146,8 @@
             "scene_id": "14",
             "order": 11,
             "background_url": "",
-            "intro": "何故なら……この霧に包まれたかのような世界で、馬非馬は孤独であったからだ。",
-            "name": "霧と火",
+            "intro": "Bởi vì… trong thế giới như bị sương mù bao phủ này, Mã Phi Mã đã cô độc.",
+            "name": "Sương mù và lửa",
             "status": 2,
             "is_newest": 0
           },
@@ -156,8 +156,8 @@
             "scene_id": "12",
             "order": 10,
             "background_url": "",
-            "intro": "捻じ曲がった世界の中で、彼女の目が捉えられたもの。それは、羅刹人の翡翠のような目だけであった。",
-            "name": "天・地・螺旋",
+            "intro": "Giữa thế giới méo mó, thứ duy nhất lọt vào mắt nàng là đôi mắt xanh ngọc bích của người La Sát.",
+            "name": "Trời · Đất · Xoắn ốc",
             "status": 2,
             "is_newest": 1
           },
@@ -166,8 +166,8 @@
             "scene_id": "11",
             "order": 9,
             "background_url": "",
-            "intro": "夜気の中で咲き誇る花のように、死という刺激が心に広がっていき、あっという間に全身の寒さをかき消した。",
-            "name": "実力試し",
+            "intro": "Như đóa hoa nở rộ giữa màn đêm, cảm giác kích thích mang tên cái chết lan khắp tâm trí, nhanh chóng xua tan cái lạnh trong toàn thân.",
+            "name": "Thử sức",
             "status": 2,
             "is_newest": 0
           },
@@ -176,8 +176,8 @@
             "scene_id": "09",
             "order": 8,
             "background_url": "",
-            "intro": "彼は手を挙げる。手の中は空っぽだったが、四方に剣の光が放たれた――！",
-            "name": "剣神？",
+            "intro": "Hắn giơ tay lên. Trong tay chẳng có gì, vậy mà ánh kiếm lại bắn ra khắp bốn phương —!",
+            "name": "Kiếm Thần?",
             "status": 2,
             "is_newest": 0
           },
@@ -186,8 +186,8 @@
             "scene_id": "08",
             "order": 7,
             "background_url": "",
-            "intro": "一挙手一投足のすべてが武術の修行であり、不動の静寂もまた剣の鍛錬だった。これこそが、『渾然天成』。",
-            "name": "無上自在",
+            "intro": "Mỗi cử chỉ đều là tu luyện võ thuật; ngay cả sự tĩnh lặng bất động cũng là rèn luyện kiếm pháp. Đây chính là cảnh giới “Hồn Nhiên Thiên Thành”.",
+            "name": "Tự tại vô thượng",
             "status": 2,
             "is_newest": 0
           },
@@ -196,8 +196,8 @@
             "scene_id": "07",
             "order": 6,
             "background_url": "",
-            "intro": "「そのこともあって、真人は気の暴走を最も忌み嫌ったの」",
-            "name": "真気",
+            "intro": "“Cũng chính vì vậy mà Chân Nhân ghét nhất việc khí mất kiểm soát.”",
+            "name": "Chân khí",
             "status": 2,
             "is_newest": 0
           },
@@ -206,8 +206,8 @@
             "scene_id": "06",
             "order": 5,
             "background_url": "",
-            "intro": "潮が満ち、潮が引く。",
-            "name": "データの海",
+            "intro": "Thủy triều lên rồi lại xuống.",
+            "name": "Biển dữ liệu",
             "status": 2,
             "is_newest": 0
           },
@@ -216,8 +216,8 @@
             "scene_id": "04",
             "order": 4,
             "background_url": "",
-            "intro": "同じように眠れぬ一人の男と一頭の馬が、広大な砂漠の海を駆けていた。",
-            "name": "逐駒剣",
+            "intro": "Cũng có một người đàn ông và một con ngựa mất ngủ, đang phi nước đại qua biển cát sa mạc bao la.",
+            "name": "Trục Câu Kiếm",
             "status": 2,
             "is_newest": 0
           },
@@ -226,8 +226,8 @@
             "scene_id": "03",
             "order": 3,
             "background_url": "",
-            "intro": "「天命派は三人で一緒に作った組織なんだ。創始者は比類なき武術の腕を持ち、天下無敵だったと言われているよ。」",
-            "name": "天命派",
+            "intro": "“Thiên Mệnh phái là tổ chức do ba người cùng nhau thành lập. Người sáng lập có võ nghệ tuyệt thế, được cho là vô địch thiên hạ.”",
+            "name": "Thiên Mệnh phái",
             "status": 2,
             "is_newest": 0
           },
@@ -236,8 +236,8 @@
             "scene_id": "02",
             "order": 2,
             "background_url": "",
-            "intro": "夜は長く、眠れない2人は並んで座ったまま、夜が明けるまでぼんやりと考え事をしていた。",
-            "name": "西洋の世界",
+            "intro": "Đêm dài đằng đẵng. Hai người không ngủ được cứ ngồi cạnh nhau, thẫn thờ suy nghĩ cho đến khi trời sáng.",
+            "name": "Thế giới phương Tây",
             "status": 2,
             "is_newest": 0
           },
@@ -246,17 +246,17 @@
             "scene_id": "00",
             "order": 1,
             "background_url": "",
-            "intro": "「師匠が私を殺しに来るなら、それは当然のことよ。殺された人には復讐する権利があるもの。」",
-            "name": "序",
+            "intro": "“Nếu sư phụ đến giết ta thì cũng là lẽ đương nhiên. Người bị giết có quyền báo thù mà.”",
+            "name": "Mở đầu",
             "status": 2,
             "is_newest": 0
           }
         ],
-        "tips": "火が夜空を照らし、山荘を燃やし尽くした\n秦素衣と精衛の再会、二人の間に一体何があったのか…\n第三折：「憶剣」——お楽しみに！"
+        "tips": "Ngọn lửa soi sáng bầu trời đêm, thiêu rụi toàn bộ sơn trang.\nTần Tố Y và Tinh Vệ gặp lại nhau; rốt cuộc đã xảy ra chuyện gì giữa hai người…\nHồi thứ ba: “Ức Kiếm” — hãy đón chờ!"
       },
       {
         "id": 4,
-        "name": "第一折「試剣」",
+        "name": "Hồi thứ nhất: “Thí Kiếm”",
         "order": 1,
         "type": 0,
         "start_time": "2021-07-15 10:00:00",
@@ -268,8 +268,8 @@
             "scene_id": "22",
             "order": 18,
             "background_url": "",
-            "intro": "「師匠は帰ってきた。」",
-            "name": "終わり",
+            "intro": "“Sư phụ đã trở về.”",
+            "name": "Kết thúc",
             "status": 2,
             "is_newest": 1
           },
@@ -279,7 +279,7 @@
             "order": 17,
             "background_url": "",
             "intro": "李素裳は彼の過去も、彼の苦痛も知らない。",
-            "name": "黒淵白花",
+            "name": "Hắc Uyên Bạch Hoa",
             "status": 2,
             "is_newest": 0
           },
@@ -288,8 +288,8 @@
             "scene_id": "20",
             "order": 16,
             "background_url": "",
-            "intro": "砕けた側の頭から暗闇が押し寄せ、彼を呑み込もうとするが、彼は必死に抵抗した……",
-            "name": "「貴様！」",
+            "intro": "Bóng tối tràn đến từ phần đầu bị vỡ, cố nuốt chửng hắn, nhưng hắn vẫn liều mạng chống cự…",
+            "name": "“Tên khốn!”",
             "status": 2,
             "is_newest": 0
           },
@@ -298,8 +298,8 @@
             "scene_id": "18",
             "order": 15,
             "background_url": "",
-            "intro": "これまで死に直面したことがなかった少女だが、死の間際、これほどまでに虚しくなった。",
-            "name": "決闘",
+            "intro": "Cô gái chưa từng đối mặt với cái chết, nhưng vào khoảnh khắc cận kề tử vong, nàng lại cảm thấy trống rỗng đến nhường này.",
+            "name": "Quyết đấu",
             "status": 2,
             "is_newest": 0
           },
@@ -308,8 +308,8 @@
             "scene_id": "17",
             "order": 14,
             "background_url": "",
-            "intro": "勝負の天秤は常にどちらかに傾いているわけではなく、優勢さを示す分銅も刻々と変化している。",
-            "name": "破綻",
+            "intro": "Cán cân thắng bại không phải lúc nào cũng nghiêng về một phía; quả cân biểu thị ưu thế cũng thay đổi từng khoảnh khắc.",
+            "name": "Tan vỡ",
             "status": 2,
             "is_newest": 0
           },
@@ -318,8 +318,8 @@
             "scene_id": "16",
             "order": 13,
             "background_url": "",
-            "intro": "二人とも、相手の隙を窺っている。しかし、三人目の人物はやや痺れを切らしていた。",
-            "name": "虎の咆哮",
+            "intro": "Cả hai đều đang dò tìm sơ hở của đối phương. Tuy nhiên, người thứ ba đã bắt đầu mất kiên nhẫn.",
+            "name": "Tiếng gầm của hổ",
             "status": 2,
             "is_newest": 0
           },
@@ -328,8 +328,8 @@
             "scene_id": "15",
             "order": 12,
             "background_url": "",
-            "intro": "たちまち「鷹」に殺意が芽生え、それとともに復讐心が満ち溢れていった。",
-            "name": "約束",
+            "intro": "Ngay lập tức, sát ý nảy sinh trong “Ưng”, cùng với đó là lòng thù hận dâng trào.",
+            "name": "Lời hứa",
             "status": 2,
             "is_newest": 0
           },
@@ -338,8 +338,8 @@
             "scene_id": "14",
             "order": 11,
             "background_url": "",
-            "intro": "揺らめくロウソクの炎に照らされた影が、石畳の上で踊り続けている。",
-            "name": "月下の剣舞",
+            "intro": "Những cái bóng được ánh nến chập chờn soi rọi tiếp tục nhảy múa trên con đường lát đá.",
+            "name": "Kiếm vũ dưới trăng",
             "status": 2,
             "is_newest": 1
           },
@@ -348,8 +348,8 @@
             "scene_id": "12",
             "order": 10,
             "background_url": "",
-            "intro": "暗闇の中では、彼の表情は見えない。その口調からは、言い知れぬ悲しみしか感じなかった。",
-            "name": "悪い羅刹人",
+            "intro": "Trong bóng tối, không thể nhìn rõ biểu cảm của hắn. Từ giọng điệu ấy, chỉ có thể cảm nhận nỗi buồn khó gọi thành tên.",
+            "name": "Kẻ La Sát xấu xa",
             "status": 2,
             "is_newest": 0
           },
@@ -358,8 +358,8 @@
             "scene_id": "11",
             "order": 9,
             "background_url": "",
-            "intro": "「鷹」はまた少女に平手打ちを食らわす。",
-            "name": "平手打ち",
+            "intro": "“Ưng” lại tát cô gái một cái.",
+            "name": "Cú tát",
             "status": 2,
             "is_newest": 0
           },
@@ -368,8 +368,8 @@
             "scene_id": "10",
             "order": 8,
             "background_url": "",
-            "intro": "剣が空を舞って落ちる姿など、一秒前後の光景に過ぎない。",
-            "name": "伝剣",
+            "intro": "Cảnh thanh kiếm bay giữa không trung rồi rơi xuống chỉ diễn ra trong khoảng một giây.",
+            "name": "Truyền Kiếm",
             "status": 2,
             "is_newest": 0
           },
@@ -378,8 +378,8 @@
             "scene_id": "09",
             "order": 7,
             "background_url": "",
-            "intro": "『地下牢』は元々、宿場の穴蔵だ。",
-            "name": "地下牢",
+            "intro": "“Ngục tối” vốn chỉ là hầm chứa đồ của trạm dịch.",
+            "name": "Ngục tối",
             "status": 2,
             "is_newest": 0
           },
@@ -388,8 +388,8 @@
             "scene_id": "08",
             "order": 6,
             "background_url": "",
-            "intro": "次の瞬間、羅刹人に踏み潰されるような錯覚すらあった。",
-            "name": "生殺",
+            "intro": "Ngay khoảnh khắc tiếp theo, thậm chí hắn còn có ảo giác như sắp bị người La Sát giẫm nát.",
+            "name": "Sinh sát",
             "status": 2,
             "is_newest": 0
           },
@@ -398,8 +398,8 @@
             "scene_id": "07",
             "order": 5,
             "background_url": "",
-            "intro": "何もかもが同じように見えて、何もかもが徹底的に変わった。",
-            "name": "圧勝",
+            "intro": "Mọi thứ trông vẫn như cũ, nhưng tất cả đã thay đổi hoàn toàn.",
+            "name": "Thắng áp đảo",
             "status": 2,
             "is_newest": 0
           },
@@ -408,8 +408,8 @@
             "scene_id": "06",
             "order": 4,
             "background_url": "",
-            "intro": "その目はもう見張りの目ではない、ゆっくりと動き出す——狩りをする目だ。",
-            "name": "待ち伏せ",
+            "intro": "Đó không còn là ánh mắt canh gác nữa. Nó chầm chậm chuyển động — ánh mắt của kẻ đi săn.",
+            "name": "Phục kích",
             "status": 2,
             "is_newest": 0
           },
@@ -418,8 +418,8 @@
             "scene_id": "02",
             "order": 3,
             "background_url": "",
-            "intro": "しかし、少女はその『常識』を持っておらず、生まれつき感情が希薄な彼女の師匠も同様だった。",
-            "name": "少女",
+            "intro": "Thế nhưng, cô gái không có thứ “lẽ thường” ấy; sư phụ của nàng, người vốn sinh ra đã ít biểu lộ cảm xúc, cũng vậy.",
+            "name": "Thiếu nữ",
             "status": 2,
             "is_newest": 0
           },
@@ -444,7 +444,7 @@
             "is_newest": 0
           }
         ],
-        "tips": "天穹峰にやってきた蘇湄。\n馬非馬の行方。\nそして、帰ってきた精衛……\n神州折剣録第二折——お楽しみに！"
+        "tips": "Tô Mi đã đến Thiên Khung Phong.\nTin tức về tung tích của Mã Phi Mã.\nVà Tinh Vệ đã trở về…\nThần Châu Chiết Kiếm Lục — Hồi thứ hai. Hãy đón chờ!"
       }
     ],
     "achievements": [],

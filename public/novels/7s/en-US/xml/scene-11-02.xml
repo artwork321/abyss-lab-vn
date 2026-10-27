@@ -3,114 +3,114 @@
   <bgm id="月下昆仑（慢灵）"></bgm>
   <bg img="沙漠-星空"></bg>
   <dialog chara="002">[!!] </dialog>
-  <text>In the middle of the desert, Li Sushang suddenly woke up.</text>
+  <text>Giữa sa mạc, Lý Trương đột nhiên tỉnh dậy.</text>
   <transition mode="eye" in="1" stop="0.5" out="1" color="#000000"></transition>
   <bg img="沙漠-夜谈1"></bg>
   <motion chara="002" action="show" img="素裳-疲惫无神-持剑-中景" pos="right"></motion>
   <delay t="1"></delay>
   <text>
-    <p>Her heart was beating frantically, and her clothes were soaked in cold sweat. </p>
-    <p>The girl subconsciously touched the cloth bag beside her and held the Xuanyuan Sword, and her heart was put at ease. </p>
+    <p>Tim cô đập loạn xạ, quần áo ướt đẫm mồ hôi lạnh.</p>
+    <p>Cô gái vô thức chạm vào chiếc túi vải bên cạnh và cầm lấy thanh kiếm Huyền Nguyên, lòng cô thanh thản.</p>
   </text>
-  <dialog chara="001">[Did you have a nightmare?]</dialog>
-  <text>A familiar voice came from the side.</text>
+  <dialog chara="001">[Bạn có gặp ác mộng không?]</dialog>
+  <text>Một giọng nói quen thuộc vang lên từ bên cạnh.</text>
   <motion chara="002" action="hide"></motion>
   <transition mode="move" in="0.5" stop="0.5" out="0.5" color="#000000" direction="right" custom="default"></transition>
   <motion chara="001" action="show" pos="left" img="奥托-标准-单酒杯-中景"></motion>
-  <text>She turned to look at the speaking Raksha. </text>
-  <text>How strange. When they first met, he wasn’t fluent in Shenzhounese, and he still had an awkward western accent. But within less than two days, he was speaking on par with the locals. </text>
+  <text>Cô ấy quay lại nhìn Raksha đang nói.</text>
+  <text>Thật kỳ lạ. Khi họ gặp nhau lần đầu, anh ấy chưa nói tiếng Thần Châu trôi chảy, và vẫn còn giọng phương Tây vụng về. Nhưng chỉ trong vòng chưa đầy hai ngày, anh ấy đã nói chuyện ngang bằng với người bản xứ.</text>
   <motion chara="002" action="show" img="素裳-嘟嘴-持剑-中景" pos="right"></motion>
-  <dialog chara="002">[... I, I’m fine.]</dialog>
-  <text>Raksha shrugged, looked away, toasted, and drank the trembling red liquid. When he put down the wine glass, the red liquid immediately stopped shaking. It always maintained the same amount, never increasing nor decreasing.</text>
-  <text img="沙漠-夜谈2" duration="1">The girl was often curious what the liquid was, she had a few ideas, but didn’t dare to ask.</text>
+  <dialog chara="002">[... Tôi, tôi ổn.]</dialog>
+  <text>Raksha nhún vai, nhìn đi chỗ khác, cụng ly và uống thứ chất lỏng màu đỏ đang run rẩy. Khi anh ta đặt ly rượu xuống, chất lỏng màu đỏ ngay lập tức ngừng run. Nó luôn giữ nguyên một lượng, không bao giờ tăng cũng không bao giờ giảm.</text>
+  <text img="沙漠-夜谈2" duration="1">Cô gái thường tò mò chất lỏng đó là gì, cô ấy có vài ý tưởng nhưng không dám hỏi.</text>
   <bg chara="001" action="hide" img="沙漠-夜谈2" duration="1"></bg>
   <motion chara="001" action="hide"></motion>
   <motion t="1" chara="002" action="hide"></motion>
   <delay t="1"></delay>
-  <text inline="true">Li Sushang got up, her sleepiness was gone. She shook her clothes, sat down beside Raksha, and began to observe the mysterious demonic flame in front of her.</text>
-  <text img="氛围_通用_蓝色圆球">This thing looked evil.</text>
+  <text inline="true">Li Sushang tỉnh dậy, cơn buồn ngủ đã tan biến. Cô rũ quần áo, ngồi xuống bên cạnh Raksha và bắt đầu quan sát ngọn lửa ma thuật bí ẩn trước mặt.</text>
+  <text img="氛围_通用_蓝色圆球">Thứ này trông thật độc ác.</text>
   <cg img="氛围_通用_蓝色圆球"></cg>
-  <text>It looked like a blue ball on the surface, no matter how it rolled, the flames within remained stationary, continuing to illuminate light and emit heat.</text>
-  <text chara="002">The desert’s temperature during the night was extremely cold, but the two people and horses that surrounded the ball didn't feel cold at all. </text>
-  <dialog chara="002">(This guy’s tricks are pretty amazing…)</dialog>
+  <text>Trên bề mặt nó trông giống như một quả cầu màu xanh, dù nó lăn thế nào đi nữa, ngọn lửa bên trong vẫn đứng yên, tiếp tục phát sáng và tỏa nhiệt.</text>
+  <text chara="002">Nhiệt độ sa mạc vào ban đêm cực kỳ lạnh, nhưng hai người và những con ngựa vây quanh quả bóng không hề cảm thấy lạnh.</text>
+  <dialog chara="002">(Mánh khóe của anh chàng này khá tuyệt vời…)</dialog>
   <cg></cg>
-  <text img="沙漠-夜谈1">Sushang couldn’t help but look at the blond man next to her.</text>
+  <text img="沙漠-夜谈1">Sushang không thể không nhìn người đàn ông tóc vàng bên cạnh cô.</text>
   <bg chara="002" action="show" img="沙漠-夜谈1" pos="right"></bg>
   <motion chara="002" action="show" img="素裳-浅笑-持剑-中景" pos="right"></motion>
-  <dialog chara="002" action="show" img="奥托-汗苦笑-标准-中景" pos="left">[Hey, Raksha.]</dialog>
+  <dialog chara="002" action="show" img="奥托-汗苦笑-标准-中景" pos="left">[Này, Raksha.]</dialog>
   <motion chara="001" action="show" img="奥托-汗苦笑-标准-中景" pos="left"></motion>
-  <dialog chara="001" action="img_trans" img="奥托-苦笑-标准-中景">[I have a name.]</dialog>
+  <dialog chara="001" action="img_trans" img="奥托-苦笑-标准-中景">[Tôi có tên.]</dialog>
   <motion chara="001" action="img_trans" img="奥托-苦笑-标准-中景"></motion>
   <motion chara="002" action="img_trans" img="素裳-大笑-持剑-中景"></motion>
-  <dialog chara="002">[You guys have such strange names, it’s too bothersome for me to remember.]</dialog>
-  <text chara="001" action="img_trans" img="奥托-微笑释然-标准-中景" inline="true">Raksha smiled slightly, ignored her, and cast his gaze to the coffin next to him.</text>
+  <dialog chara="002">[Tên của các bạn lạ quá, tôi không muốn nhớ.]</dialog>
+  <text chara="001" action="img_trans" img="奥托-微笑释然-标准-中景" inline="true">Raksha mỉm cười nhẹ, phớt lờ cô ta và nhìn về phía chiếc quan tài bên cạnh.</text>
   <motion chara="001" action="img_trans" img="奥托-微笑释然-标准-中景"></motion>
   <text chara="002" action="img_trans" img="素裳-惊讶2-持剑-中景">
     <p></p>
-    <p>He had always been carrying this huge and heavy coffin, murmuring to it, and making Sushang extremely uncomfortable. </p>
+    <p>Anh ta luôn mang theo chiếc quan tài to lớn và nặng nề này, lẩm bẩm với nó, khiến Sushang vô cùng khó chịu.</p>
   </text>
   <motion chara="002" action="img_trans" img="素裳-惊讶2-持剑-中景"></motion>
-  <text chara="002" action="img_trans" img="素裳-嘟嘴-持剑-中景">Li Sushang waited for a bit, but Raksha continued to remain silent.</text>
+  <text chara="002" action="img_trans" img="素裳-嘟嘴-持剑-中景">Li Sushang đợi một lát, nhưng Raksha vẫn im lặng.</text>
   <motion chara="002" action="img_trans" img="素裳-嘟嘴-持剑-中景"></motion>
-  <dialog chara="002">[Hey… why are you looking for the Celestial?]</dialog>
+  <dialog chara="002">[Này… sao cậu lại tìm Thiên Thần vậy?]</dialog>
   <dialog chara="001">[...]</dialog>
   <text chara="001" action="img_trans" img="奥托-微笑自信-标准-中景">
-    <p>There was a long long silence. </p>
-    <p>When Sushang was searching for the next topic, Raksha suddenly spoke.</p>
+    <p>Có một sự im lặng rất rất dài.</p>
+    <p>Khi Sushang đang tìm chủ đề tiếp theo, Raksha đột nhiên lên tiếng.</p>
   </text>
   <motion chara="001" action="img_trans" img="奥托-微笑自信-标准-中景"></motion>
-  <dialog chara="001" action="img_trans" img="素裳-悲伤目前-持剑-中景">[I’ve seen the Celestial once before.]</dialog>
+  <dialog chara="001" action="img_trans" img="素裳-悲伤目前-持剑-中景">[Tôi đã từng nhìn thấy Thiên Thần một lần trước đây.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目前-持剑-中景"></motion>
-  <dialog chara="002">[Eh?]</dialog>
-  <text chara="002" action="img_trans" img="素裳-大笑-抱手-中景">The girl was confused at first, then she rolled her eyes:</text>
+  <dialog chara="002">[Hả?]</dialog>
+  <text chara="002" action="img_trans" img="素裳-大笑-抱手-中景">Ban đầu cô gái bối rối, sau đó cô ấy đảo mắt:</text>
   <motion chara="002" action="img_trans" img="素裳-大笑-抱手-中景"></motion>
   <dialog chara="002" action="img_trans" img="奥托-苦笑-标准-中景">
-    <p>[Ah, you lied to me again. You asked me who the Celestial was before. </p>
-    <p>Tsk tsk, you Raksha people don’t like telling the truth.]</p>
+    <p>[À, ngươi lại nói dối ta rồi. Trước đó ngươi hỏi ta Thiên thần là ai. </p>
+    <p>Chậc chậc, người Raksha các ngươi không thích nói sự thật.]</p>
   </dialog>
   <motion chara="001" action="img_trans" img="奥托-苦笑-标准-中景"></motion>
-  <dialog chara="001">[I’m not lying, but, this is a story from a long time ago.]</dialog>
-  <dialog chara="002">[No problem. I’ve got time, and I don’t feel like sleeping anytime soon.]</dialog>
-  <text chara="001" action="img_trans" img="奥托-标准-单空手-中景">The Raksha looked at the sand under his feet.</text>
+  <dialog chara="001">[Tôi không nói dối, nhưng đây là một câu chuyện từ rất lâu rồi.]</dialog>
+  <dialog chara="002">[Không sao cả. Tôi có thời gian, và tôi không muốn ngủ sớm.]</dialog>
+  <text chara="001" action="img_trans" img="奥托-标准-单空手-中景">Raksha nhìn cát dưới chân mình.</text>
   <motion chara="001" action="img_trans" img="奥托-标准-单空手-中景"></motion>
-  <dialog chara="001" action="img_trans" img="素裳-笑-持剑-中景">[You really want to hear it?]</dialog>
+  <dialog chara="001" action="img_trans" img="素裳-笑-持剑-中景">[Bạn thực sự muốn nghe điều đó sao?]</dialog>
   <motion chara="002" action="img_trans" img="素裳-笑-持剑-中景"></motion>
-  <dialog chara="002" action="img_trans" img="奥托-苦笑-标准-中景">[Yep! But don’t make it too complicated, keep it simple, just a bit.]</dialog>
+  <dialog chara="002" action="img_trans" img="奥托-苦笑-标准-中景">[Đúng vậy! Nhưng đừng làm cho nó quá phức tạp, hãy giữ cho nó đơn giản, chỉ một chút thôi.]</dialog>
   <motion chara="001" action="img_trans" img="奥托-苦笑-标准-中景"></motion>
-  <dialog chara="001" action="img_trans" img="素裳-惊讶-持剑-中景">[Alright. Twenty years ago…]</dialog>
+  <dialog chara="001" action="img_trans" img="素裳-惊讶-持剑-中景">[Được rồi. Hai mươi năm trước…]</dialog>
   <motion chara="002" action="img_trans" img="素裳-惊讶-持剑-中景"></motion>
-  <dialog chara="002" action="img_trans" img="奥托-单手扶额-中景">[Wait a minute, twenty years ago? How old are you now?]</dialog>
+  <dialog chara="002" action="img_trans" img="奥托-单手扶额-中景">[Chờ một chút, hai mươi năm trước? Bây giờ bạn bao nhiêu tuổi rồi?]</dialog>
   <motion chara="001" action="img_trans" img="奥托-单手扶额-中景"></motion>
-  <dialog chara="001" action="img_trans" img="素裳-悲伤目前-持剑-中景">[...If you keep interrupting me, I won’t be able to continue.]</dialog>
+  <dialog chara="001" action="img_trans" img="素裳-悲伤目前-持剑-中景">[...Nếu bạn cứ ngắt lời tôi, tôi sẽ không thể tiếp tục được.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-悲伤目前-持剑-中景"></motion>
-  <dialog chara="002">[Ah, I’m sorry, continue.]</dialog>
+  <dialog chara="002">[À, tôi xin lỗi, tiếp tục đi.]</dialog>
   <dialog chara="001">「Hah...」</dialog>
-  <text chara="001" action="img_trans" img="奥托-标准-单空手-中景">Raksha let out a long sigh. </text>
+  <text chara="001" action="img_trans" img="奥托-标准-单空手-中景">Raksha thở dài thườn thượt.</text>
   <motion chara="001" action="img_trans" img="奥托-标准-单空手-中景"></motion>
-  <dialog chara="001" action="img_trans" img="素裳-惊讶-持剑-中景">[Twenty years ago, there was a war between Europe and Shenzhou. The expedition force sent by Europe was called the Knights of Schicksal, I was included. </dialog>
-  <dialog chara="001">The Ming Empire was very powerful, Schicksal had never encountered such a strong opponent. But with Walküre and Der Schlüssel Gottes, Schicksal still prevailed—]</dialog>
+  <dialog chara="001" action="img_trans" img="素裳-惊讶-持剑-中景">[Hai mươi năm trước, đã có một cuộc chiến giữa Châu Âu và Thần Châu. Lực lượng viễn chinh do Châu Âu cử đi được gọi là Hiệp sĩ Schicksal, tôi nằm trong số đó.</dialog>
+  <dialog chara="001">Đế chế Minh rất hùng mạnh, Schicksal chưa từng gặp phải đối thủ mạnh như vậy. Nhưng với Walküre và Der Schlüssel Gottes, Schicksal vẫn thắng—]</dialog>
   <motion chara="002" action="img_trans" img="素裳-惊讶-持剑-中景"></motion>
   <motion chara="001" action="img_trans" img="奥托-汗苦笑-标准-中景"></motion>
-  <dialog chara="002">[Hey hey hey— Wait again, what baby, and what ears?]</dialog>
-  <text chara="002" action="img_trans" img="素裳-嘟嘴-持剑-中景">Li Sushang pouted in dissatisfaction.</text>
+  <dialog chara="002">[Này này này— Chờ đã, em bé nào, và đôi tai nào?]</dialog>
+  <text chara="002" action="img_trans" img="素裳-嘟嘴-持剑-中景">Li Sushang bĩu môi tỏ vẻ không hài lòng.</text>
   <motion chara="002" action="img_trans" img="素裳-嘟嘴-持剑-中景"></motion>
-  <dialog chara="002" action="img_trans" img="奥托-汗苦笑-摊手-中景">[I said that you guys have really weird names, yet you keep saying so much! You really like bullying me!?]</dialog>
+  <dialog chara="002" action="img_trans" img="奥托-汗苦笑-摊手-中景">[Tôi đã nói rằng tên của các bạn thật kỳ lạ, vậy mà các bạn cứ nói mãi! Các bạn thực sự thích bắt nạt tôi sao!?]</dialog>
   <motion chara="001" action="img_trans" img="奥托-汗苦笑-摊手-中景"></motion>
-  <dialog chara="001">[...I’m really sorry, I’m just so used to it.]</dialog>
-  <text chara="002" action="img_trans" img="素裳-专注-持剑-中景">The Raksha put out his hands and shrugged.</text>
+  <dialog chara="001">[...Tôi thực sự xin lỗi, tôi chỉ quá quen với việc đó rồi.]</dialog>
+  <text chara="002" action="img_trans" img="素裳-专注-持剑-中景">Raksha giơ tay ra và nhún vai.</text>
   <motion chara="002" action="img_trans" img="素裳-专注-持剑-中景"></motion>
   <motion chara="001" action="img_trans" img="奥托-思索-中景"></motion>
-  <dialog chara="001" action="img_trans" img="素裳-大笑潇洒-背手-中景">[I’ll use your Shenzhou language to explain it.]</dialog>
+  <dialog chara="001" action="img_trans" img="素裳-大笑潇洒-背手-中景">[Tôi sẽ dùng ngôn ngữ Thần Châu của bạn để giải thích.]</dialog>
   <motion chara="002" action="img_trans" img="素裳-大笑潇洒-背手-中景"></motion>
-  <dialog chara="002">[Oh oh, that’s perfect~ go ahead, I won’t interrupt this time.]</dialog>
-  <dialog chara="001" action="img_trans" img="素裳-惊讶2-背手-中景">[Err…]</dialog>
+  <dialog chara="002">[Ồ ồ, tuyệt vời quá~ cứ tiếp tục đi, lần này tôi sẽ không ngắt lời đâu.]</dialog>
+  <dialog chara="001" action="img_trans" img="素裳-惊讶2-背手-中景">[Ừm…]</dialog>
   <motion chara="002" action="img_trans" img="素裳-惊讶2-背手-中景"></motion>
-  <dialog chara="002">[Eh?]</dialog>
-  <text chara="001" action="img_trans" img="奥托-思索星-中景">It appeared that it was too difficult to switch between two contexts, as the Raksha opened and closed his mouth several times, yet he couldn’t speak.</text>
+  <dialog chara="002">[Hả?]</dialog>
+  <text chara="001" action="img_trans" img="奥托-思索星-中景">Có vẻ như việc chuyển đổi giữa hai ngữ cảnh quá khó khăn, vì Raksha mở và đóng miệng nhiều lần nhưng vẫn không thể nói được.</text>
   <motion chara="001" action="img_trans" img="奥托-思索星-中景"></motion>
-  <dialog id="02-10拍手" chara="001">[Anyways… yes. The Knights of the West, they’re just like Shenzhou’s Wuxia.]</dialog>
+  <dialog id="02-10拍手" chara="001">[Dù sao thì… đúng vậy. Các Hiệp sĩ Tây Phương, họ cũng giống như võ hiệp Thần Châu.]</dialog>
   <se chara="001" action="img_trans" img="奥托-苦笑-标准-中景" id="02-10拍手"></se>
   <motion chara="001" action="img_trans" img="奥托-苦笑-标准-中景"></motion>
-  <text action="goto" to="03">The Raksha finally found his way, clapped his hands, showed a helpless expression, and couldn’t help but smile:</text>
+  <text action="goto" to="03">Cuối cùng Raksha cũng tìm được đường đi, vỗ tay, lộ vẻ bất lực và không thể nhịn được cười:</text>
   <event action="goto" to="03"></event>
 </scene>

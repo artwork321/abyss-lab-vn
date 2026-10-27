@@ -4,14 +4,14 @@
   <delay t="2"></delay>
   <mono pageend="true">
     <p></p>
-    <p>[Redsweord] -[\s]</p>
+    <p>[Redswood] -[\s]</p>
     <p></p>
-    <p>The sword was five feet and nine inches long, and the ancient sword Xuanyuan was transformed by Blade Sanction,</p>
+    <p>Thanh kiếm dài 1,76 mét, và thanh kiếm cổ Huyền Nguyên đã được biến đổi bởi Trừng phạt Kiếm,</p>
     <p></p>
-    <p>This is Ma Feima’s exclusive sword, with none like it in the world. </p>
+    <p>Đây là thanh kiếm độc quyền của Ma Feima, không có thanh kiếm nào giống như vậy trên thế giới.</p>
   </mono>
   <event action="achievement" aid="0ecde88422bfcefe"></event>
-  <notification>伝記更新：「馬非馬」</notification>
+  <notification>伝記更新： 「馬非馬」</notification>
   <event action="hide_ui" duration="2"></event>
   <cg img="CG_第二折_开剑山崩1" duration="1" scale="2" origin="25%,25%"></cg>
   <delay t="0.1"></delay>
@@ -22,30 +22,30 @@
     <p></p>
     <p>[Rockslide] -[\s]</p>
     <p></p>
-    <p>Taixuan’s Wrath Form’s fourth style, with two of the left hand’s fingers held back, as the Guard Form, it’s called [Gentle Orchid];</p>
+    <p>Phong cách thứ tư của Thái Huyền Vũ, với hai ngón tay trái giữ lại, như thế phòng thủ, nó được gọi là [Lan Hiền Dị];</p>
     <p></p>
-    <p>The right hand holds the blade on par with the shoulder. The blade strikes with an inch of strength, yet its power can crush mountains and shatter the ground. </p>
+    <p>Tay phải giữ lưỡi kiếm ngang vai. Lưỡi kiếm vung lên với lực chỉ một inch, nhưng sức mạnh của nó có thể nghiền nát núi non và làm vỡ vụn mặt đất.</p>
   </mono>
   <text>
-    <p>However, this move has a weakness. [\s]</p>
-    <p>Even with Ma Feima's superb cultivation foundation, there’s a brief windup time between forming the stance and launching the strike. </p>
+    <p>Tuy nhiên, nước đi này có một điểm yếu. [\s]</p>
+    <p>Ngay cả với nền tảng tu luyện tuyệt vời của Ma Feima, vẫn có một khoảng thời gian chuẩn bị ngắn giữa việc hình thành thế đứng và tung đòn tấn công.</p>
   </text>
-  <text>Ordinary martial arts masters couldn't find, and capture this momentary flaw.</text>
+  <text>Các bậc thầy võ thuật bình thường không thể tìm ra và nắm bắt được điểm yếu nhất thời này.</text>
   <text>
-    <p>However, as a cultivator of Taixuan’s Blade Mantra, Li Sushang had a chance to catch that gap. [\s]</p>
-    <p>...But Ma Feima won’t back out of his words, nor hide that weakness.</p>
+    <p>Tuy nhiên, với tư cách là người tu luyện Thần chú Kiếm Thái Huyền, Lý Tô Chương đã có cơ hội nắm bắt được kẽ hở đó. [\s]</p>
+    <p>...Nhưng Ma Feima sẽ không rút lại lời nói của mình, cũng không che giấu điểm yếu đó.</p>
   </text>
   <text>
-    <p>......Neither will it be transformed into Switch Form, [\s]</p>
-    <p>nor will it become Guard Form.</p>
+    <p>......Nó cũng sẽ không được chuyển đổi thành Dạng Chuyển đổi, [\s]</p>
+    <p>cũng sẽ không trở thành Hình thức phòng thủ.</p>
   </text>
-  <text>With a single word- reply with one move to Wrath Form • Rockslide, only one move of Wrath Form • Rockslide!</text>
+  <text>Chỉ với một từ - đáp trả bằng một nước đi vào Dạng Thịnh Nộ • Sạt Lở Đá, chỉ một nước đi của Dạng Thịnh Nộ • Sạt Lở Đá!</text>
   <text>
-    <p>Life and death, victory or defeat, he no longer cares, Ma Feima only lives in this moment. In his mind, that one technique Wrath Form • Rockslide.</p>
-    <p>After all, </p>
+    <p>Sống chết, thắng thua, hắn không còn quan tâm nữa, Ma Feima chỉ sống trong khoảnh khắc này. Trong tâm trí hắn, chỉ có một kỹ thuật duy nhất: Cơn Thịnh Nộ • Sạt Lở Đá.</p>
+    <p>Xét cho cùng, </p>
   </text>
   <bgm looptimes="0"></bgm>
-  <text>everything comes down to this one strike. </text>
+  <text>mọi thứ đều phụ thuộc vào cú đánh này.</text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <event action="goto" to="18"></event>
 </scene>

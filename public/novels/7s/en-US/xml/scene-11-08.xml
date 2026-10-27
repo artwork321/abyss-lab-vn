@@ -5,8 +5,8 @@
   <mono pageend="true">
     <p></p>
     <p></p>
-    <p>When it was still pitch black outside the window, Lingshuang had already woken up; </p>
-    <p>she always woke up at this time, neither too early nor too late.</p>
+    <p>Khi trời vẫn còn tối đen như mực bên ngoài cửa sổ, Lingshuang đã tỉnh dậy;</p>
+    <p>cô ấy luôn thức dậy vào giờ này, không quá sớm cũng không quá muộn.</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <bg img="凌霜小屋室内" duration="3"></bg>
@@ -14,14 +14,14 @@
   <mono>
     <p></p>
     <p></p>
-    <p>After washing and changing clothes with a basin of clean water, </p>
-    <p>she sat cross-legged on the bed and silently recited Blade Swara. For two hours, she didn’t move.</p>
+    <p>Sau khi rửa và thay quần áo bằng chậu nước sạch, </p>
+    <p>Cô ấy ngồi khoanh chân trên giường và lặng lẽ đọc kinh Blade Swara. Suốt hai tiếng đồng hồ, cô ấy không hề nhúc nhích.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Then she got up and swept the floor with a broomstick. After the house was cleaned up, </p>
-    <p>She went to the nearby small market to buy some pancakes and mutton; [\s]</p>
-    <p>If the water ran out, she'd have to go to the well to get a few buckets of water.</p>
+    <p>Rồi cô ấy đứng dậy và quét nhà bằng chổi. Sau khi nhà cửa được dọn dẹp xong, </p>
+    <p>Cô ấy đến khu chợ nhỏ gần đó để mua bánh kếp và thịt cừu; [\s]</p>
+    <p>Nếu nước hết, cô ấy sẽ phải đến giếng múc vài xô nước.</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <bg img="织机" duration="3"></bg>
@@ -29,13 +29,13 @@
   <bg img="织机" duration="9" scale="1.5"></bg>
   <mono>
     <p></p>
-    <p>After breakfast, Lingshuang sat down by an old loom, weaving silk.</p>
+    <p>Sau bữa sáng, Lingshuang ngồi xuống bên một khung dệt cũ, dệt lụa.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Once, she was able to knit a satisfactory silk in only one day; </p>
-    <p>After receiving Sushang, the progress was greatly slowed down. [\s]</p>
-    <p>Now it takes from four days to a week..</p>
+    <p>Có lần, cô ấy đã có thể đan được một tấm lụa ưng ý chỉ trong một ngày;</p>
+    <p>Sau khi nhận được Sushang, tiến độ bị chậm lại rất nhiều. [\s]</p>
+    <p>Bây giờ mất từ bốn ngày đến một tuần..</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <bg img="BGDesertWU" duration="3"></bg>
@@ -43,13 +43,13 @@
   <mono>
     <p></p>
     <p></p>
-    <p>Li Sushang was often curious </p>
-    <p>about what she will do in her spare time and what techniques she will practice after she goes out.</p>
+    <p>Li Sushang thường hay tò mò</p>
+    <p>về những việc cô ấy sẽ làm trong thời gian rảnh và những kỹ thuật cô ấy sẽ luyện tập sau khi ra ngoài.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>The two have been together for nearly ten years, </p>
-    <p>and she still didn't expect that as soon as she left, the master would hand over the time to an old-fashioned loom.</p>
+    <p>Hai người đã ở bên nhau gần mười năm,</p>
+    <p>và cô ấy vẫn không ngờ rằng ngay khi cô ấy rời đi, người chủ sẽ giao thời gian cho một khung dệt kiểu cũ.</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <bg img="织机" duration="3" scale="1.5"></bg>
@@ -57,42 +57,42 @@
   <bg img="织机" duration="13"></bg>
   <mono pageend="true">
     <p></p>
-    <p>In the beginning, weaving had nothing to do with martial arts.</p>
-    <p>It was just a cheap way to make a living.</p>
+    <p>Ban đầu, dệt vải không liên quan gì đến võ thuật.</p>
+    <p>Đó chỉ là một cách kiếm sống rẻ tiền.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>But in Lingshuang's eyes, all the ways are unified, was there no similarity between textiles and martial arts? </p>
-    <p>Secretly, textiles to Lingshuang have also become a means of tempering swordsmanship and honing martial skills.</p>
+    <p>Nhưng trong mắt Lingshuang, tất cả các con đường đều thống nhất, chẳng lẽ giữa dệt may và võ thuật không có điểm tương đồng nào sao?</p>
+    <p>Một cách bí mật, vải dệt đến Lingshuang cũng trở thành một phương tiện để rèn luyện kiếm thuật và mài giũa kỹ năng võ thuật.</p>
   </mono>
   <bg img="PureBlack"></bg>
   <mono pageend="true">
     <p></p>
-    <p>The Path of the Sword is all-encompassing, and the sword itself was nothing but something to rely on. </p>
+    <p>Con đường kiếm thuật bao trùm tất cả, và bản thân thanh kiếm chỉ là thứ để dựa vào.</p>
     <p></p>
-    <p>Standing, sitting, lying down, food, clothing, shelter and transportation… everywhere in life there is martial art. </p>
+    <p>Đứng, ngồi, nằm, thức ăn, quần áo, chỗ ở và phương tiện đi lại… ở khắp mọi nơi trong cuộc sống đều có võ thuật.</p>
     <p></p>
-    <p>Every gesture is martial arts, and being quiet is also practicing swords. This was "naturally natural."</p>
+    <p>Mọi cử chỉ đều là võ thuật, và im lặng cũng là luyện kiếm. Điều này là "tự nhiên mà có."</p>
   </mono>
   <event action="hide_ui" duration="3"></event>
   <bg img="心湖（4）太虚" duration="3"></bg>
   <delay t="3"></delay>
   <text>
-    <p>And Sushang's master, Empyrea Phoenix's fifth disciple, "Wandering Blade" Lingshuang——[\s]</p>
-    <p>People called her: The one with the Path, the embodiment of the Sword. </p>
+    <p>Và sư phụ của Sushang, đệ tử thứ năm của Phượng Hoàng Thiên Đường, Linh Hoàng "Lưỡi Kiếm Lang Thang"——[\s]</p>
+    <p>Mọi người gọi cô ấy là: Người có Con đường, hiện thân của Thanh kiếm.</p>
   </text>
-  <text>Celestial’s most talented disciple was undoubtedly the number one expert in martial arts today. Why had she stayed silent in the Northern Desert for many years?</text>
-  <text>There are very few people who know, only the same people from the past, but they have made up their minds and would never say a word.</text>
+  <text>Đệ tử tài năng nhất của Thiên giới chắc chắn là chuyên gia võ thuật số một hiện nay. Tại sao cô ấy lại im lặng ở Sa mạc phía Bắc trong nhiều năm?</text>
+  <text>Chỉ có rất ít người biết, chỉ những người từ quá khứ, nhưng họ đã quyết định rồi và sẽ không bao giờ nói một lời.</text>
   <text>
-    <p>As for Lingshuang, she just chanted Blade Swara day after day, spinning silk. [\s]</p>
-    <p>No one knows where she came from, and no one knows where she went.</p>
+    <p>Còn Lingshuang thì ngày nào cũng niệm Kiếm Swara, dệt tơ. [\s]</p>
+    <p>Không ai biết cô ấy đến từ đâu, và không ai biết cô ấy đã đi đâu.</p>
   </text>
   <bgm id="仙灵岛（水灵笛）" looptimes="0"></bgm>
   <se id="02-02马奔跑（沙漠）"></se>
   <bg img="BGSky00" duration="1"></bg>
   <text>
-    <p>…In this way, on the eighth day when Li Sushang went out for her Sword Trial, [\s]</p>
-    <p>Lingshuang sat in front of the loom and suddenly heard the sound of a horse's hooves in the distance.</p>
+    <p>...Như vậy, vào ngày thứ tám khi Li Sushang ra ngoài để thử kiếm, [\s]</p>
+    <p>Lingshuang ngồi trước khung dệt và đột nhiên nghe thấy tiếng vó ngựa từ xa.</p>
   </text>
   <transition mode="fade" in="3" stop="0.5" out="0" color="#000000"></transition>
   <event action="goto" to="09"></event>

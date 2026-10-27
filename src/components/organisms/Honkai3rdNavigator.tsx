@@ -1,9 +1,8 @@
 /** @jsxImportSource theme-ui */
-import { mdiClose, mdiMenuSwap } from '@mdi/js'
+import { mdiClose } from '@mdi/js'
 import Icon from '@mdi/react'
-import { NavLink, Heading, Text, Box, Flex, IconButton, Switch, Label } from '@theme-ui/components'
+import { NavLink, Heading, Box, Flex, IconButton, Switch, Label } from '@theme-ui/components'
 import NextLink from 'next/link'
-import { useRouter } from 'next/router'
 import { useColorMode } from 'theme-ui'
 import { useTranslation } from '../../lib/i18n'
 import NavItem from '../atoms/NavItem'
@@ -14,8 +13,6 @@ interface Honkai3rdNavigatorProps {
 }
 
 const Honkai3rdNavigator = ({ close }: Honkai3rdNavigatorProps) => {
-  const router = useRouter()
-  const { pathname, asPath, query, locale } = router
   const { t } = useTranslation()
   const [colorMode, setColorMode] = useColorMode()
   return (
@@ -51,30 +48,9 @@ const Honkai3rdNavigator = ({ close }: Honkai3rdNavigatorProps) => {
       </Heading>
 
       <Box sx={{ mb: 3 }}>
-        <NavItem target="battlesuits" />
-        <NavItem target="weapons" />
-        <NavItem target="stigmata" />
-        <NavItem target="elfs" />
-        <NavItem target="elysian-realm" />
         <NavItem target="media" />
       </Box>
 
-      <NextLink href={{ pathname, query }} locale={locale === 'en-US' ? 'ko-KR' : 'en-US'} as={asPath} passHref>
-        <NavLink
-          sx={{
-            overflow: 'hidden',
-            textOverflow: 'ellipsis',
-            whiteSpace: 'nowrap',
-            display: 'flex',
-            alignItems: 'center',
-            px: 2,
-            mb: 2
-          }}
-        >
-          <Text>{locale === 'en-US' ? '🇺🇸 English(US)' : '🇰🇷 한국어'}</Text>
-          <Icon path={mdiMenuSwap} size="20px" />
-        </NavLink>
-      </NextLink>
       <Box>
         <Flex
           sx={{

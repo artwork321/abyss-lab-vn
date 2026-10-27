@@ -3,43 +3,43 @@
   <bg img="PureBlack"></bg>
   <bgm id="十大恶人（阴谋）"></bgm>
   <text>
-    <p>A single blow.[\s]</p>
-    <p>Ma Feima won in a single blow, but there was still no hint of joy on his face.</p>
+    <p>Một cú đánh duy nhất.[\s]</p>
+    <p>Ma Feima thắng chỉ bằng một đòn, nhưng trên mặt hắn vẫn không hề có dấu hiệu của niềm vui.</p>
   </text>
   <transition mode="eye" in="0.5" stop="0.2" out="1" color="#000000"></transition>
   <bg img="BGDesert03"></bg>
   <motion chara="001" action="show" pos="center" duration="1" img="奥托-严肃-标准-远景（棺材）"></motion>
   <text>
-    <p>I could feel the impact through my palm.</p>
-    <p>Ma Feima instinctively looked over at the Raksha, but he was disappointed in his lack of reaction.</p>
+    <p>Tôi có thể cảm nhận được tác động qua lòng bàn tay.</p>
+    <p>Ma Feima theo bản năng nhìn sang Raksha, nhưng anh ta thất vọng vì Raksha không có phản ứng.</p>
   </text>
   <motion chara="001" action="img_trans" img="奥托-严肃-标准-近景（棺材）"></motion>
   <text>
-    <p>No reaction... That's right.</p>
-    <p>The Raksha man was staring at Sushang, as if he were looking into a stone or grain of sand.</p>
+    <p>Không có phản ứng... Đúng vậy.</p>
+    <p>Người đàn ông Raksha đang nhìn chằm chằm vào Sushang, như thể anh ta đang nhìn vào một hòn đá hay một hạt cát.</p>
   </text>
   <bg img="PureBlack"></bg>
-  <text inline="true">[em italic]Why didn’t he show any reaction when the girl had been attacked right in front of him, bleeding all over and collapsed?[/em]</text>
-  <text>[em italic]Even if it was someone I didn't know... Would she be able to stay completely unfazed after witnessing such a serious injury?[/em]</text>
-  <dialog chara="008">[em italic]（—What a boring man.）[/em]</dialog>
+  <text inline="true">[em italic]Tại sao anh ta không hề có phản ứng gì khi cô gái bị tấn công ngay trước mặt anh ta, máu chảy khắp người và gục ngã?[/em]</text>
+  <text>[em italic]Ngay cả khi đó là người tôi không quen biết... Liệu cô ấy có thể giữ được vẻ bình tĩnh hoàn toàn sau khi chứng kiến một vết thương nghiêm trọng như vậy không?[/em]</text>
+  <dialog chara="008">[em italic]（—Thật là một người đàn ông nhàm chán.）[/em]</dialog>
   <motion chara="001" action="hide"></motion>
   <mono>
     <p></p>
-    <p>Feelings of disappointment washed over me like a rainstorm.</p>
-    <p>Emotions like cold rain poured down from head to foot, enveloping Ma Feima in its chill.</p>
+    <p>Cảm giác thất vọng ập đến như một cơn mưa bão.</p>
+    <p>Cảm xúc như cơn mưa lạnh trút xuống từ đầu đến chân, bao trùm Ma Feima trong cái lạnh buốt.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Ma Feima didn’t like this blond man—it was an inherent rejection and disgust.</p>
+    <p>Ma Feima không thích người đàn ông tóc vàng này—đó là sự từ chối và ghê tởm cố hữu.</p>
   </mono>
   <event action="hide_ui" duration="1"></event>
   <cg img="氛围_第二折_冰块"></cg>
   <delay t="1"></delay>
   <mono pageend="true">
     <p></p>
-    <p>If I had to describe it, these Raksha were like ice floating and isolated outside the world.</p>
+    <p>Nếu phải miêu tả thì những Raksha này giống như băng trôi nổi và bị cô lập bên ngoài thế giới.</p>
     <p></p>
-    <p>She didn't need anything, nor did she care about it. Even if the world were to be destroyed—it would drift on forever</p>
+    <p>Cô ấy không cần gì cả, cũng chẳng quan tâm đến điều đó. Ngay cả khi thế giới bị hủy diệt—nó vẫn sẽ trôi nổi mãi mãi</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <event action="hide_ui" duration="1"></event>
@@ -48,74 +48,74 @@
   <bg img="BGDesert02"></bg>
   <mono pageend="true">
     <p></p>
-    <p>On the other hand, Ma Feima—is like a flame.</p>
+    <p>Mặt khác, Ma Feima—giống như ngọn lửa.</p>
   </mono>
   <event action="hide_ui" duration="2"></event>
   <cg img="氛围_第二折_火苗2" duration="2"></cg>
   <delay t="2"></delay>
   <mono>
     <p></p>
-    <p>The world was smoke, and Ma Feima were burning flame.</p>
+    <p>Thế giới là khói, và Ma Feima là ngọn lửa đang cháy.</p>
     <p></p>
-    <p>This world exists precisely because he is burning.</p>
+    <p>Thế giới này tồn tại chính xác là vì anh ta đang bốc cháy.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Intense emotions, explosive impulses and destructive battles were what made him exist.</p>
+    <p>Những cảm xúc mãnh liệt, những xung động bùng nổ và những trận chiến tàn khốc là những gì đã tạo nên sự tồn tại của anh ấy.</p>
   </mono>
   <mono>
     <p></p>
-    <p>And then, she would find a faint fragment of herself in that hollow and hazy existence.</p>
+    <p>Và rồi, cô ấy sẽ tìm thấy một mảnh nhỏ mờ nhạt của chính mình trong sự tồn tại trống rỗng và mơ hồ đó.</p>
   </mono>
   <mono pageend="true">
     <p></p>
-    <p>Those fragments are the meaning of life.</p>
+    <p>Những mảnh vụn đó là ý nghĩa của cuộc sống.</p>
   </mono>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
   <text>……</text>
-  <text>Ma Feima picked up the girl’s sword and stared at her closely.</text>
+  <text>Ma Feima nhặt thanh kiếm của cô gái lên và nhìn chằm chằm vào cô ấy.</text>
   <motion chara="008" action="show" pos="center" img="马非马-闭目-标准-中景"></motion>
   <text>
-    <p>Without a doubt, it was the real old sword.</p>
-    <p>It was a treasure given to seven disciples by Phoenix.</p>
+    <p>Không còn nghi ngờ gì nữa, đó chính là thanh kiếm cổ thật.</p>
+    <p>Đó là một kho báu được Phượng Hoàng ban cho bảy môn đồ.</p>
   </text>
   <motion chara="008" action="img_trans" img="马非马-疑惑-标准-中景"></motion>
   <dialog chara="008">
-    <p>[em italic]（Where did you get it?</p>
+    <p>[em italic](Bạn lấy nó ở đâu?</p>
     <p>...Lingshuang Nee-san's sword should have broken. What about this one?）[/em]</p>
   </dialog>
-  <dialog chara="008">[em italic]（Mei, did you know? No wonder she told me to be careful...）[/em]</dialog>
+  <dialog chara="008">[em italic](Mei, cậu có biết không? Thảo nào cô ấy bảo tớ phải cẩn thận...）[/em]</dialog>
   <event action="hide_ui" duration="1"></event>
   <motion chara="008" action="img_trans" img="马非马-闭目-标准-中景"></motion>
   <delay t="1"></delay>
-  <dialog chara="008">[em italic]（What am I supposed to do?）[/em]</dialog>
+  <dialog chara="008">[em italic](Tôi phải làm gì đây?)[/em]</dialog>
   <se id="01-38踏在沙上的脚步声"></se>
-  <text>Still holding the sword, Ma Feima walked over to a kneeling girl. She was walking slowly but firmly</text>
+  <text>Vẫn cầm thanh kiếm, Ma Feima bước đến chỗ một cô gái đang quỳ. Cô ấy bước đi chậm rãi nhưng vững chắc</text>
   <motion chara="008" action="hide"></motion>
   <transition mode="move" in="1" stop="0.5" out="1" color="#000000" direction="right" custom="default"></transition>
   <bg img="BGDesert03"></bg>
   <motion chara="002" action="show" pos="0,300" img="素裳-战损-虚弱-空手-中景"></motion>
-  <text>The girl who’d lost to him was far more interesting than the skill he had no intention of fighting.</text>
+  <text>Cô gái đã thua anh ta thú vị hơn nhiều so với kỹ năng mà anh ta không có ý định đấu.</text>
   <motion chara="002" action="hide"></motion>
   <cg img="氛围_第二折_火苗2"></cg>
   <se id="02-20柔柔的火"></se>
-  <text>She was also a flame. A newborn spark, and she wasn't sure how to burn it</text>
-  <dialog chara="008">[em italic]（That's too bad...）[/em]</dialog>
+  <text>Cô ấy cũng là một ngọn lửa. Một tia lửa mới sinh, và cô ấy không chắc làm thế nào để đốt cháy nó</text>
+  <dialog chara="008">[em italic](Thật đáng tiếc...)[/em]</dialog>
   <text>
-    <p>Ma Feima knew his power well. He had almost suppressed the inner strength, and though he was gravely injured at times it would not be life-threatening for him</p>
-    <p>Even so, it shouldn't be a wound I can ignore.</p>
+    <p>Ma Feima hiểu rõ sức mạnh của mình. Anh ta gần như đã kiềm chế được sức mạnh nội tại, và mặc dù đôi khi bị thương nặng nhưng điều đó sẽ không đe dọa đến tính mạng của anh ta</p>
+    <p>Dù vậy, đó không phải là vết thương mà tôi có thể phớt lờ.</p>
   </text>
   <dialog chara="008">
-    <p>[em italic]（Too bad—with this girl's skill, she should have been able to block the opening of a sword and an earthquake with enough experience...</p>
+    <p>[em italic](Thật đáng tiếc—với kỹ năng của cô gái này, nếu có đủ kinh nghiệm, cô ấy lẽ ra đã có thể chặn được cả nhát kiếm và động đất...</p>
     <p>If my opponent hadn't been me, I would never have lost so easily.）[/em]</p>
   </dialog>
   <text>
-    <p>He trained his swordsmanship to the 「Meikyou」 border at age sixteen...</p>
-    <p>Of the Seven Swords, only Lingshuang had mastered 「Taixuan」 at thirteen years old.</p>
+    <p>Anh ta rèn luyện kiếm thuật đến trình độ 「Meikyou」 khi mới mười sáu tuổi...</p>
+    <p>Trong số Bảy Thanh Kiếm, chỉ có Linh Hoàng là đã thành thạo 「Taixuan」 khi mới mười ba tuổi.</p>
   </text>
-  <dialog chara="008">[em italic]（No wonder Lingshuang Nee-san took her as a pupil. When the time comes, this girl might become one of 「Kenshin」's students too）[/em]</dialog>
-  <text>Besides... she is blessed with good fortune. She was born a woman, and has the best conditions for training her swordsmanship in Taixuanōki (Vengeance of Void).</text>
+  <dialog chara="008">[em italic](Không có gì lạ khi Lingshuang Nee-san nhận cô ấy làm học trò. Đến lúc thích hợp, cô gái này cũng có thể trở thành một trong những học trò của 「Kenshin」)[/em]</dialog>
+  <text>Ngoài ra... cô ấy được trời phú cho vận may tốt. Cô ấy sinh ra là phụ nữ, và có điều kiện tốt nhất để rèn luyện kiếm thuật ở Taixuanōki (Sự báo thù của hư không).</text>
   <transition mode="fade" in="1" stop="0.5" out="1" color="#000000"></transition>
   <cg></cg>
   <event action="goto" to="15"></event>
