@@ -2,15 +2,15 @@
 import { Box, Card } from '@theme-ui/components'
 import { NextPageContext } from 'next'
 import { Flex, Heading } from 'theme-ui'
-import { loadWeaponCatalog } from '../../../lib/v2/server/loadData'
-import { WeaponCatalogItem } from '../../../lib/v2/data/types'
-import WeaponIcon from '../../../components/v2/WeaponIcon'
-import Head from '../../../components/atoms/Head'
-import Honkai3rdLayout from '../../../components/layouts/Honkai3rdLayout'
+import { loadWeaponCatalog } from '../../src/lib/v2/server/loadData'
+import { WeaponCatalogItem } from '../../src/lib/v2/data/types'
+import WeaponIcon from '../../src/components/v2/WeaponIcon'
+import Head from '../../src/components/atoms/Head'
+import Honkai3rdLayout from '../../src/components/layouts/Honkai3rdLayout'
 import { useTranslation } from 'next-i18next'
-import { getI18NProps } from '../../../server/i18n'
-import Breadcrumb from '../../../components/organisms/Breadcrumb'
-import PageLink from '../../../components/atoms/PageLink'
+import { getI18NProps } from '../../src/server/i18n'
+import Breadcrumb from '../../src/components/organisms/Breadcrumb'
+import PageLink from '../../src/components/atoms/PageLink'
 
 interface WeaponListPageProps {
   weaponCatalog: WeaponCatalogItem[]

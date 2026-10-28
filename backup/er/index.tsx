@@ -6,23 +6,23 @@ import {
   loadErBattlesuitCatalog,
   loadErSigils,
   loadErSupports
-} from '../../../lib/v2/server/loadData'
-import { BattlesuitCatalogItem, ErBattlesuitCatalogItem } from '../../../lib/v2/data/types'
+} from '../../src/lib/v2/server/loadData'
+import { BattlesuitCatalogItem, ErBattlesuitCatalogItem } from '../../src/lib/v2/data/types'
 import { useMemo } from 'react'
-import BattlesuitCatalogItemCard from '../../../components/v2/BattlesuitCatalogItemCard'
-import { assetsBucketBaseUrl } from '../../../lib/consts'
-import SquareImage from '../../../components/v2/SquareImage'
-import { signetGroups } from '../../../lib/v2/data/er'
-import BattlesuitSmallIcon from '../../../components/v2/BattlesuitSmallIcon'
-import MaterialIcon from '../../../components/v2/MaterialIcon'
-import Honkai3rdLayout from '../../../components/layouts/Honkai3rdLayout'
-import Head from '../../../components/atoms/Head'
-import Breadcrumb from '../../../components/organisms/Breadcrumb'
+import BattlesuitCatalogItemCard from '../../src/components/v2/BattlesuitCatalogItemCard'
+import { assetsBucketBaseUrl } from '../../src/lib/consts'
+import SquareImage from '../../src/components/v2/SquareImage'
+import { signetGroups } from '../../src/lib/v2/data/er'
+import BattlesuitSmallIcon from '../../src/components/v2/BattlesuitSmallIcon'
+import MaterialIcon from '../../src/components/v2/MaterialIcon'
+import Honkai3rdLayout from '../../src/components/layouts/Honkai3rdLayout'
+import Head from '../../src/components/atoms/Head'
+import Breadcrumb from '../../src/components/organisms/Breadcrumb'
 import { useTranslation } from 'next-i18next'
-import { getI18NProps } from '../../../server/i18n'
-import PageLink from '../../../components/atoms/PageLink'
-import { getSignetGroupLabel } from '../../../lib/v2/data/text'
-import { useLocale } from '../../../lib/i18n'
+import { getI18NProps } from '../../src/server/i18n'
+import PageLink from '../../src/components/atoms/PageLink'
+import { getSignetGroupLabel } from '../../src/lib/v2/data/text'
+import { useLocale } from '../../src/lib/i18n'
 
 interface ErPageProps {
   erBattlesuitCatalog: ErBattlesuitCatalogItem[]

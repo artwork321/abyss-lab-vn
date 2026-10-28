@@ -1,32 +1,32 @@
 import { NextPageContext } from 'next'
 import { Box, Card, Flex, Heading } from 'theme-ui'
-import AttributeIcon from '../../../components/v2/AttributeIcon'
-import AvatarFigureImage from '../../../components/v2/AvatarFigureImage'
-import AvatarSkillIcon from '../../../components/v2/AvatarSkillIcon'
-import AvatarSubSkillIcon from '../../../components/v2/AvatarSubSkillIcon'
-import BattlesuitAvatarIcon from '../../../components/v2/BattlesuitAvatarIcon'
-import FormattedText from '../../../components/v2/FormattedText'
-import { formatSkillInfo, formatSubSkillInfo } from '../../../lib/v2/data/formatText'
-import { loadBattlesuitCatalog, loadBattlesuitData } from '../../../lib/v2/server/loadData'
-import { Battlesuit, SkillTagItem } from '../../../lib/v2/data/types'
+import AttributeIcon from '../../src/components/v2/AttributeIcon'
+import AvatarFigureImage from '../../src/components/v2/AvatarFigureImage'
+import AvatarSkillIcon from '../../src/components/v2/AvatarSkillIcon'
+import AvatarSubSkillIcon from '../../src/components/v2/AvatarSubSkillIcon'
+import BattlesuitAvatarIcon from '../../src/components/v2/BattlesuitAvatarIcon'
+import FormattedText from '../../src/components/v2/FormattedText'
+import { formatSkillInfo, formatSubSkillInfo } from '../../src/lib/v2/data/formatText'
+import { loadBattlesuitCatalog, loadBattlesuitData } from '../../src/lib/v2/server/loadData'
+import { Battlesuit, SkillTagItem } from '../../src/lib/v2/data/types'
 import { Fragment } from 'react'
-import TagIcon from '../../../components/v2/TagIcon'
+import TagIcon from '../../src/components/v2/TagIcon'
 import {
   getAttributeLabel,
   getCharacterTypeLabel,
   getSkillTypeLabel,
   getTagTypeLabel,
   getWeaponTypeLabel
-} from '../../../lib/v2/data/text'
-import StarIcon from '../../../components/v2/StarIcon'
-import ChibiIcon from '../../../components/v2/ChibiIcon'
-import WeaponTypeIcon from '../../../components/v2/WeaponTypeIcon'
-import { sortBattlesuitSkill } from '../../../lib/v2/data/utils'
-import Honkai3rdLayout from '../../../components/layouts/Honkai3rdLayout'
-import { generateI18NPaths, getI18NProps } from '../../../server/i18n'
-import Head from '../../../components/atoms/Head'
+} from '../../src/lib/v2/data/text'
+import StarIcon from '../../src/components/v2/StarIcon'
+import ChibiIcon from '../../src/components/v2/ChibiIcon'
+import WeaponTypeIcon from '../../src/components/v2/WeaponTypeIcon'
+import { sortBattlesuitSkill } from '../../src/lib/v2/data/utils'
+import Honkai3rdLayout from '../../src/components/layouts/Honkai3rdLayout'
+import { generateI18NPaths, getI18NProps } from '../../src/server/i18n'
+import Head from '../../src/components/atoms/Head'
 import { useTranslation } from 'next-i18next'
-import { useLocale } from '../../../lib/i18n'
+import { useLocale } from '../../src/lib/i18n'
 
 interface BattlesuitShowPageProps {
   battlesuit: Battlesuit
@@ -40,13 +40,12 @@ const BattlesuitShowPage = ({ battlesuit }: BattlesuitShowPageProps) => {
     <Honkai3rdLayout>
       <Head
         title={`${battlesuit.fullName} - ${t('common.honkai-3rd')} - ${t('common.abyss-lab')}`}
-        description={`${t('common.honkai-3rd')} ${t('battlesuit-show.battlesuit')} / ${battlesuit.fullName} / ${
-          battlesuit.attributeType
-        } / ${battlesuit.tags
-          .map(tag => {
-            return getTagTypeLabel(tag, locale)
-          })
-          .join(', ')}`}
+        description={`${t('common.honkai-3rd')} ${t('battlesuit-show.battlesuit')} / ${battlesuit.fullName} / ${battlesuit.attributeType
+          } / ${battlesuit.tags
+            .map(tag => {
+              return getTagTypeLabel(tag, locale)
+            })
+            .join(', ')}`}
         canonicalHref={`/honkai3rd/battlesuits/${battlesuit.id}`}
       />
       <Box p={2}>

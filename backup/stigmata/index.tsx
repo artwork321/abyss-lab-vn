@@ -2,14 +2,14 @@
 import { Box, Card, Heading } from '@theme-ui/components'
 import { NextPageContext } from 'next'
 import { Flex } from 'theme-ui'
-import { StigmataCatalogItem } from '../../../lib/v2/data/types'
-import { loadStigmataCatalog } from '../../../lib/v2/server/loadData'
-import StigmaIcon from '../../../components/v2/StigmaIcon'
-import Honkai3rdLayout from '../../../components/layouts/Honkai3rdLayout'
-import { getI18NProps } from '../../../server/i18n'
+import { StigmataCatalogItem } from '../../src/lib/v2/data/types'
+import { loadStigmataCatalog } from '../../src/lib/v2/server/loadData'
+import StigmaIcon from '../../src/components/v2/StigmaIcon'
+import Honkai3rdLayout from '../../src/components/layouts/Honkai3rdLayout'
+import { getI18NProps } from '../../src/server/i18n'
 import { useTranslation } from 'next-i18next'
-import Breadcrumb from '../../../components/organisms/Breadcrumb'
-import PageLink from '../../../components/atoms/PageLink'
+import Breadcrumb from '../../src/components/organisms/Breadcrumb'
+import PageLink from '../../src/components/atoms/PageLink'
 
 interface StigmataListPageProps {
   stigmataCatalog: StigmataCatalogItem[]

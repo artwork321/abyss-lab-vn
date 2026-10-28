@@ -1,18 +1,18 @@
 import { NextPageContext } from 'next'
 import { Box, Card, Flex, Heading } from 'theme-ui'
-import FormattedText from '../../../components/v2/FormattedText'
-import { formatSubSkillInfo } from '../../../lib/v2/data/formatText'
-import { loadStigmaData, loadStigmataSetCatalog, loadStigmataSetData } from '../../../lib/v2/server/loadData'
-import { RootStigma, StigmataSet } from '../../../lib/v2/data/types'
+import FormattedText from '../../src/components/v2/FormattedText'
+import { formatSubSkillInfo } from '../../src/lib/v2/data/formatText'
+import { loadStigmaData, loadStigmataSetCatalog, loadStigmataSetData } from '../../src/lib/v2/server/loadData'
+import { RootStigma, StigmataSet } from '../../src/lib/v2/data/types'
 import { Fragment } from 'react'
-import StigmaIcon from '../../../components/v2/StigmaIcon'
-import StigmaFigureImage from '../../../components/v2/StigmaFigureImage'
-import Honkai3rdLayout from '../../../components/layouts/Honkai3rdLayout'
-import Head from '../../../components/atoms/Head'
+import StigmaIcon from '../../src/components/v2/StigmaIcon'
+import StigmaFigureImage from '../../src/components/v2/StigmaFigureImage'
+import Honkai3rdLayout from '../../src/components/layouts/Honkai3rdLayout'
+import Head from '../../src/components/atoms/Head'
 import { useTranslation } from 'next-i18next'
-import { generateI18NPaths, getI18NProps } from '../../../server/i18n'
-import Breadcrumb from '../../../components/organisms/Breadcrumb'
-import PageLink from '../../../components/atoms/PageLink'
+import { generateI18NPaths, getI18NProps } from '../../src/server/i18n'
+import Breadcrumb from '../../src/components/organisms/Breadcrumb'
+import PageLink from '../../src/components/atoms/PageLink'
 
 interface StigmataSetShowPage {
   stigmataSet: StigmataSet
@@ -28,9 +28,8 @@ const StigmataSetShowPage = ({ stigmataSet, stigmata }: StigmataSetShowPage) => 
         title={`${stigmataSet.name} ${t('stigmata-show.stigmata-set')} - ${t('common.honkai-3rd')} - ${t(
           'common.abyss-lab'
         )}`}
-        description={`${t('common.honkai-3rd')} ${t('stigmata-show.stigmata-set')} / ${'⭐'.repeat(rarity)} / ${
-          stigmataSet.name
-        }`}
+        description={`${t('common.honkai-3rd')} ${t('stigmata-show.stigmata-set')} / ${'⭐'.repeat(rarity)} / ${stigmataSet.name
+          }`}
         canonicalHref={`/honkai3rd/stigmata-sets/${stigmataSet.id}-set`}
       />
 

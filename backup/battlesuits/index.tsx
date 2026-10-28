@@ -2,24 +2,24 @@
 import { Box, Heading } from '@theme-ui/components'
 import { NextPageContext } from 'next'
 import { Flex, Text } from 'theme-ui'
-import { loadBattlesuitCatalog } from '../../../lib/v2/server/loadData'
-import { BattlesuitCatalogItem, TagType } from '../../../lib/v2/data/types'
-import BattlesuitCatalogItemCard from '../../../components/v2/BattlesuitCatalogItemCard'
-import Head from '../../../components/atoms/Head'
-import Honkai3rdLayout from '../../../components/layouts/Honkai3rdLayout'
+import { loadBattlesuitCatalog } from '../../src/lib/v2/server/loadData'
+import { BattlesuitCatalogItem, TagType } from '../../src/lib/v2/data/types'
+import BattlesuitCatalogItemCard from '../../src/components/v2/BattlesuitCatalogItemCard'
+import Head from '../../src/components/atoms/Head'
+import Honkai3rdLayout from '../../src/components/layouts/Honkai3rdLayout'
 import { useTranslation } from 'next-i18next'
-import Breadcrumb from '../../../components/organisms/Breadcrumb'
-import { getI18NProps } from '../../../server/i18n'
-import FilterButton from '../../../components/atoms/FilterButton'
-import { useLocale } from '../../../lib/i18n'
-import { attributeTypes, characterFilterTypes, tagFilterTypes } from '../../../lib/v2/data/utils'
+import Breadcrumb from '../../src/components/organisms/Breadcrumb'
+import { getI18NProps } from '../../src/server/i18n'
+import FilterButton from '../../src/components/atoms/FilterButton'
+import { useLocale } from '../../src/lib/i18n'
+import { attributeTypes, characterFilterTypes, tagFilterTypes } from '../../src/lib/v2/data/utils'
 import { useRouter } from 'next/router'
 import { useMemo } from 'react'
-import { getAttributeLabel, getCharacterTypeLabel, getTagTypeLabel } from '../../../lib/v2/data/text'
-import ChibiIcon from '../../../components/v2/ChibiIcon'
-import TagIcon from '../../../components/v2/TagIcon'
-import AttributeIcon from '../../../components/v2/AttributeIcon'
-import PageLink from '../../../components/atoms/PageLink'
+import { getAttributeLabel, getCharacterTypeLabel, getTagTypeLabel } from '../../src/lib/v2/data/text'
+import ChibiIcon from '../../src/components/v2/ChibiIcon'
+import TagIcon from '../../src/components/v2/TagIcon'
+import AttributeIcon from '../../src/components/v2/AttributeIcon'
+import PageLink from '../../src/components/atoms/PageLink'
 
 interface BattlesuitListPageProps {
   battlesuitCatalog: BattlesuitCatalogItem[]
@@ -133,9 +133,8 @@ const BattlesuitListPage = ({ battlesuitCatalog }: BattlesuitListPageProps) => {
                   <FilterButton
                     key={type}
                     active={active}
-                    href={`?${valkyrieFilter !== 'all' ? `valkyrie=${valkyrieFilter}&` : ''}${
-                      active ? '' : `tag=${type}`
-                    }`}
+                    href={`?${valkyrieFilter !== 'all' ? `valkyrie=${valkyrieFilter}&` : ''}${active ? '' : `tag=${type}`
+                      }`}
                     m={1}
                   >
                     <Flex sx={{ alignItems: 'center' }}>
