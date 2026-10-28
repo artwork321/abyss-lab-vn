@@ -6,7 +6,6 @@ import Head from '../../../components/atoms/Head'
 import Honkai3rdLayout from '../../../components/layouts/Honkai3rdLayout'
 import { getI18NProps } from 'server/i18n'
 import { NextPageContext } from 'next'
-import NextLink from 'next/link'
 
 const MediaPage = () => {
   const { t } = useTranslation()
