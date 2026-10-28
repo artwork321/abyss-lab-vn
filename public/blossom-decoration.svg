@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="820" viewBox="0 0 420 820" fill="none">
+  <g stroke="#9e687d" stroke-linecap="round" stroke-linejoin="round" opacity=".34">
+    <path d="M430 814C359 738 335 671 351 603c14-58 43-91 35-147-7-51-53-88-43-145 8-44 47-80 68-126" stroke-width="5"/>
+    <path d="M356 628c-58-19-99-52-126-103M350 653c-70-1-119 19-160 57M366 548c-59-38-81-76-88-124M348 493c-57-11-97-2-142 27M355 397c-40-48-51-87-47-134M364 338c-42-17-75-18-117-8M389 242c-44-31-68-65-79-111" stroke-width="3"/>
+    <path d="M318 531c-15-39-37-64-69-87M330 523c22-35 47-54 81-66M280 370c-30-31-56-45-94-52M305 365c23-30 47-45 82-55M307 210c-29-34-39-61-40-101M382 283c17-34 34-52 64-70" stroke-width="2"/>
+  </g>
+  <g opacity=".7">
+    <g transform="translate(259 510) scale(1.05)"><use href="#flower"/></g>
+    <g transform="translate(190 706) scale(.8)"><use href="#flower"/></g>
+    <g transform="translate(272 326) scale(.9)"><use href="#flower"/></g>
+    <g transform="translate(184 469) scale(.72)"><use href="#flower"/></g>
+    <g transform="translate(342 430) scale(.75)"><use href="#flower"/></g>
+    <g transform="translate(280 151) scale(.85)"><use href="#flower"/></g>
+    <g transform="translate(397 214) scale(.68)"><use href="#flower"/></g>
+    <g transform="translate(339 617) scale(.72)"><use href="#flower"/></g>
+    <g transform="translate(116 637) scale(.62)"><use href="#flower"/></g>
+    <g transform="translate(198 305) scale(.58)"><use href="#flower"/></g>
+    <g transform="translate(355 95) scale(.6)"><use href="#flower"/></g>
+  </g>
+  <defs>
+    <g id="flower">
+      <ellipse cx="0" cy="-13" rx="7" ry="12" fill="#eaaec4"/>
+      <ellipse cx="0" cy="-13" rx="7" ry="12" transform="rotate(72)" fill="#f3c4d5"/>
+      <ellipse cx="0" cy="-13" rx="7" ry="12" transform="rotate(144)" fill="#eaaec4"/>
+      <ellipse cx="0" cy="-13" rx="7" ry="12" transform="rotate(216)" fill="#f3c4d5"/>
+      <ellipse cx="0" cy="-13" rx="7" ry="12" transform="rotate(288)" fill="#eaaec4"/>
+      <circle r="4.5" fill="#d79bad"/>
+    </g>
+  </defs>
+</svg>

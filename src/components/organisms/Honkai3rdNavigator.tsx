@@ -92,6 +92,10 @@ const Honkai3rdNavigator = ({ close }: Honkai3rdNavigatorProps) => {
       </NextLink>
 
       <Box sx={{ mb: 4 }}>
+        <NavItem target="about" />
+      </Box>
+
+      <Box sx={{ mb: 4 }}>
         <NavItem target="media" />
       </Box>
 

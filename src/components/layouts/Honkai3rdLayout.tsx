@@ -3,6 +3,7 @@ import { mdiArrowUp, mdiMenu } from '@mdi/js'
 import Icon from '@mdi/react'
 import React, { useCallback, useRef, useState } from 'react'
 import { Box, Flex, IconButton } from 'theme-ui'
+import { blossomBackground } from '../../lib/theme'
 import Honkai3rdNavigator from '../organisms/Honkai3rdNavigator'
 
 const Honkai3rdLayout: React.FC = ({ children }) => {
@@ -40,7 +41,9 @@ const Honkai3rdLayout: React.FC = ({ children }) => {
     <Flex
       sx={{
         height: '100%',
-        flexDirection: 'column'
+        minHeight: '100vh',
+        flexDirection: 'column',
+        ...blossomBackground,
       }}
     >
       <Box sx={{ flexShrink: 0, px: 3 }}>

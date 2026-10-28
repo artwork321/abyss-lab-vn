@@ -40,6 +40,7 @@ const HomePage = ({ }: VersionIndexPageProps) => {
         <Paragraph mb={3}>Welcome, Captain!</Paragraph>
 
         <Box sx={{ mb: 3 }}>
+          <NavItem target="about" size="lg" />
           {/* <NavItem target="battlesuits" size="lg" />
           <NavItem target="weapons" size="lg" />
           <NavItem target="stigmata" size="lg" />

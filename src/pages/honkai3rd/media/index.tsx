@@ -34,30 +34,30 @@ const MediaPage = () => {
           <Box sx={{ mb: 3, pl: 2 }} as='ul'>
             <Box as='li'>
               <Link href={'/honkai3rd/novels/ae'} target='_blank'>
-                🇺🇸 Anti-Entropy Beta
+                vn Anti-Entropy Beta
               </Link>
             </Box>
             <Box as='li'>
               <Link href={'/honkai3rd/novels/duriduri'} target='_blank'>
-                🇺🇸 Durandal Beta
+                vn Durandal Beta
               </Link>
             </Box>
             <Box as='li'>
               <Link href={'/honkai3rd/novels/7s'} target='_blank'>
-                🇺🇸 Saga of the Shattered Swords (AKA Seven Swords, WIP)
+                vn Saga of the Shattered Swords (AKA Seven Swords, WIP)
               </Link>
             </Box>
           </Box>
         </Box>
 
-        <Heading as='h2'>Abyss Lab Custom</Heading>
+        {/* <Heading as='h2'>Abyss Lab Custom</Heading>
         <Box sx={{ mb: 3, pl: 2 }} as='ul'>
           <Box as='li'>
             <NextLink href='/honkai3rd/media/pomodoro' passHref>
               <Link>Pomodoro Timer</Link>
             </NextLink>
           </Box>
-        </Box>
+        </Box> */}
       </Box>
     </Honkai3rdLayout>
   )

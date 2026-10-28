@@ -5,7 +5,7 @@ import { assetsBucketBaseUrl } from '../../lib/consts'
 import { useTranslation } from '../../lib/i18n'
 import SquareImageBox from '../atoms/SquareImageBox'
 
-type NavItemTarget = 'battlesuits' | 'stigmata' | 'weapons' | 'elfs' | 'elysian-realm' | 'media'
+type NavItemTarget = 'about' | 'battlesuits' | 'stigmata' | 'weapons' | 'elfs' | 'elysian-realm' | 'media'
 interface NavItemProps {
   target: NavItemTarget
   size?: 'md' | 'lg'
@@ -48,6 +48,8 @@ function getIconByTarget(target: string) {
       return `${assetsBucketBaseUrl}/honkai3rd/nav-icons/versions.webp`
     case 'media':
       return `${assetsBucketBaseUrl}/honkai3rd/nav-icons/grand-instructor.webp`
+    case 'about':
+      return `${assetsBucketBaseUrl}/honkai3rd/nav-icons/versions.webp`
     default:
       return `${assetsBucketBaseUrl}/honkai3rd/nav-icons/${target}.png`
   }
@@ -63,6 +65,8 @@ function getHref(target: NavItemTarget) {
       return '/honkai3rd/stigmata-sets'
     case 'elysian-realm':
       return '/honkai3rd/er'
+    case 'about':
+      return '/honkai3rd/about'
   }
   return `/honkai3rd/${target}`
 }

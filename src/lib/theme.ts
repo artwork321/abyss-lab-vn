@@ -1,6 +1,15 @@
 import { Theme } from 'theme-ui'
 import { colors } from './colors'
 
+export const blossomBackground = {
+  backgroundColor: '#fffafd',
+  backgroundImage:
+    'url("/blossom-decoration.svg"), radial-gradient(ellipse at 8% 100%, rgba(245, 183, 205, 0.3) 0%, transparent 42%), radial-gradient(ellipse at 92% 92%, rgba(250, 220, 232, 0.42) 0%, transparent 38%), linear-gradient(180deg, #ffffff 0%, #fffafd 56%, #fdf3f7 100%)',
+  backgroundRepeat: 'no-repeat, no-repeat, no-repeat, no-repeat',
+  backgroundPosition: 'right center, left bottom, right bottom, center',
+  backgroundSize: 'min(42vw, 420px) auto, auto, auto, auto',
+} as const
+
 export const theme: Theme = {
   breakpoints: ['576px', '768px', '992px', '1200px'],
   config: {

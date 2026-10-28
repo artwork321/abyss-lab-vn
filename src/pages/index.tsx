@@ -6,6 +6,7 @@ import RootNavigator from '../components/organisms/RootNavigator'
 import Head from '../components/atoms/Head'
 import { assetsBucketBaseUrl } from '../lib/consts'
 import Footer from '../components/v2/Footer'
+import { blossomBackground } from '../lib/theme'
 
 const fadeUp = keyframes({
   from: { opacity: 0, transform: 'translateY(16px)' },
@@ -14,7 +15,14 @@ const fadeUp = keyframes({
 
 const IndexPage = () => {
   return (
-    <Box sx={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
+    <Box
+      sx={{
+        minHeight: '100vh',
+        display: 'flex',
+        flexDirection: 'column',
+        ...blossomBackground,
+      }}
+    >
       <Head title="Abyss Lab VN - Visual Novel Honkai Impact 3rd Việt hóa" />
       <RootNavigator />
 
